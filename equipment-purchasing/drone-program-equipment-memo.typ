@@ -68,3 +68,15 @@ The Air 3 feels more substantial in hand and in flight. The Fly More package inc
 === Why Not The Newest Drones?
 
 DJI drones are increasingly difficult to source right now. Any drone in the Mini or Air series would work for our purposes, provided it includes the RC controller with built-in screen. These two models represent the best value currently available on Amazon. Newer models would be nice, but they do not offer significant improvements over these recommendations, which can be purchased today.
+
+== Accessories
+
+Fortunately, there's not too much else we need to buy to get these drones fully operational. Still, there are a few things that I will list below that will be very helpful to our operations.
+
+=== Field Charging
+
+For extended flight sessions, you either need more batteries or some way to charge in the field. I have always opted for field charging, as drone batteries are expensive. Managing power in the field also provides a useful instructional activity.
+
+The Fly More packages include three batteries per drone, which provides roughly 90 minutes of flight time before needing to rotate in recharged batteries. A portable power station can keep batteries cycling through a full lab session. The key constraint is capacity: each Air 3 battery requires about 74Wh to recharge (accounting for efficiency losses), and Mini 3 batteries require about 47Wh.
+
+A 1024Wh power station can recharge approximately 13 Air 3 batteries or 21 Mini 3 batteries, which supports a fleet of 4-5 drones through a full session. Adding a 220W solar panel provides roughly 385Wh of additional capacity over a 2.5-hour session (assuming decent sunlight), bringing the effective total to around 1,400Wh. This comfortably supports 6 drones with margin to spare.
