@@ -67,4 +67,4 @@ The Air 3 feels more substantial in hand and in flight. The Fly More package inc
 
 === Why Not The Newest Drones?
 
-This is mostly because it is increasingly difficult to get DJI drones right now. Really any drone in the mini or air series would work so long as it has the remote control with built-in screen. A quick look on Amazon produced these two models as what I thought was the best deal or the best value for the technology that was gotten. Newer models would certainly be nice, but I do not see any step-wise improvement over what I have recommended above, which can be purchased today.
+DJI drones are increasingly difficult to source right now. Any drone in the Mini or Air series would work for our purposes, provided it includes the RC controller with built-in screen. These two models represent the best value currently available on Amazon. Newer models would be nice, but they do not offer significant improvements over these recommendations, which can be purchased today.
