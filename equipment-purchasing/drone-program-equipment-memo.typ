@@ -64,3 +64,7 @@ The Air 3 feels more substantial in hand and in flight. The Fly More package inc
   image("images/dji-air-3.png", width: 60%),
   caption: [#link("https://www.amazon.com/dp/B07FRWP5HX")[DJI Air 3 Fly More Combo with DJI RC 2] | \$1,939 before tax],
 )
+
+=== Why Not The Newest Drones?
+
+This is mostly because it is increasingly difficult to get DJI drones right now. Really any drone in the mini or air series would work so long as it has the remote control with built-in screen. A quick look on Amazon produced these two models as what I thought was the best deal or the best value for the technology that was gotten. Newer models would certainly be nice, but I do not see any step-wise improvement over what I have recommended above, which can be purchased today.
