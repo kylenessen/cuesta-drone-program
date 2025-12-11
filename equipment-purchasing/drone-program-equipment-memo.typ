@@ -41,7 +41,7 @@ Two drone options would fit this course well:
 === DJI Mini 3
 
 #figure(
-  image("images/dji-mini-3.jpg", width: 60%),
+  image("images/dji-mini-3.png", width: 60%),
   caption: [DJI Mini 3 Fly More Combo with RC controller],
 )
 
@@ -56,7 +56,7 @@ A few of these would be a worthwhile addition to the fleet.
 === DJI Air 3
 
 #figure(
-  image("images/dji-air-3.jpg", width: 60%),
+  image("images/dji-air-3.png", width: 60%),
   caption: [DJI Air 3 Fly More Combo with RC 2 controller],
 )
 
