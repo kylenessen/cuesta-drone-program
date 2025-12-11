@@ -32,19 +32,19 @@ AERO 100 prepares students for FAA Part 107 certification and builds flight prof
 
 == Flight Training Drones
 
-Since this course is targeted towards beginners with little to no experience flying, I believe consumer level drones are ideal for building flight competency. In particular, DJI drones are well suited for this task, because they are leagues ahead of everyone else in terms of ease of use, safety features, and cost. Smaller, consumer drones are also less intimidating to start flying, present less liability in terms of risk of safety and cost of equipment in case of crashes, and provide a 1:1 mapping of flight controls to other more advanced drones. Each aircraft has its own sublities to handling, but operating the equipment should be interchangeable.
+Consumer-level drones are ideal for beginners building flight competency. DJI drones are particularly well suited for training because of their ease of use, safety features, and cost. Smaller consumer drones are less intimidating for new pilots, present less liability if crashes occur, and use the same control scheme as larger professional aircraft. Each drone has its own handling characteristics, but the skills transfer directly.
 
-I imagine many labs will have lots of hands on experience getting flight experience. This creates a tension between the number of concurrent people or groups that can be flying a drone and that which I can safely supervise. Fortunately, DJI drones have geofencing capabilities, and if the space is large enough, we could get more drones in the air at the same time. Even with that in place, I can't imagine having more than three to six drones in the air at the same time.
+Lab sessions will be hands-on, which creates a practical constraint: I can only safely supervise a limited number of concurrent flights. DJI's geofencing capabilities help here, and with adequate space we could have multiple drones airborne simultaneously. Even so, I would limit operations to three to six drones at once.
 
-There are two candidates of drones that I think would fit well for this course:
+Two drone options would fit this course well:
 
 === DJI Mini 3
-This is the most affordable option that provides everything we need to do the training well. Despite their small size, these are very capable drones. They have an added advantage that because of their light weight, they do not need to be registered with the FAA. The fly more package in quotes includes spare batteries and the R C controller which is important for our purposes. The controller has a built-in screen and uh computer essentially allowing us to avoid connecting any smartphones or tablets. This is a really nice user experience and it will make the whole process just much more robust and simple and streamlined.
 
-The disadvantages of this drone are that it does not handle strong winds as well as a larger drone would. There is also a compromise in image quality, which is really secondary for this class. It should have many of the same features as uh the other drones as well. Perhaps one of the downsides is that it might feel like a "toy." This could be advantageous uh for students that want to that are intimidated by the technology, and so this makes it easier to get into it. But it also may feel like the students aren't getting the training that they might expect. Uh again with its small size, if it were to crash into anything or anyone, it's unlikely to do any real damage.
+This is the most affordable option that provides everything we need for effective training. Despite their small size, these are capable drones. Their light weight means they do not require FAA registration, which simplifies the administrative side. The Fly More package includes spare batteries and the RC controller with a built-in screen, eliminating the need for separate smartphones or tablets. This self-contained setup streamlines the student experience and makes equipment management more reliable.
 
-I think having a few of these is probably a good idea.
+The tradeoffs: the Mini 3 handles strong winds less effectively than larger drones, and image quality is modest (though secondary for a flight training course). The small form factor might feel less serious to some students, though this same quality makes it approachable for those intimidated by the technology. If a Mini 3 does crash, its low mass minimizes risk of damage to property or people.
 
+A few of these would be a worthwhile addition to the fleet.
 
 // https://a.co/d/6DEVXsq
 // Need image as well
@@ -52,10 +52,12 @@ I think having a few of these is probably a good idea.
 
 === DJI Air 3
 
-An upgraded version of the mini is the Air Series. These are a mid-level consumer drone that that are even more capable flyers in terms of wind and battery life uh at the expense of not having the most advanced photographic capabilities. Even still, the image quality is very good and this model has a wide and telephoto lens, which uh opens up different opportunities to try various things. This drone also offers omnidirectional obstacle avoidance, which provides the most safety in terms of software features. Because it is larger though, we need to register with FAA. Though this is a minor administrative point. This drone will feel more robust to the users and definitely less like a toy. This package listed below also comes with the R C controller that has the built-in screen and extra batteries. If budget allows, this would be my preferred default droad. But having a mix of this and the minis, I think, could be an interesting way to get more drones in the program while also saving a little bit of money and offering a diversity of different aircraft to try.
+The Air series is a step up from the Mini line. These mid-level consumer drones handle wind better and offer longer battery life, though without the most advanced photographic capabilities. The image quality is still very good, and the dual-lens system (wide and telephoto) adds instructional flexibility. The Air 3 also features omnidirectional obstacle avoidance, the most comprehensive collision prevention available in this class. The larger size requires FAA registration, though this is a minor administrative task.
+
+The Air 3 feels more substantial in hand and in flight. The Fly More package includes the RC controller with built-in screen and extra batteries. If budget allows, this would be my preferred primary training drone. A mixed fleet of Air 3s and Mini 3s could also work well, balancing cost savings with variety in the aircraft students experience.
 
 // https://a.co/d/aGIT0oE
-// $1939 before tax
+// \$1939 before tax
 // Add image
 
 
