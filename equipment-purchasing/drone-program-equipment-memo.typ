@@ -80,3 +80,5 @@ For extended flight sessions, you either need more batteries or some way to char
 The Fly More packages include three batteries per drone, which provides roughly 90 minutes of flight time before needing to rotate in recharged batteries. A portable power station can keep batteries cycling through a full lab session. The key constraint is capacity: each Air 3 battery requires about 74Wh to recharge (accounting for efficiency losses), and Mini 3 batteries require about 47Wh.
 
 A 1024Wh power station can recharge approximately 13 Air 3 batteries or 21 Mini 3 batteries, which supports a fleet of 4-5 drones through a full session. Adding a 220W solar panel provides roughly 385Wh of additional capacity over a 2.5-hour session (assuming decent sunlight), bringing the effective total to around 1,400Wh. This comfortably supports 6 drones with margin to spare.
+
+#link("https://www.amazon.com/dp/B0FRMQPZF6")[EcoFlow DELTA 3 with 220W Solar Panel] | \$599 before tax
