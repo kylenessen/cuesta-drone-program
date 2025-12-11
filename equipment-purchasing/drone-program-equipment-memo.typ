@@ -20,7 +20,7 @@
 
 = Overview
 
-This memo outlines equipment needs for two courses in Cuesta College's drone program: AERO 100 (Basic UAV Operator), which has an approved course outline, and an advanced mapping and photogrammetry course that is still in curriculum development.
+This memo outlines equipment needs for two courses in Cuesta College's drone program: AERO 100 (Basic UAV Operator), which has an approved course outline, and an advanced mapping and photogrammetry course currently in curriculum development.
 
 We have \$80,000 available for equipment purchases. The DJI Mavic 4T and Mavic 4E enterprise drones have already been secured through separate funding.
 
@@ -28,22 +28,22 @@ We have \$80,000 available for equipment purchases. The DJI Mavic 4T and Mavic 4
 
 == Purpose
 
-AERO 100 prepares students for FAA Part 107 certification and builds flight proficiency to NIST Level 2 Open Area Maneuvering standards. The course has 36 lecture hours and 54 lab hours per semester, with a class cap of 25 students.
+AERO 100 prepares students for FAA Part 107 certification and builds flight proficiency to NIST Level 2 Open Area Maneuvering standards. The course includes 36 lecture hours and 54 lab hours per semester, with a class cap of 25 students.
 
 == Flight Training Drones
 
-The course needs a fleet of consumer-grade drones for hands-on flight training. Consumer drones make sense here because they are less intimidating for new pilots, and it is not nearly as catastrophic if one is lost or damaged. They are also easier to buy multiples of. The skills transfer anyway. All the drones kind of feel the same: if you can fly a Mini, you can fly an enterprise hexacopter. There are subtleties to the mechanics, but especially if you are being careful, flying one means you can fly the other.
+The course requires a fleet of consumer-grade drones for hands-on flight training. Consumer drones are ideal for this purpose: they are less intimidating for new pilots, the financial risk of loss or damage is manageable, and purchasing multiples is straightforward. More importantly, the skills transfer directly to larger platforms. Once a student can fly a Mini confidently, they can fly enterprise aircraft with minimal adjustment.
 
-Six drones should be sufficient. With a maximum of three aircraft in the air at once for safe supervision, six allows for battery rotation and keeps a spare available for maintenance or the inevitable collision with a tree.
+Six drones should be sufficient. With a maximum of three aircraft in the air simultaneously for safe supervision, this quantity allows for battery rotation while keeping a spare available for maintenance.
 
 #block(
   fill: luma(230),
   inset: 10pt,
   radius: 4pt,
-  [*Decision needed:* DJI Mini series vs. DJI Air series. The Air series is probably more stable in wind with better battery life, but costs more. Need to research pricing for both options with Fly More combo (3 batteries per drone).]
+  [*Decision needed:* DJI Mini series vs. DJI Air series. The Air series offers better wind stability and longer battery life at higher cost. Research pricing for both options with Fly More combo (3 batteries per drone).]
 )
 
-The controllers absolutely need to have built-in screens. There is no world where I want separate phones involved. That is just a mess to manage with a fleet of training aircraft.
+Controllers must have built-in screens. Managing separate phones across a fleet of training aircraft creates unnecessary complexity.
 
 #block(
   fill: luma(230),
@@ -54,18 +54,18 @@ The controllers absolutely need to have built-in screens. There is no world wher
 
 == Charging and Power
 
-A good field charger also makes a good office charger, which is compelling. Something like an EcoFlow Delta Pro could charge the entire fleet and also support outdoor lab sessions. With each drone having a Fly More combo (three batteries), combined with a solid field charging solution, we should have plenty of capacity.
+A quality portable power station serves double duty as both a field charging solution and an office charging station. Something like an EcoFlow Delta Pro could support the entire fleet while enabling outdoor lab sessions. With each drone equipped with a Fly More combo (three batteries), this should provide adequate capacity for full lab sessions.
 
 #block(
   fill: luma(230),
   inset: 10pt,
   radius: 4pt,
-  [*Research needed:* EcoFlow or similar portable power station options. Need capacity to support 18 batteries (6 drones × 3 batteries). Compare to DJI charging hub options.]
+  [*Research needed:* EcoFlow or similar portable power station options. Capacity should support 18 batteries (6 drones × 3 batteries). Compare against DJI charging hub options.]
 )
 
 == Storage and Organization
 
-The goal is a very solid kit that can be pulled out of the box and flown immediately. A custom Pelican case should hold all the drones, controllers, and batteries in one organized unit. Each drone gets a name, so a label maker is essential for keeping everything straight. Landing pads give a clean surface for takeoff and landing wherever we go.
+The goal is a turnkey kit that can be deployed immediately. A custom Pelican case should hold all drones, controllers, and batteries in a single organized unit. Each drone will have a designated name, requiring a label maker for identification. Landing pads provide clean takeoff and landing surfaces in the field.
 
 #block(
   fill: luma(230),
@@ -76,13 +76,13 @@ The goal is a very solid kit that can be pulled out of the box and flown immedia
 
 == Course Materials
 
-Budget approximately \$500 for training course materials like targets and obstacles for maneuvering practice.
+Budget approximately \$500 for training course materials including targets and obstacles for maneuvering practice.
 
 #block(
   fill: luma(230),
   inset: 10pt,
   radius: 4pt,
-  [*Idea to explore:* A course with programmable lights where students do not know which one will turn on next and have to fly to it on a dime.]
+  [*Idea to explore:* A training course with programmable lights that activate randomly, requiring students to navigate to targets under time pressure.]
 )
 
 == Administrative Setup
@@ -91,71 +91,69 @@ Budget approximately \$500 for training course materials like targets and obstac
   fill: luma(230),
   inset: 10pt,
   radius: 4pt,
-  [*Decision needed:* DJI account management. One master account for all drones, or individual email aliases for each?]
+  [*Decision needed:* DJI account management approach. One master account for all drones, or individual email aliases for each?]
 )
 
 == Curriculum Topics (Equipment-Related)
 
-Battery maintenance and safety could be a whole lecture in itself. It is crucial to cover the hazards of LiPo batteries, best practices for charging (on tile, away from flammables), having the correct fire extinguisher, and looking for signs of damage. I should show videos of LiPo fires to emphasize the danger. Batteries are very dangerous, and students need to understand that.
+Battery maintenance and safety warrants significant lecture time. Students need to understand LiPo hazards, proper charging procedures (non-flammable surfaces, appropriate fire extinguisher types), and how to recognize damage. Videos of LiPo fires effectively convey the risks involved.
 
-Students should also understand the charging characteristics of LiPo batteries. The charging rate is not uniform: going from 30 to 80 percent is much faster than going from 80 to 100. That knowledge is genuinely helpful in the field when you are trying to get back in the air.
+Students should also understand LiPo charging characteristics. The charging rate is non-linear: 30% to 80% charges much faster than 80% to 100%. This knowledge has practical field applications when trying to maximize flight time.
 
-Thermal management matters too. When you are in direct sun, equipment heats up fast, and that can cause things to seize up. Batteries do not like to be charged when they are very hot.
+Thermal management is another important topic. Equipment overheats quickly in direct sun, potentially causing failures. Batteries should not be charged while hot.
 
-Remote ID is probably worth mentioning, maybe as a "back in my day" sort of topic. Most new DJI drones have it integrated, but students may encounter older aircraft that do not have it by default.
+Remote ID is worth covering, though primarily as context. Most current DJI drones include it by default, but students may encounter older aircraft without the capability.
 
 = Advanced Mapping and Photogrammetry Course
 
 == Purpose
 
-This course builds on AERO 100 to teach professional mapping workflows. The Mavic 4T and 4E provide enterprise-grade platforms for thermal and photogrammetric data collection. Since we are buying enterprise mapping drones, we should have everything needed to actually do mapping properly.
+This course builds on AERO 100 to teach professional mapping workflows. The Mavic 4T and 4E provide enterprise-grade platforms for thermal and photogrammetric data collection. Since we are investing in enterprise mapping drones, the supporting equipment should enable proper professional workflows.
 
 == RTK and Positioning Equipment
 
-If I was doing this for myself, 100 percent, every time I would spend the money on RTK. It is essential for the kind of accuracy that professional mapping requires, and it is a huge part of the curriculum to discuss.
+RTK capability is essential for professional mapping accuracy and represents a significant portion of the curriculum content.
 
-Emlid is the right choice over Trimble. Trimble is not a good value. Emlid is. If a student is starting a drone program from zero, Emlid is the better choice. And realistically, part of being a good drone pilot in this day and age is being adaptable to different tools. Every drone program looks different. Even if a company already has Trimble gear, the skills transfer. It is not that complicated to switch between base stations.
+I recommend Emlid over Trimble. Emlid offers substantially better value, particularly for students or organizations building a drone program from scratch. While some employers use Trimble equipment, the fundamental skills transfer between platforms. Adaptability to different tools is part of being an effective drone operator.
 
 #block(
   fill: luma(230),
   inset: 10pt,
   radius: 4pt,
-  [*Research needed:* Verify Emlid compatibility with Mavic 4T and 4E. Confirm which Emlid models (RS2? RS3?) are appropriate.]
+  [*Research needed:* Verify Emlid compatibility with Mavic 4T and 4E. Determine appropriate Emlid models (RS2 or RS3).]
 )
 
-The full setup requires an Emlid base and rover pair, a tripod for the base station, and a decent survey pole with a bipod so we can stand them up properly. Ground control point markers are fundamental to this curriculum and a reasonable ask for any serious mapping program.
+The complete setup requires an Emlid base and rover pair, a tripod for the base station, and a survey pole with bipod for the rover. Ground control point markers are fundamental to any serious mapping curriculum.
 
 #block(
   fill: luma(230),
   inset: 10pt,
   radius: 4pt,
-  [*Research needed:* Ground control point marker options and standard equipment for marking GCPs.]
+  [*Research needed:* Ground control point marker options and standard GCP equipment.]
 )
 
 == Flight Planning Software
 
-Terrain following is critical in our neck of the woods because of the variable topography around San Luis Obispo.
+Terrain following capability is critical given the variable topography in the San Luis Obispo area.
 
-If money was not a concern, I would teach UgCS. It is the most professional option, hands down. But DroneDeploy is a strong contender. We used it for a long time. It solves two problems at once: flight planning and photogrammetry processing. With a single subscription, students could use any computer, and it would get them from zero to one effectively.
+UgCS is the most professional option and would be my first choice if budget permits. DroneDeploy is a strong alternative that addresses both flight planning and photogrammetry processing with a single subscription. It works on any computer and provides an effective path from beginner to competent operator.
 
 #block(
   fill: luma(230),
   inset: 10pt,
   radius: 4pt,
-  [*Research needed:* UgCS pricing. DroneDeploy educational pricing and terms. What flight planning options come free with the enterprise DJI drones?]
+  [*Research needed:* UgCS pricing. DroneDeploy educational pricing and terms. Flight planning options included with enterprise DJI drones.]
 )
 
 == Photogrammetry Software
 
-I am not trying to impart everything I know. I am just trying to get students from zero to one. That said, I want to give them a foundation they can grow from.
+The primary goal is giving students a foundation they can build on, not comprehensive mastery of every tool.
 
-Metashape is the software I know best, and I think it is some of the best out there. It has never let me down. You can grow into it, and you can actually own the license, which is a huge plus over subscription software.
+Metashape is powerful software that students can grow into over time. The perpetual license model (versus subscription) is a significant advantage. I have extensive experience with it and can speak to its capabilities.
 
-Pix4D is subscription-based, but it is probably very good and easier to use. If they offer a solid educational deal, it could work. I could always demonstrate Metashape as an alternative in my classes for students who want to dive deeper.
+Pix4D is subscription-based but likely easier to learn. An educational discount could make it viable. DroneDeploy handles processing as well, and combined with flight planning, may offer the most streamlined path to producing deliverables.
 
-DroneDeploy handles processing too, which is attractive. Combined with flight planning, it might be the most practical path to get students producing maps quickly.
-
-OpenDroneMap is open source and worth throwing in as an option. It has been years since I tried it, and I am much more technical now than I was then. The project has likely evolved.
+OpenDroneMap is open source and worth evaluating. The project has matured considerably.
 
 #block(
   fill: luma(230),
@@ -168,39 +166,39 @@ OpenDroneMap is open source and worth throwing in as an option. It has been year
   fill: luma(230),
   inset: 10pt,
   radius: 4pt,
-  [*Decision point:* DroneDeploy for flight planning and processing is the practical "zero to one" solution. Could supplement with Metashape for students who want deeper photogrammetry knowledge. Need to evaluate if this approach meets course objectives.]
+  [*Decision point:* DroneDeploy for flight planning and processing offers the most practical beginner workflow. Metashape could supplement for students seeking deeper photogrammetry knowledge. Need to evaluate whether this approach meets course objectives.]
 )
 
 == Processing Computers
 
-Photogrammetry processing requires capable hardware, though if we go with cloud-based processing through DroneDeploy, the computer requirements drop significantly.
+Photogrammetry processing requires capable hardware, though cloud-based processing through DroneDeploy would significantly reduce local computing requirements.
 
 #block(
   fill: luma(230),
   inset: 10pt,
   radius: 4pt,
-  [*Research needed:* Minimum and recommended specs from Metashape if we need local processing capability.]
+  [*Research needed:* Metashape minimum and recommended specifications if local processing capability is needed.]
 )
 
 == Additional Hardware
 
-We will need extra batteries for the Mavic 4T and 4E, plus field charging capability. The charging infrastructure may be shared with the AERO 100 equipment.
+Extra batteries for the Mavic 4T and 4E will be necessary, along with field charging capability. Charging infrastructure may be shared with AERO 100 equipment.
 
 == Data Storage and Workflow
 
-Every organization will have its own workflow. We can teach a minimum viable folder structure on a hard drive. More sophisticated solutions like DroneDB are optional and feel more like something to mention than to require.
+Every organization develops its own workflow. The course will teach a baseline folder structure that students can adapt to their future employers' requirements. More sophisticated solutions like DroneDB are optional.
 
 = Equipment Already Secured
 
-The DJI Mavic 4T (thermal imaging) and Mavic 4E (enterprise mapping) have been ordered through separate funding. These cover public sector applications and will be used for operational demonstrations in AERO 100 and as the primary platforms for the mapping course.
+The DJI Mavic 4T (thermal imaging) and Mavic 4E (enterprise mapping) have been ordered through separate funding. These support public sector applications and will serve as demonstration platforms in AERO 100 and primary aircraft for the mapping course.
 
 = Future Considerations
 
-The following items are not included in the current \$80,000 budget but represent potential program growth.
+The following items fall outside the current \$80,000 budget but represent potential program expansion.
 
 == American-Made Drone Platform
 
-An NDAA-compliant, American-made drone would expose students to platforms beyond DJI and prepare them for public sector work that requires domestic manufacturing. Inspired Flight is local to San Luis Obispo and I have an existing relationship with them, which makes them the natural choice when this becomes feasible.
+An NDAA-compliant, American-made drone would expose students to alternatives beyond DJI and prepare them for public sector work requiring domestic manufacturing. Inspired Flight, based locally in San Luis Obispo, is the logical choice given their proximity and my existing relationship with them.
 
 #block(
   fill: luma(230),
@@ -211,7 +209,7 @@ An NDAA-compliant, American-made drone would expose students to platforms beyond
 
 == LIDAR Capability
 
-LIDAR would significantly expand program capabilities but requires substantial additional investment, likely \$50,000 or more at minimum. This needs dedicated curriculum development before purchasing and represents a separate, larger conversation.
+LIDAR would significantly expand program capabilities but requires substantial additional investment, likely \$50,000 or more. This requires dedicated curriculum development and represents a separate conversation.
 
 = Summary and Next Steps
 
@@ -227,12 +225,12 @@ LIDAR would significantly expand program capabilities but requires substantial a
 + DJI Mini vs. Air series pricing with Fly More combo
 + Controller options with integrated screens
 + Emlid model selection and Mavic 4T/4E compatibility
-+ Flight planning software: UgCS pricing, DroneDeploy edu pricing, free options with DJI
-+ Photogrammetry software: Pix4D edu pricing, DroneDeploy capabilities, OpenDroneMap evaluation
++ Flight planning software: UgCS pricing, DroneDeploy educational pricing, included DJI options
++ Photogrammetry software: Pix4D educational pricing, DroneDeploy capabilities, OpenDroneMap evaluation
 + Portable power station options (EcoFlow or similar)
 + Pelican case sizing for 6-drone fleet
 + Ground control point marker equipment
-+ Computer specs for photogrammetry (if not using cloud processing)
++ Computer specifications for photogrammetry (if not using cloud processing)
 
 *Decisions to make:*
 
