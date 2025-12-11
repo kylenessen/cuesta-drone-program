@@ -7,6 +7,7 @@
 #set page(margin: 1in)
 #set text(font: "New Computer Modern", size: 11pt)
 #set par(justify: true)
+#set figure(numbering: none)
 
 #align(center)[
   #text(size: 16pt, weight: "bold")[Cuesta College Drone Program]
@@ -40,30 +41,24 @@ Two drone options would fit this course well:
 
 === DJI Mini 3
 
-#figure(
-  image("images/dji-mini-3.png", width: 60%),
-  caption: [DJI Mini 3 Fly More Combo with RC controller],
-)
-
 This is the most affordable option that provides everything we need for effective training. Despite their small size, these are capable drones. Their light weight means they do not require FAA registration, which simplifies the administrative side. The Fly More package includes spare batteries and the RC controller with a built-in screen, eliminating the need for separate smartphones or tablets. This self-contained setup streamlines the student experience and makes equipment management more reliable.
 
 The tradeoffs: the Mini 3 handles strong winds less effectively than larger drones, and image quality is modest (though secondary for a flight training course). The small form factor might feel less serious to some students, though this same quality makes it approachable for those intimidated by the technology. If a Mini 3 does crash, its low mass minimizes risk of damage to property or people.
 
 A few of these would be a worthwhile addition to the fleet.
 
-#link("https://www.amazon.com/dp/B0BL3R3L45")[*DJI Mini 3 Fly More Combo (DJI RC)*] | \$719 before tax
+#figure(
+  image("images/dji-mini-3.png", width: 60%),
+  caption: [#link("https://www.amazon.com/dp/B0BL3R3L45")[DJI Mini 3 Fly More Combo (DJI RC)] | \$719 before tax],
+)
 
 === DJI Air 3
-
-#figure(
-  image("images/dji-air-3.png", width: 60%),
-  caption: [DJI Air 3 Fly More Combo with RC 2 controller],
-)
 
 The Air series is a step up from the Mini line. These mid-level consumer drones handle wind better and offer longer battery life, though without the most advanced photographic capabilities. The image quality is still very good, and the dual-lens system (wide and telephoto) adds instructional flexibility. The Air 3 also features omnidirectional obstacle avoidance, the most comprehensive collision prevention available in this class. The larger size requires FAA registration, though this is a minor administrative task.
 
 The Air 3 feels more substantial in hand and in flight. The Fly More package includes the RC controller with built-in screen and extra batteries. If budget allows, this would be my preferred primary training drone. A mixed fleet of Air 3s and Mini 3s could also work well, balancing cost savings with variety in the aircraft students experience.
 
-#link("https://www.amazon.com/dp/B07FRWP5HX")[*DJI Air 3 Fly More Combo with DJI RC 2*] | \$1,939 before tax
-
-
+#figure(
+  image("images/dji-air-3.png", width: 60%),
+  caption: [#link("https://www.amazon.com/dp/B07FRWP5HX")[DJI Air 3 Fly More Combo with DJI RC 2] | \$1,939 before tax],
+)
