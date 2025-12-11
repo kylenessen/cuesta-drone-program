@@ -8,6 +8,8 @@
 #set text(font: "New Computer Modern", size: 11pt)
 #set par(justify: true)
 #set figure(numbering: none)
+#show link: set text(fill: blue)
+#show link: underline
 
 #align(center)[
   #text(size: 16pt, weight: "bold")[Cuesta College Drone Program]
