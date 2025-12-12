@@ -54,7 +54,6 @@
     align: center,
     inset: 6pt,
   )
-  #show table: set block(breakable: false)
 
   #align(center)[
     #if logo != none {

@@ -97,28 +97,30 @@ Landing pads keep drones out of the dirt during field operations and can double 
 
 Above I lay out the items that I think are necessary for lab activities, and provided a few quantities, but mostly left it open for discussion on how to approach purchasing. Below are all the costs compiled in a _suggested_ scenario. I think this balances a diversity of drones and maximizes the number of students that can participate in lab. I'm happy to discuss this and change the purchasing strategy as necessary.
 
-#table(
-  columns: (auto, auto, auto, auto),
-  align: (left, center, right, right),
-  table.header[*Item*][*Qty*][*Unit Price*][*Subtotal*],
-  table.hline(),
-  [#link("https://www.amazon.com/dp/B0BL3R3L45")[DJI Mini 3 Fly More Combo]], [3], [\$719], [\$2,157],
-  [#link("https://www.amazon.com/dp/B07FRWP5HX")[DJI Air 3 Fly More Combo]], [3], [\$1,939], [\$5,817],
-  table.hline(),
-  [#link("https://www.amazon.com/dp/B0FRMQPZF6")[EcoFlow DELTA 3 + Solar Panel]], [1], [\$599], [\$599],
-  [#link("https://a.co/d/0qWA51W")[Parallel Charger (Air 3)]], [2], [\$56], [\$112],
-  [#link("https://a.co/d/bhSoJLd")[Parallel Charger (Mini 3)]], [2], [\$60], [\$120],
-  [#link("https://a.co/d/aLcd0xN")[500W USB-C Charger]], [1], [\$70], [\$70],
-  table.hline(),
-  [Pelican-style Case], [1], [~\$300], [~\$300],
-  [#link("https://www.amazon.com/dp/B0FQJ65KJD")[Landing Pads]], [6], [\$20], [\$120],
-  [#link("https://www.amazon.com/dp/B0B1L3BL1G")[Label Maker]], [1], [\$45], [\$45],
-  [Open Lane Level II NIST Course Materials], [--], [--], [~\$250],
-  table.hline(),
-  [], [], [*Subtotal*], [*\$9,590*],
-  [], [], [Tax (~8.5%)], [\$815],
-  [], [], [*Estimated Total*], [*\$10,405*],
-)
+#block(breakable: false)[
+  #table(
+    columns: (auto, auto, auto, auto),
+    align: (left, center, right, right),
+    table.header[*Item*][*Qty*][*Unit Price*][*Subtotal*],
+    table.hline(),
+    [#link("https://www.amazon.com/dp/B0BL3R3L45")[DJI Mini 3 Fly More Combo]], [3], [\$719], [\$2,157],
+    [#link("https://www.amazon.com/dp/B07FRWP5HX")[DJI Air 3 Fly More Combo]], [3], [\$1,939], [\$5,817],
+    table.hline(),
+    [#link("https://www.amazon.com/dp/B0FRMQPZF6")[EcoFlow DELTA 3 + Solar Panel]], [1], [\$599], [\$599],
+    [#link("https://a.co/d/0qWA51W")[Parallel Charger (Air 3)]], [2], [\$56], [\$112],
+    [#link("https://a.co/d/bhSoJLd")[Parallel Charger (Mini 3)]], [2], [\$60], [\$120],
+    [#link("https://a.co/d/aLcd0xN")[500W USB-C Charger]], [1], [\$70], [\$70],
+    table.hline(),
+    [Pelican-style Case], [1], [~\$300], [~\$300],
+    [#link("https://www.amazon.com/dp/B0FQJ65KJD")[Landing Pads]], [6], [\$20], [\$120],
+    [#link("https://www.amazon.com/dp/B0B1L3BL1G")[Label Maker]], [1], [\$45], [\$45],
+    [Open Lane Level II NIST Course Materials], [--], [--], [~\$250],
+    table.hline(),
+    [], [], [*Subtotal*], [*\$9,590*],
+    [], [], [Tax (~8.5%)], [\$815],
+    [], [], [*Estimated Total*], [*\$10,405*],
+  )
+]
 
 = AERO 10X: Advanced Mapping
 
