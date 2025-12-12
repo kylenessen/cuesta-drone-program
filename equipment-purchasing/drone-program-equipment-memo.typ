@@ -123,8 +123,9 @@ Above I lay out the items that I think are necessary for lab activities, and pro
   [Pelican-style Case], [1], [\$225], [\$225],
   [#link("https://www.amazon.com/dp/B0FQJ65KJD")[Landing Pads]], [6], [\$20], [\$120],
   [#link("https://www.amazon.com/dp/B0B1L3BL1G")[Label Maker]], [1], [\$45], [\$45],
+  [NIST course materials], [--], [--], [\$250],
   table.hline(),
-  [], [], [*Subtotal*], [*\$9,265*],
-  [], [], [Tax (~8.5%)], [\$787],
-  [], [], [*Estimated Total*], [*\$10,052*],
+  [], [], [*Subtotal*], [*\$9,515*],
+  [], [], [Tax (~8.5%)], [\$809],
+  [], [], [*Estimated Total*], [*\$10,324*],
 )
