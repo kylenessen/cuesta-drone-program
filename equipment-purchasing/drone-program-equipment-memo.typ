@@ -100,7 +100,7 @@ Landing pads keep drones out of the dirt during field operations and can double 
 
 === Field Comfort
 
-Extended outdoor lab sessions benefit from some basic amenities: fold-out tables for equipment staging and battery management, chairs for students during briefings or downtime, and a pop-up canopy (E-Z UP style) for shade and weather protection. These items may already be available through other departments at Cuesta. If not, they would be worth acquiring.
+Extended outdoor lab sessions benefit from some basic amenities: fold-out tables for equipment staging and battery management, chairs for students, and a pop-up canopy (E-Z UP style) for shade and weather protection. These items may already be available through other departments at Cuesta. If not, they would be worth acquiring if we can't do labs at the Cal Poly Experimental Flight Range.
 
 
 
