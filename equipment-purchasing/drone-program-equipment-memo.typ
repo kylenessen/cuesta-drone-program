@@ -3,23 +3,17 @@
 // Author: Kyle Nessen
 // Date: December 2025
 
-#set document(title: "Drone Program Equipment Planning")
-#set page(margin: 1in)
-#set text(font: "New Computer Modern", size: 11pt)
-#set par(justify: true)
-#set figure(numbering: none)
-#show link: set text(fill: blue)
-#show link: underline
+#import "cuesta-memo.typ": cuesta-memo
 
-#align(center)[
-  #text(size: 16pt, weight: "bold")[Cuesta College Drone Program]
-  #linebreak()
-  #text(size: 14pt)[Equipment Planning Memo]
-  #linebreak()
-  #text(size: 10pt, style: "italic")[Draft for Discussion]
-]
-
-#v(1em)
+#cuesta-memo(
+  banner: "Cuesta College Drone Program",
+  title: "Equipment Planning Memo",
+  subtitle: "Draft for Discussion",
+  audience: "Ron Overacker",
+  author: "Kyle Nessen",
+  date: "December 11, 2025",
+  draft: false,
+  body: [
 
 = Overview
 
@@ -160,3 +154,5 @@ One question for you: does this funding need to be spent within a particular tim
 = Next Steps
 
 I recommend we proceed with the AERO 100 equipment as outlined above, along with the Emlid GNSS equipment to complement the Matrice 4E and 4T. This gets both courses moving while leaving room to refine the larger equipment plan. If you would like to adjust the drone mix or discuss alternatives, I am happy to revise.
+  ],
+)
