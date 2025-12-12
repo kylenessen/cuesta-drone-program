@@ -88,10 +88,14 @@ In total, these items should allow for as much flight time as needed for a full 
 - #link("https://a.co/d/bhSoJLd")[Parallel Fast Charger for DJI Mini 3] (×2) | \$60 each
 - #link("https://a.co/d/aLcd0xN")[500W USB C charger] | \$70
 
-=== Protection
+=== Storage and Protection
 
-These items are not strictly necessary, but can help protect the equipment. A single Pelican style case to house the whole drone fleet would be ideal for transport and storage. It could contain the total number of drones, controllers, and batteries. I haven't picked a specific case, as it is dependent on how many drones we order, but I do provide a range.
+These items are not strictly necessary, but help protect and organize the equipment. A single Pelican-style case to house the whole drone fleet would be ideal for transport and storage, containing all drones, controllers, and batteries in one place. The specific case depends on how many drones we order, but I provide a price range below.
 
-Landing pads are also nice to have in the field to keep the drones out of the dirt, and could be used for lab activies (launch here, land there).
+Landing pads keep drones out of the dirt during field operations and can double as targets for lab exercises. A label maker helps identify each drone and controller, which simplifies fleet management and accountability.
+
+- Pelican-style case | \$150-300 (depending on size)
+- #link("https://www.amazon.com/dp/B0FQJ65KJD")[STARTRC Drone Landing Pad (22")] (×6) | ~\$15 each
+- Label maker | ~\$30
 
 
