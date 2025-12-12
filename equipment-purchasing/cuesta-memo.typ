@@ -38,13 +38,13 @@
   #show link: set text(fill: brand.green, weight: "semibold")
   #show link: underline
 
-  #show heading.where(level: 1): it => block(above: 2.5em, below: 1.5em)[
+  #show heading.where(level: 1): it => block(above: 1.8em, below: 1em)[
     #text(size: 13pt, weight: "bold", fill: brand.green)[#it.body]
   ]
-  #show heading.where(level: 2): it => block(above: 2em, below: 1.3em)[
+  #show heading.where(level: 2): it => block(above: 1.5em, below: 0.8em)[
     #text(size: 12pt, weight: "semibold", fill: brand.deep-green)[#it.body]
   ]
-  #show heading.where(level: 3): it => block(above: 1.8em, below: 1.2em)[
+  #show heading.where(level: 3): it => block(above: 1.3em, below: 0.7em)[
     #text(weight: "semibold", fill: brand.rich-green)[#it.body]
   ]
 
@@ -59,24 +59,26 @@
     #if logo != none {
       image(logo, width: 2in)
     }
+    #v(0.3em)
+    #text(size: 11pt, weight: "semibold", fill: brand.deep-gray, tracking: 0.15em)[MEMORANDUM]
   ]
 
   #v(1em)
-  #line(length: 100%, stroke: 0.5pt + brand.rich-gray)
-  #v(0.5em)
+  #line(length: 100%, stroke: 1pt + brand.green)
+  #v(0.8em)
 
   #grid(
-    columns: (auto, 1fr),
-    gutter: 8pt,
-    text(size: 10pt, fill: brand.deep-gray)[*To:*], text(size: 10pt, fill: brand.deep-gray)[#audience],
-    text(size: 10pt, fill: brand.deep-gray)[*From:*], text(size: 10pt, fill: brand.deep-gray)[#author],
-    text(size: 10pt, fill: brand.deep-gray)[*Date:*], text(size: 10pt, fill: brand.deep-gray)[#date],
-    text(size: 10pt, fill: brand.deep-gray)[*Subject:*], text(size: 10pt, fill: brand.deep-gray)[#title],
+    columns: (5em, 1fr),
+    gutter: 6pt,
+    text(size: 10pt, fill: brand.deep-gray)[*To:*], text(size: 10pt, fill: brand.black)[#audience],
+    text(size: 10pt, fill: brand.deep-gray)[*From:*], text(size: 10pt, fill: brand.black)[#author],
+    text(size: 10pt, fill: brand.deep-gray)[*Date:*], text(size: 10pt, fill: brand.black)[#date],
+    text(size: 10pt, fill: brand.deep-gray)[*Subject:*], text(size: 10pt, weight: "semibold", fill: brand.black)[#title],
   )
 
-  #v(0.5em)
-  #line(length: 100%, stroke: 0.5pt + brand.rich-gray)
-  #v(1em)
+  #v(0.8em)
+  #line(length: 100%, stroke: 1pt + brand.green)
+  #v(1.2em)
 
   #memo-body
 ]
