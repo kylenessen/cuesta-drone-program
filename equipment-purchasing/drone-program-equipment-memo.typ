@@ -150,11 +150,11 @@ For the base station, the #link("https://store.emlid.com/products/reach-rs4")[Em
 
 *Ground Control.* Even with RTK, ground control points are fundamental to professional mapping workflows. This means targets, markers, and the knowledge to place them correctly.
 
-*Software.* Flight planning software with terrain-following capability is essential given our local topography. Photogrammetry processing software is the other major piece. There are several options here ranging from subscription services like DroneDeploy to perpetual licenses like Agisoft Metashape. I have not settled on a recommendation yet and want to explore what educational pricing is available.
+*Software.* Flight planning software with terrain-following capability is essential given our local topography. Photogrammetry processing software is the other major piece. There are several options here ranging from subscription services like DroneDeploy to perpetual licenses like Agisoft Metashape. I have not settled on a recommendation yet and want to explore what educational pricing is available. All the same, I think we can expect thousands of dollars in this category, but not more than ten thousand.
 
-*Workstations.* Photogrammetry processing is computationally intensive. We will need capable computers, though the specific requirements depend on which software we choose. Do we have access to a computer lab with reasonably powerful machines? Here is #link("https://www.agisoftmetashape.com/agisoft-metashape-hardware-recommendations-and-memory-requirements/?gad_source=1&gad_campaignid=22874630825&gbraid=0AAAAADwoiSGhCk5x4AVPidRyedSLRCwRN&gclid=Cj0KCQiA9OnJBhD-ARIsAPV51xOtGS9xqhwla0qwefRaY-ilVIQz9KBxPLI419MrOng9K2UQ4KvamGUaAiPNEALw_wcB")[Metashape's requirements page], which should help direct the conversation.
+*Workstations.* Photogrammetry processing is computationally intensive. We will need capable computers, though the specific requirements depend on which software we choose. Do we have access to a computer lab with reasonably powerful machines? Here is #link("https://www.agisoftmetashape.com/agisoft-metashape-hardware-recommendations-and-memory-requirements/?gad_source=1&gad_campaignid=22874630825&gbraid=0AAAAADwoiSGhCk5x4AVPidRyedSLRCwRN&gclid=Cj0KCQiA9OnJBhD-ARIsAPV51xOtGS9xqhwla0qwefRaY-ilVIQz9KBxPLI419MrOng9K2UQ4KvamGUaAiPNEALw_wcB")[Metashape's requirements page], which should help direct the conversation. Alternatively, I can look into cloud based processing solutions that will let us work with any computer for a subscription fee.
 
-*Batteries and Accessories.* The enterprise drones will need additional batteries and charging infrastructure beyond what ships with the aircraft.
+*Batteries and Accessories.* The enterprise drones will need additional batteries and charging infrastructure beyond what ships with the aircraft. The powerbank I listed above would likely be too underpowered for our mapping needs, so we might need something with more capacity or alternative gas generators. I can dig into this more as we get further along.
 
 I will prepare a detailed equipment list and cost estimate once the curriculum is further developed. In the meantime, I recommend purchasing the Emlid GNSS setup described above. This totals approximately \$7,594 before tax, and it would allow us to begin testing and developing course materials using the enterprise drones we already have.
 
@@ -164,4 +164,4 @@ One question for you: does this funding need to be spent within a particular tim
 
 = Next Steps
 
-I recommend we proceed with the AERO 100 equipment as outlined above, along with the Emlid GNSS equipment for the advanced course. This gets both courses moving while leaving room to refine the larger equipment plan. If you would like to adjust the drone mix or discuss alternatives, I am happy to revise.
+I recommend we proceed with the AERO 100 equipment as outlined above, along with the Emlid GNSS equipment to complement the Matrice 4E and 4T. This gets both courses moving while leaving room to refine the larger equipment plan. If you would like to adjust the drone mix or discuss alternatives, I am happy to revise.
