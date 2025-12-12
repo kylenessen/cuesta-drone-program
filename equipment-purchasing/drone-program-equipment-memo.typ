@@ -96,6 +96,11 @@ Landing pads keep drones out of the dirt during field operations and can double 
 
 - Pelican-style case | \$150-300 (depending on size)
 - #link("https://www.amazon.com/dp/B0FQJ65KJD")[STARTRC Drone Landing Pad (22")] (×6) | ~\$20 each
-- #link("https://www.amazon.com/dp/B0B1L3BL1G")[Brother P-Touch Label Maker] | ~\$30
+- #link("https://www.amazon.com/dp/B0B1L3BL1G")[Brother P-Touch Label Maker] | ~\$45
+
+=== Field Comfort
+
+Extended outdoor lab sessions benefit from some basic amenities: fold-out tables for equipment staging and battery management, chairs for students during briefings or downtime, and a pop-up canopy (E-Z UP style) for shade and weather protection. These items may already be available through other departments at Cuesta. If not, they would be worth acquiring.
+
 
 
