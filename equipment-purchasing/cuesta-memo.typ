@@ -31,7 +31,7 @@
   #let memo-body = if body == none { [] } else { body }
   #set document(title: title)
   #set page(margin: 1in)
-  #set text(font: body-font, size: 11pt, fill: brand.deep-gray)
+  #set text(font: body-font, size: 11pt, fill: brand.black)
   #set par(justify: true, leading: 0.8em, spacing: 1.5em)
   #set figure(numbering: none)
 
