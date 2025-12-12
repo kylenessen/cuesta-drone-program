@@ -23,9 +23,9 @@
 
 = Overview
 
-This memo outlines equipment needs for two courses in Cuesta College's drone program: AERO 100 (Basic UAV Operator), which has an approved course outline, and an advanced mapping course currently in curriculum development. I address AERO 100 in detail here, and provide some consderations for the advanced course.
+This memo outlines equipment needs for two courses in Cuesta College's drone program: AERO 100 (Basic UAV Operator), which has an approved course outline, and an advanced mapping course currently in curriculum development. I address AERO 100 in detail here, and provide some considerations for the advanced course.
 
-As I understand, we have approximately \$80,000 available for equipment purchases. The DJI Mavic 4T and Mavic 4E enterprise drones have already been secured through separate funding.
+As I understand, we have approximately \$80,000 available for equipment purchases. The DJI Matrice 4T and Matrice 4E enterprise drones have already been secured through separate funding.
 
 = AERO 100: Basic UAV Operator
 
@@ -104,7 +104,7 @@ Landing pads keep drones out of the dirt during field operations and can double 
 
 === Field Comfort
 
-Extended outdoor lab sessions benefit from some basic amenities: fold-out tables for equipment staging and battery management, chairs for students, and a pop-up canopy (E-Z UP style) for shade and weather protection. These items may already be available through other departments at Cuesta. We should also explore whether we can conduct labs at #link("https://www.sloflyers.com/")[Cal Poly's Experimental Flight Range], which have these amenities on-site.
+Extended outdoor lab sessions benefit from some basic amenities: fold-out tables for equipment staging and battery management, chairs for students, and a pop-up canopy (E-Z UP style) for shade and weather protection. These items may already be available through other departments at Cuesta. We should also explore whether we can conduct labs at #link("https://www.sloflyers.com/")[Cal Poly's Experimental Flight Range], which has these amenities on-site.
 
 
 == Cost Summary
@@ -146,13 +146,13 @@ The advanced course requires significantly more investment than AERO 100. The ma
 
 *GNSS and RTK.* The Matrice drones support RTK and PPK positioning, which dramatically improves accuracy over consumer drones. To take advantage of this, we need a GNSS base station and rover setup. I recommend Emlid units over Trimble and DJI. Emlid offers excellent value without sacrificing capability, and students entering the workforce should be adaptable to different tools anyway.
 
-For the base station, the #link("https://store.emlid.com/products/reach-rs4")[Emlid Reach RS4] is newly available for preorder at \$3,900. This is a full-featured unit that can broadcast RTK corrections to both our drones and a field rover. For the rover, the #link("https://store.emlid.com/products/reachrx2")[Emlid Reach RX2] at \$2,400 is purpose-built for mobile data collection. It connects to a smartphone or tablet running apps like ArcGIS Field Maps or Survey123, which is how much professional field work happens now. Emlid also offers a #link("https://store.emlid.com/products/base-and-rover-accessories-kit")[Base and Rover Accessories Kit] for \$1,294 that includes the tripod, tribrach, survey pole, and bipod we would need.
+For the base station, the #link("https://store.emlid.com/products/reach-rs4")[Emlid Reach RS4] is newly available for preorder at \$3,900. This is a full-featured unit that can broadcast RTK corrections to both our drones and a field rover. For the rover, the #link("https://store.emlid.com/products/reachrx2")[Emlid Reach RX2] at \$2,400 is purpose-built for mobile data collection. It connects to a smartphone or tablet running apps like ArcGIS Field Maps or Survey123, which is how most professional field work happens now. Emlid also offers a #link("https://store.emlid.com/products/base-and-rover-accessories-kit")[Base and Rover Accessories Kit] for \$1,294 that includes the tripod, tribrach, survey pole, and bipod we would need.
 
 *Ground Control.* Even with RTK, ground control points are fundamental to professional mapping workflows. This means targets, markers, and the knowledge to place them correctly.
 
 *Software.* Flight planning software with terrain-following capability is essential given our local topography. Photogrammetry processing software is the other major piece. There are several options here ranging from subscription services like DroneDeploy to perpetual licenses like Agisoft Metashape. I have not settled on a recommendation yet and want to explore what educational pricing is available. All the same, I think we can expect thousands of dollars in this category, but not more than ten thousand.
 
-*Workstations.* Photogrammetry processing is computationally intensive. We will need capable computers, though the specific requirements depend on which software we choose. Do we have access to a computer lab with reasonably powerful machines? Here is #link("https://www.agisoftmetashape.com/agisoft-metashape-hardware-recommendations-and-memory-requirements/?gad_source=1&gad_campaignid=22874630825&gbraid=0AAAAADwoiSGhCk5x4AVPidRyedSLRCwRN&gclid=Cj0KCQiA9OnJBhD-ARIsAPV51xOtGS9xqhwla0qwefRaY-ilVIQz9KBxPLI419MrOng9K2UQ4KvamGUaAiPNEALw_wcB")[Metashape's requirements page], which should help direct the conversation. Alternatively, I can look into cloud based processing solutions that will let us work with any computer for a subscription fee.
+*Workstations.* Photogrammetry processing is computationally intensive. We will need capable computers, though the specific requirements depend on which software we choose. Do we have access to a computer lab with reasonably powerful machines? Here is #link("https://www.agisoft.com/downloads/system-requirements/")[Metashape's system requirements], which should help direct the conversation. Alternatively, I can look into cloud based processing solutions that will let us work with any computer for a subscription fee.
 
 *Batteries and Accessories.* The enterprise drones will need additional batteries and charging infrastructure beyond what ships with the aircraft. The powerbank I listed above would likely be too underpowered for our mapping needs, so we might need something with more capacity or alternative gas generators. I can dig into this more as we get further along.
 
