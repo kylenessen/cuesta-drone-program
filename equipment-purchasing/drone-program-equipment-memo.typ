@@ -23,7 +23,7 @@
 
 = Overview
 
-This memo outlines equipment needs for two courses in Cuesta College's drone program: primarily AERO 100 (Basic UAV Operator), which has an approved course outline, and an advanced mapping and photogrammetry course currently in curriculum development.
+This memo outlines equipment needs for two courses in Cuesta College's drone program: AERO 100 (Basic UAV Operator), which has an approved course outline, and an advanced mapping course currently in curriculum development. I address AERO 100 in detail here, and provide some consderations for the advanced course.
 
 As I understand, we have approximately \$80,000 available for equipment purchases. The DJI Mavic 4T and Mavic 4E enterprise drones have already been secured through separate funding.
 
@@ -71,7 +71,7 @@ DJI drones are increasingly difficult to source right now. Any drone in the Mini
 
 == Accessories
 
-Fortunately, there's not too much else we need to buy to get these drones fully operational. Still, there are a few things that I will list below that will be very helpful to our operations.
+The accessory requirements are minimal for these drones. A few items will be helpful for field operations and equipment management.
 
 === Field Charging
 
@@ -90,7 +90,7 @@ In total, these items should allow for as much flight time as needed for a full 
 
 === Lab Materials
 
-The NIST Open Test Lanes are an innovative and interesting set of tests for flight competency. I really like them. Instead of specifying the full list of items, I allocated \$250 to the budget below for a Home Depot run to build out the "omni buckets." There may be other miscellaneous costs that can be absorbed from this fund as well (e.g. power strip).
+The NIST Open Test Lanes are a well-designed set of standardized tests for flight competency. Instead of specifying the full list of items, I allocated \$250 to the budget below for a Home Depot run to build out the "omni buckets" and cover other miscellaneous costs (e.g. power strips).
 
 === Storage and Protection
 
@@ -104,7 +104,7 @@ Landing pads keep drones out of the dirt during field operations and can double 
 
 === Field Comfort
 
-Extended outdoor lab sessions benefit from some basic amenities: fold-out tables for equipment staging and battery management, chairs for students, and a pop-up canopy (E-Z UP style) for shade and weather protection. These items may already be available through other departments at Cuesta. If not, they would be worth acquiring if we can't do labs at the Cal Poly Experimental Flight Range.
+Extended outdoor lab sessions benefit from some basic amenities: fold-out tables for equipment staging and battery management, chairs for students, and a pop-up canopy (E-Z UP style) for shade and weather protection. These items may already be available through other departments at Cuesta. We should also explore whether we can conduct labs at #link("https://www.sloflyers.com/")[Cal Poly's Experimental Flight Range], which have these amenities on-site.
 
 
 == Cost Summary
@@ -133,3 +133,8 @@ Above I lay out the items that I think are necessary for lab activities, and pro
   [], [], [Tax (~8.5%)], [\$815],
   [], [], [*Estimated Total*], [*\$10,405*],
 )
+
+= AERO 10X: Advanced Mapping
+
+== Purpose
+
