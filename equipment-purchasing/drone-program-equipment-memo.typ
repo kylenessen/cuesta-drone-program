@@ -87,3 +87,11 @@ In total, these items should allow for as much flight time as needed for a full 
 - #link("https://a.co/d/0qWA51W")[Parallel Fast Charger for DJI Air 3] (×2) | \$56 each
 - #link("https://a.co/d/bhSoJLd")[Parallel Fast Charger for DJI Mini 3] (×2) | \$60 each
 - #link("https://a.co/d/aLcd0xN")[500W USB C charger] | \$70
+
+=== Protection
+
+These items are not strictly necessary, but can help protect the equipment. A single Pelican style case to house the whole drone fleet would be ideal for transport and storage. It could contain the total number of drones, controllers, and batteries. I haven't picked a specific case, as it is dependent on how many drones we order, but I do provide a range.
+
+Landing pads are also nice to have in the field to keep the drones out of the dirt, and could be used for lab activies (launch here, land there).
+
+
