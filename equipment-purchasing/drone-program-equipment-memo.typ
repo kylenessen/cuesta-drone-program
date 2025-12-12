@@ -138,3 +138,28 @@ Above I lay out the items that I think are necessary for lab activities, and pro
 
 == Purpose
 
+This course teaches precision mapping and photogrammetry workflows using the Matrice 4E and 4T enterprise drones we have already secured. Students will learn to capture survey-grade data, process it into deliverables like orthomosaics and 3D models, and understand the accuracy considerations that matter in professional work.
+
+== Equipment Overview
+
+The advanced course requires significantly more investment than AERO 100. The major categories include:
+
+*GNSS and RTK.* The Matrice drones support RTK positioning, which dramatically improves accuracy. To take advantage of this, we need a base station and rover setup. I recommend Emlid units over Trimble. Emlid offers excellent value without sacrificing capability, and students entering the workforce should be adaptable to different tools anyway. A base station also requires a tripod, and a rover needs a survey pole with bipod.
+
+*Ground Control.* Even with RTK, ground control points are fundamental to professional mapping workflows. This means targets, markers, and the knowledge to place them correctly.
+
+*Software.* Flight planning software with terrain-following capability is essential given our local topography. Photogrammetry processing software is the other major piece. There are several options here ranging from subscription services like DroneDeploy to perpetual licenses like Agisoft Metashape. I have not settled on a recommendation yet and want to explore what educational pricing is available.
+
+*Workstations.* Photogrammetry processing is computationally intensive. We will need capable computers, though the specific requirements depend on which software we choose.
+
+*Batteries and Accessories.* The enterprise drones will need additional batteries and charging infrastructure beyond what ships with the aircraft.
+
+I will prepare a detailed equipment list and cost estimate once the curriculum is further developed. In the meantime, I recommend purchasing an Emlid Reach RS3 base station with appropriate accessories. This is one purchase I am confident about, and it would allow us to begin testing and developing course materials using the enterprise drones we already have.
+
+== Budget Question
+
+One question for you: does this funding need to be spent within a particular timeframe, or can it sit until we are ready? I would prefer to finalize the AERO 100 purchases first and take more time with the advanced course equipment, but if there is a use-it-or-lose-it constraint, we can accelerate the planning.
+
+= Next Steps
+
+I recommend we proceed with the AERO 100 equipment as outlined above, along with the Emlid base station for the advanced course. This gets both courses moving while leaving room to refine the larger equipment plan. If you would like to adjust the drone mix or discuss alternatives, I am happy to revise.
