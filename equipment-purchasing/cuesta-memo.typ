@@ -59,14 +59,6 @@
     #if logo != none {
       image(logo, width: 2in)
     }
-    #v(0.5em)
-    #text(size: 16pt, weight: "bold", fill: brand.green)[#banner]
-    #linebreak()
-    #text(size: 14pt, weight: "semibold", fill: brand.black)[#title]
-    #if subtitle != none {
-      linebreak()
-      text(size: 11pt, style: "italic", fill: brand.deep-gray)[#subtitle]
-    }
   ]
 
   #v(1em)
@@ -79,6 +71,7 @@
     text(size: 10pt, fill: brand.deep-gray)[*To:*], text(size: 10pt, fill: brand.deep-gray)[#audience],
     text(size: 10pt, fill: brand.deep-gray)[*From:*], text(size: 10pt, fill: brand.deep-gray)[#author],
     text(size: 10pt, fill: brand.deep-gray)[*Date:*], text(size: 10pt, fill: brand.deep-gray)[#date],
+    text(size: 10pt, fill: brand.deep-gray)[*Subject:*], text(size: 10pt, fill: brand.deep-gray)[#title],
   )
 
   #v(0.5em)

@@ -6,13 +6,10 @@
 #import "cuesta-memo.typ": cuesta-memo
 
 #cuesta-memo(
-  banner: "Cuesta College Drone Program",
-  title: "Equipment Planning Memo",
-  subtitle: "Draft for Discussion",
+  title: "Drone Program Equipment Planning",
   audience: "Ron Overacker",
   author: "Kyle Nessen",
   date: "December 11, 2025",
-  draft: false,
   body: [
 
 = Overview
