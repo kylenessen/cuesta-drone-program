@@ -32,19 +32,19 @@
   #set document(title: title)
   #set page(margin: 1in)
   #set text(font: body-font, size: 11pt, fill: brand.deep-gray)
-  #set par(justify: true, leading: 1.4em)
+  #set par(justify: true, leading: 1.4em, first-line-indent: 1.5em)
   #set figure(numbering: none)
 
   #show link: set text(fill: brand.green, weight: "semibold")
   #show link: underline
 
-  #show heading.where(level: 1): it => block(above: 1.5em, below: 0.75em)[
+  #show heading.where(level: 1): it => block(above: 2em, below: 1em)[
     #text(size: 13pt, weight: "bold", fill: brand.green)[#it.body]
   ]
-  #show heading.where(level: 2): it => block(above: 1.5em, below: 0.75em)[
+  #show heading.where(level: 2): it => block(above: 1.8em, below: 1em)[
     #text(size: 12pt, weight: "semibold", fill: brand.deep-green)[#it.body]
   ]
-  #show heading.where(level: 3): it => block(above: 1.3em, below: 0.6em)[
+  #show heading.where(level: 3): it => block(above: 1.5em, below: 0.8em)[
     #text(weight: "semibold", fill: brand.rich-green)[#it.body]
   ]
 
