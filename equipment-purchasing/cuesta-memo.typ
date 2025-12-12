@@ -32,9 +32,7 @@
   #set document(title: title)
   #set page(margin: 1in)
   #set text(font: body-font, size: 11pt, fill: brand.deep-gray)
-  #set par(justify: true, leading: 1.4em, first-line-indent: 1.5em, spacing: 1em)
-  #show heading: set par(first-line-indent: 0em)
-  #show figure: set par(first-line-indent: 0em)
+  #set par(justify: true, leading: 1.4em, spacing: 1.2em)
   #set figure(numbering: none)
 
   #show link: set text(fill: brand.green, weight: "semibold")
