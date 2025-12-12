@@ -102,11 +102,6 @@ Landing pads keep drones out of the dirt during field operations and can double 
 - #link("https://www.amazon.com/dp/B0FQJ65KJD")[STARTRC Drone Landing Pad (22")] (×6) | ~\$20 each
 - #link("https://www.amazon.com/dp/B0B1L3BL1G")[Brother P-Touch Label Maker] | ~\$45
 
-=== Field Comfort
-
-Extended outdoor lab sessions benefit from some basic amenities: fold-out tables for equipment staging and battery management, chairs for students, and a pop-up canopy (E-Z UP style) for shade and weather protection. These items may already be available through other departments at Cuesta. We should also explore whether we can conduct labs at #link("https://www.sloflyers.com/")[Cal Poly's Experimental Flight Range], which has these amenities on-site.
-
-
 == Cost Summary
 
 Above I lay out the items that I think are necessary for lab activities, and provided a few quantities, but mostly left it open for discussion on how to approach purchasing. Below are all the costs compiled in a _suggested_ scenario. I think this balances a diversity of drones and maximizes the number of students that can participate in lab. I'm happy to discuss this and change the purchasing strategy as necessary.
