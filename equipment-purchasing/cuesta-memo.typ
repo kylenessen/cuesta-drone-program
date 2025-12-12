@@ -59,8 +59,6 @@
     #if logo != none {
       image(logo, width: 2in)
     }
-    #v(0.3em)
-    #text(size: 11pt, weight: "semibold", fill: brand.deep-gray, tracking: 0.15em)[MEMORANDUM]
   ]
 
   #v(1em)
