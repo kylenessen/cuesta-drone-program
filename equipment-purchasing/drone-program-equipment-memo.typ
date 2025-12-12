@@ -88,6 +88,10 @@ In total, these items should allow for as much flight time as needed for a full 
 - #link("https://a.co/d/bhSoJLd")[Parallel Fast Charger for DJI Mini 3] (×2) | \$60 each
 - #link("https://a.co/d/aLcd0xN")[500W USB C charger] | \$70
 
+=== Lab Materials
+
+The NIST Open Test Lanes are an innovative and interesting set of tests for flight competency. I really like them. Instead of specifying the full list of items, I allocated \$250 to the budget below for a Home Depot run to build out the "omni buckets." There may be other miscellaneous costs that can be absorbed from this fund as well (e.g. power strip).
+
 === Storage and Protection
 
 These items are not strictly necessary, but help protect and organize the equipment. A single Pelican-style case to house the whole drone fleet would be ideal for transport and storage, containing all drones, controllers, and batteries in one place. The specific case depends on how many drones we order, but I provide a price range below.
@@ -123,7 +127,7 @@ Above I lay out the items that I think are necessary for lab activities, and pro
   [Pelican-style Case], [1], [~\$300], [~\$300],
   [#link("https://www.amazon.com/dp/B0FQJ65KJD")[Landing Pads]], [6], [\$20], [\$120],
   [#link("https://www.amazon.com/dp/B0B1L3BL1G")[Label Maker]], [1], [\$45], [\$45],
-  [pen Lane Level II NIST Course Materials], [--], [--], [~\$250],
+  [Open Lane Level II NIST Course Materials], [--], [--], [~\$250],
   table.hline(),
   [], [], [*Subtotal*], [*\$9,590*],
   [], [], [Tax (~8.5%)], [\$815],
