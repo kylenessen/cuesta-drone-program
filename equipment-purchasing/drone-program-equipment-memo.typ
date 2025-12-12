@@ -103,4 +103,26 @@ Landing pads keep drones out of the dirt during field operations and can double 
 Extended outdoor lab sessions benefit from some basic amenities: fold-out tables for equipment staging and battery management, chairs for students, and a pop-up canopy (E-Z UP style) for shade and weather protection. These items may already be available through other departments at Cuesta. If not, they would be worth acquiring if we can't do labs at the Cal Poly Experimental Flight Range.
 
 
+== Cost Summary
 
+Above I lay out the items that I think are necessary for lab activities, and provided a few quantities, but mostly left it open for discussion on how to approach purchasing. Below are all the costs compiled in a _suggested_ scenario. I think this balances a diversity of drones and maximizes the number of students that can participate in lab. I'm happy to discuss this and change the purchasing strategy as necessary.
+
+#table(
+  columns: (auto, auto, auto, auto),
+  align: (left, center, right, right),
+  table.header[*Item*][*Qty*][*Unit Price*][*Subtotal*],
+  table.hline(),
+  [DJI Mini 3 Fly More Combo], [3], [\$719], [\$2,157],
+  [DJI Air 3 Fly More Combo], [3], [\$1,939], [\$5,817],
+  table.hline(),
+  [EcoFlow DELTA 3 + Solar Panel], [1], [\$599], [\$599],
+  [Parallel Charger (Air 3)], [2], [\$56], [\$112],
+  [Parallel Charger (Mini 3)], [2], [\$60], [\$120],
+  [500W USB-C Charger], [1], [\$70], [\$70],
+  table.hline(),
+  [Pelican-style Case], [1], [\$225], [\$225],
+  [Landing Pads], [6], [\$20], [\$120],
+  [Label Maker], [1], [\$45], [\$45],
+  table.hline(),
+  [], [], [*Total*], [*\$9,265*],
+)
