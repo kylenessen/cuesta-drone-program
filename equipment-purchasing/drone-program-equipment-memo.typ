@@ -92,10 +92,10 @@ In total, these items should allow for as much flight time as needed for a full 
 
 These items are not strictly necessary, but help protect and organize the equipment. A single Pelican-style case to house the whole drone fleet would be ideal for transport and storage, containing all drones, controllers, and batteries in one place. The specific case depends on how many drones we order, but I provide a price range below.
 
-Landing pads keep drones out of the dirt during field operations and can double as targets for lab exercises. A label maker helps identify each drone and controller, which simplifies fleet management and accountability.
+Landing pads keep drones out of the dirt during field operations and can double as targets for lab exercises. A label maker also helps identify each drone and controller, which simplifies fleet management.
 
 - Pelican-style case | \$150-300 (depending on size)
-- #link("https://www.amazon.com/dp/B0FQJ65KJD")[STARTRC Drone Landing Pad (22")] (×6) | ~\$15 each
-- Label maker | ~\$30
+- #link("https://www.amazon.com/dp/B0FQJ65KJD")[STARTRC Drone Landing Pad (22")] (×6) | ~\$20 each
+- #link("https://www.amazon.com/dp/B0B1L3BL1G")[Brother P-Touch Label Maker] | ~\$30
 
 
