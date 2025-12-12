@@ -75,10 +75,15 @@ Fortunately, there's not too much else we need to buy to get these drones fully 
 
 === Field Charging
 
-For extended flight sessions, you either need more batteries or some way to charge in the field. I have always opted for field charging, as drone batteries are expensive. Managing power in the field also provides a useful instructional activity.
+For extended flight sessions, like a three hour lab, you either need more batteries or some way to charge in the field. I generally opted for field charging, as drone batteries are expensive. Managing power in the field also provides a useful instructional activity.
 
-The Fly More packages include three batteries per drone, which provides roughly 90 minutes of flight time before needing to rotate in recharged batteries. A portable power station can keep batteries cycling through a full lab session. The key constraint is capacity: each Air 3 battery requires about 74Wh to recharge (accounting for efficiency losses), and Mini 3 batteries require about 47Wh.
+The Fly More packages include three batteries per drone, which provides roughly 90 minutes of flight time before needing to rotate in recharged batteries. A portable power station can keep batteries cycling through a full lab session. A 1024Wh power station can recharge approximately 13 Air 3 batteries or 21 Mini 3 batteries, which supports a fleet of 4-5 drones through a full session. Adding an _optional_ 220W solar panel provides roughly 385Wh of additional capacity over a 2.5-hour session (assuming decent sunlight), bringing the effective total to around 1,400Wh. This comfortably supports 6 drones with margin to spare.
 
-A 1024Wh power station can recharge approximately 13 Air 3 batteries or 21 Mini 3 batteries, which supports a fleet of 4-5 drones through a full session. Adding a 220W solar panel provides roughly 385Wh of additional capacity over a 2.5-hour session (assuming decent sunlight), bringing the effective total to around 1,400Wh. This comfortably supports 6 drones with margin to spare.
+Third party chargers are also necessary for field charging, as they allow for parallel charging. While the charger each drone comes with can accomodate 3 batteries, they are charged one by one. These additional chargers can charge all connected batteries at the same time. The provided chargers are still useful though for prepping before a lab, which they will connect to 500W USB charger in the office.
 
-#link("https://www.amazon.com/dp/B0FRMQPZF6")[EcoFlow DELTA 3 with 220W Solar Panel] | \$599 before tax
+In total, these items should allow for as much flight time as needed for a full 3 hour lab session.
+
+- #link("https://www.amazon.com/dp/B0FRMQPZF6")[EcoFlow DELTA 3 with 220W Solar Panel] | \$599 (current sale)
+- #link("https://a.co/d/0qWA51W")[(2)  Parallel Fast Charger for DJI Air 3] | \$56 each
+- #link("https://a.co/d/bhSoJLd")[(2)  Parallel Fast Charger for DJI Mini 3] | \$60 each
+- #link("https://a.co/d/aLcd0xN")[500W USB C charger] | \$70
