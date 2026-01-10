@@ -549,6 +549,100 @@ Based on employment opportunity and program relevance:
 
 == Sources
 
-This analysis draws on market research from Grand View Research, Drone Industry Insights, and Mordor Intelligence; job market data from Indeed, LinkedIn, ZipRecruiter, and Glassdoor; and industry publications including UAV Coach, Vertical Magazine, and DroneLife.
+=== Market Research and Industry Analysis
 
-Key local sources include the San Luis Obispo Chamber of Commerce industry data and California Employment Development Department employer information.
+- Straits Research. "Drone Services Market Size & Outlook, 2024-2032." https://straitsresearch.com/report/drone-services-market
+
+- Grand View Research. "Commercial Drone Market Size, Share & Growth | Industry Report, 2030." https://www.grandviewresearch.com/industry-analysis/global-commercial-drones-market
+
+- MarketsandMarkets. "Drone Services Market Size, Share, Industry Report." https://www.marketsandmarkets.com/Market-Reports/drone-services-market-80726041.html
+
+- Nova One Advisor. "U.S. Commercial Drone Market Size To Hit USD 6.39 Bn By 2033." https://www.novaoneadvisor.com/report/us-commercial-drone-market
+
+=== Employment and Salary Data
+
+- ZipRecruiter. "Drone Pilot Salary." https://www.ziprecruiter.com/Salaries/Drone-Pilot-Salary
+
+- ZipRecruiter. "Construction Drone Jobs." https://www.ziprecruiter.com/Jobs/Construction-Drone
+
+- ZipRecruiter. "Agriculture Drone Pilot Jobs." https://www.ziprecruiter.com/Jobs/Agriculture-Drone-Pilot
+
+- ZipRecruiter. "Insurance Adjuster Drone Pilot Jobs." https://www.ziprecruiter.com/Jobs/Insurance-Adjuster-Drone-Pilot
+
+- Indeed. "Drone Surveying Jobs." https://www.indeed.com/q-drone-surveying-jobs.html
+
+- Glassdoor. "Drone Pilot Salary in United States 2025." https://www.glassdoor.com/Salaries/drone-pilot-salary-SRCH_KO0,11.htm
+
+- UAV Coach. "Drone Pilot Salary: How Much Do Drone Pilots Make in 2026?" https://uavcoach.com/drone-pilot-salary/
+
+- AgDroneJobs. "Agriculture Drone Pilot Salary: How Much Can You Really Make?" https://www.agdronejobs.com/blog/agriculture-drone-pilot-salary-how-much-can-you-really-make-
+
+=== Industry Publications and Guides
+
+- UAV Coach. "UAV / Drone Jobs | Build a Career in the Drone Industry." https://uavcoach.com/drone-jobs/
+
+- UAV Coach. "Powerline Inspection Drones: An In-Depth Guide [New for 2025]." https://uavcoach.com/powerline-inspection-drones/
+
+- Drone Pilot Ground School. "Full-Time Drone Jobs: 5 Drone Pilot Job Examples." https://www.dronepilotgroundschool.com/full-time-drone-jobs/
+
+- Drone Pilot Ground School. "Drone Roof Inspections: A Comprehensive Guide." https://www.dronepilotgroundschool.com/drone-roof-inspections/
+
+- Drone U. "Drone Pilot Salary: How Much Do Drone Pilots Make?" https://www.thedroneu.com/blog/drone-pilot-salary-how-to-make-money-with-a-drone/
+
+- Drone U. "Find Drone Inspection Work." https://www.thedroneu.com/blog/find-drone-inspection-work/
+
+- Flying Magazine. "6 Commercial Drone Pilot Jobs: Ultimate Career Guide." https://www.flyingmag.com/best-commercial-drone-pilot-jobs/
+
+- Pilot Institute. "A Guide to Doing Drone Inspection Jobs." https://pilotinstitute.com/drone-inspection-jobs/
+
+- NBAA. "The Drone Industry Offers Viable, Lucrative and Exciting Careers." https://nbaa.org/news/business-aviation-insider/2025-2026-student/the-drone-industry-offers-viable-lucrative-and-exciting-careers/
+
+=== Utility and Infrastructure Inspection
+
+- Southeast Lineman Training Center. "The Value of a Drone Certification in the Electrical Utility Industry." https://www.lineworker.com/the-value-of-a-drone-certification-in-the-electrical-utility-industry
+
+- The Drone Life. "The Ultimate Beginner's Guide to Drone Power Line Inspections." https://thedronelifenj.com/power-line-inspections-guide/
+
+- FlyGuys. "How Insurance Companies Are Using Drones to Transform Claims and Inspections." https://flyguys.com/how-insurance-companies-are-using-drones-to-transform-claims-and-inspections/
+
+- EagleView. "Drone Inspections for Property Insurance Claims." https://www.eagleview.com/product/eagleview-assess-insurance/
+
+=== Agricultural Drone Operations
+
+- Fair Lifts. "Agricultural Drone Pilot Licensing: Your Pathway to a Thriving Career." https://www.fairlifts.com/uav/agricultural-drones/agricultural-drone-pilot-licensing-your-pathway-to-a-thriving-career-in-agrochemical-application/
+
+- Flying Acres LLC. "Careers." https://flyingacresllc.com/careers/
+
+=== Training and Certification Programs
+
+- Infraspection Institute. "Level 1 sUAS Thermography Course." https://infraspection.com/product/level-1-suas-thermography-drone-distance-learning
+
+- DARTdrones. "Aerial Drone Inspections Workshop." https://www.dartdrones.com/aerial-drone-inspections/
+
+- The Regional Training Center. "Public Safety Drone Training." https://thertc.org/public-safety-drone-training/
+
+- ABJ Academy. "Drone Thermography Level 1 Certification." https://abjacademy.global/drone-training-courses/thermography-level-1-certification/
+
+- Drone U. "Intro to Drone Thermography." https://www.thedroneu.com/courses/intro-to-drone-thermography/
+
+=== Community College Programs
+
+- Citrus College. "Noncredit Drone Certificate Program." https://www.citruscollege.edu/ce/dronetech/Pages/default.aspx
+
+- Harford Community College. "Drone Technology." https://www.harford.edu/academics/workforce-career-programs/programs/drone-technology.php
+
+- Prince George's Community College. "Drone Technology." https://www.pgcc.edu/programs-courses/continuing-education/transportation-and-distribution/drone-technology/
+
+- Michigan Technological University. "Advanced Photogrammetry and Mapping with UAS Certificate." https://www.mtu.edu/gradschool/programs/certificates/photogrammetry-mapping/
+
+- University of Victoria. "Micro-certificate in Mapping with Drones." https://continuingstudies.uvic.ca/science-and-the-environment/programs/mapping-with-drones
+
+=== Mapping and Photogrammetry Training
+
+- UAV Coach. "Drone Mapping Essentials Online Course." https://uavcoach.com/online-drone-mapping-course/
+
+- Iprosurv. "3 Day Drone Mapping - Surveying and Photogrammetry Course." https://iprosurv.com/3-day-drone-mapping-surveying-and-photogrammetry-course/
+
+- Geo.University. "Introduction to UAV Mapping." https://www.geo.university/courses/introduction-to-uav-mapping
+
+- Tufts University. "Intro to Drone Mapping & Data." https://universitycollege.tufts.edu/courses/browse/intro-drone-mapping-data-01
