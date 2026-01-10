@@ -315,6 +315,48 @@ If Cuesta pursues agricultural drone training, the program faces several decisio
 
 *Assessment:* Not recommended as a dedicated course focus. Students will gain applicable photography and videography skills through the introductory and mapping courses. The freelance nature of this sector makes it less suitable for an employment-focused program.
 
+=== Insurance and Claims Inspection
+
+*Market Position:* The global drone insurance market was valued at \$1.1 billion in 2023 and is projected to more than double by 2032. Insurance companies increasingly use drones for roof inspections, property assessments, and catastrophe response. Carriers using drone solutions can resolve up to 1.5x more claims per day.
+
+*Local Relevance:* Moderate. California experiences wildfires, storms, and earthquake damage requiring property inspections. The work is seasonal and follows weather patterns, with higher demand after major weather events.
+
+*Employment Model:* Mix of in-house adjusters with drone skills and independent contractors. Most carriers partner with certified pilots for inspection work. Important distinction: without an adjuster's license, drone pilots capture imagery but do not interpret damage or assess claims.
+
+*Salary Range:* \$48,000-\$160,000 for insurance adjuster drone pilots. Per-inspection rates of \$100-\$300 for residential, \$500+ for commercial properties.
+
+*Curriculum Alignment:* Skills from the Thermal/Inspection course transfer directly. Roof inspection techniques, thermal imaging for moisture detection, and professional documentation are core competencies for insurance work.
+
+*Assessment:* Good supplementary employment pathway for graduates of the thermal/inspection course. Students interested in this sector should consider pursuing adjuster licensing separately, as this opens higher-paying assessment roles rather than imagery-only work.
+
+=== Mining and Quarry Operations
+
+*Market Position:* Volumetric surveying for stockpile measurement and pit/dump topography updates represents steady demand in mining and aggregate industries. Drones capture in 15 minutes what takes surveyors hours on foot, with better accuracy.
+
+*Local Relevance:* Limited for SLO County specifically. Major mining and aggregate operations are concentrated elsewhere in California. However, graduates with these skills have mobility to pursue opportunities statewide.
+
+*Employment Model:* Mix of in-house positions at mining companies and contract work through surveying firms. Positions require 2-3+ years of commercial drone experience, often preferring mining or heavy construction backgrounds.
+
+*Salary Range:* Competitive base salaries of \$90,000-\$130,000 for experienced volumetric survey specialists. Entry-level positions less common; this sector typically seeks experienced operators.
+
+*Technical Requirements:* Strong photogrammetry skills, ability to produce and interpret volumetric reports (cut/fill, inventory), experience with DEMs and contour maps. GIS software proficiency (ArcGIS, QGIS) highly valued.
+
+*Assessment:* Excellent career advancement opportunity for mapping course graduates who gain experience and seek higher-paying specialization. Not an entry-level pathway, but volumetric analysis skills are directly taught in the mapping curriculum.
+
+=== Environmental Monitoring and Wildlife Research
+
+*Market Position:* The drone inspection and monitoring market generated over \$16 billion in 2024, with environmental monitoring as a leading growth segment. Research applications include wildlife population counts, habitat assessment, and ecosystem monitoring.
+
+*Local Relevance:* Moderate to high. Central Coast ecosystems, coastal monitoring, and conservation efforts create research opportunities. Morro Bay National Estuary Program collaboration demonstrates local environmental application. Cal Poly research programs are potential employers.
+
+*Employment Model:* Primarily research technician and field positions at conservation organizations, universities, and government agencies. Less corporate employment structure than other sectors.
+
+*Salary Range:* Research technician positions typically \$40,000-\$60,000. Senior research positions and coordinators can reach \$70,000-\$90,000. Academic positions follow university pay scales.
+
+*Technical Requirements:* Mapping skills, thermal imaging for wildlife detection, GIS analysis capabilities. Increasingly, AI-powered species identification and automated population counting are emerging requirements.
+
+*Assessment:* Natural fit for students with environmental science interests. The NEP collaboration provides direct experience in environmental drone applications. Could serve as informal specialization track within existing courses rather than dedicated curriculum.
+
 == Local Employment Landscape
 
 === San Luis Obispo County Drone-Related Employers
