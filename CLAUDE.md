@@ -4,6 +4,10 @@
 
 Curriculum development for Cuesta College's drone program.
 
+## Key Contacts
+
+- **Ron**: Program Director for Aerospace Classes
+
 ## Preferences
 
 - Use Typst for documents
