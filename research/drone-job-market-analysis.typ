@@ -10,9 +10,20 @@
 
 == Executive Summary
 
-This research validates the core hypothesis behind Cuesta College's drone program structure: mapping/photogrammetry and public safety represent two of the largest and most accessible employment sectors for community college graduates. However, the research also reveals that infrastructure inspection (particularly utility and energy sector work) represents an equally significant opportunity that warrants consideration, especially given San Luis Obispo County's local employers.
+This research validates the core hypothesis behind Cuesta College's drone program structure: mapping/photogrammetry represents the #1 commercial drone application, and thermal imaging applications (spanning both public safety and infrastructure inspection) represent the #2 application. The program's focus on these sectors is well-founded.
 
-The current three-course structure (introductory, mapping, public safety) aligns well with market demand. The planned Phase Two agricultural course also makes strategic sense, though it may require equipment beyond current holdings to fully capitalize on that market.
+A key finding is that infrastructure inspection, particularly utility work for PG&E, represents the single largest local employment opportunity. PG&E deploys 80+ drone pilots daily across California and logged over 300,000 inspections in 2024, with drone docks operational through Paso Robles. This argues strongly for combining the originally conceived "public safety" course with infrastructure inspection training, unified by thermal imaging as the core technical skill.
+
+The program serves two student populations: existing professionals (surveyors, engineers, first responders) seeking to add drone capabilities, and early career students entering the industry. The three-course Phase One structure serves both effectively. Phase Two expansion into GIS analysis leverages instructor expertise and positions graduates for higher-level data analyst roles.
+
+*Recommended Phase One Structure:*
+1. AERO 100: Basic UAV Operator
+2. Drone Mapping and Photogrammetry
+3. Thermal Imaging and Applied Inspection (combined public safety and infrastructure)
+
+*Recommended Phase Two Expansion:*
+4. GIS Analysis and Drone Data Processing
+5. Agricultural Drone Operations (multispectral, with potential spray pathway)
 
 == Market Overview
 
@@ -332,21 +343,160 @@ For graduates seeking employment rather than entrepreneurship:
 - Specialized skills (thermal imaging, data processing) command higher salaries
 - Contract networks like FlyGuys and Zeitview offer work but not traditional employment
 
+== Target Student Populations
+
+The program serves two distinct student populations with different needs and prior knowledge:
+
+=== Existing Professionals Seeking Skill Augmentation
+
+This group includes surveyors, environmental consultants, engineers, police officers, firefighters, home inspectors, and other professionals who want to add drone capabilities to their existing expertise. They typically have:
+
+- Domain knowledge in their field (a surveyor understands what deliverables clients need)
+- Professional networks and potential employers already identified
+- Limited time availability (often working while taking courses)
+- Clear understanding of how drones fit into their work
+
+*Program implications:* These students benefit from courses that focus on drone operations and data collection rather than extensive background on industry context. They may prefer evening or weekend scheduling. The intro course provides Part 107 preparation and flight proficiency; advanced courses give them the specific technical skills (mapping workflows, thermal interpretation) to integrate drones into their practice.
+
+=== Early Career Students
+
+This group includes recent high school graduates and career changers entering the drone industry. They typically have:
+
+- Limited or no prior professional experience
+- More schedule flexibility
+- Need for both technical skills AND industry context
+- Interest in understanding multiple career pathways before specializing
+
+*Program implications:* These students benefit from exposure to multiple applications before choosing a specialization. They need more context about industries, employers, and career pathways. Partnerships with local employers for internships or job placement become especially valuable for this population.
+
+=== Serving Both Populations
+
+The three-course structure accommodates both groups effectively:
+
+1. *AERO 100 (Intro):* Essential for both populations. Professionals need Part 107; early career students need foundational skills.
+
+2. *Mapping Course:* Valuable for surveyors, engineers, and consultants adding drone skills. Also provides early career students with the most broadly applicable commercial skill.
+
+3. *Thermal/Inspection Course:* Attracts existing first responders, utility workers, and home inspectors. Creates employment pathways for early career students into utility inspection.
+
+The key is ensuring course marketing and scheduling accommodate working professionals while providing sufficient industry context for those new to the field.
+
 == Recommendations
 
-=== Validation of Current Structure
+=== Proposed Course Structure: Combining Thermal Inspection and Public Safety
 
-The three-course structure (introductory, mapping, public safety) addresses legitimate market needs. Mapping is the #1 commercial application, and public safety is growing rapidly. The program's focus on employment preparation is appropriate given the shift toward in-house drone pilots at larger organizations.
+The research strongly supports merging the originally conceived "public safety" course with infrastructure inspection training. The unifying element is thermal imaging, which serves both sectors.
 
-=== Considerations for Enhancement
+==== Rationale for Combination
 
-+ *Infrastructure Inspection Track*: The utility/energy inspection market is substantial and locally relevant given PG&E's presence. Consider whether the public safety course could incorporate inspection training (both use thermal imaging), or whether inspection deserves dedicated attention.
+*Shared Technical Foundation:*
+- Both public safety and infrastructure inspection rely heavily on thermal imaging
+- The Matrice 4T already owned by the program serves both applications
+- Flight operations near structures and in complex environments are common to both
+- Data interpretation skills (identifying heat signatures, anomalies) transfer directly
 
-+ *PG&E Partnership*: Explore direct partnerships with PG&E for curriculum input, equipment standards, and potential hiring pipelines. Their scale of operations (80 pilots daily, 300,000+ inspections annually) represents significant employment opportunity.
+*Complementary Career Pathways:*
+- Public safety drone positions typically go to existing sworn personnel
+- Infrastructure inspection offers direct civilian employment opportunities
+- A combined course serves first responders seeking professional development AND early career students seeking utility/inspection jobs
+- Students gain flexibility to pursue either path based on their circumstances
 
-+ *Equipment Planning for Agriculture*: The Phase Two agricultural course will be more marketable if the program can acquire multispectral sensors. Color-only agricultural mapping is limited in scope.
+*Market Alignment:*
+- PG&E represents the largest local employer for drone pilots (80+ daily, 300,000+ annual inspections)
+- Public safety agencies increasingly require thermal drone capabilities
+- Solar farm inspection, building envelope assessment, and utility work all use identical skills
 
-+ *Public Safety Pathway Clarity*: Be explicit with students that public safety drone positions typically go to existing sworn/volunteer personnel. The course may be most valuable for students already pursuing fire/police careers, or as continuing education for current first responders.
+==== Proposed Course: "Thermal Imaging and Applied Inspection"
+
+*Core Competencies:*
+- Infrared theory and heat transfer fundamentals
+- Thermal camera operation, calibration, and image optimization
+- Thermal data interpretation and anomaly identification
+- Flight operations near structures, towers, and hazardous environments
+- Report generation and professional documentation
+- Safety protocols for energized equipment and emergency scenes
+
+*Application Modules:*
+
+_Module A: Utility and Infrastructure Inspection_
+- Power line and pole inspection techniques
+- Solar panel thermal assessment
+- Building envelope and roof inspection
+- Cell tower and telecommunications infrastructure
+- California GO 95/GO 165 regulatory overview
+
+_Module B: Public Safety Operations_
+- Search and rescue thermal techniques
+- Fire scene assessment and hotspot identification
+- Law enforcement tactical support applications
+- Night operations and low-light environments
+- Incident command integration
+
+*Equipment Requirements:* The existing Matrice 4T with thermal payload is well-suited for this curriculum. No additional major equipment purchases required.
+
+*Certification Pathway:* Students completing this course would be prepared for Level 1 thermography certification from organizations like Infraspection Institute or ITC. This certification significantly increases earning potential across all thermal imaging applications.
+
+*Partnership Opportunities:*
+- PG&E for curriculum input and potential hiring pipeline
+- Local fire departments (CAL FIRE, SLO County Fire) for public safety module input
+- SLO County for infrastructure inspection case studies
+- Solar installation companies for panel inspection training sites
+
+==== Phase Two: GIS Analysis and Advanced Data Processing
+
+The natural second phase for program expansion focuses on the analysis side of drone data, leveraging instructor expertise in GIS.
+
+*Rationale:*
+- Complements the data collection focus of mapping and inspection courses
+- GIS skills significantly increase graduate employability and salary potential
+- Positions graduates for roles beyond "drone pilot" into data analyst/specialist positions
+- Differentiates program from basic flight training programs
+
+*Potential Curriculum Elements:*
+- Photogrammetry processing workflows (Metashape, Pix4D, DroneDeploy)
+- GIS fundamentals and integration with drone data
+- Orthomosaic production and quality assessment
+- Digital elevation models and volumetric analysis
+- Change detection and temporal analysis
+- Data management and deliverable standards
+
+*Target Students:* This course would particularly appeal to existing GIS professionals adding drone skills, surveyors seeking to bring processing in-house, and graduates of the mapping course who want to move beyond field operations into data analysis roles.
+
+=== Updated Program Structure
+
+Based on this research, the recommended program structure is:
+
+*Phase One (Current Planning):*
+1. AERO 100: Basic UAV Operator - Part 107 preparation, flight proficiency, industry overview
+2. Drone Mapping and Photogrammetry - RGB orthophotos, RTK positioning, professional workflows
+3. Thermal Imaging and Applied Inspection - Combined public safety and infrastructure inspection
+
+*Phase Two (Future Expansion):*
+4. GIS Analysis and Drone Data Processing - Post-processing, analysis, and advanced deliverables
+5. Agricultural Drone Operations - Multispectral imaging, with potential spray certification pathway
+
+=== Partnership Priorities
+
+Based on employment opportunity and program relevance:
+
++ *PG&E* - Largest local drone employer, uses same equipment, clear hiring pipeline potential
++ *Local Fire/Police* - Public safety module input, continuing education market
++ *NEP (Morro Bay)* - Already developing as mapping course partner
++ *Cal Poly* - Research collaboration, potential student pipeline
++ *SLO County Public Works* - Infrastructure inspection case studies
+
+=== Equipment Recommendations
+
+*Current Holdings (Adequate for Phase One):*
+- DJI Matrice 4T (thermal) - Supports inspection/public safety course
+- DJI Matrice 4E (mapping) - Supports mapping course
+- Training fleet (Mini 3, Air 3) - Supports intro course
+- Emlid RTK system - Supports mapping course
+
+*Phase Two Additions:*
+- DJI Mavic 3 Multispectral (~\$6,500) - Required for agricultural course
+- Processing workstations - Required for GIS analysis course
+- Spray drone (if pursuing spray certification) - \$25,000+ investment, evaluate based on demand
 
 === Sectors Appropriately Excluded
 
