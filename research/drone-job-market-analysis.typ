@@ -84,19 +84,215 @@ Key hiring sectors in California:
 
 *Assessment:* This represents a significant local opportunity that the current program structure may underserve. Consider whether the public safety course could incorporate or be renamed to include infrastructure inspection, or whether inspection deserves its own track. Thermal imaging skills transfer directly between public safety and utility inspection applications.
 
+==== Deep Dive: PG&E and Utility Inspection
+
+PG&E represents the single largest potential employer for drone pilots in the Central Coast region. Their drone program, operational since 2015, has grown into one of the most extensive utility drone operations in the country.
+
+*Scale of Operations:*
+- 180-drone fleet across California
+- 80+ pilots deployed daily during peak inspection periods
+- 300,000+ pole and tower inspections completed in 2024
+- Drone docks (autonomous charging stations) operational from Redding to Paso Robles
+- 12 dedicated pilots for autonomous operations, plus 3 for remote control room operations
+
+*Equipment Standards:* PG&E uses DJI Matrice series drones and Skydio autonomous platforms equipped with high-resolution cameras, thermal sensors, and in some cases LiDAR. The Matrice 4T that Cuesta already owns aligns with PG&E's equipment standards.
+
+*Hiring Requirements:*
+- FAA Part 107 certification (mandatory)
+- Understanding of GO 95 and GO 165 (California utility safety regulations)
+- Flight experience with commercial UAV platforms
+- Utility inspection experience preferred but not always required
+- Physically demanding work: pilots must hike to remote sites, often in difficult terrain
+- Garmin inReach satellite communication devices provided for remote operations
+
+*Career Pathway:* PG&E hires both employees and contractors. The program was built up by Kellen Kirk, a former U.S. Navy aircraft mechanic and commercial pilot. Entry-level positions focus on visual inspections; advancement involves BVLOS operations and specialized payload work.
+
+*BVLOS Operations:* PG&E holds FAA waivers for Beyond Visual Line of Sight operations, which are increasingly important for utility inspection. Pilots in these roles must comply with strict telemetry logging requirements and anti-collision protocols.
+
+==== Other Infrastructure Inspection Opportunities
+
+Beyond utilities, infrastructure inspection encompasses several sub-sectors:
+
+*Solar Farm Inspection:*
+- Thermal imaging to identify hotspots, broken panels, and connection failures
+- California has extensive solar installations requiring regular inspection
+- Often combined with utility work at the same employers
+
+*Wind Turbine Inspection:*
+- Close-range blade inspection for wear, cracks, and surface damage
+- Nacelle and tower infrastructure assessment
+- Higher-paying specialty due to technical demands
+- Limited local opportunity (wind farms concentrated elsewhere in California)
+
+*Cell Tower Inspection:*
+- Telecommunications companies use drones to inspect towers without sending climbers
+- Electromagnetic interference is a technical consideration
+- Growing sector as 5G infrastructure expands
+
+*Bridge and Transportation Infrastructure:*
+- CalTrans and county public works departments increasingly use drones
+- Concrete beam inspection, deck assessment, and structural documentation
+- Potential partnership opportunity with SLO County
+
+==== Training and Certification for Infrastructure Inspection
+
+Beyond Part 107, infrastructure inspection careers benefit from:
+
+*Thermography Certification:*
+- Critical skill for utility, solar, and building inspection work
+- Level 1 certification teaches theory, operation, and data interpretation
+- Can significantly increase earning potential (one pilot reported going from \$30k to \$200k after thermography specialization)
+- Training costs: \$1,500-\$5,000
+
+*Utility-Specific Knowledge:*
+- GO 95 (California overhead electric line construction rules)
+- GO 165 (inspection requirements for electric distribution/transmission facilities)
+- Understanding of electrical infrastructure components and failure modes
+
+*Safety Protocols:*
+- Working near energized lines requires specific safety training
+- Electromagnetic interference awareness
+- Most operators maintain at least 100 feet clearance from power lines
+
+==== Salary Progression in Infrastructure Inspection
+
+- Entry-level powerline inspection: \$50,000-\$65,000 annually
+- Mid-level (3-5 years experience): \$65,000-\$85,000
+- Senior inspector or program manager: \$90,000-\$120,000+
+- BVLOS specialists and those with LiDAR/specialized payload experience command premium rates
+
+Thermography specialization can dramatically increase earning potential regardless of experience level.
+
 === Agriculture
 
-*Market Position:* Fastest-growing application segment. California's Central Valley is a major adoption center. Primary applications include crop monitoring (multispectral imaging), precision spraying, and field mapping.
+*Market Position:* Fastest-growing application segment. California's Central Valley is a major adoption center. Primary applications include crop monitoring (multispectral imaging), precision spraying, and field mapping. The global agricultural drone market is projected to exceed \$10 billion by 2030, with some analysts suggesting 80% of future commercial drone usage could come from agriculture.
 
-*Local Relevance:* Moderate. SLO County has significant agricultural activity, particularly wine grapes and cattle ranching. However, the highest-demand agricultural drone applications (large-scale row crop monitoring, precision spraying) are concentrated in the Central Valley rather than the Central Coast.
+*Local Relevance:* Moderate for the Central Coast specifically, but high for California overall. SLO County has significant wine grape production and some row crop agriculture. The Salinas Valley (just north) is a major agricultural center where commercial drone spraying has recently launched. The Central Valley represents the largest concentration of agricultural drone work in California.
 
-*Employment Model:* Mix of positions at agricultural technology companies, farming operations, and contract spraying services. Specialty Aerial operates drone spraying services in SLO County.
+*Employment Model:* Mix of positions at agricultural technology companies, farming operations, and contract spraying services. The work is often seasonal, with peak demand during growing season.
 
-*Equipment Requirements:* Full agricultural drone capability requires multispectral sensors and/or spraying equipment, which the program does not currently hold. Basic crop mapping with RGB cameras is possible but represents only a portion of the agricultural market.
+*Salary Range:* \$60,000-90,000 annually for full-time positions; \$40,000-80,000 for seasonal or entry-level work. Freelance spraying operators can earn significantly more during peak season.
 
-*Salary Range:* \$43,000-100,000 annually, with significant variation based on specialization and whether work is seasonal.
+*Assessment:* The Phase Two agricultural course makes strategic sense, but requires significant equipment investment and additional certifications beyond Part 107. This is a more complex pathway than mapping or inspection.
 
-*Assessment:* The Phase Two agricultural course makes strategic sense, but the program should consider equipment investments (multispectral sensors at minimum) to fully address market needs. Color mapping alone may not differentiate graduates in this sector.
+==== Multispectral Imaging and Crop Monitoring
+
+Multispectral drones capture data beyond visible light to assess plant health, identify stress, and guide precision agriculture decisions.
+
+*Applications:*
+- NDVI (Normalized Difference Vegetation Index) mapping to assess crop health
+- Early detection of pest infestations, disease, and irrigation problems
+- Variable rate prescription maps for fertilizer and chemical application
+- Yield estimation and harvest planning
+- Research applications at universities and agricultural experiment stations
+
+*Equipment Requirements:*
+- Multispectral sensor (e.g., MicaSense, DJI Mavic 3 Multispectral)
+- RTK-capable drone for georeferenced data
+- Processing software capable of generating vegetation indices
+
+*Equipment Costs:*
+- DJI Mavic 3 Multispectral: approximately \$6,500
+- MicaSense RedEdge-P or Altum: \$5,500-\$12,000
+- Higher-end fixed-wing systems with multispectral: \$15,000-\$30,000
+
+*Employment Opportunities:*
+- Precision agriculture consultants
+- Ag technology companies (crop analytics, farm management software)
+- University research programs
+- Large farming operations with in-house agronomy staff
+- Vineyard management companies
+
+*Revenue Model (Contract/Freelance):*
+- Monthly subscriptions: \$1,000-\$3,000 per farm
+- Hourly rates: \$50-\$150/hour for data collection
+- Often bundled with analysis and recommendation services
+
+*Local Vineyard Opportunity:* Wine grape operations on the Central Coast increasingly use drone technology for vineyard management. Clos de la Tech in the Santa Cruz Mountains has been an early adopter. AgVision CA offers AI-powered drone scouting specifically for winegrowers. This represents a potential niche for Central Coast graduates, though the market is smaller than Central Valley row crops.
+
+==== Spray Operations
+
+Agricultural spraying represents the highest-revenue segment of agricultural drone work, but also requires the most extensive certification and equipment investment.
+
+*Applications:*
+- Herbicide application
+- Fungicide treatment
+- Insecticide spraying
+- Fertilizer application
+- Cover crop seeding
+
+*Certification Requirements (Stacked):*
+
+1. *FAA Part 107* - Basic commercial drone certification
+
+2. *FAA Part 137* - Agricultural Aircraft Operator Certificate
+   - Same certification required for manned crop dusters
+   - Covers regulations specific to aerial chemical application
+   - Focuses on safety and environmental considerations
+   - Application approval takes 2-4 months
+
+3. *44807 Exemption* - Required for drones over 55 lbs
+   - Most commercial spray drones (DJI Agras T40, T50, Hylio AG272) exceed this weight
+   - Must be included in Part 137 exemption request
+
+4. *California QAC/QAL License* - State pesticide applicator certification
+   - Issued by California Department of Pesticide Regulation
+   - Requires passing exams on laws, regulations, and pest control principles
+   - Applicants must be at least 18 years old
+
+5. *County Registration* - Annual registration with each county of operation
+   - Required for legal pesticide application in California
+
+*Equipment:*
+- DJI Agras T40/T50: \$20,000-\$30,000 (plus batteries)
+- Hylio AG272: \$25,000+
+- Annual maintenance and nozzle replacement
+- Chemical handling equipment and PPE
+- Support vehicle for field operations
+
+*Physical Demands:* Spray pilots must lift 50+ lbs regularly (chemical containers, batteries), work outside for extended periods, and often operate in remote locations. Work is seasonal and weather-dependent.
+
+*Salary and Revenue:*
+- Entry-level employed positions: approximately \$45,000/year plus bonuses for certifications
+- Experienced operators: \$60,000-\$100,000
+- Contract spraying rates: \$10-\$30 per acre depending on crop and location
+- Peak season potential (freelance with own equipment): \$8,000/day spraying 400 acres at \$20/acre
+- California vineyard specialists report \$150/hour for mapping plus \$25/acre for spraying
+
+*Companies Hiring in California:*
+- Davey Resource Group (herbicide spray drone pilots, Los Angeles area)
+- nuWay Ag (Central Valley operations)
+- Various farm management companies and agricultural cooperatives
+- Direct employment by large farming operations
+
+*Central Coast Opportunity:* The Salinas Valley has recently seen commercial drone spraying operations launch. Vineyard spraying represents a potential niche, though the terrain (steep hillsides) creates operational challenges and opportunities.
+
+==== Program Implications for Agricultural Drone Training
+
+If Cuesta pursues agricultural drone training, the program faces several decision points:
+
+*Option A: Multispectral Only*
+- Lower equipment investment (\$6,500 for Mavic 3 Multispectral)
+- No additional FAA certifications beyond Part 107
+- Prepares students for crop monitoring and precision ag consulting
+- Can be combined with general mapping curriculum
+- Does not prepare students for spray operations
+
+*Option B: Spray Operations*
+- Significant equipment investment (\$25,000+ for spray drone)
+- Requires Part 137 certification curriculum
+- Requires coordination with California DPR for applicator training
+- Prepares students for highest-paying agricultural drone work
+- More complex liability and safety considerations
+
+*Option C: Both*
+- Comprehensive agricultural drone program
+- Highest equipment and curriculum development costs
+- Creates multiple career pathways for graduates
+
+*Equipment Consideration:* The program's existing Matrice 4T includes thermal imaging but not multispectral. Multispectral sensors capture specific wavelength bands (red edge, near-infrared) that thermal cameras do not. A dedicated multispectral drone would be required for crop health assessment training.
+
+*Certification Pathway:* Part 137 certification could potentially be offered as a post-program continuing education option rather than embedded in the core curriculum, allowing students to complete the foundational program and add spray certification later if they pursue that career path.
 
 === Media, Real Estate, and Photography
 
