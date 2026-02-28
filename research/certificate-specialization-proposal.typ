@@ -15,7 +15,7 @@ This document proposes a set of stackable certificates for Cuesta College's emer
 
 This design follows proven institutional models already operating successfully at Cuesta. The Child Development and Family Studies program uses a stacking approach where each certificate level builds on the last: Associate Teacher (12 units) feeds into Teacher (26 units), which feeds into Master Teacher (35 units). The Business Administration program uses a different but complementary pattern: a shared Career Track Core certificate that branches into concentration-specific credentials in Accounting, Marketing, Small Business Management, and other fields. The proposed UAS structure combines both approaches -- a common core branching into specializations, with a stacking pathway from smaller credentials to larger ones.
 
-The interdisciplinary nature of drone operations is a strength. By pairing AERO courses with existing offerings in Geography, Criminal Justice, Agriculture, and Film/Television, the program creates cross-enrollment pathways that serve students from multiple disciplines while strengthening the enrollment base for all participating departments.
+The interdisciplinary nature of drone operations is a strength. By pairing AERO courses with existing offerings in Geography, Agriculture, Art, and Film/Television, the program creates cross-enrollment pathways that serve students from multiple disciplines while strengthening the enrollment base for all participating departments.
 
 = Foundation Course
 
@@ -32,7 +32,9 @@ AERO 100 prepares students for FAA Part 107 certification and covers regulations
 
 = Proposed New AERO Courses
 
-Two new courses are in development. Course Outline Reports for both are drafted and ready for review.
+Two new courses are in active development, with Course Outline Reports drafted and ready for review. Two additional courses are proposed for future phases.
+
+== Phase 1 Courses
 
 #table(
   columns: (auto, 1fr, auto, auto),
@@ -46,11 +48,21 @@ AERO 110 covers RTK positioning, ground control point methodology, photogrammetr
 
 AERO 120 covers infrared theory, thermal camera operation, image interpretation, infrastructure inspection, and public safety operations including search and rescue. The course aligns with Level 1 thermography certification requirements and prepares students for employment in utility inspection and public safety.
 
-A third new course in agricultural UAS applications is proposed for Phase 2 development, discussed below under the Agriculture specialization.
+== Phase 2 Courses
+
+#table(
+  columns: (auto, 1fr, auto, auto),
+  align: (left, left, center, left),
+  table.header([*Course*], [*Title*], [*Units*], [*Status*]),
+  [AERO 1XX], [Multispectral Imaging and Crop Monitoring], [2.0--3.0], [Proposed],
+  [AERO 1XX], [Agricultural Spray Operations], [2.0--3.0], [Proposed],
+)
+
+The two agricultural courses address distinct segments of the agricultural drone market that require different equipment, different regulatory frameworks, and different skill sets. They are discussed in detail under the Agriculture specializations below.
 
 = Certificates of Specialization
 
-Certificates of Specialization are Cuesta's smallest credential, typically consisting of two to four courses totaling 3 to 12 units. The college currently offers 23 of these certificates, with a median of 6.0 units. They target a single employable skill and are designed for quick completion. Five specializations are proposed for the UAS program, each combining the AERO foundation with courses from partner departments.
+Certificates of Specialization are Cuesta's smallest credential, typically consisting of two to four courses totaling 3 to 12 units. The college currently offers 23 of these certificates, with a median of 6.0 units. They target a single employable skill and are designed for quick completion. Four specializations are proposed for the UAS program, each combining the AERO foundation with courses from partner departments.
 
 == UAS Mapping
 
@@ -70,24 +82,6 @@ The collaboration with the Geology/Geography department is natural. Drone-collec
 
 *Career pathways:* Surveying and engineering firms, construction site monitoring, environmental consulting, county and city planning departments, agriculture technology companies.
 
-== UAS Public Safety
-
-#table(
-  columns: (auto, 1fr, auto, auto),
-  align: (left, left, center, left),
-  table.header([*Course*], [*Title*], [*Units*], [*Department*]),
-  [AERO 100], [Basic UAV Operator], [3.0], [Aerospace],
-  [AERO 120], [Thermal Imaging and Applied Inspection], [3.0], [Aerospace],
-  [CJ 202], [Introduction to Criminal Justice], [3.0], [Criminal Justice],
-  table.footer([], [*Total*], [*9.0*], []),
-)
-
-This specialization serves students pursuing careers in law enforcement, fire response, and search and rescue operations that increasingly rely on drone-deployed thermal imaging. AERO 120 covers thermal search patterns, incident command integration, and night operations. Pairing it with CJ 202 provides the institutional and procedural context that public safety drone operators need to function within emergency response structures.
-
-Cuesta does not offer a fire technology program, which makes this certificate particularly valuable as the only public-safety-adjacent drone credential in the area. The continuing education market is also significant: working firefighters, law enforcement officers, and SAR volunteers represent an audience for evening and weekend scheduling of these courses.
-
-*Career pathways:* Law enforcement agencies, fire departments, search and rescue teams, emergency management, private security firms with drone divisions.
-
 == UAS Inspection
 
 #table(
@@ -99,33 +93,57 @@ Cuesta does not offer a fire technology program, which makes this certificate pa
   table.footer([], [*Total*], [*6.0*], []),
 )
 
-This is the most focused specialization, targeting the infrastructure inspection sector. AERO 120 covers electrical infrastructure inspection, solar panel assessment, building envelope analysis, and professional reporting workflows aligned with California utility regulations (General Orders 95 and 165). PG&E alone operates over 80 drone pilots daily and completed more than 300,000 inspections in 2024, making utility inspection the single largest local employer of drone operators in our region.
+This specialization targets the infrastructure inspection and public safety sectors, unified by thermal imaging as the core technical skill. AERO 120 covers electrical infrastructure inspection, solar panel assessment, building envelope analysis, professional reporting workflows aligned with California utility regulations (General Orders 95 and 165), and public safety applications including search and rescue, fire assessment, and incident command integration.
 
-At 6.0 units and two courses, this certificate matches the institutional median for Certificates of Specialization and provides the fastest path to employment for students targeting the inspection sector. Combined with the Part 107 certification from AERO 100 and the Level 1 thermography certification pathway in AERO 120, graduates hold two industry credentials that are standard requirements for inspection positions.
+PG&E alone operates over 80 drone pilots daily and completed more than 300,000 inspections in 2024, making utility inspection the single largest local employer of drone operators in our region. The job market research confirms that infrastructure inspection is the dominant civilian employment pathway for thermal imaging skills. Public safety drone positions, by contrast, are typically filled by existing sworn personnel who add drone certification to their skillset rather than by external hires. AERO 120 serves both populations: students targeting civilian inspection careers and working first responders seeking professional development in thermal drone operations.
 
-*Career pathways:* Utility inspection (PG&E, other IOUs), solar installation assessment, building inspection, insurance documentation, cell tower inspection.
+At 6.0 units and two courses, this certificate matches the institutional median for Certificates of Specialization and provides the fastest path to employment. Combined with the Part 107 certification from AERO 100 and the Level 1 thermography certification pathway in AERO 120, graduates hold two industry credentials that are standard requirements for inspection positions.
+
+*Career pathways:* Utility inspection (PG&E, other IOUs), solar installation assessment, building inspection, insurance documentation, cell tower inspection, public safety agencies (for existing personnel adding drone skills).
 
 == UAS Agriculture
+
+Agricultural drone work splits into two distinct disciplines that require different equipment, different certifications, and different knowledge bases. Rather than combining them into a single overloaded course, the program proposes two separate tracks. Both are Phase 2 offerings that should be developed in consultation with the Agriculture department.
+
+=== Crop Monitoring Track
 
 #table(
   columns: (auto, 1fr, auto, auto),
   align: (left, left, center, left),
   table.header([*Course*], [*Title*], [*Units*], [*Department*]),
   [AERO 100], [Basic UAV Operator], [3.0], [Aerospace],
-  [AERO 1XX], [Agricultural UAS Applications (proposed)], [3.0], [Aerospace],
-  [AGPS 241], [Introduction to Soil Science], [3.0], [Agriculture],
-  table.footer([], [*Total*], [*9.0*], []),
+  [AERO 1XX], [Multispectral Imaging and Crop Monitoring], [2.0--3.0], [Aerospace],
+  [AGPS 242], [Introduction to Plant Science], [3.0], [Agriculture],
+  table.footer([], [*Total*], [*8.0--9.0*], []),
 )
 
-_Note: The agricultural UAS course is proposed for Phase 2 development. The course number is a placeholder._
+This track focuses on using multispectral drones to assess crop health, identify stress patterns, detect pest and irrigation issues, and generate prescription maps for variable-rate applications. The proposed AERO course would cover multispectral sensor operation, vegetation index calculation (NDVI and related indices), flight planning for agricultural missions, and data analysis workflows. It would borrow foundational mapping concepts from AERO 110 -- flight planning, basic orthomosaic production, coordinate systems -- but with a lighter treatment of ground control points and RTK positioning, focusing instead on the multispectral interpretation and agronomic analysis that distinguish this work. Color orthomosaic production would be covered as supporting context rather than as the primary deliverable.
 
-This specialization addresses the growing use of drones in precision agriculture for crop health assessment, pesticide and fertilizer application planning, irrigation management, and remote sensing. A new AERO course focused on agricultural applications would cover multispectral imaging, vegetation indices (NDVI), prescription map generation, and spray drone operations. Pairing it with AGPS 241 (Introduction to Soil Science) gives students the agronomic context to interpret the data their drone flights produce.
+Pairing the drone course with AGPS 242 (Introduction to Plant Science) gives students the agronomic foundation to interpret what the imagery is telling them. Understanding plant structures, physiology, and crop management is essential context for translating vegetation indices into actionable recommendations. This keeps the certificate efficient -- students do not need the full mapping course or the full remote sensing course to be productive in agricultural monitoring.
 
-GEOL 234 (Remote Sensing, 3 units) could serve as an alternative or additional course in this track. Remote sensing principles are directly applicable to agricultural drone work, and the course already exists within the GIS certificate program. AGPS 242 (Introduction to Plant Science) is another candidate for inclusion. The final course selection should be developed in consultation with the Agriculture department to ensure the strongest alignment with regional industry needs.
+Equipment would require a multispectral-capable drone (DJI Mavic 3 Multispectral or equivalent, approximately \$6,500) in addition to the existing fleet. No additional FAA certifications beyond Part 107 are required.
 
-San Luis Obispo County's wine, vegetable, and cattle operations represent a practical local market, and California's regulatory environment around agricultural drone use is evolving rapidly, creating demand for trained operators who understand both the technology and the agronomic context.
+*Career pathways:* Precision agriculture consulting, vineyard and orchard monitoring, farm management technology, agricultural research, crop insurance documentation.
 
-*Career pathways:* Precision agriculture service providers, farm management, vineyard and orchard monitoring, agricultural consulting, crop insurance documentation.
+=== Spray Operations Track
+
+#table(
+  columns: (auto, 1fr, auto, auto),
+  align: (left, left, center, left),
+  table.header([*Course*], [*Title*], [*Units*], [*Department*]),
+  [AERO 100], [Basic UAV Operator], [3.0], [Aerospace],
+  [AERO 1XX], [Agricultural Spray Operations], [2.0--3.0], [Aerospace],
+  [AGPS 242], [Introduction to Plant Science], [3.0], [Agriculture],
+  table.footer([], [*Total*], [*8.0--9.0*], []),
+)
+
+This track addresses the highest-revenue segment of agricultural drone work: aerial application of herbicides, fungicides, insecticides, and fertilizers. The proposed AERO course would cover spray drone operation, calibration and nozzle selection, drift management, chemical handling safety, and the regulatory stack required for legal operation in California: FAA Part 137 (Agricultural Aircraft Operator Certificate), the 44807 exemption for aircraft over 55 lbs, and the California QAC/QAL pesticide applicator license.
+
+This track requires substantially different equipment and carries higher costs than other specializations. Commercial spray drones (DJI Agras T40/T50, Hylio AG272) cost \$20,000--\$30,000, and the regulatory pathway is more complex. However, the earning potential is significant: contract spraying rates of \$10--\$30 per acre translate to peak-season revenues of several thousand dollars per day for operators with their own equipment. The Salinas Valley has recently seen commercial drone spraying operations launch, and vineyard spraying on the Central Coast represents a growing niche.
+
+The spray operations course could also be structured as a continuing education offering for students who have already completed other AERO courses and want to add this specialization. Part 137 certification, in particular, may be better suited as a post-program add-on than as an embedded requirement, allowing students to complete a foundational certificate first and pursue spray certification as their career develops.
+
+*Career pathways:* Agricultural spraying service providers, farm operations, vineyard management, agricultural cooperatives, independent contract spraying.
 
 == UAS Videography
 
@@ -134,16 +152,14 @@ San Luis Obispo County's wine, vegetable, and cattle operations represent a prac
   align: (left, left, center, left),
   table.header([*Course*], [*Title*], [*Units*], [*Department*]),
   [AERO 100], [Basic UAV Operator], [3.0], [Aerospace],
-  [FTVE 221], [Introduction to Electronic Media], [3.0], [Film/TV/Electronic Media],
+  [ART 249A], [Digital Photography I], [3.0], [Art],
   [FTVE 225B], [Single Camera TV Production and Editing], [3.0], [Film/TV/Electronic Media],
   table.footer([], [*Total*], [*9.0*], []),
 )
 
-_Note: FTVE course numbers and units should be confirmed with the Languages and Communication division. FTVE 223 (Introduction to Motion Picture and TV Production) may be a better fit depending on its current content._
+This specialization pairs drone flight skills with the visual composition and video production fundamentals that distinguish professional aerial videographers from hobbyists. ART 249A covers the technical and aesthetic foundations -- exposure, composition, the elements of design, and camera technology in a digital context. FTVE 225B builds on those fundamentals with hands-on single-camera video production: scripting, shooting on location, portable lighting, audio, editing, and post-production. Together these courses give students both still image composition skills and motion video production capability alongside the drone operation skills from AERO 100.
 
-This specialization pairs drone flight skills with video production and post-production fundamentals. Aerial videography is among the most visible commercial applications of drones, serving real estate marketing, event coverage, documentary production, tourism promotion, and social media content creation. Rather than developing new videography curriculum within the AERO prefix, this track leverages Cuesta's existing FTVE program, which already covers camera operation, composition, editing, and production workflows.
-
-The collaboration benefits both programs. FTVE students gain a compelling new tool for their production work, while AERO students gain the visual storytelling and technical post-production skills that distinguish professional aerial videographers from hobbyists. The FTVE department may also find that drone capabilities attract new students to their existing courses.
+Rather than developing new videography curriculum within the AERO prefix, this track leverages two existing courses from partner departments. The collaboration benefits all three programs: Art and FTVE students gain a compelling new tool for their production work, while AERO students gain skills that are otherwise absent from the drone curriculum. Both ART 249A and FTVE 225B are existing courses with no prerequisites beyond AERO 100, keeping the path to certification efficient.
 
 *Career pathways:* Real estate media, event and wedding videography, tourism and destination marketing, documentary and news production, social media content creation, corporate video.
 
@@ -171,19 +187,18 @@ The Certificate of Achievement is the program's comprehensive workforce credenti
   [GEOG 230], [Introduction to Geographic Information Systems], [3.0],
   [GEOL 231], [Advanced GIS], [3.0],
   [GEOL 234], [Remote Sensing], [3.0],
-  [CJ 202], [Introduction to Criminal Justice], [3.0],
-  [AGPS 241], [Introduction to Soil Science], [3.0],
   [AGPS 242], [Introduction to Plant Science], [3.0],
-  [FTVE 221], [Introduction to Electronic Media], [3.0],
+  [ART 249A], [Digital Photography I], [3.0],
   [FTVE 225B], [Single Camera TV Production and Editing], [3.0],
-  [AERO 1XX], [Agricultural UAS Applications (when available)], [3.0],
+  [AERO 1XX], [Multispectral Imaging and Crop Monitoring (when available)], [3.0],
+  [AERO 1XX], [Agricultural Spray Operations (when available)], [3.0],
 )
 
 === Total: 17.0 units (8.0 core + 9.0 elective)
 
 This structure ensures every graduate has both mapping and inspection competency from the three AERO courses, then allows specialization through the elective block. Students who have already earned a Certificate of Specialization will find that their coursework counts directly toward the Certificate of Achievement, creating a natural stacking pathway with no wasted units.
 
-The elective list draws entirely from existing courses at the college (with the exception of the future agricultural AERO course), which means no new curriculum development is required in partner departments. Students are free to mix electives across disciplines or concentrate in a single area, depending on their career goals.
+The elective list draws primarily from existing courses at the college, which means no new curriculum development is required in partner departments. Students are free to mix electives across disciplines or concentrate in a single area, depending on their career goals.
 
 At 17.0 units, the certificate is comparable to Cloud Computing (16.0 units), Audio Technology I (16.0 units), Welding Technology (18.5 units), and Farm Management (18.0 units), all successful CTE certificates at Cuesta.
 
@@ -203,7 +218,7 @@ The following diagram illustrates how credentials build on each other:
 
     *Level 2 -- Certificate of Specialization* (6--9 units) \
     AERO 100 + one applied course + one partner department course \
-    _Five tracks: Mapping, Public Safety, Inspection, Agriculture, Videography_
+    _Four tracks: Mapping, Inspection, Agriculture, Videography_
 
     #line(length: 100%, stroke: 0.5pt + luma(180))
 
@@ -228,9 +243,9 @@ A key advantage of this structure is that it creates enrollment pipelines betwee
   [GEOG 230], [UAS Mapping specialization + C.A. elective], [GIS Certificate of Achievement (12 units)],
   [GEOL 231], [C.A. elective], [GIS Certificate of Achievement],
   [GEOL 234], [C.A. elective], [GIS Certificate of Achievement],
-  [CJ 202], [UAS Public Safety specialization + C.A. elective], [A.A.-T. Administration of Justice],
-  [AGPS 241], [UAS Agriculture specialization + C.A. elective], [A.S.-T. Agriculture Plant Science],
-  [FTVE 221], [UAS Videography specialization + C.A. elective], [A.S.-T. Film, Television, and Electronic Media],
+  [AGPS 242], [UAS Agriculture specializations + C.A. elective], [A.S.-T. Agriculture Plant Science],
+  [ART 249A], [UAS Videography specialization + C.A. elective], [Photography Certificate of Achievement (17 units)],
+  [FTVE 225B], [UAS Videography specialization + C.A. elective], [A.S.-T. Film, Television, and Electronic Media],
 )
 
 This cross-pollination is standard practice at Cuesta. The certificate landscape analysis found 160 distinct courses appearing in more than one certificate program. By designing the UAS certificates to incorporate existing courses rather than creating parallel curriculum, the program contributes enrollment to partner departments while drawing students from those disciplines into AERO coursework.
@@ -257,13 +272,11 @@ The Aviation Mechanic program within the same department is the closest analog. 
 
 This proposal outlines the structural framework. The following items need resolution before formal submission:
 
-+ *Confirm course numbers and units.* AERO 110 unit count (2.0 vs. 3.0) is still under discussion. The agricultural course needs a number and formal scope.
++ *Confirm course numbers and units.* AERO 110 unit count (2.0 vs. 3.0) is still under discussion. The agricultural courses need numbers and formal scope.
 
-+ *Secure departmental buy-in.* Conversations with Geography, Criminal Justice, Agriculture, and FTVE faculty will confirm the specific courses for each specialization and ensure those departments support cross-listing their courses in UAS certificates. The AERO 110 COR already identifies GEOG 230 as an advisory, so that relationship is partially established.
++ *Secure departmental buy-in.* Conversations with Geography, Agriculture, Art, and FTVE faculty will confirm the specific courses for each specialization and ensure those departments support including their courses in UAS certificates. The AERO 110 COR already identifies GEOG 230 as an advisory, so that relationship is partially established.
 
-+ *Confirm FTVE course details.* The specific FTVE courses best suited for the Videography track should be confirmed with the Languages and Communication division. FTVE 223 (Introduction to Motion Picture and TV Production) may be preferable to or interchangeable with FTVE 225B.
-
-+ *Develop agricultural course proposal.* The agricultural UAS course is Phase 2, but its outline should begin in consultation with Agriculture faculty to identify the right content scope and the appropriate companion courses.
++ *Develop agricultural course proposals.* The two agricultural courses (crop monitoring and spray operations) need Course Outline Reports developed in consultation with Agriculture faculty. The crop monitoring course can borrow foundational content from AERO 110 while focusing on multispectral workflows. The spray operations course requires coordination with California DPR for applicator training alignment and a significant equipment investment decision.
 
 + *Draft program-level outcomes.* Each certificate needs 3 to 5 measurable outcomes. The institutional norm is to focus on specific competencies employers expect.
 
