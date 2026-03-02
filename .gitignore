@@ -1,2 +1,6 @@
 # macOS
 .DS_Store
+
+# Basecamp integration state and local config
+.basecamp/
+basecamp.toml
