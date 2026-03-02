@@ -379,7 +379,7 @@ The supporting elective list draws entirely from existing courses at the college
 A key advantage of this structure is that it creates enrollment pipelines between departments. The following existing courses serve double duty, appearing in both a UAS certificate and their home program's certificate or degree:
 
 #table(
-  columns: (auto, 1fr, auto),
+  columns: (auto, auto, auto),
   align: (left, left, left),
   table.header([*Course*], [*UAS Certificate Role*], [*Also Serves*]),
   [GEOG 230], [UAS Mapping specialization + C.A. supporting elective], [GIS Certificate of Achievement (12 units)],
