@@ -5,7 +5,7 @@
   title: "Proposed Certificate Structure for UAS Program",
   audience: "Ron Overacker",
   author: "Kyle Nessen",
-  date: "February 2026",
+  date: "March 2026",
   logo: "../equipment-purchasing/images/CuestaLogo-H-FC-Black.png",
   body: body,
 )
@@ -111,7 +111,7 @@ The equipment investment for this course is substantially lower than for mapping
 
 *Facilities needed:*
 - Access to buildings and infrastructure for inspection exercises. Campus buildings could serve as initial training sites for building envelope assessment. The fire department training facility near Cuesta's SLO campus is another possibility, though it would require coordination with the department.
-- Suitable outdoor areas with controlled access for night operations (SAR exercises). Night flight adds logistical complexity that needs advance planning.
+- Suitable outdoor areas with controlled access for night operations (search and rescue exercises). Night flight adds logistical complexity that needs advance planning.
 
 *Software needed:*
 - DJI Thermal Analysis Tool (free with DJI hardware)
@@ -132,7 +132,7 @@ The equipment investment for this course is substantially lower than for mapping
 
 === Open Questions
 
-+ Night operations logistics: Search and rescue (SAR) exercises would require nighttime flight. I do not yet know what is involved in conducting night flights legally and safely in an educational setting. What are the insurance, facility access, and regulatory considerations for night lab activities on or near campus?
++ Night operations logistics: Search and rescue exercises would require nighttime flight. I do not yet know what is involved in conducting night flights legally and safely in an educational setting. What are the insurance, facility access, and regulatory considerations for night lab activities on or near campus?
 
 + Public safety scope: The COR currently combines infrastructure inspection and public safety in one course. The job market research suggests infrastructure inspection is the stronger employment pathway. Most public safety drone positions go to existing personnel rather than external hires. Should the balance shift more toward inspection with public safety as a supporting module?
 
@@ -330,7 +330,7 @@ Rather than developing new videography curriculum within the AERO prefix, this t
 
 = Certificate of Achievement: UAS Technology
 
-The Certificate of Achievement is the program's comprehensive credential, designed for students who want broad competency across multiple UAS application areas. At 15 units, the certificate is comparable in size to Cloud Computing (16.0 units), Audio Technology I (16.0 units), and other successful CTE certificates at Cuesta. The Farm Management certificate (18.0 units) is also worth noting, if the Agriculture department is receptive, agricultural drone courses could potentially count toward their certificate as well.
+The Certificate of Achievement is the program's comprehensive credential, designed for students who want broad competency across multiple UAS application areas. At 15 units, the certificate is comparable in size to Cloud Computing (16.0 units), Audio Technology I (16.0 units), and other successful CTE certificates at Cuesta. The Farm Management certificate (18.0 units) is also worth noting. If the Agriculture department is receptive, agricultural drone courses could potentially count toward their certificate as well.
 
 == Proposed Structure
 
