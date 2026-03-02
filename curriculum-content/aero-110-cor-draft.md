@@ -37,11 +37,11 @@ Prepares students to plan and execute professional drone mapping operations, fro
 ### Implications
 
 - **Budget:** Yes
-  - **Justification:** Requires Emlid RTK equipment (base station and rover), survey accessories, processing software licenses (Agisoft Metashape, DroneDeploy), and processing workstations. [DISCUSS: funding from SWF money via Lexie]
+  - **Justification:** Requires Emlid RTK equipment: Reach RS4 base station ($3,900), Reach RX2 rover ($2,400), and accessories kit including tripod, tribrach, survey pole, and bipod ($1,294), totaling approximately $7,594. Processing software licenses (Agisoft Metashape educational license) and processing workstations. [DISCUSS: funding from SWF money via Lexie]
 - **Facilities:** Yes
-  - **Justification:** Requires computer lab with processing workstations for photogrammetry software. Field operations require open areas with varied terrain for mapping exercises. [DISCUSS: computer lab availability and specs]
+  - **Justification:** Requires computer lab with processing workstations for photogrammetry software (Metashape requires dedicated GPU, 32+ GB RAM, and substantial storage; processing a typical student dataset takes 30--60 minutes on an adequate machine). Field operations require open areas with varied terrain for mapping exercises. The SLO Flyers club flying field adjacent to Cuesta's SLO campus is well suited for this purpose: within walking distance, designated as an FAA FRIA, and equipped with tables and seating. [DISCUSS: computer lab availability and specs; SLO Flyers field access arrangements with RC community and Cal Poly (property owner)]
 - **Equipment:** Yes
-  - **Justification:** Requires DJI Matrice 4E mapping drone, Emlid Reach RS4 base station, Emlid Reach RX2 rover, survey tripod, bipod, and GCP targets. Program already has two DJI drones in possession.
+  - **Justification:** Requires DJI Matrice 4E mapping drone (secured through separate funding), Emlid Reach RS4 base station, Emlid Reach RX2 rover, survey tripod, bipod, and GCP targets.
 - **Staffing:** Yes
   - **Justification:** Instructor must hold FAA Part 107 certification and have professional experience in drone mapping, photogrammetry processing, and RTK survey operations.
 - **Similar Course:** No
@@ -62,19 +62,14 @@ Prepares students to plan and execute professional drone mapping operations, fro
 
 |                                  | Hours/Week | Hours/Term |
 | -------------------------------- | ---------- | ---------- |
-| **Lecture Hours - in class**     | 1.00       | 18.00      |
-| **Lecture Hours - out of class** | 2.00       | 36.00      |
-| **Lab Hours - in class**         | 4.00       | 72.00      |
+| **Lecture Hours - in class**     | 2.00       | 36.00      |
+| **Lecture Hours - out of class** | 4.00       | 72.00      |
+| **Lab Hours - in class**         | 3.00       | 54.00      |
 | **Lab Hours - out of class**     | 0.00       | 0.00       |
 
-[DISCUSS: Ron suggested 2.0 units for this course. The curriculum content is extensive (7 units over 16 weeks in the current draft). Two options to discuss with Ron:
-
-1. Keep as 3.0 units (2 hr lecture + 3 hr lab, matching AERO 100 structure) to cover the full curriculum (my preferred approach)
-2. Compress to 2.0 units (1 hr lecture + 3 hr lab) with a tighter scope, assuming students have GIS background from GEOG 230
-
-The hours above reflect option 2. Adjust based on meeting outcome.]
-
-- **Units of Credit:** 2.00 [or 3.00 - see note above]
+- **Total Student Hours per term:** 162.00
+- **Hours per unit Divisor:** 54
+- **Units of Credit:** 3.00
 - **Grading Method:** Letter Grade Only
 - **Is this course repeatable?** No
 
@@ -281,8 +276,8 @@ Access to computers for photogrammetry processing, GIS data viewing, and researc
 
 1. Agisoft Metashape (desktop photogrammetry processing)
 2. DroneDeploy (cloud-based processing)
-3. Emlid Flow (RTK survey operations)
-4. QGIS (GIS viewing and analysis, open source)
+3. Emlid Flow (RTK survey operations, free with Emlid hardware)
+4. GIS software for viewing and analyzing spatial data. [DISCUSS: check with Cuesta's GIS faculty about whether the college holds ArcGIS licenses through Esri's institutional agreements. If not, QGIS is a capable open-source alternative.]
 
 ### Other
 
