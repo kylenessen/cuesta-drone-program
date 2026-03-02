@@ -1,4 +1,5 @@
 #import "../equipment-purchasing/cuesta-memo.typ": cuesta-memo
+#let comment(body) = {}
 
 #show: body => cuesta-memo(
   title: "Proposed Certificate Structure for UAS Program",
@@ -109,7 +110,7 @@ This course requires more instructor development than AERO 110. I have some foun
 The equipment investment for this course is substantially lower than for mapping, since the primary drone is already in hand and the software requirements are less demanding than photogrammetry processing.
 
 *Facilities needed:*
-- Access to buildings and infrastructure for inspection exercises. Campus buildings could serve as initial training sites for building envelope assessment. Or the Fire Department training site near SLO's campus. #comment[Please edit this end sentence if necessary. There is a site nearby where fire fighters train. It would require coordination of course.]
+- Access to buildings and infrastructure for inspection exercises. Campus buildings could serve as initial training sites for building envelope assessment. The fire department training facility near Cuesta's SLO campus is another possibility, though it would require coordination with the department.
 - Suitable outdoor areas with controlled access for night operations (SAR exercises). Night flight adds logistical complexity that needs advance planning.
 
 *Software needed:*
@@ -131,13 +132,13 @@ The equipment investment for this course is substantially lower than for mapping
 
 === Open Questions
 
-+ Night operations logistics: SAR #comment[Do we define SAR anywhere? What does this mean?] exercises would require nighttime flight. I do not yet know what is involved in conducting night flights legally and safely in an educational setting. What are the insurance, facility access, and regulatory considerations for night lab activities on or near campus?
++ Night operations logistics: Search and rescue (SAR) exercises would require nighttime flight. I do not yet know what is involved in conducting night flights legally and safely in an educational setting. What are the insurance, facility access, and regulatory considerations for night lab activities on or near campus?
 
 + Public safety scope: The COR currently combines infrastructure inspection and public safety in one course. The job market research suggests infrastructure inspection is the stronger employment pathway. Most public safety drone positions go to existing personnel rather than external hires. Should the balance shift more toward inspection with public safety as a supporting module?
 
 + Continuing education audience: Working firefighters and law enforcement represent a potential audience for the public safety material. Would evening and weekend scheduling make sense for this course? And does the inspection content serve that audience, or are they primarily interested in the public safety module?
 
-+ Thermography certification integration: Could the college partner with Infraspection Institute or the Infrared Training Center #comment[What are these instituitions? Are they local? National?] to offer Level 1 certification as part of or alongside this course? This would add significant value for students.
++ Thermography certification integration: Could the college partner with a thermography certification body to offer Level 1 certification as part of or alongside this course? Infraspection Institute and the Infrared Training Center are two national organizations that provide Level 1 sUAS thermography certification through distance learning and hands-on coursework. Embedding or aligning with one of these programs would add significant value for students.
 
 == AERO 130: Multispectral Imaging and Crop Monitoring
 
@@ -145,7 +146,7 @@ The equipment investment for this course is substantially lower than for mapping
 
 This course teaches students to use multispectral drones for precision agriculture: assessing crop health, identifying stress patterns, detecting pest and irrigation issues, and generating prescription maps for variable-rate fertilizer and chemical application. The agricultural drone market is the fastest-growing segment of commercial UAS operations, with some projections suggesting 80% of future drone usage could come from agriculture.
 
-The course borrows foundational mapping concepts from AERO 110: flight planning, basic orthomosaic production, coordinate systems, but shifts the focus to multispectral sensor operation, vegetation index calculation (NDVI and related indices), and agronomic data interpretation. Ground control points and RTK positioning receive lighter treatment than in AERO 110, since the accuracy requirements for crop monitoring are less stringent than for survey-grade mapping #comment[Is this true?]. Color orthomosaic production is covered as supporting context rather than as the primary deliverable. The emphasis is on getting students efficiently to the point where they can fly a multispectral mission, process the data, interpret the results, and communicate findings to a grower.
+The course borrows foundational mapping concepts from AERO 110: flight planning, basic orthomosaic production, coordinate systems, but shifts the focus to multispectral sensor operation, vegetation index calculation (NDVI and related indices), and agronomic data interpretation. Ground control points and RTK positioning receive lighter treatment than in AERO 110, since crop monitoring relies on relative differences across a field rather than the centimeter-level absolute accuracy required for survey-grade mapping. Color orthomosaic production is covered as supporting context rather than as the primary deliverable. The emphasis is on getting students efficiently to the point where they can fly a multispectral mission, process the data, interpret the results, and communicate findings to a grower.
 
 === What It Takes to Offer
 
