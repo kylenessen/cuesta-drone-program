@@ -1,0 +1,539 @@
+Received: from BL3PR02MB7937.namprd02.prod.outlook.com (2603:10b6:208:354::6)
+ by DM6PR02MB7020.namprd02.prod.outlook.com with HTTPS; Fri, 24 Apr 2026
+ 23:27:18 +0000
+Received: from DM6PR02MB6283.namprd02.prod.outlook.com (2603:10b6:5:1d3::21)
+ by BL3PR02MB7937.namprd02.prod.outlook.com (2603:10b6:208:354::6) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9846.22; Fri, 24 Apr
+ 2026 23:27:17 +0000
+Received: from DM6PR02MB6283.namprd02.prod.outlook.com
+ ([fe80::85c0:12b1:4956:efba]) by DM6PR02MB6283.namprd02.prod.outlook.com
+ ([fe80::85c0:12b1:4956:efba%3]) with mapi id 15.20.9846.021; Fri, 24 Apr 2026
+ 23:27:16 +0000
+From: Ronnie Overacker <ronnie_overacker@cuesta.edu>
+To: Kyle Nessen <kyle_nessen@cuesta.edu>
+Subject: Costs and Drone for proposal
+Thread-Topic: Costs and Drone for proposal
+Thread-Index: AQHc1D/mgeIjxfS4jkae3IAMoLdxLA==
+Date: Fri, 24 Apr 2026 23:27:16 +0000
+Message-ID:
+	<DM6PR02MB62832FF6B204B9DDE6722E198B2B2@DM6PR02MB6283.namprd02.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: DM6PR02MB6283.namprd02.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	dfb079c5-a18f-4265-4fe6-08dea25905ca
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels:
+x-ms-publictraffictype: Email
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(920097)(425001)(930201)(20251009189)(140003);
+X-Microsoft-Antispam-Message-Info:
+	2fCnFcSBXnGUC9j/Sz+uObvgX5/zNd5qc8fmhLRn9vVyBmEX4vd3XYWeXkU28B96wF9n57gU7/h075KeIq+JhbTjaA/fnuivdYwyCqi/axPQEo9VA9Kpy8e21b2odaJm827cajK35WMWspWvcqVVvFEFOCDyF4ydR5JjlkQ5S+x/8ugoPq+bqNhTlrEZxXvgyadEgISMzc0ivmqKdrudq9zxmHCoYTto6UYxFx485T99jhYiAsPpogJlufQO9CNGB33igdF3VqjPbAYXDpLCRiOWIFLrQIzNXg+pAa0Biwg8NEyhAWMIIj4O9APh66xuEff2ku+fPn61fJIXCb13GXbFPfP0MjKhTuug30lkLbofuKWeKZxEgUQImGDkCVwiO8eTelJsBWdSq+WnbwjGoBsr8DThgXRqYf5hVTS5y7bT261Bh/uJFJ1UZRoqls94HmGTHWzG8U4IgtqeIFkzAOJk0TliYCX8rZXgnbwW35b6f/r+YJX5UfdCDDR6hH0sx6TGNayqlwY/CeVHKxPUsFqYIO91J0preHY/p/rAp2mM1LtHwhWosNm34Wn66534pnz0xTWxrteA3cs4ankL4wtpy6n5MYQLcvN25ZGEEUOAxGdB6mVufxMTSGI8fqPDiR7yhag7eGzdiQymFkLD2mx+t4Qzz/vEZKs+7TkfTPn1FnqflfCP4sUc1aeELBC1x/2fvwsmOkAi6FqGKf6jtZtRIceIPdYaR6j3XHqMFGgdoGrT79e26GiXUTZVtELIp5OOy0TDxmvmiPt3Hkp3P3m44GJrLzKID8+XBH01djljywJNKAXFYLpzZQ8tGU6khmYVBjHNamnlQ4goJ7sH4aX1e9X7EI8EJMhrL/lbtIkbhump4RdfJfIFVb7Wweds
+Content-Type: multipart/alternative;
+	boundary="_000_DM6PR02MB62832FF6B204B9DDE6722E198B2B2DM6PR02MB6283namp_"
+MIME-Version: 1.0
+
+--_000_DM6PR02MB62832FF6B204B9DDE6722E198B2B2DM6PR02MB6283namp_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Equipment and/or Software Needs / Costs:
+Equipment, Software, and Course Development Needs (Estimated Costs)
+The UAS / Drone Technology Program requires specialized equipment, software=
+, and course development resources to support instruction aligned with indu=
+stry standards. The following cost estimates are preliminary and are intend=
+ed to provide a reasonable projection for program startup and phased expans=
+ion. Actual costs may vary based on vendor pricing, educational discounts, =
+and partnership opportunities.
+
+A Note on NDAA Compliance and Fleet Diversification
+The National Defense Authorization Act (NDAA) and the American Security Dro=
+ne Act (ASDA), embedded in the FY2024 NDAA and fully enforced as of Decembe=
+r 22, 2025, prohibit the use of federal funds to purchase or operate drones=
+ manufactured by companies from designated covered foreign countries, prima=
+rily China. This restriction applies to any program procuring drones using =
+federal funds awarded through contracts, grants, or cooperative agreements=
+=97including Perkins (Strengthening Career and Technical Education for the =
+21st Century Act) funds. As a practical matter, this means that Perkins-fun=
+ded drone purchases must be sourced from NDAA-compliant platforms, and DJI =
+and Autel drones are no longer eligible for procurement under that funding =
+stream.
+It is important to note that the Strong Workforce Program (SWP) is funded t=
+hrough the California state budget and is not a federal grant program. As s=
+uch, the ASDA=92s procurement restrictions do not apply as a direct legal m=
+andate to SWP expenditures. However, the program is recommending NDAA-compl=
+iant platforms for all new equipment purchases regardless of funding source=
+, for the following strategic reasons: (1) the Perkins funding stream is su=
+bject to the restriction and must remain compliant; (2) industry partners i=
+n the program=92s primary employment sectors=97utilities, public safety, an=
+d government agencies=97have already mandated or are actively transitioning=
+ to NDAA-compliant fleets, and training students on non-compliant platforms=
+ would disadvantage graduates in these markets; and (3) the regulatory envi=
+ronment is continuing to tighten, and purchasing compliant equipment now pr=
+otects the program=92s long-term investment.
+Exposing students to the NDAA-compliant ecosystem=97including platforms val=
+idated through the Department of Defense=92s Blue UAS Cleared List=97prepar=
+es graduates for the direction the broader commercial and public-sector dro=
+ne industry is moving. PG&E, Cal OES, and the local government partners who=
+ have endorsed this program are among the agencies actively transitioning a=
+way from Chinese-manufactured platforms. Graduates trained on compliant sys=
+tems will be ready to work in these environments without additional retrain=
+ing.
+In response to this landscape, the program will utilize a diversified fleet=
+ of purpose-specific platforms. Rather than 6=968 identical entry-level dro=
+nes, the program will acquire a smaller number of training platforms supple=
+mented by mission-specific enterprise drones aligned to each instructional =
+track. This approach reduces redundancy, increases student exposure to the =
+types of platforms they will encounter in industry, and positions the progr=
+am for compliance across all current and anticipated future funding require=
+ments.
+
+Year 1 =96 Core Program Launch (Mapping, Inspection Foundations)
+Initial investments will support AERO 100, AERO 110 (Mapping), and AERO 120=
+ (Inspection).
+UAS Platforms =96 Diversified Training Fleet
+
+  *   3=964 NDAA-compliant entry-level / general flight training UAS (e.g.,=
+ Parrot ANAFI USA or equivalent Blue UAS-cleared platform) =96 used for fou=
+ndational flight skills in AERO 100, NIST competency testing, and basic mis=
+sion practice. Estimated unit cost: $5,000=96$7,000 each.
+  *   DJI Mavic 3E (Enterprise mapping platform) =96 supports AERO 110 (Dro=
+ne Mapping and Photogrammetry). Already owned by the College, purchased thr=
+ough prior SWP funding in anticipation of program launch. The DJI Mavic 3E =
+features a 4/3 CMOS mechanical shutter sensor and supports RTK workflows fo=
+r professional orthomosaic and photogrammetry production. As SWP is a Calif=
+ornia state-funded program (not a federal grant), this prior purchase is no=
+t subject to ASDA/NDAA federal procurement restrictions. This platform will=
+ serve as the primary mapping instruction tool in Year 1. Estimated cost to=
+ program: $0 (College-owned).
+  *   DJI Mavic 3T (Thermal inspection platform) =96 supports AERO 120 (The=
+rmal Imaging and Applied Inspection). Already owned by the College, purchas=
+ed through prior SWP funding in anticipation of program launch. The DJI Mav=
+ic 3T features a wide-angle camera, a 640=D7512 radiometric thermal sensor,=
+ and a 56=D7 hybrid zoom camera, making it well-suited for utility inspecti=
+on, solar panel assessment, and building envelope analysis instruction. As =
+with the 3E, this platform was acquired with state SWP funds and is not sub=
+ject to federal NDAA procurement restrictions. Estimated cost to program: $=
+0 (College-owned).
+
+UAS Platforms (Year 1) Estimated Cost: $15,000 =96 $28,000 (mapping and the=
+rmal platforms provided by existing College inventory; new spend limited to=
+ general training UAS)
+Batteries, Charging Stations, and Field Kits Estimated Cost: $10,000 =96 $1=
+5,000
+Mapping and Photogrammetry Software Estimated Cost: $5,000 =96 $10,000
+Lab Equipment and Storage Estimated Cost: $10,000 =96 $20,000
+
+Course Development (Year 1)
+Course development is required to design a curriculum aligned with FAA stan=
+dards and industry workflows, including development of Course Outlines of R=
+ecord (all courses), lab exercises, and assessments.
+Estimated Cost: $15,000 =96 $25,000
+
+Year 1 Total Estimated Cost: $40,000 =96 $73,000 (reflects $0 cost for Coll=
+ege-owned DJI Mavic 3E and 3T)
+
+Year 2 =96 Program Expansion (Videography + Agriculture Monitoring + Spray =
+Operations)
+Equipment and Software
+
+  *   1=962 NDAA-compliant multispectral sensor drones (e.g., senseFly eBee=
+ X with Parrot Sequoia+ multispectral payload, or AgEagle eBee TAC) =96 sup=
+ports AERO 130 (Multispectral Imaging and Crop Monitoring). Fixed-wing or h=
+ybrid VTOL platforms provide extended coverage area ideal for precision agr=
+iculture applications. Estimated unit cost: $15,000=96$25,000 each.
+  *   1 NDAA-compliant agricultural spray drone system (e.g., Hylio AG-272 =
+or equivalent U.S.-assembled spray platform) =96 supports AERO 140 (Agricul=
+tural Spray Operations). Must support FAA Part 137 operations and Californi=
+a QAC/QAL chemical application requirements. Estimated cost: $20,000=96$35,=
+000.
+  *   Specialized training consumables: spray tank and nozzle calibration k=
+its, chemical handling safety equipment, PPE, and field containment supplie=
+s for spray operations training.
+  *   Additional batteries, accessories, and media production support equip=
+ment for the Videography track.
+  *   Media and GIS software integration (additional licenses, expanded clo=
+ud processing capacity).
+
+Estimated Cost: $45,000 =96 $80,000
+
+Course Development (Year 2)
+Course development is required to design a curriculum aligned with FAA stan=
+dards and industry workflows, including the development of exercises and as=
+sessments.
+Estimated Cost: $10,000 =96 $20,000
+
+Year 3 =96 Advanced Applications (Public Safety)
+Equipment
+
+  *   1 dedicated public safety / DFR platform (e.g., Skydio X10 or BRINC L=
+EMUR 2) =96 supports the UAS Public Safety track (AERO 121=96123). The Skyd=
+io X10 is a Blue UAS-cleared, American-made platform with AI-powered obstac=
+le avoidance, integrated thermal imaging, and 5G connectivity, widely adopt=
+ed by law enforcement and fire departments. Estimated cost: $10,000=96$20,0=
+00.
+  *   Specialized training equipment for public safety operations: portable=
+ lighting, night operations accessories, and simulated incident command fie=
+ld kit.
+
+Estimated Cost: $15,000 =96 $30,000
+
+Course Development (Year 3)
+Course development is required to design a curriculum aligned with FAA stan=
+dards and industry workflows, including the development of exercises and as=
+sessments.
+Estimated Cost: $5,000 =96 $10,000
+
+Total Estimated Investment (3-Year Implementation)
+
+  *   Equipment & Software: $100,000 =96 $178,000 (net of $0 cost for Colle=
+ge-owned DJI Mavic 3E and 3T)
+  *   Course Development (Year 1): $15,000 =96 $25,000
+  *   Course Development (Years 2 & 3): $15,000 =96 $30,000
+
+Total Estimated Investment: $130,000 =96 $233,000
+
+Narrative Justification
+All costs provided are estimates intended to support program planning and d=
+evelopment. The phased approach to equipment acquisition reflects a strateg=
+y of aligning resources with program growth, instructional readiness, and i=
+ndustry engagement. This approach allows the college to prioritize core ins=
+tructional needs at launch while scaling investment as additional courses a=
+nd specialization areas are introduced.
+A significant cost offset in Year 1 is the College=92s existing inventory o=
+f a DJI Mavic 3E and DJI Mavic 3T, both purchased through prior SWP funding=
+ in anticipation of program launch. These platforms will serve as the prima=
+ry mapping and thermal inspection instruction tools in Year 1, eliminating =
+the need to purchase enterprise-grade equivalents in those categories. Beca=
+use they were acquired with California state SWP funds rather than federal =
+grant funds, this prior procurement is not subject to ASDA/NDAA restriction=
+s. New equipment purchases under this proposal, particularly those funded t=
+hrough Perkins, will be sourced from NDAA-compliant platforms. The program =
+remains well-positioned to leverage Strong Workforce Program (SWP) funding,=
+ Perkins, and regional workforce initiatives to offset remaining costs and =
+support program expansion.
+
+
+--_000_DM6PR02MB62832FF6B204B9DDE6722E198B2B2DM6PR02MB6283namp_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div class=3D"elementToProof" style=3D"margin: 0in 0in 8pt; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Equipment and/or Software Needs / Costs:</b></div>
+<div class=3D"elementToProof" style=3D"margin: 12pt 0in 6pt; font-family: A=
+rial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Equipment, Software, and Course Development Needs (Estimated Costs)</b><=
+/div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+The UAS / Drone Technology Program requires specialized equipment, software=
+, and course development resources to support instruction aligned with indu=
+stry standards. The following cost estimates are preliminary and are intend=
+ed to provide a reasonable projection
+ for program startup and phased expansion. Actual costs may vary based on v=
+endor pricing, educational discounts, and partnership opportunities.</div>
+<div class=3D"elementToProof" style=3D"margin: 6pt 0in 0in; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>&nbsp;</b></div>
+<div class=3D"elementToProof" style=3D"margin: 12pt 0in 6pt; font-family: A=
+rial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>A Note on NDAA Compliance and Fleet Diversification</b></div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+The National Defense Authorization Act (NDAA) and the American Security Dro=
+ne Act (ASDA), embedded in the FY2024 NDAA and fully enforced as of Decembe=
+r 22, 2025, prohibit the use of federal funds to purchase or operate drones=
+ manufactured by companies from
+ designated covered foreign countries, primarily China. This restriction ap=
+plies to any program procuring drones using federal funds awarded through c=
+ontracts, grants, or cooperative agreements=97including Perkins (Strengthen=
+ing Career and Technical Education
+ for the 21st Century Act) funds. As a practical matter, this means that Pe=
+rkins-funded drone purchases must be sourced from NDAA-compliant platforms,=
+ and DJI and Autel drones are no longer eligible for procurement under that=
+ funding stream.</div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+It is important to note that the Strong Workforce Program (SWP) is funded t=
+hrough the California state budget and is not a federal grant program. As s=
+uch, the ASDA=92s procurement restrictions do not apply as a direct legal m=
+andate to SWP expenditures. However,
+ the program is recommending NDAA-compliant platforms for all new equipment=
+ purchases regardless of funding source, for the following strategic reason=
+s: (1) the Perkins funding stream is subject to the restriction and must re=
+main compliant; (2) industry partners
+ in the program=92s primary employment sectors=97utilities, public safety, =
+and government agencies=97have already mandated or are actively transitioni=
+ng to NDAA-compliant fleets, and training students on non-compliant platfor=
+ms would disadvantage graduates in these
+ markets; and (3) the regulatory environment is continuing to tighten, and =
+purchasing compliant equipment now protects the program=92s long-term inves=
+tment.</div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+Exposing students to the NDAA-compliant ecosystem=97including platforms val=
+idated through the Department of Defense=92s Blue UAS Cleared List=97prepar=
+es graduates for the direction the broader commercial and public-sector dro=
+ne industry is moving. PG&amp;E, Cal OES,
+ and the local government partners who have endorsed this program are among=
+ the agencies actively transitioning away from Chinese-manufactured platfor=
+ms. Graduates trained on compliant systems will be ready to work in these e=
+nvironments without additional retraining.</div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+In response to this landscape, the program will utilize a diversified fleet=
+ of purpose-specific platforms. Rather than 6=968 identical entry-level dro=
+nes, the program will acquire a smaller number of training platforms supple=
+mented by mission-specific enterprise
+ drones aligned to each instructional track. This approach reduces redundan=
+cy, increases student exposure to the types of platforms they will encounte=
+r in industry, and positions the program for compliance across all current =
+and anticipated future funding requirements.</div>
+<div class=3D"elementToProof" style=3D"margin: 6pt 0in 0in; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+&nbsp;</div>
+<div class=3D"elementToProof" style=3D"margin: 12pt 0in 6pt; font-family: A=
+rial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Year 1 =96 Core Program Launch (Mapping, Inspection Foundations)</b></di=
+v>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Initial investments will support AERO 100, AERO 110 (Mapping), and AERO =
+120 (Inspection).</b></div>
+<div class=3D"elementToProof" style=3D"margin: 8pt 0in 4pt; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>UAS Platforms =96 Diversified Training Fleet</b></div>
+<ul style=3D"margin-top: 3pt; margin-right: 0in;">
+<li style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12pt; co=
+lor: rgb(0, 0, 0); margin: 3pt 0in 3pt 8px;">
+3=964 NDAA-compliant entry-level / general flight training UAS (e.g., Parro=
+t ANAFI USA or equivalent Blue UAS-cleared platform) =96 used for foundatio=
+nal flight skills in AERO 100, NIST competency testing, and basic mission p=
+ractice. Estimated unit cost: $5,000=96$7,000
+ each.</li><li style=3D"font-family: Arial, Helvetica, sans-serif; font-siz=
+e: 12pt; color: rgb(0, 0, 0); margin: 3pt 0in 3pt 8px;">
+DJI Mavic 3E (Enterprise mapping platform) =96 supports AERO 110 (Drone Map=
+ping and Photogrammetry). Already owned by the College, purchased through p=
+rior SWP funding in anticipation of program launch. The DJI Mavic 3E featur=
+es a 4/3 CMOS mechanical shutter sensor
+ and supports RTK workflows for professional orthomosaic and photogrammetry=
+ production. As SWP is a California state-funded program (not a federal gra=
+nt), this prior purchase is not subject to ASDA/NDAA federal procurement re=
+strictions. This platform will serve
+ as the primary mapping instruction tool in Year 1. Estimated cost to progr=
+am: $0 (College-owned).</li><li style=3D"font-family: Arial, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0); margin: 3pt 0in 3pt 8px;">
+DJI Mavic 3T (Thermal inspection platform) =96 supports AERO 120 (Thermal I=
+maging and Applied Inspection). Already owned by the College, purchased thr=
+ough prior SWP funding in anticipation of program launch. The DJI Mavic 3T =
+features a wide-angle camera, a 640=D7512
+ radiometric thermal sensor, and a 56=D7 hybrid zoom camera, making it well=
+-suited for utility inspection, solar panel assessment, and building envelo=
+pe analysis instruction. As with the 3E, this platform was acquired with st=
+ate SWP funds and is not subject to
+ federal NDAA procurement restrictions. Estimated cost to program: $0 (Coll=
+ege-owned).</li></ul>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>UAS Platforms (Year 1) Estimated Cost: $15,000 =96 $28,000 (mapping and =
+thermal platforms provided by existing College inventory; new spend limited=
+ to general training UAS)</b></div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Batteries, Charging Stations, and Field Kits Estimated Cost: $10,000 =96=
+ $15,000</b></div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Mapping and Photogrammetry Software Estimated Cost: $5,000 =96 $10,000</=
+b></div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Lab Equipment and Storage Estimated Cost: $10,000 =96 $20,000</b></div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in 0in; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>&nbsp;</b></div>
+<div class=3D"elementToProof" style=3D"margin: 8pt 0in 4pt; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Course Development (Year 1)</b></div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Course development is required to design a curriculum aligned with FAA s=
+tandards and industry workflows, including development of Course Outlines o=
+f Record (all courses), lab exercises, and assessments.</b></div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Estimated Cost: $15,000 =96 $25,000</b></div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in 0in; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>&nbsp;</b></div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in 4pt 0.5in; font-fami=
+ly: Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Year 1 Total Estimated Cost: $40,000 =96 $73,000 (reflects $0 cost for C=
+ollege-owned DJI Mavic 3E and 3T)</b></div>
+<div class=3D"elementToProof" style=3D"margin: 8pt 0in 0in; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>&nbsp;</b></div>
+<div class=3D"elementToProof" style=3D"margin: 12pt 0in 6pt; font-family: A=
+rial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Year 2 =96 Program Expansion (Videography + Agriculture Monitoring + Spr=
+ay Operations)</b></div>
+<div class=3D"elementToProof" style=3D"margin: 8pt 0in 4pt; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Equipment and Software</b></div>
+<ul style=3D"margin-top: 3pt; margin-right: 0in;">
+<li style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12pt; co=
+lor: rgb(0, 0, 0); margin: 3pt 0in 3pt 8px;">
+1=962 NDAA-compliant multispectral sensor drones (e.g., senseFly eBee X wit=
+h Parrot Sequoia+ multispectral payload, or AgEagle eBee TAC) =96 supports =
+AERO 130 (Multispectral Imaging and Crop Monitoring). Fixed-wing or hybrid =
+VTOL platforms provide extended coverage
+ area ideal for precision agriculture applications. Estimated unit cost: $1=
+5,000=96$25,000 each.</li><li style=3D"font-family: Arial, Helvetica, sans-=
+serif; font-size: 12pt; color: rgb(0, 0, 0); margin: 3pt 0in 3pt 8px;">
+1 NDAA-compliant agricultural spray drone system (e.g., Hylio AG-272 or equ=
+ivalent U.S.-assembled spray platform) =96 supports AERO 140 (Agricultural =
+Spray Operations). Must support FAA Part 137 operations and California QAC/=
+QAL chemical application requirements.
+ Estimated cost: $20,000=96$35,000.</li><li style=3D"font-family: Arial, He=
+lvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); margin: 3pt 0in =
+3pt 8px;">
+Specialized training consumables: spray tank and nozzle calibration kits, c=
+hemical handling safety equipment, PPE, and field containment supplies for =
+spray operations training.</li><li style=3D"font-family: Arial, Helvetica, =
+sans-serif; font-size: 12pt; color: rgb(0, 0, 0); margin: 3pt 0in 3pt 8px;"=
+>
+Additional batteries, accessories, and media production support equipment f=
+or the Videography track.</li><li style=3D"font-family: Arial, Helvetica, s=
+ans-serif; font-size: 12pt; color: rgb(0, 0, 0); margin: 3pt 0in 3pt 8px;">
+Media and GIS software integration (additional licenses, expanded cloud pro=
+cessing capacity).</li></ul>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Estimated Cost: $45,000 =96 $80,000</b></div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in 0in; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>&nbsp;</b></div>
+<div class=3D"elementToProof" style=3D"margin: 8pt 0in 4pt; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Course Development (Year 2)</b></div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Course development is required to design a curriculum aligned with FAA s=
+tandards and industry workflows, including the development of exercises and=
+ assessments.</b></div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Estimated Cost: $10,000 =96 $20,000</b></div>
+<div class=3D"elementToProof" style=3D"margin: 8pt 0in 0in; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>&nbsp;</b></div>
+<div class=3D"elementToProof" style=3D"margin: 12pt 0in 6pt; font-family: A=
+rial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Year 3 =96 Advanced Applications (Public Safety)</b></div>
+<div class=3D"elementToProof" style=3D"margin: 8pt 0in 4pt; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Equipment</b></div>
+<ul style=3D"margin-top: 3pt; margin-right: 0in;">
+<li style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12pt; co=
+lor: rgb(0, 0, 0); margin: 3pt 0in 3pt 8px;">
+1 dedicated public safety / DFR platform (e.g., Skydio X10 or BRINC LEMUR 2=
+) =96 supports the UAS Public Safety track (AERO 121=96123). The Skydio X10=
+ is a Blue UAS-cleared, American-made platform with AI-powered obstacle avo=
+idance, integrated thermal imaging,
+ and 5G connectivity, widely adopted by law enforcement and fire department=
+s. Estimated cost: $10,000=96$20,000.</li><li style=3D"font-family: Arial, =
+Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); margin: 3pt 0i=
+n 3pt 8px;">
+Specialized training equipment for public safety operations: portable light=
+ing, night operations accessories, and simulated incident command field kit=
+.</li></ul>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Estimated Cost: $15,000 =96 $30,000</b></div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in 0in; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>&nbsp;</b></div>
+<div class=3D"elementToProof" style=3D"margin: 8pt 0in 4pt; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Course Development (Year 3)</b></div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Course development is required to design a curriculum aligned with FAA s=
+tandards and industry workflows, including the development of exercises and=
+ assessments.</b></div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Estimated Cost: $5,000 =96 $10,000</b></div>
+<div class=3D"elementToProof" style=3D"margin: 8pt 0in 0in; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>&nbsp;</b></div>
+<div class=3D"elementToProof" style=3D"margin: 12pt 0in 6pt; font-family: A=
+rial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Total Estimated Investment (3-Year Implementation)</b></div>
+<ul style=3D"margin-top: 3pt; margin-right: 0in;">
+<li style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12pt; co=
+lor: rgb(0, 0, 0); margin: 3pt 0in 3pt 8px;">
+Equipment &amp; Software: $100,000 =96 $178,000 (net of $0 cost for College=
+-owned DJI Mavic 3E and 3T)</li><li style=3D"font-family: Arial, Helvetica,=
+ sans-serif; font-size: 12pt; color: rgb(0, 0, 0); margin: 3pt 0in 3pt 8px;=
+">
+Course Development (Year 1): $15,000 =96 $25,000</li><li style=3D"font-fami=
+ly: Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); mar=
+gin: 3pt 0in 3pt 8px;">
+Course Development (Years 2 &amp; 3): $15,000 =96 $30,000</li></ul>
+<div class=3D"elementToProof" style=3D"margin: 6pt 0in 6pt 0.25in; font-fam=
+ily: Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Total Estimated Investment: $130,000 =96 $233,000</b></div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in 0in; font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>&nbsp;</b></div>
+<div class=3D"elementToProof" style=3D"margin: 12pt 0in 6pt; font-family: A=
+rial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>Narrative Justification</b></div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>All costs provided are estimates intended to support program planning an=
+d development. The phased approach to equipment acquisition reflects a stra=
+tegy of aligning resources with program growth, instructional readiness, an=
+d industry engagement. This approach
+ allows the college to prioritize core instructional needs at launch while =
+scaling investment as additional courses and specialization areas are intro=
+duced.</b></div>
+<div class=3D"elementToProof" style=3D"margin: 4pt 0in; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<b>A significant cost offset in Year 1 is the College=92s existing inventor=
+y of a DJI Mavic 3E and DJI Mavic 3T, both purchased through prior SWP fund=
+ing in anticipation of program launch. These platforms will serve as the pr=
+imary mapping and thermal inspection
+ instruction tools in Year 1, eliminating the need to purchase enterprise-g=
+rade equivalents in those categories. Because they were acquired with Calif=
+ornia state SWP funds rather than federal grant funds, this prior procureme=
+nt is not subject to ASDA/NDAA restrictions.
+ New equipment purchases under this proposal, particularly those funded thr=
+ough Perkins, will be sourced from NDAA-compliant platforms. The program re=
+mains well-positioned to leverage Strong Workforce Program (SWP) funding, P=
+erkins, and regional workforce initiatives
+ to offset remaining costs and support program expansion.</b></div>
+<div class=3D"elementToProof" style=3D"margin: 0in; font-family: Arial, Hel=
+vetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+</body>
+</html>
+
+--_000_DM6PR02MB62832FF6B204B9DDE6722E198B2B2DM6PR02MB6283namp_--

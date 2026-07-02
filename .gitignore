@@ -4,3 +4,6 @@
 # Basecamp integration state and local config
 .basecamp/
 basecamp.toml
+
+# Word lock files
+~$*.docx
