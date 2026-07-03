@@ -2,6 +2,12 @@
 
 Newest first. One entry per change set: what changed and why.
 
+## 2026-07-03
+
+- Expanded [Certificate of Waiver](/regulations/certificate-of-waiver.md) with a current Part 107 waiver table, Aviation Safety Hub application workflow, 90-day review expectation, request-for-information handling, and safety-case guidance.
+- Preserved new source anchors in `sources/`: [FAA Part 107 Waivers](/sources/faa-part-107-waivers.md), [Request and Manage a Part 107 Operational Waiver](/sources/ashub-waiver-instructions.md), [14 CFR 107.200](/sources/govinfo-14-cfr-107-200.md), and [14 CFR 107.205](/sources/govinfo-14-cfr-107-205.md).
+- Rationale: waiver process details changed after AC 107-2A, so the curriculum wiki now separates the older advisory-circular context from the current FAA application process.
+
 ## 2026-07-02
 
 - Initialized the wiki under the llm-wiki skill: created `schema.md` (types Topic, Regulation, Exam, Source Document, Analysis Report; `acs_area` field mapping pages to the five Part 107 test areas), `index.md`, this log, `AGENTS.md`, and `scripts/lint.py`.
