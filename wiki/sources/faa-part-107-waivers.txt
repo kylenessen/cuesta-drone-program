@@ -1,0 +1,94 @@
+Part 107 Waivers
+IMPORTANT
+The Part 107 Waiver Application process has transitioned to a new, more user-friendly interactive system, the Aviation Safety Hub. No action is required for previously submitted waivers; they will be processed in the FAADroneZone.  
+The Part 107 Airspace Authorization Application process will remain in the FAADroneZone system until further notice. 
+ A waiver is an official document issued by the FAA which approves certain operations of aircraft outside the limitations of a regulation. You may request to fly specific drone operations not allowed under part 107 by requesting an operational waiver. These waivers allow drone pilots to deviate from certain rules under part 107 by demonstrating they can still fly safely using alternative methods.
+
+ How to Apply for a Part 107 Waiver
+You do not need a waiver to fly a drone when complying with all part 107 regulations. However, if you’re unable to comply with the regulations listed below as published, you must apply for a part 107 waiver. 
+Step 1: Determine what you need.
+You want to…
+Part 107 regulation you need a waiver from…
+Fly a small UAS from a moving aircraft or a vehicle in populated areas
+§ 107.25 Operation from a moving vehicle or aircraft
+Fly a small UAS at night or during periods of civil twilight without anti-collision lighting
+§ 107.29 – Operation at Night
+Fly a small UAS beyond your ability to clearly determine the position, altitude, attitude, and movement of the sUA, with unaided vision..
+§ 107.31 – Visual Line of Sight Aircraft Operation
+Use a visual observer without following all visual observer requirements
+§ 107.33 – Visual Observer
+Fly multiple small UAS with only one remote pilot
+§ 107.35 – Operation of Multiple Small UAS
+Fly over a person with a small UAS which does not meet conditions of operational categories 1, 2, 3, or 4
+§ 107.39 – Operation over human beings.
+Fly a small UAS:
+	•	Over 100 miles per hour groundspeed
+	•	Over 400 feet above ground level (AGL)
+	•	With less than 3 statute miles of visibility
+	•	Within 500 feet vertically or 2000 feet horizontally from clouds
+§ 107.51 – Operating limitations for Small Unmanned Aircraft
+Fly over moving vehicles with a small UAS which does not meet conditions of operational categories 1, 2, 3, or 4
+§ 107.145 – Operations Over Moving Vehicles
+Step 2: Waiver Safety Explanation Guidance
+The resources below can help you learn more about the waiver process and how to fill out the application:
+	•	Waiver Application Instructions (PDF)
+The information in this section is intended to be a guide to help you fill the Part 107 "Waiver Safety Explanation" field for each waivable section of the Aviation Safety Hub operational waiver application. Use this field to:
+	1	Describe your proposed operation
+	2	Describe possible operational risks and methods to lessen/mitigate those risks
+	3	Ensure each “Waiver Safety Explanation Guideline (WSEG)” is addressed in detail
+Depending on how complex your proposed operation is, you may need to provide information that is not addressed below. It is your responsibility as an applicant to identify operational risks and mitigations for those risks to ensure you are flying safely. If your waiver application does not identify operational hazards and propose risk mitigation strategies, we will not be able to make a complete safety analysis and will disapprove your application based on insufficient information. Watch this online tutorial to learn how to identify operational risks and mitigations:
+	•	How-To Identify, Assess & Mitigate Risks Posed to Your Drone Operation
+When completing your application in Aviation Safety Hub, you should review the following information to guide you in describing your operational details.  Operational Details
+	•	Where do you plan to operate?
+	◦	Consider providing latitude/longitude and a detailed map of your planned flight area.
+	•	How high will you fly your aircraft (maximum altitude above ground level)?
+	•	Do you want to fly in controlled airspace (Class B, C, D, surface E)?
+	◦	If yes, please see 14 CFR §107.41 and our guidance about Flying Near Airports
+	•	Are there any other kinds of airspace within 5 miles of any planned flight area?
+	•	What kind of area(s) will you fly over?
+	◦	For example: rural, sparsely populated, congested, populated, a neighborhood, within city limits, large outdoor gathering of people, a restricted access site, etc.
+Small UAS Details
+	•	What kind of UAS will you use to fly the operations requested in this application?
+	◦	For example: multi-rotor, fixed wing, hybrid (both multi-rotor and fixed wing), single rotor, lighter than air, etc.
+	•	What is your UAS's power or energy source in flight?
+	•	What is your UAS's maximum flight time (in minutes), range (in feet), and speed (in miles per hour)?
+	•	How big is the aircraft (length/width/height in inches)?
+	•	How do you ensure the aircraft only flies where it is directed (i.e. ensure containment)?
+	◦	For example: geo-fencing, tether, etc.
+	•	What kind of termination system, if any, does the UAS have?
+	◦	For example: immediate flight termination switch
+	•	How much will the aircraft and its payload weigh when flying?
+	•	If the aircraft carries any external or internal load (or object), how is the load secured?
+	•	What, if any, external or internal load (or object) could be dropped from the aircraft when flying, and how will you assure the safety of people, or other people's property, if it is dropped or detached when flying?
+Pilot/Personnel Details
+	•	What minimum level of experience will the Remote Pilot in Command (Remote PIC) have to fly under this waiver?
+	•	How many personnel (including the Remote PIC) will you use for operations under this waiver (minimum needed)?
+	•	What kind of training, if any, will personnel (e.g. visual observer(s)) have prior to flying under the waiver?
+	◦	How will the personnel be trained?
+	◦	How will the Responsible Person know the other personnel are competent and have operational knowledge to safely fly the UAS under the waiver conditions?
+	◦	If personnel will be tested, what kind of testing will be performed, and how will evaluations be conducted and documented?
+	◦	How will personnel maintain the knowledge/skill to fly under this waiver? Will recurrent training or testing be required?
+Describe Operational Risks and Mitigations  Provide, to the greatest extent possible, how you propose to address or lessen the possible risks of your proposed operation. This could include using operating limitations, technology, additional training, equipment, personnel, restricted access areas, etc. When reviewing the questions for each section below, the FAA's primary concerns are:
+	•	How you will ensure your operation(s) remains safe at all times, even in unusual circumstances.
+	•	What kinds of circumstances could arise, and how you plan to handle each.
+Note: The list of questions may not be all-inclusive. You may need to provide additional information based on your specific operation. See our Waiver Safety Explanation Guidelines (WSEG) and Guiding Questions (PDF) for further guidance. Only include information in your waiver safety explanation that is applicable to the regulation(s) for which you are requesting a waiver.
+Step 3: Submit the waiver application.
+Submit the waiver application by creating an account or logging in to the Aviation Safety Hub.
+Note: You do not need to register a drone to request a waiver, but you must register prior to any operation. 
+If you intend to use your waiver during civil twilight and/or at night, you must include details for how you will mitigate additional risk, or you may be restricted to daylight operations only.
+Step 4: The Decision
+We will do our best to review and approve or disapprove waiver requests within 90 days of submission. Processing times will vary based on the complexity of your request and the completeness of your initial application. If we need additional information to complete our review, we will contact the “responsible person” listed on your waiver application. Requests for information will be sent to you via Aviation Safety Hub. If we need to send you a request for information, you will receive an AVS Hub status change email and will need to log into your account to view and respond to the request. Requests will include questions, instructions for responding, and a time limit for responses. If you do not respond to a request for information within 30 days, your application will be canceled and you will have to resubmit.
+Failure to adhere to the terms of a waiver may result in a violation of the regulation being waived.  
+Definitions
+Operations Over Human Beings: What does “over” mean?
+“Over” refers to the flight of the small unmanned aircraft directly over any part of a person. For example, a small UAS that hovers directly over a person's head, shoulders, or extended arms or legs would be an operation over people. Similarly, if a person is lying down, for example at a beach, an operation over that person's torso or toes would also constitute an operation over people. A flight where a small UAS flies over any part of any person, regardless of how long the flight is over the person, would be considered an operation over people.
+Operations Over Human Beings (Open-Air Assemblies): What does “sustained flight” mean?
+“Sustained flight” over an open-air assembly includes hovering above the heads of persons gathered in an open-air assembly, flying back and forth over an open-air assembly, or circling above the assembly in such a way that the small unmanned aircraft remains above some part the assembly. Sustained flight over an open-air assembly of people does not include a brief, one-time transiting over a portion of the assembled gathering, where the flight is unrelated to the assembly.
+Operations Over Human Beings: What is an “open-air assembly?”
+The FAA employs a case-by-case approach in determining how to apply the term “open-air assembly.” Potential examples of open-air assemblies may include sporting events, concerts, parades, protests, political rallies, community festivals, or parks and beaches during certain events. Some potential examples that might not be considered open-air assemblies include individual persons or families exiting a shopping center, athletes participating in friendly sports in an open area without spectators, individuals or small groups taking leisure in a park or on a beach, or individuals walking or riding a bike along a bike path. Whether an open-air assembly exists depends on a case-by-case determination based on the facts and circumstances of each case.
+Additional Information
+	•	Waiver Trend Analysis
+	•	Valid Operational Waivers
+	•	Paperwork Reduction Act & Privacy Statements (PDF)
+	•	Emergency Operations - Learn about expedited approvals for first responders and other organizations responding to natural disasters or other emergency situations.
+Last updated: Monday, June 22, 2026

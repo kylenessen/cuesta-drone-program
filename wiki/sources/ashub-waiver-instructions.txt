@@ -1,0 +1,289 @@
+Request and Manage a Part 107 Operational
+Waiver
+Introduction
+Applications for a CFR Part 107 operational waiver must be submitted through the external
+portal, Aviation Safety Hub. From the List of Waivers page, click “Apply” in the Part 107
+operational waiver section to begin your application. Please review all FAA-provided resources
+related to the Part 107 operational waiver process before starting the application to ensure it is
+the correct waiver type and that you can provide all required information.
+
+Table of Contents
+   •   Part 107 Operational Waivers
+           o Waiver Request Form
+                  Orientation
+                  Waiver Request Form
+                          1. Operator Information
+                          2. Proposed Operation
+                          3. Requested Waivers
+                          4. Supporting Documentation
+           o Safety Evaluation
+           o Track your Waiver Request
+           o Request for Information (RFI)
+           o View your Certificate of Waiver (CoW) or Denial Letter
+Tip for Navigating this Guide
+
+Each task will have a screenshot on the left-hand side to help guide you through the case. If the
+screenshot appears small, click into the image for an expanded view.
+
+
+
+
+Part 107 Operational Waivers
+Prior to beginning your application, you will be prompted with an Overview screen detailing the
+process for applying for a Part 107 Operational Waiver:
+
+Overview
+Introduction: Provides a high-level overview of CFR Part 107 and qualifying for a Part 107
+operational waiver.
+
+Waivable Regulations: Details what activities and CFR Part 107 rules qualify for a waiver.
+
+   •   § 107.25 – Operation from a Moving Vehicle or Aircraft - Generally prohibits
+       operating an sUAS from a moving land or water vehicle unless over a sparsely populated
+       area. A waiver can allow operation from moving platforms in more populated areas,
+       enabling activities such as filming from a moving boat or vehicle with appropriate safety
+       measures.
+   •   § 107.29(a)(2) and (b) – Operation at Night - Limits operations at night and/or civil
+       twilight to RPICs with training and UAs with anti-collision lighting. A waiver may allow
+       operations without required lighting if acceptable mitigations and night-specific
+       operational procedures are implemented.
+   •   § 107.31 – Visual Line of Sight Aircraft Operation - Requires unaided visual contact
+       with the sUAS at all times. A waiver can permit beyond visual line of sight (BVLOS)
+       operations when alternative methods, such as onboard detect-and-avoid systems or radar
+       tracking, ensure situational awareness and collision avoidance.
+   •   § 107.33 – Visual Observer - Only applicable if visual observers (VOs)are used in the
+       operation. Sets communication, line of sight, and coordination requirements. A waiver
+       may permit alternative methods for maintaining situational awareness without constant
+       VO communication, or operations without a VO, where normally required.
+   •   § 107.35 – Operation of Multiple Small UAS - Allows operations of only one sUA per
+       pilot, at a time. A waiver may authorize simultaneous operation of multiple sUA by one
+       pilot for applications like drone light shows, agricultural surveys, or large-scale mapping,
+       when automation and monitoring systems mitigate risk and ensure safety.
+   •   § 107.37(a) – Operation Near Aircraft; Right-of-Way Rules - Requires sUAS to yield
+       to all other aircraft. A waiver may allow operations in closer proximity to manned aircraft
+       in controlled scenarios, such as coordinated flights with helicopters for cinematography.
+   •   § 107.39 – Operation Over Human Beings - Prohibits flying over people who are not
+       participating in the operation, unless UAS meets specific Remote ID and Category 1–4
+       requirements. A waiver can allow operations over people with mitigations like protective
+       equipment, parachutes, and/or operational containment.
+   •   § 107.51(a) – Operating Limitations: Groundspeed - Limits sUAS groundspeed to 87
+       knots (100 mph). A waiver may permit higher speeds for specialized activities like high-
+       speed racing or filming, if risks from control, reaction time, and collision avoidance are
+       addressed.
+   •   § 107.51(b) – Operating Limitations: Altitude - Restricts altitude to 400 feet AGL, or
+       higher if within 400 feet of a structure. A waiver may allow higher operations for
+       specialized activities such as mapping, surveying, or research, provided navigable
+       airspace conflicts are mitigated.
+   •   § 107.51(c) – Operating Limitations: Minimum Visibility - Requires at least three
+       statute miles of visibility. A waiver can allow flight in lower-visibility conditions, such as
+       fog, if compensating measures like enhanced lighting, tracking systems, or operational
+       restrictions are in place.
+   •   § 107.51(d) – Operating Limitations: Minimum Distance from Clouds - Requires
+       specified distances from clouds. A waiver may permit operations closer to clouds, often
+       for atmospheric research or weather monitoring, when mitigations address reduced
+       visibility risks.
+   •   § 107.145 – Operations Over Moving Vehicles - Prohibits flying over people who are
+       in moving vehicles unless specific conditions are met. A waiver can allow expanded
+       operations for activities such as filming parades or traffic scenes, with measures like
+       protective enclosures, parachutes, and/or controlled flight paths.
+
+Application Requirements: Defines the eligibility requirements, required information, and
+timeframe in order to proceed with a waiver request.
+
+Application Process: Details the process for requesting a waiver and how to access updates on
+your request from the External Portal.
+Waiver Request Form
+Orientation
+
+On the waiver request form, you will see the following:
+
+   •   Tabs of the request form on the top, organizing the required information into logically
+       defined sections. This guide will breakdown each section in detail below.
+           o Operator Information: High-level information about the operator and the
+              Responsible Party (RP) associated with this waiver.
+           o Proposed Operation: Details about the operation that require a waiver from CFR
+              Part 107 regulations.
+           o Requested Waivers: Summarizes a proposed list of regulations that should be
+              waived as a result of the proposed operation. You will have the option to
+              select/de-select rules that apply to you.
+           o Supporting Information: Additional documents that support the waiver review
+              process. If you are a PSO, you will be required to upload your declaration of
+              compliance and checklists.
+   •   Begin Application button: Clicking “Begin Application” opens a draft application
+       form. The application remains in draft status until all required fields are completed. To
+       navigate, click “Next” to proceed to the next page or “Previous” to edit previously
+       completed pages.
+   •   Save for Later button: Click “Save for Later” at any time to save your progress and
+       resume editing later. If you exit the draft application, completed sections will be saved,
+       and any incomplete sections will appear as tasks under the Action Items.
+
+Heads up!
+The last section of the Waiver Request, Safety Evaluation, will prompt you to a new screen and
+will not be shown as a section at the top of the form. In this form, you will complete your Waiver
+Safety Explanation Guidelines (WSEGs) associated with the regulations you've selected to
+waive. See sub-section 5. Safety Evaluation for more details.
+
+Waiver Request Form
+1. Operator Information
+
+This section asks for high-level information regarding the drone operator and the Responsible
+Party (RP), or the individual who will be responsible for the operational waiver. See below for
+the steps to complete this section.
+
+   1. Review the pre-populated details from your profile:
+           1. Operator name
+           2. Mailing address
+           3. Email address
+   2. If the Responsible Party is the same as the Operator, select the checkbox. Otherwise,
+      enter the following:
+           1. Responsible party full name
+           2. Phone number (reachable during operations)
+           3. Street address (line 1 and optional line 2)
+           4. City, state/province, postal code, country
+           5. Email address
+   3. Select the Type of Operator: Public Safety Organization (PSO), Drone Light Show
+      Operator, Agricultural Operator, or Other (with description).
+   4. Select whether the operator is an FAA industry partner.
+   5. Click Next: Proposed Operation to continue.
+2. Proposed Operation
+
+This section asks for more detailed information regarding the intended drone operation that
+requires a waiver from CFR Part 107. In this section, you will define the drone devices,
+dates/location of operation, and other operational questions to further define the scope. See
+below for the steps to complete this section.
+
+       Note: If you are planning a waivered operation located in controlled airspace (airspace
+       other than Class G), you will need to submit an Operational Waiver application through
+       Aviation Safety Hub AND an Airspace Authorization application through
+       FAADroneZone. The FAA’s Air Traffic Organization responds directly to Airspace
+       Authorization applications.
+
+   1. UAS Devices
+          a. Click + Add to enter the make, model, series, and quantity.
+          b. Save each entry and add additional devices as needed.
+   2. Start and End Dates
+          a. Select the intended dates for operation.
+          b. The start date cannot be in the past or more than 48 months in the future.
+              Recommended: at least 90 days from submission.
+   3. Location of Operation
+          a. Enter detailed information.
+          b. Optionally upload an Area of Operation file (≤ 500 MB).
+   4. Waiver Associations
+          a. If this waiver is linked to an existing waiver, click + Add Waiver and enter the
+              reference number (≤ 21 characters).
+   5. Operational Questions
+          a. Answer the dynamically required questions based on your previous responses.
+          b. Your answers will determine which waivers are requested on the next screen.
+   6. Click Next: Requested Waivers to continue.
+
+3. Requested Waivers
+
+This section will automatically generate a list of waivable regulations that apply for the intended
+operations detailed in the Proposed Operations section. You can select/un-select the waivable
+regulations.
+
+   1. The system recommends waivers based on your answers in Step 4.
+   2. Review the list and select or deselect waivable regulations as needed by clicking the
+      checkboxes:
+          1. 107.25 (Operation from a Moving Vehicle or Aircraft)
+          2. 107.29 (a)(2) and (b) (Anti-Collision Light)
+          3. 107.31 (Visual Line of Sight Aircraft Operation)
+          4. 107.33 (Visual Observer)
+          5. 107.35 (Operation of Multiple Small Unmanned Aircraft Systems)
+          6. 107.37 (a) (Yielding the Right of Way)
+          7. 107.39 (Operation over People)
+          8. 107.51 (a) (Operating Limitations: Groundspeed)
+          9. 107.51 (b) (Operating Limitations: Altitude)
+          10. 107.51 (c) (Operating Limitations: Minimum Visibility)
+          11. 107.51 (d) (Operating Limitations: Minimum Distance from Clouds)
+          12. 107.145 (Operation over Moving Vehicles)
+   3. Click Next: Supporting Documentation to continue.
+
+4. Supporting Documentation
+
+This section asks for documentation that will support the waiver request, most commonly the
+Concept of Operations (ConOps). If you are a PSO, you will be required to upload a declaration
+that confirms that you intend to follow the proper safety mitigations. See below for the steps to
+complete this section.
+
+       Note: If you submit an operations manual as part of your waiver application, please be
+       aware the FAA only reviews excerpts from your manual that were found to address the
+       Waiver Safety Explanation Guidelines for the safety of your proposed operation. The
+       FAA may determine these excerpts, combined with other information you submit and
+       pursuant to your compliance with the provision listed on a waiver, establish that you can
+       safely conduct the limited operations a waiver will permit, however, the FAA’s review of
+       the excerpts in the context of your specific request for a waiver does not constitute FAA
+       approval or acceptance of the manual you provide.
+
+   1. CONOPS (optional)
+            1. Upload a PDF (≤ 500 MB). Automated tools review the first 150 pages to draft
+                Waiver Safety Explanation Guideline (WSEG) responses.
+   2.   PSO Declaration (conditional)
+            1. If the operator type is PSO, upload a signed declaration on official letterhead
+                including the checklist. PSOs are exempt from WSEG responses.
+   3.   Additional Documentation
+            1. Upload up to 10 files (≤ 500 MB each).
+   4.   Certification Checkbox
+            1. Select the checkbox to confirm that you have completed the application form up
+                to this point. Once selected and you click Next, prior sections will become
+                inaccessible.
+   5.   Click Next: Safety Evaluation to continue.
+
+5. Safety Evaluation
+
+This section details the specific WSEG questions that you must respond to in order to operate
+against a Part 107 rule. If you uploaded a ConOps, the system will automatically populate
+the response to the corresponding WSEG question. See below for the steps to complete this
+section.
+
+   1. Based on the waivable regulations selected, specific Waiver Safety Explanation
+      Guidelines (WSEGs) must be completed.
+   2. If a CONOPS was uploaded, draft responses may be pre-populated. You will receive an
+      email notification once the responses are ready for review and editing.
+   3. If no CONOPS was uploaded, you must answer all questions manually.
+
+If you've uploaded a ConOps and see that your responses are auto populated in the Safety
+Evaluation section, please make sure that you review the response prior to submitting your
+application.
+
+
+
+
+Track your Waiver Request
+Once you've submitted your waiver request, you can navigate to your Case Details page to view
+your status, action items, and uploaded documents from the FAA.
+
+In the future you will be able to see a view-only version of your Part 107 operational waiver
+request form for reference.
+Request for Information (RFI)
+Once you've submitted your application, someone from the FAA will review your application to
+ensure that the WSEG questions are adequately responded to and meet adequate safety
+requirements. In the case that the FAA determines that more information is required to make a
+decision, you will receive a new task to complete a Request for Information (RFI).
+
+See below for a list of steps to complete a Request for Information (RFI):
+
+   1. Log into Aviation Safety Hub and navigate to the home page.
+   2. Through the Aviation Safety Hub home page or the Case Details page, you will see a new
+      task under your Action Items that says: "Submit Request for Information (RFI)
+      Response"
+   3. Select "Go" on the right-hand side.
+   4. Complete the required questions on the form to provide additional information about your
+      drone operations, including updating responses to WSEGs and uploading supporting
+      documentation as needed.
+   5. Submit the form.
+
+You will see a new screen confirming the submission of the RFI. The FAA will review the
+submitted RFI and continue forward with the waiver request.
+View your Certificate of Waiver (CoW) or Denial Letter
+When the FAA has made a decision regarding your waiver request, you will be able to see your
+Certificate of Waiver (for an approved request) or Denial Letter (for a denied request).
+
+See below for a list of steps to view documents related to the decision of your waiver request:
+
+   1.   Log into Aviation Safety Hub and navigate to the home page.
+   2.   View My Dashboard to see an updated status of the waiver request.
+   3.   Click on the View Application button to navigate to the Case Details page.
+   4.   Navigate to the Attachments section of the page.
+   5.   Select the document to download it to your computer.
+
