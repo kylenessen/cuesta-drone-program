@@ -7,3 +7,5 @@ basecamp.toml
 
 # Word lock files
 ~$*.docx
+/.obsidian
+/wiki/.obsidian
