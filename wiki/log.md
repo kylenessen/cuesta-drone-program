@@ -2,6 +2,14 @@
 
 Newest first. One entry per change set: what changed and why.
 
+## 2026-07-09
+
+- Broadened the wiki's scope beyond the Part 107 exam to include remote sensing foundations for the program's advanced applications track. Updated [Wiki Schema](/schema.md)'s purpose statement, registered a `remote-sensing` tag, and noted that advanced topics outside the test take `acs_area: general`.
+- Preserved [Drone Course Content Brainstorm](/sources/drone-course-content-brainstorm.md), a July 2026 voice memo (summary plus raw transcript in `drone-course-content-brainstorm.txt`), as the source anchor for this track.
+- Ingested the brainstorm into six new topics: [Uncrewed Aircraft](/topics/uncrewed-aircraft.md), [Digital Imaging](/topics/digital-imaging.md), [Electromagnetic Spectrum](/topics/electromagnetic-spectrum.md), [Multispectral Imaging](/topics/multispectral-imaging.md), [Drone Payloads](/topics/drone-payloads.md), and [Remote Sensing Platforms](/topics/remote-sensing-platforms.md). Cross-linked them and listed them in [index.md](/index.md) under a new Advanced Drone Applications heading.
+- Rationale: the developer is expanding the curriculum from the Part 107 knowledge base toward advanced drone applications, and this brainstorm captures the remote sensing subject matter (light, imaging, sensors, and platforms) he wants that track to rest on.
+- Preserved as flagged open questions rather than resolved: the preferred UAV or UAS nomenclature, and a literature search on ultraviolet imaging applications. The brainstorm's uncertain recollection of multispectral bit depth (around 32,000 values) was hedged in [Digital Imaging](/topics/digital-imaging.md).
+
 ## 2026-07-03
 
 - Expanded [Certificate of Waiver](/regulations/certificate-of-waiver.md) with a current Part 107 waiver table, Aviation Safety Hub application workflow, 90-day review expectation, request-for-information handling, and safety-case guidance.

@@ -4,14 +4,13 @@ title: Wiki Schema
 description: Local vocabulary, layout, and lint rules for the drone knowledge wiki. Read before writing.
 timestamp: 2026-07-02T17:00:00Z
 ---
-
 # Wiki Schema
 
 This wiki is an Open Knowledge Format bundle maintained under the llm-wiki skill (in the companion `skills` repository). This document defines everything local to it. The yaml block below is machine-read by `scripts/lint.py`, so changing the vocabulary means editing that block, logging the change in `log.md`, and only then using the new value.
 
 ## What this wiki is for
 
-This wiki is the durable knowledge base behind Cuesta College's drone program curriculum. Its primary reader is the curriculum developer, who uses it to design course content for AERO courses, starting with the aeronautical knowledge students need to pass the FAA Part 107 knowledge test. Durable knowledge here means subject matter that outlives any one course draft: what the FAA tests and requires, how drone regulations and airspace work, and the operational knowledge a working remote pilot needs. Course drafts and proposals live elsewhere in the repository; this wiki records what is true about the domain, with citations, so course materials can be written and rewritten against it.
+This wiki is the durable knowledge base behind Cuesta College's drone program curriculum. Its primary reader is the curriculum developer, who uses it to design course content for AERO courses, starting with the aeronautical knowledge students need to pass the FAA Part 107 knowledge test. Durable knowledge here means subject matter that outlives any one course draft: what the FAA tests and requires, how drone regulations and airspace work, the operational knowledge a working remote pilot needs, and, as the program reaches toward advanced drone applications, the remote sensing foundations (light, digital imaging, sensor payloads, and platforms) that professional drone work rests on. Course drafts and proposals live elsewhere in the repository; this wiki records what is true about the domain, with citations, so course materials can be written and rewritten against it.
 
 ## Registry
 
@@ -43,6 +42,7 @@ tags:
   risk-management: Hazard identification, aeronautical decision-making, and mitigation.
   batteries: Lithium battery handling, charging, and fire hazards.
   charts: Reading and using aeronautical charts and chart supplements.
+  remote-sensing: Imaging and sensor payloads that turn drone flight into measurement, across the electromagnetic spectrum.
 
 fields:
   status: [draft, reviewed, needs-source, needs-review, archived]
@@ -61,7 +61,7 @@ options:
 
 Every page carries `type`, `title`, and `description`. The description is one sentence a search result can stand on: what the page covers and why it is here.
 
-The `acs_area` field maps a page to the five content areas of the FAA Part 107 knowledge test (Area I Regulations, Area II Airspace, Area III Weather, Area IV Loading and Performance, Area V Operations), plus `general` for pages that span areas or sit outside the test. Set it on every Topic, Regulation, and Exam page. It is the main retrieval axis for course design: filtering on `acs_area` collects everything that feeds one block of instruction.
+The `acs_area` field maps a page to the five content areas of the FAA Part 107 knowledge test (Area I Regulations, Area II Airspace, Area III Weather, Area IV Loading and Performance, Area V Operations), plus `general` for pages that span areas or sit outside the test. Set it on every Topic, Regulation, and Exam page. It is the main retrieval axis for course design: filtering on `acs_area` collects everything that feeds one block of instruction. Advanced-applications topics that sit outside the Part 107 test, such as remote sensing foundations, take `acs_area: general`.
 
 Tags are for cross-cutting themes that the type and `acs_area` cannot express. Use them sparingly and only from the registered list.
 

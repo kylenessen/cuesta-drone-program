@@ -1,6 +1,6 @@
 # Drone Knowledge Wiki
 
-The knowledge base behind Cuesta College's drone program curriculum. It currently covers the aeronautical knowledge tested on the FAA Part 107 exam, organized so course content for AERO 100 and successor courses can be written against cited, durable articles. Start with [Wiki Schema](/schema.md) before editing, and see [log.md](/log.md) for change history.
+The knowledge base behind Cuesta College's drone program curriculum. It covers the aeronautical knowledge tested on the FAA Part 107 exam and, for the program's advanced track, the remote sensing foundations of professional drone work, organized so course content for AERO 100 and successor courses can be written against cited, durable articles. Start with [Wiki Schema](/schema.md) before editing, and see [log.md](/log.md) for change history.
 
 ## The Exam
 
@@ -33,6 +33,17 @@ The knowledge base behind Cuesta College's drone program curriculum. It currentl
 - [Maintenance and Inspection](/topics/maintenance-and-inspection.md): maintenance practice, preflight inspection, and records.
 - [Night Operations](/topics/night-operations.md): the 2021 night rules, anti-collision lighting, and twilight definitions.
 
+## Advanced Drone Applications
+
+Remote sensing foundations for the program's advanced track, beyond the Part 107 exam. These carry `acs_area: general`.
+
+- [Uncrewed Aircraft](/topics/uncrewed-aircraft.md): what a drone is, the UAV and UAS terminology, and the airframe-and-payload framing.
+- [Digital Imaging](/topics/digital-imaging.md): how sensors turn light into numbers, color and demosaicing, RAW versus JPEG, and bit depth.
+- [Electromagnetic Spectrum](/topics/electromagnetic-spectrum.md): visible light as a narrow band, wavelength filters, and the infrared and ultraviolet regions.
+- [Multispectral Imaging](/topics/multispectral-imaging.md): NDVI, the red edge, and greenness measurement.
+- [Drone Payloads](/topics/drone-payloads.md): passive versus active sensors and the payload taxonomy from cameras to LiDAR.
+- [Remote Sensing Platforms](/topics/remote-sensing-platforms.md): the platform continuum from kites to satellites and the resolution-versus-coverage tradeoff.
+
 ## Analyses
 
 - [Part 107 Coverage of the AERO 100 Outline](/analysis/part-107-coverage-of-aero-100.md): gap analysis between the test and the approved course outline.
@@ -43,4 +54,5 @@ The knowledge base behind Cuesta College's drone program curriculum. It currentl
 - [AC 107-2A](/sources/ac-107-2a.md): the FAA's comprehensive Part 107 compliance guidance.
 - [Remote Pilot Study Guide](/sources/remote-pilot-study-guide.md): the FAA's official study text (FAA-G-8082-22).
 - [UAG Sample Questions](/sources/uag-sample-questions.md): FAA-published example test questions.
+- [Drone Course Content Brainstorm](/sources/drone-course-content-brainstorm.md): July 2026 voice memo behind the advanced-applications remote sensing topics.
 - [AERO 100 Course Outline](/sources/aero-100-course-outline.md): anchor for the approved course outline this wiki's content feeds.
