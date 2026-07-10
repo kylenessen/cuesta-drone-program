@@ -28,7 +28,7 @@ Agencies and nonprofits use drone maps to document habitat condition, map invasi
 
 ## Agriculture overview
 
-Agricultural mapping uses RGB and multispectral sensors to produce plant health indices such as NDVI, stand counts, and drainage maps. The client is a grower or agronomist who uses the maps to target scouting, variable rate inputs, and replant decisions. University extension guidance notes that drones offer the highest resolution and most flexible timing among imagery sources for crop scouting, at the cost of covering less area per day than aircraft or satellites [5]. Agriculture rewards fast turnaround, since a stress map is only useful while there is still time to act on it.
+Agricultural mapping uses RGB and multispectral sensors to produce plant health indices such as NDVI, stand counts, and drainage maps. The client is a grower or agronomist who uses the maps to target scouting, variable rate inputs, and replant decisions. University extension guidance notes that drones offer the highest resolution and most flexible timing among imagery sources for crop scouting, at the cost of covering less area per day than aircraft or satellites [5]. Agriculture rewards fast turnaround, since a stress map is only useful while there is still time to act on it. The agricultural work is deep enough to carry its own layer, and [Agricultural Drone Applications](/topics/agricultural-drone-applications.md) covers the use cases that pay, [Vegetation Indices](/topics/vegetation-indices.md) the index choices behind the maps, and [Prescription Maps](/topics/prescription-maps.md) the pipeline from map to machinery.
 
 ## Roof and site plans
 
@@ -40,7 +40,7 @@ Inspection-adjacent mapping serves roofers, solar installers, and insurers. High
 - [Change Detection and Repeat Mapping](/topics/change-detection-and-repeat-mapping.md) for monitoring programs.
 - [Limits of Drone Mapping](/topics/limits-of-drone-mapping.md) for where these applications stop working.
 - [Mission Cost Analysis](/topics/mission-cost-analysis.md) for the economics underneath each product.
-- [Multispectral Imaging](/topics/multispectral-imaging.md) for the agricultural sensing layer.
+- [Multispectral Imaging](/topics/multispectral-imaging.md) and [Agricultural Drone Applications](/topics/agricultural-drone-applications.md) for the agricultural sensing layer.
 
 ## Citations
 

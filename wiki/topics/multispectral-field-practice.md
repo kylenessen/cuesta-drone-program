@@ -27,8 +27,10 @@ The standard agricultural deliverables are reflectance orthomosaics per band, in
 ## Related
 
 - [Multispectral Imaging](/topics/multispectral-imaging.md) for the theory this practice implements.
+- [Vegetation Indices](/topics/vegetation-indices.md) for the indices this calibration makes trustworthy.
 - [Lighting and Sun Angle for Mapping](/topics/lighting-and-sun-angle-for-mapping.md) for the illumination effects calibration fights.
 - [Change Detection and Repeat Mapping](/topics/change-detection-and-repeat-mapping.md) for the multi-date comparability calibration buys.
+- [Agricultural Drone Applications](/topics/agricultural-drone-applications.md) and [Prescription Maps](/topics/prescription-maps.md) for the farm products this calibration underwrites.
 - [Drone Payloads](/topics/drone-payloads.md) for multispectral's place in the sensor taxonomy.
 
 ## Citations

@@ -16,8 +16,11 @@ NDVI and agriculture are the largest branch of this work, but greenness is somet
 
 ## Related
 
+- [Vegetation Indices](/topics/vegetation-indices.md) extends NDVI into NDRE, soil-adjusted indices, and the limits of index interpretation.
 - [Electromagnetic Spectrum](/topics/electromagnetic-spectrum.md) covers the infrared region NDVI depends on.
 - [Digital Imaging](/topics/digital-imaging.md) explains why analytic images need raw values and careful stretching.
+- [Multispectral Field Practice](/topics/multispectral-field-practice.md) covers the calibration that makes indices comparable across dates.
+- [Agricultural Drone Applications](/topics/agricultural-drone-applications.md) covers the farm use cases this measurement anchors.
 - [Drone Payloads](/topics/drone-payloads.md) covers the camera and sensor payloads that capture these bands.
 
 ## Citations

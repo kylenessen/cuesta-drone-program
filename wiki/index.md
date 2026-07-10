@@ -56,6 +56,9 @@ The physics and sensor layer under professional drone work.
 - [Electromagnetic Spectrum](/topics/electromagnetic-spectrum.md): visible light as a narrow band, wavelength filters, and the infrared and ultraviolet regions.
 - [Multispectral Imaging](/topics/multispectral-imaging.md): NDVI, the red edge, and greenness measurement.
 - [Multispectral Field Practice](/topics/multispectral-field-practice.md): calibration panels, band registration, and when multispectral beats RGB.
+- [Vegetation Indices](/topics/vegetation-indices.md): NDRE and red edge, soil-adjusted indices, and the honest limits of index interpretation.
+- [Agricultural Drone Applications](/topics/agricultural-drone-applications.md): scouting and stand counts, irrigation and water stress, nutrient management, disease hotspots, yield, and the Central Coast market.
+- [Prescription Maps](/topics/prescription-maps.md): turning an index map into management zones and a shapefile or ISOXML file a tractor can run.
 - [Thermal Imaging](/topics/thermal-imaging.md): LWIR physics, microbolometers, radiometric data, and the hub for the thermography unit topics.
 - [Emissivity and Reflected Temperature](/topics/emissivity-and-reflected-temperature.md): apparent versus true temperature and the infrared mirror trap.
 - [Spot Size and Measurement Distance](/topics/spot-size-and-measurement-distance.md): IFOV, the 3 x 3 pixel rule, and flying height versus measurement validity.

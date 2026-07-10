@@ -38,6 +38,7 @@ Clients in utility, solar, and building inspection expect thermal findings from 
 - [Level 1 Thermography Certification](/exams/level-1-thermography-certification.md) for the credential pathway this knowledge feeds.
 - [Electromagnetic Spectrum](/topics/electromagnetic-spectrum.md) for where LWIR sits among the bands.
 - [Infrastructure Inspection Operations](/topics/infrastructure-inspection-operations.md) and [Public Safety Drone Operations](/topics/public-safety-drone-operations.md) for the work this sensing supports.
+- [Agricultural Drone Applications](/topics/agricultural-drone-applications.md) for canopy-temperature water-stress and irrigation work.
 - [Orthomosaics](/topics/orthomosaics.md) for the mapping workflow thermal mosaics inherit.
 - [Drone Payloads](/topics/drone-payloads.md) for thermal's place in the payload taxonomy.
 
