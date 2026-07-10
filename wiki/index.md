@@ -112,6 +112,7 @@ The physics and sensor layer under professional drone work.
 ## Analyses
 
 - [Part 107 Coverage of the AERO 100 Outline](/analysis/part-107-coverage-of-aero-100.md): gap analysis between the test and the approved course outline.
+- [ASPRS Recommended Reading List](/analysis/asprs-recommended-reading-list.md): the nine exam preparation texts with current editions, availability, and per-text relevance for mining course ideas.
 - [PG&E Drone Program and Training Pipeline](/analysis/pge-drone-program-and-training-pipeline.md): partnership intelligence on PG&E's pilot qualification ladder, the IBEW 1245 training model, and articulation precedent for the utility inspection course.
 
 ## Sources
@@ -125,6 +126,8 @@ The physics and sensor layer under professional drone work.
 - [ASPRS Certification Manual](/sources/asprs-certification-manual.md): the ASPRS Certification and Recertification Guidelines, evidence anchor for the certification pages.
 - [ASPRS Certification Manual (2019)](/sources/asprs-certification-manual-2019.md): the 2019 revision preserving the Geospatial Intern Program section and intern fees.
 - [ASPRS Intern Application Page](/sources/asprs-intern-application-page.md): the archived "How To Apply - Interns" page with the intern program mechanics.
+- [Remote Sensing and Image Interpretation Excerpts](/sources/remote-sensing-and-image-interpretation-excerpts.md): Wiley's free table of contents and first chapter of the Lillesand, Kiefer, and Chipman textbook.
+- [Introduction to UAV Systems Excerpts](/sources/introduction-to-uav-systems-excerpts.md): Wiley's free table of contents and first chapter of the Fahlstrom, Gleason, and Sadraey text.
 - [How Pacific Gas and Electric Company Uses Unmanned Aircraft](/sources/verticalmag-pge-uas-operations.md): the 2025 Vertical Mag feature on PG&E's UAS program, Flight Core, and field realities.
 - [NSSL UAS Standard Operating Procedure](/sources/nssl-uas-sop.md): a complete public institutional drone SOP, the model for crew, weather, and safety procedures.
 - [NCAT TOP Level 2 Course Syllabus](/sources/ncat-top-level-2-syllabus.md): a partner college's three credit syllabus for teaching Trusted Operator Level 2, evidence for the provider pathway.

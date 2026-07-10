@@ -1,0 +1,422 @@
+vii
+Preface xvii
+Series Preface xxi
+Acknowledgments xxiii
+List of Acronyms xxv
+About the Companion Website xxix
+Part I Introduction 1
+1	 History 	and Overview	 3
+1.1	 	Overview	 3
+1.2	 	History	 4
+1.2.1	 Early 	History	 4
+1.2.2	 The 	Vietnam	War	 4
+1.2.3	 Resurgence 	 5
+1.2.4	 Joint 	Operations	 6
+1.2.5	 Desert 	Storm	 6
+1.2.6	 Bosnia 	 6
+1.2.7	 Afghanistan 	and Iraq	 7
+1.2.8	 Long- 	Range	Long-	Endurance	Operations	 7
+1.3	 	Overview	of	UA V	Systems	 8
+1.3.1	 Air 	Vehicle	 9
+1.3.2	 Mission 	Planning	and Control	Station	 9
+1.3.3	 Launch 	and Recovery	Equipment	 10
+1.3.4	 Payloads 	 10
+1.3.5	 Data 	Links	 11
+1.3.6	 Ground 	Support	Equipment	 11
+1.4	 	The	Aquila	 12
+1.4.1	 Aquila 	Mission	and Requirements	 12
+1.4.2	 Air 	Vehicle	 13
+1.4.3	 Ground 	Control	Station	 13
+1.4.4	 Launch 	and Recovery	 14
+1.4.5	 Payload 	 14
+1.4.6	 Other 	Equipment	 14
+1.4.7	 Summary 	 14
+Contents
+0005303417.INDD   7 2/22/2022   4:03:03 PM
+COPYRIGHTED MATERIAL
+viii Contents
+1.5	 	Global	Hawk	 16
+1.5.1	 Mission	Requirements	and Development	 16
+1.5.2	 Air	 Vehicle	 16
+1.5.3	 Payloads	 17
+1.5.4	 Communications	System	 17
+1.5.5	 Development	Setbacks	 18
+1.6	 	Predator	Family	 19
+1.6.1	 Predator	Development	 19
+1.6.2	 Reaper	 19
+1.6.3	 Features	 20
+1.7	 	Top	UA V	Manufacturers	 21
+1.8	 	Ethical	Concerns	of	UA Vs	 21
+		 Questions	 22
+2	 Classes	and Missions	of UAVs	 27
+2.1	 	Overview	 27
+2.2	 	Classes	of	UA V	Systems	 27
+2.2.1	 Classification	Criteria	 27
+2.2.2	 Classification	by	Range	and Endurance	 28
+2.2.3	 Classification	by	Missions	 29
+2.2.4	 The	 Tier	System	 32
+2.3	 	Examples	of	UA Vs	by	Size	Group	 33
+2.3.1	 Micro-	 UA Vs	 34
+2.3.2	 Mini-	 UA Vs	 34
+2.3.3	 Very	Small	UA Vs	 35
+2.3.4	 Small	UA Vs	 36
+2.3.5	 Medium	UA Vs	 37
+2.3.6	 Large	UA Vs	 40
+2.4	 	Expendable	UA Vs	 42
+		 Questions	 43
+Part II The	Air	Vehicle	 47
+3 Aerodynamics 49
+3.1	 	Overview	 49
+3.2	 	Aerodynamic	Forces	 49
+3.3	 	Mach	Number	 51
+3.4	 	Airfoil	 51
+3.5	 	Pressure	Distribution	 54
+3.6	 	Drag	Polar	 57
+3.7	 	The	Real	Wing	and Airplane	 58
+3.8	 	Induced	Drag	 58
+3.9	 	Boundary	Layer	 60
+3.10	 	Friction	Drag	 63
+3.11	 	Total	Air-	Vehicle	Drag	 63
+0005303417.INDD   8 2/22/2022   4:03:03 PM
+Contents ix
+3.12	 	Flapping	Wings	 64
+3.13	 	Aerodynamic	Efficiency	 66
+		 Questions	 67
+4 Performance 71
+4.1	 	Overview	 71
+4.2	 	Cruising	Flight	 72
+4.3	 	Range	 73
+4.3.1	 Range	for a	Non-	 Electric-	Engine	Propeller-	Driven	Aircraft	 74
+4.3.2	 Range	for a	Jet-	 Propelled	Aircraft	 76
+4.4	 	Endurance	 78
+4.4.1	 Endurance	for a	Non-	 Electric-	Engine	Propeller-	Driven	Aircraft	 78
+4.4.2	 Endurance	for a	Jet-	 Propelled	Aircraft	 79
+4.5	 	Climbing	Flight	 80
+4.6	 	Gliding	Flight	 82
+4.7	 	Launch	 83
+4.8	 	Recovery	 84
+		 Questions	 85
+5	 Flight	Stability 	and Control	 89
+5.1	 	Overview	 89
+5.2	 	Trim	 90
+5.2.1	 Longitudinal	 Trim	 91
+5.2.2	 Directional	 Trim	 93
+5.2.3	 Lateral	 Trim	 93
+5.2.4	 Summary	 94
+5.3	 	Stability	 94
+5.3.1	 Longitudinal	Static	Stability	 95
+5.3.2	 Directional	Static	Stability	 97
+5.3.3	 Lateral	Static	Stability	 99
+5.3.4	 Dynamic	Stability	 100
+5.4	 	Control	 101
+5.4.1	 Aerodynamic	Control	 101
+5.4.2	 Pitch	Control	 102
+5.4.3	 Directional	Control	 104
+5.4.4	 Lateral	Control	 105
+	 Questions	 106
+6 Propulsion 109
+6.1	 	Overview	 109
+6.2	 	Propulsion	Systems	Classification	 109
+6.3	 	Thrust	Generation	 110
+6.4	 	Powered	Lift	 111
+6.5	 	Sources	of Power	 114
+6.5.1	 Four- 	Cycle	Engine	 115
+6.5.2	 Two- 	Cycle	Engine	 116
+0005303417.INDD   9 2/22/2022   4:03:03 PM
+x Contents
+6.5.3	 Rotary	Engine	 118
+6.5.4	 Gas	 Turbine	Engines	 119
+6.5.5	 Electric	Motors	 120
+6.6	 	Sources	of Electric	Energy	 122
+6.6.1	 Batteries	 122
+6.6.2	 Solar	Cells	 124
+6.6.3	 Fuel	Cells	 126
+6.7	 	Power	and Thrust	 127
+6.7.1	 Relation	Between	Power	and Thrust	 128
+6.7.2	 Propeller	 128
+6.7.3	 Variations	of Power	and Thrust	with Altitude	 130
+		 Questions	 131
+7	 Air	 Vehicle	Structures	 135
+7.1	 	Overview	 135
+7.2	 	Structural	Members	 135
+7.2.1	 Skin	 136
+7.2.2	 Fuselage	Structural	Members	 136
+7.2.3	 Wing	and Tail	Structural	Members	 137
+7.2.4	 Other	Structural	Members	 138
+7.3	 	Basic	Flight	Loads	 139
+7.4	 	Dynamic	Loads	 143
+7.5	 	Structural	Materials	 145
+7.5.1	 Overview	 145
+7.5.2	 Aluminum	 145
+7.6	 	Composite	Materials	 146
+7.6.1	 Sandwich	Construction	 146
+7.6.2	 Skin	or	Reinforcing	Materials	 147
+7.6.3	 Resin	Materials	 147
+7.6.4	 Core	Materials	 148
+7.7	 	Construction	Techniques	 148
+7.8	 	Basic	Structural	Calculations	 149
+7.8.1	 Normal	and Shear	Stress	 150
+7.8.2	 Deflection	 152
+7.8.3	 Buckling	Load	 153
+7.8.4	 Factor	of Safety	 154
+7.8.5	 Structural	Fatigue	 155
+		 Questions	 155
+Part III Mission	Planning	and Control	 159
+8	 Mission	Planning	and Control Station	 161
+8.1	 	Introduction	 161
+8.2	 	MPCS	Subsystems	 161
+8.3	 	MPCS	Physical	Configuration	 165
+0005303417.INDD   10 2/22/2022   4:03:03 PM
+Contents xi
+8.4	 	MPCS	Interfaces	 169
+8.5	 	MPCS	Architecture	 170
+8.5.1	 Fundamentals	 170
+8.5.2	 Local	Area	Networks	 172
+8.5.3	 Levels	of Communication	 172
+8.5.4	 Bridges	and Gateways	 173
+8.6	 	Elements	of	a	LAN	 174
+8.6.1	 Layout	and Logical	Structure	(Topology)	 174
+8.6.2	 Communications	Medium	 175
+8.6.3	 Network	 Transmission	and Access	 175
+8.7	 	OSI	Standard	 175
+8.7.1	 Physical	Layer	 175
+8.7.2	 Data-	 Link	Layer	 175
+8.7.3	 Network	Layer	 176
+8.7.4	 Transport	Layer	 176
+8.7.5	 Session	Layer	 176
+8.7.6	 Presentation	Layer	 176
+8.7.7	 Application	Layer	 176
+8.8	 	Mission	Planning	 176
+8.9	 	Pilot-	In-	Command	 179
+		 Questions	 180
+9	 Control	of Air	 Vehicle	and Payload	 183
+9.1	 	Overview	 183
+9.2	 	Levels	of Control	 184
+9.3	 	Remote	Piloting	the Air	Vehicle	 185
+9.3.1	 Remote	Manual	Piloting	 186
+9.3.2	 Autopilot- 	Assisted	Control	 188
+9.3.3	 Complete	Automation	 188
+9.3.4	 Summary	 189
+9.4	 	Autopilot	 190
+9.4.1	 Fundamental	 190
+9.4.2	 Autopilot	Categories	 191
+9.4.3	 Inner	and Outer	Loops	 191
+9.4.4	 Overall	Modes	of Operation	 192
+9.4.5	 Control	Process	 193
+9.4.6	 Control	Axes	 193
+9.4.7	 Controller	 194
+9.4.8	 Actuator	 195
+9.4.9	 Open- 	Source	Commercial	Autopilots	 195
+9.5	 	Sensors	Supporting	the Autopilot	 196
+9.5.1	 Altimeter	 196
+9.5.2	 Airspeed	Sensor	 196
+9.5.3	 Attitude	Sensors	 197
+9.5.4	 GPS	 198
+9.5.5	 Accelerometers	 199
+0005303417.INDD   11 2/22/2022   4:03:03 PM
+xii Contents
+9.6	 	Navigation	and Target	Location	 199
+9.7	 	Controlling	Payloads	 201
+9.7.1	 Signal	Relay	Payloads	 202
+9.7.2	 Atmospheric,	Radiological,	and Environmental	Monitoring	 202
+9.7.3	 Imaging	and Pseudo-	 Imaging	Payloads	 203
+9.8	 	Controlling	the Mission	 204
+9.9	 	Autonomy	 206
+		 Questions	 208
+Part	IV Payloads 213
+10 Reconnaissance/Surveillance Payloads 215
+10.1	 	Overview	 215
+10.2	 	Imaging	Sensors	 216
+10.3	 	Target	Detection,	Recognition,	and Identification	 217
+10.3.1	 Sensor	Resolution	 218
+10.3.2	 Target	Contrast	 221
+10.3.3	 Transmission	 Through	the Atmosphere	 222
+10.3.4	 Target	Signature	 225
+10.3.5	 Display	Characteristics	 225
+10.3.6	 Range	Prediction	Procedure	 226
+10.3.7	 A	Few	Considerations	 228
+10.3.8	 Pitfalls	 230
+10.4	 	The	Search	Process	 231
+10.4.1	 Types	of Search	 231
+10.4.2	 Field	of View	 232
+10.4.3	 Search	Pattern	 234
+10.4.4	 Search	 Time	 235
+10.5	 	Other	Considerations	 237
+10.5.1	 Location	and Installation	 237
+10.5.2	 Stabilization	of the	Line	of Sight	 238
+10.5.3	 Gyroscope	and Gimbal	 238
+10.5.4	 Gimbal- 	Gyro	Configuration	 240
+10.5.5	 Thermal	Design	 241
+10.5.6	 Environmental	Conditions	Affecting	Stabilization	 241
+10.5.7	 Boresight	 242
+10.5.8	 Stabilization	Design	 242
+		 Questions	 243
+11 Weapon Payloads 247
+11.1	 	Overview	 247
+11.2	 	History	of Lethal	Unmanned	Aircraft	 249
+11.3	 	Mission	Requirements	for Armed	Utility	UA Vs	 251
+11.4	 	Design	Issues	Related	to Carriage	and Delivery	of Weapons	 252
+11.4.1	 Payload	Capacity	 253
+11.4.2	 Structural	Issues	 253
+0005303417.INDD   12 2/22/2022   4:03:04 PM
+Contents xiii
+11.4.3	 Electrical	Interfaces	 255
+11.4.4	 Electromagnetic	Interference	 256
+11.4.5	 Launch	Constraints	for Legacy	 Weapons	 257
+11.4.6	 Safe	Separation	 257
+11.4.7	 Data	Links	 258
+11.4.8	 Payload	Location	 258
+11.5	 	Signature	Reduction	 258
+11.5.1	 Acoustical	Signatures	 259
+11.5.2	 Visual	Signatures	 263
+11.5.3	 Infrared	Signatures	 264
+11.5.4	 Radar	Signatures	 265
+11.5.5	 Emitted	Signals	 269
+11.5.6	 Active	Susceptibility	Reduction	Measures	 269
+11.6	 	Autonomy	for Weapon	Payloads	 270
+11.6.1	 Fundamental	Concept	 270
+11.6.2	 Rules	of Engagement	 272
+		 Questions	 273
+12	 Other	Payloads	 277
+12.1	 	Overview	 277
+12.2	 	Radar	 277
+12.2.1	 General	Radar	Considerations	 277
+12.2.2	 Synthetic	Aperture	Radar	 280
+12.3	 	Electronic	Warfare	 280
+12.4	 	Chemical	Detection	 281
+12.5	 	Nuclear	Radiation	Sensors	 282
+12.6	 	Meteorological	and Environmental	Sensors	 282
+12.7	 	Pseudo-	Satellites	 283
+12.8	 	Robotic	Arm	 286
+12.9	 	Package	and Cargo	 287
+12.10	 	Urban	Air	Mobility	 288
+		 Questions	 288
+Part	V Data Links 291
+13	 Data	Link 	Functions	and Attributes	 293
+13.1	 	Overview	 293
+13.2	 	Background	 293
+13.3	 	Data-	Link	Functions	 295
+13.4	 	Desirable	Data-	Link	Attributes	 296
+13.4.1	 Worldwide	Availability	 297
+13.4.2	 Resistance	to Unintentional	Interference	 298
+13.4.3	 Low	Probability	of 	Intercept	(LPI)	 298
+13.4.4	 Security	 298
+13.4.5	 Resistance	to Deception	 299
+13.4.6	 Anti- 	ARM	 299
+0005303417.INDD   13 2/22/2022   4:03:04 PM
+xiv Contents
+13.4.7	 Anti-	 Jam	 300
+13.4.8	 Digital	Data	Links	 301
+13.4.9	 Signal	Strength	 301
+13.5	 	System	Interface	Issues	 302
+13.5.1	 Mechanical	and Electrical	 302
+13.5.2	 Data-	 Rate	Restrictions	 302
+13.5.3	 Control-	 Loop	Delays	 303
+13.5.4	 Interoperability,	Interchangeability,	and Commonality	 305
+13.6	 	Antennas	 307
+13.6.1	 Omnidirectional	Antenna	 307
+13.6.2	 Parabolic	Reflectors	 307
+13.6.3	 Array/Directional	Antennas	 308
+13.6.4	 Lens	Antennas	 308
+13.7	 	Data	Link	Frequency	 309
+		 Questions	 311
+14	 Data-	 Link	Margin	 315
+14.1	 	Overview	 315
+14.2	 	Sources	of Data-	Link	Margin	 316
+14.2.1	 Transmitter	Power	 316
+14.2.2	 Antenna	Gain	 316
+14.2.3	 Processing	Gain	 322
+14.3	 	Anti-	Jam	Margin	 327
+14.3.1	 Definition	of Anti-	 Jam	Margin	 327
+14.3.2	 Jammer	Geometry	 328
+14.3.3	 System	Implications	of 	AJ	Capability	 331
+14.3.4	 Anti-	 Jam	Uplinks	 334
+14.4	 	Propagation	 334
+14.4.1	 Obstruction	of the	Propagation	Path	 334
+14.4.2	 Atmospheric	Absorption	 336
+14.4.3	 Precipitation	Losses	 336
+14.5	 	Data-	Link	Signal-	to-	Noise	Budget	 336
+		 Questions	 339
+15 Data- Rate Reduction 343
+15.1	 	Overview	 343
+15.2	 	Compression	Versus	Truncation	 343
+15.3	 	Video	Data	 344
+15.3.1	 Gray	Scale	 344
+15.3.2	 Encoding	of Gray	Scale	 345
+15.3.3	 Effects	of Bandwidth	Compression	on Operator	Performance	 346
+15.3.4	 Frame	Rate	 348
+15.3.5	 Control	Loop	Mode	 348
+15.3.6	 Forms	of Truncation	 350
+15.3.7	 Summary	 351
+15.4	 	Non-	Video	Data	 352
+15.5	 	Location	of the	Data-	Rate	Reduction	Function	 353
+		 Questions	 354
+0005303417.INDD   14 2/22/2022   4:03:04 PM
+Contents xv
+16 Data- Link Tradeoffs 357
+16.1	 	Overview	 357
+16.2	 	Basic	Tradeoffs	 357
+16.3	 	Pitfalls	of “Putting	Off”	Data-	Link	Issues	 359
+16.4	 	Future	Technology	 360
+		 Questions	 360
+Part	VI Launch	and Recovery	 363
+17 Launch Systems 365
+17.1	 	Overview	 365
+17.2	 	Conventional	Takeoff	 365
+17.3	 	Basic	Considerations	 366
+17.4	 	Launch	Methods	for Fixed-	Wing	Air	Vehicles	 370
+17.4.1	 Overview	 370
+17.4.2	 Rail	Launchers	 372
+17.4.3	 Pneumatic	Launchers	 373
+17.4.4	 Hydraulic-	Pneumatic	Launchers	 374
+17.4.5	 Zero	Length	RATO	Launch	of	UAVs	 375
+17.4.6	 Tube	Launch	 375
+17.5	 	Rocket-	Assisted	Takeoff	 376
+17.5.1	 RATO	Configuration	 376
+17.5.2	 Ignition	Systems	 376
+17.5.3	 Expended	RATO	Separation	 376
+17.5.4	 Other	Launch	Equipment	 377
+17.5.5	 Energy	(Impulse)	Required	 377
+17.5.6	 Propellant	Weight	Required	 378
+17.5.7	 Thrust,	Burning	 Time,	and Acceleration	 379
+17.6	 	Vertical	Takeoff	 379
+		 Questions	 379
+18 Recovery Systems 383
+18.1	 	Overview	 383
+18.2	 	Conventional	Landing	 383
+18.3	 	Vertical	Net	Systems	 384
+18.4	 	Parachute	Recovery	 385
+18.5	 	VTOL	UA Vs	 386
+18.6	 	Mid-	Air	Retrieval	 388
+18.7	 	Shipboard	Recovery	 389
+18.8	 	Break-	Apart	Landing	 392
+18.9	 	Skid	and Belly	Landing	 393
+18.10	 	Suspended	Cables	 394
+		 Questions	 395
+19	 Launch	and Recovery 	T radeoffs	 397
+19.1	 	UA V	Launch	Method	Tradeoffs	 397
+19.2	 	Recovery	Method	Tradeoffs	 400
+0005303417.INDD   15 2/22/2022   4:03:04 PM
+xvi Contents
+19.3	 	Overall	Conclusions	 402
+		 Questions	 402
+20	 Rotary- 	Wing	UAVs	and Quadcopters	 405
+20.1	 	Overview	 405
+20.2	 	Rotary-	Wing	Configurations	 406
+20.2.1	 Single	Rotor	 406
+20.2.2	 Twin	Co-	 axial	Rotors	 407
+20.2.3	 Twin	 Tandem	Rotors	 408
+20.2.4	 Multicopters	 408
+20.3	 	Hybrid	UA Vs	 409
+20.3.1	 Tilt	Rotor	 409
+20.3.2	 Tilt	 Wing	 409
+20.3.3	 Thrust	 Vectoring	 410
+20.3.4	 Fixed- 	Wing	Quadcopter	Combination	 410
+20.4	 	Quadcopters	 411
+20.4.1	 Overview	 411
+20.4.2	 Aerodynamics	 413
+20.4.3	 Control	 414
+		 Questions	 416
+References 419
+Index 421
+0005303417.INDD   16 2/22/2022   4:03:04 PM
