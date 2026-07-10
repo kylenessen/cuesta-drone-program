@@ -1,0 +1,875 @@
+ABSTRACT
+
+NSSL UAS
+STANDARD
+OPERATING
+PROCEDURE
+
+The purpose of this procedure is to provide
+instruction and direction to NSSL/CIWRO
+personnel regarding NSSL UAS operations.
+
+Melissa Wagner and Mike Coniglio
+
+Contents
+1. Purpose ................................................................................................................................. 3
+2. Scope..................................................................................................................................... 3
+3. Roles and Responsibilities ..................................................................................................... 3
+3.1. Mission Commander (MC) ............................................................................................... 3
+3.1.1. Responsibilities ......................................................................................................... 3
+3.1.2. Qualifications ............................................................................................................ 4
+3.1.3. Training ..................................................................................................................... 4
+3.1.4. Currency ................................................................................................................... 4
+3.2. Remote Pilot In Command ............................................................................................... 4
+3.2.1. Responsibilities ......................................................................................................... 4
+3.2.2. Qualifications ............................................................................................................ 5
+3.2.3. Training ..................................................................................................................... 5
+3.2.4.
+
+Currency ............................................................................................................... 5
+
+3.3. Visual Observer (VO)....................................................................................................... 5
+3.3.1. Responsibilities ......................................................................................................... 5
+3.3.2. Qualifications ............................................................................................................ 6
+3.3.3
+
+Training................................................................................................................. 6
+
+3.3.4
+
+Currency ............................................................................................................... 6
+
+3.4. Ground Support Personnel .............................................................................................. 6
+3.4.1. Responsibilities ......................................................................................................... 6
+4. Uncrewed Aircraft Systems .................................................................................................... 6
+4.1. Registration ..................................................................................................................... 7
+4.2. Record Keeping ............................................................................................................... 7
+4.3. Maintenance .................................................................................................................... 8
+5. Flight Safety Guidelines ......................................................................................................... 8
+5.1. Weather ........................................................................................................................... 8
+5.2. Site Characteristics .......................................................................................................... 8
+5.3. Battery ............................................................................................................................. 9
+5.3.1. Battery Storage ......................................................................................................... 9
+5.3.2. Battery Maintenance ................................................................................................. 9
+5.4. Crew ................................................................................................................................ 9
+5.5. Privacy ...........................................................................................................................10
+5.6. Permissions ....................................................................................................................10
+5.6.1. Controlled Airspace ..................................................................................................10
+1
+
+5.6.2. Temporarily Flight Restriction ...................................................................................10
+6. Pre-Flight Operations: ...........................................................................................................11
+7. Flight Operations ...................................................................................................................12
+8. Post-flight Operations............................................................................................................12
+9. Emergency Operations and Response ..................................................................................13
+9.1. Emergency Response ....................................................................................................13
+9.1.1. Loss of Link ..............................................................................................................13
+9.1.2. Fly Away ..................................................................................................................14
+9.1.3. Low Battery ..............................................................................................................15
+9.1.4. Evasive Maneuvers ..................................................................................................16
+10. Incident/Accident Response and Reporting .........................................................................16
+10.1. Documentation .............................................................................................................17
+11. Checklists ...........................................................................................................................18
+11.1. Trinity Pre-Flight ...........................................................................................................18
+11.2. Trinity Post-Flight Checklist ..........................................................................................20
+11.3. Skydio 2 Pre-Flight Checklist ........................................................................................20
+11.4. Skydio 2 Post-Flight Checklist ......................................................................................20
+
+2
+
+1. Purpose
+The purpose of this procedure is to provide instruction and direction to NSSL/CIWRO personnel
+regarding NSSL UAS operations. All UAS flights must be approved by the NOAA Uncrewed
+Aircraft Systems Division (UASD), which is briefly discussed in Section 5.6.4. For more detailed
+information on NOAA UAS protocol, the reader is referred to NOAA’s UAS handbook (available
+here). The following procedures are intended to promote safe, efficient and lawful operation of
+NSSL’s UAS.
+
+2. Scope
+The Standard Operating Procedures for UAS Operations (SOP) has been prepared for the use
+and guidance of UAS in flight operations, flight planning, training, and oversight as a requirement
+to exercise the privileges of operating under 1) any Public Agency Operation when operating a
+Public Aircraft 2) any remote pilot operating under 14 CRR Part 107, 3) any other operations
+conducted under a Certificate of Waiver or Authorization (COA) including an Airspace
+Authorization, Airspace Waiver or Operational Waiver or 4) any operation categorized as a
+moderate and above Risk Level. All personnel operating under or in support of NSSL UAS
+operations must follow all applicable Federal Aviation Administration (FAA) regulations and
+guidelines, NOAA UAS policies, as well as local, state, and federal rules and regulations.
+The SOP is intended to be a convenient source of the NSSL’s UAS operation procedures.
+Everyone participating in applicable UAS activity should study this entire manual and NOAA UAS
+Policy 1107 (available here) and NOAA UAS Handbook (available here) to familiarize themselves
+with its requirements before participating in any UAS activity for research purposes. The SOP
+does not address every possible contingency that may arise or every rule of safety and good
+practice. UAS operators are expected to be aware of their surroundings and consider any special
+characteristics of the area or the mission being flown.
+
+3. Roles and Responsibilities
+3.1. Mission Commander (MC)
+All NOAA UAS operations are required to have a Mission Commander. As defined in NOAA UAS
+Handbook policy, the MC has the final oversight and responsibility to ensure all applicable
+statutory requirements are met during all NOAA UAS operations.
+3.1.1. Responsibilities
+•
+
+The MC will provide federal oversight of the project and have operational authority in
+conjunction with the Remote Pilot In Command, to include go no-go decisions based on
+weather, safety and operational payload status.
+
+3
+
+•
+•
+
+•
+
+The MC shall have knowledge in the limitations of the platform, airspace, and required
+approvals in the operation.
+In the event of an incident, the MC will act as the liaison with NOAA UASD to determine
+root causes and file any required paperwork before UAS flights are authorized by AOC to
+resume.
+Although the MC is not required to have a remote pilot certificate with a small UAS rating
+issued pursuant to subpart C of 14 CFR Part 107 according to NOAA’s UAS Handbook
+Policy, it is highly recommended.
+
+3.1.2. Qualifications
+• NOAA Federal Employee.
+• Non-NOAA Federal employees must be recommended by their supervisor to receive a
+UASD MC Designation Letter.
+• MC Designation Letter signed by the Chief, UASD.
+3.1.3. Training
+• MC specific training course provided by the UASD.
+3.1.4. Currency
+• MC will attend or review the UASD provided policy and regulation update annually.
+
+3.2. Remote Pilot In Command (RPIC)
+The Remote Pilot In Command (RPIC) is directly responsible for and is the final authority over the
+operation of the UAS. The RPIC retains complete and overall responsibility for safety in flight,
+regardless of who is piloting the UAS.
+3.2.1. Responsibilities
+The RPIC retains complete and overall responsibility for safety in flight, regardless of who is
+operating the controls. The RPIC has the final decision to initiate or terminate any flight.
+•
+
+•
+
+•
+
+The RPIC will evaluate each UAS activity in detail prior to operation. It is the responsibility
+of the RPIC to recognize and refuse any UAS activity that in the RPIC’s judgment is not
+safe. The RPIC’s shall determine whether the UAS activity is feasible and can be
+conducted in a safe and efficient manner.
+The RPIC must understand the UAS activity and have all applicable maps, charts and
+manuals available while on-site. Additionally, the RPIC is required to be aware of weather
+forecasts, winds, hazards, temporary flight restrictions, and all pertinent information
+necessary to perform the UAS activity.
+The RPIC is responsible for ensuring that all documentation has been completed,
+submitted and accepted, including submission of the UAS Activity Request Form, filing of
+any necessary notices, and any necessary flight plans or safety mitigation analysis.
+
+4
+
+3.2.2. Qualifications
+•
+
+•
+
+The RPIC must have (and maintain) a remote pilot certificate with a small UAS rating
+issued pursuant to subpart C of 14 CFR Part 107, or any other certificate or license
+required for the operation being conducted.
+PIC Designation Letter specific to the platform being operated.
+o UASD will only designate NOAA federal employees as PICs.
+o Non-NOAA federal employees (i.e. contractors) are required to meet the same
+criteria set forth for NOAA federal employee PICs and must be designated in
+writing by their Agency, contracting vendor, or specific UAS manufacturer.
+
+3.2.3. Training
+•
+•
+
+Original Equipment Manufacturer (OEM) or UASD approved equivalent training specific
+to the UAS platform documented via training completion certificate.
+Training in all specific details of the UAS being operated including normal, abnormal, and
+emergency procedures.
+
+3.2.4. Currency
+•
+•
+
+•
+
+Maintain proficiency via three (3) takeoffs and landings within the previous ninety (90)
+days utilizing the specific UAS to which the PIC is qualified.
+Currency may be regained using an appropriate simulator, if available. Currency may
+also be regained under the direct supervision of a qualified, current PIC operating the
+specified UAS.
+If the above means are unavailable, currency may be regained with dedicated training
+flights on the specified UAS before conducting any operational flights.
+
+3.3. Visual Observer (VO)
+A Visual Observer (VO) is a person designated by the RPIC to assist the RPIC and the person
+manipulating the flight controls of the UAS to see-and-avoid any obstacle (other air traffic or
+objects aloft or on the ground) that will lessen safety during the mission.
+3.3.1. Responsibilities
+•
+
+•
+
+A VO is responsible for assisting the RPIC in maintaining situational awareness and
+complying with `see-and-avoid’ by scanning the area around the UAS for potentially
+conflicting traffic or other hazards to the safety of the flight.
+A VO shall remain alert for persons or activities on the ground and coordinate response
+by other UAS flight crewmembers.
+
+5
+
+•
+
+•
+
+•
+
+A VO shall maintain visual contact with the aircraft and maintain visual lookout for any
+airborne or ground-based threats in accordance with 14 CFR 107.31 or other FAA
+requirement.
+A VO will maintain verbal contact with the RPIC at all times and be able to advise the RPIC
+of any hazards that arise during flight. Intermittent forms of communications (texting,
+email, messaging systems) are not acceptable means of compliance. A cell-phone is
+acceptable if the connection was made prior to launch and is connected through the
+duration of the flight.
+A VO is responsible for the completion of pre- and post-flight checklists.
+
+3.3.2. Qualifications
+•
+
+Beyond Visual Line of Sight (BVLOS) certification from UASD where applicable.
+
+3.3.3
+•
+•
+
+Training
+PIC brief prior to operations to ensure competency.
+Complete UAS Safety Training course provided by NSSL/CIWRO.
+
+3.3.4
+•
+
+Currency
+For BVLOS operations, VOs must complete an annual refresher course as designated
+by the UASD.
+
+3.4. Ground Support Personnel
+A Ground Support Personnel is any person with an assigned responsibility to ensure the safety
+of the UAS activity but not tasked as the RPIC or VO.
+3.4.1. Responsibilities
+•
+
+•
+•
+•
+
+A Ground Support Personnel is responsible for assisting the RPIC in maintaining
+situational awareness, providing ground support and other activity to ensure the safety of
+the flight.
+A Ground Support Personnel may be tasked with supporting launch and recovery
+operations.
+A Ground Support Personnel may be tasked with preventing non-participants from
+entering the flight area.
+A Ground Support Personnel may be tasked with interacting with curious bystanders or
+spectators.
+
+4. Uncrewed Aircraft Systems
+All UAS must be operated and maintained in accordance with the recent revision of the UAS
+Manufacturer’s Manual.
+6
+
+The term `Manufacturer’s Manual’ as used in this Manual includes all manuals and publications
+provided by the relevant UAS manufacturer including, but not limited to:
+•
+•
+•
+•
+•
+•
+•
+•
+
+User Manuals
+Instruction Manuals
+Training Manuals
+Operations Manuals
+Pilot Operating Handbooks
+Component Maintenance Manuals
+Service or Safety Bulletins
+Service Information Letters
+
+4.1. Registration
+All NSSL UAS platforms that weigh between 0.55 - 55 lbs must be registered with the FAA under
+14 CFR 48. https://faadronezone.faa.gov/ Federally owned aircraft shall be registered by NOAA
+UASD whereas non-federally owned aircraft shall be registered by the non-federal agency (e.g.,
+CIWRO).
+For UAS platforms that weigh more than 55 lbs, registration for these platforms must be valid
+internationally following 14 CFR 47 and submitted via mail using Original Aircraft Registration
+Form, AC Form 8050-1.
+
+4.2. Record Keeping
+Records of UAS flight missions shall be documented through NOAA’s UAS AlarisPro (available
+here) and NSSL UAS flight log following flight operations. Database entries include but are not
+limited to the following:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Date and duration of flight
+Names of MC, RPIC, and additional crew
+Platform
+Takeoff and landing times
+Battery number
+Pre- and post-flight battery voltage
+Number of landings and lost links
+Software/Firmware updates
+any malfunctions such as lost link, damage of parts, and serial numbered parts that require
+replacement
+
+This information should also be recorded through NSSL UAS Google forms. All of these
+databases keep record of UAS operations in NOAA and NSSL and provide information for
+tracking metrics and different kinds of reporting.
+
+7
+
+4.3. Maintenance
+•
+•
+•
+
+The RPIC will ensure the UAS has been inspected and maintained per the manufacturer’s
+procedures, FAA guidelines, and/or UASD guidance.
+Software, firmware, and hardware changes must be documented as part of the normal
+maintenance procedures.
+For UAS discrepancies and/or payload changes related to maintenance, a record entry
+must be made in the aircraft logbook (AlarisPro and NSSL UAS Google forms) and
+submitted to the UASD.
+
+5. Flight Safety Guidelines
+It is the responsibility of every flight crew member to contribute to the goal of continued safe
+operations in part by maintaining situational awareness and adhering to FAA part 107 rules and
+regulations, and those specified in the COA and/or operations plan approved by NOAA UASD.
+Any safety hazard, whether procedural, operational, or maintenance related must be identified as
+soon as possible after, if not before, an incident occurs. If any member of the flight Crew observes
+or has knowledge of an unsafe or dangerous act committed by another member, the Mission
+Commander is to be notified immediately so corrective action may be taken. The RPIC is
+responsible for ensuring a safe operating environment, which includes but is not limited to
+monitoring weather conditions, managing intrusions, maintaining equipment, and crew safety.
+
+5.1. Weather
+Local weather must be checked prior to UAS activity to ensure wind speeds, precipitation,
+temperature or other environmental factors will not adversely affect the safety of the UAS activity.
+The operator shall utilize NOAA and/or FAA approved weather resources to obtain the latest and
+most current weather conditions.
+•
+•
+•
+•
+
+Prior to each flight, weather conditions shall be recorded in the pre-flight checklist and reevaluated prior to take-off.
+No UAS activity shall occur when weather conditions exceed visual flight rules (VFR)
+weather minimums or the listed aircraft tolerance per the manufacturer’s manual.
+Flight operations shall follow FAA restrictions on visibility and offsets (e.g., clouds) that fall
+under weather conditions.
+Flight operations shall be terminated if weather conditions become unsuitable for safe
+operations (e.g., precipitation, winds exceeding manufacturer’s recommendation).
+
+5.2. Site Characteristics
+The RPIC and VOs will ensure that the location for take-off and emergency landing is adequate
+for a safe deployment. Take-off/landing sites shall provide sufficient clearance away powerlines,
+trees, and radio antenna/cellular towers and should be clearly marked and identifiable with short
+cones or similar marking system if necessary.
+8
+
+The RPIC, VOs, and ground support personnel shall monitor the skies for intruding air traffic and
+take any necessary corrective action to avoid collisions with crewed aircraft. This is especially
+important following high magnitude events where emergency vehicles often fly at low altitudes in
+airspace above impacted areas.
+In remote and agricultural areas, RPIC and VOs should be aware that crewed aircraft, including
+fixed-wing aircraft and helicopters, may be operating very close to ground level. Pilots conducting
+agricultural, firefighting, law enforcement, emergency medical, wildlife survey operations and a
+variety of other services all legally and routinely work in low level airspace. UAS operators should
+maintain situational awareness, give way to, and remain a safe distance from these low-level,
+manned airplanes and helicopters.
+The RPIC shall also be cognizant of the variation of elevation and activate the terrain following
+features where applicable.
+
+5.3. Battery
+The RPIC must ensure that the UAS maintains a sufficient power reserve as recommended by
+the manufacturer. If the required battery reserves cannot be maintained, the RPIC must terminate
+the flight and land the UAS at any time.
+5.3.1. Battery Storage
+Lithium-ion (Li-ion) batteries are common in sUAS. Li-ion batteries can be dangerous under some
+conditions and can pose a safety hazard because they, unlike other rechargeable batteries,
+contain a flammable electrolyte and are kept pressurized. It is extremely important that all Li-ion
+batteries be handled in accordance with the manufacturer's recommendations. Do not store the
+battery or aircraft in a hot garage, car or direct sunlight as the battery can be damaged or even
+catch fire.
+5.3.2. Battery Maintenance
+As part of battery maintenance, the RPIC shall ensure batteries are rotated through, preferably
+sequentially, during flight operations. In the case of storage, batteries should be discharged
+according to the manufacturer’s recommended voltage or percentage. In the case of new
+batteries, crew should perform a capacity test on all new battery packs to ensure they work
+properly before flying with them. Batteries connected to a charging device and actively charging
+should not be left attended.
+
+5.4. Crew
+Due to the nature of the mission, the minimum personnel required on ALL missions will be an
+RPIC and Visual Observer. Under no circumstances will an operator attempt to complete a
+deployment alone, including training. The primary goal of the flight crew is to maintain a safe
+9
+
+environment for crewed aircraft, flight crew, and public safety. Visual acuity of the aircraft by both
+the RPIC and VO is essential for a safe and productive flight.
+UAS flight crew personnel shall wear safety vests. Certain missions may require the use of
+work/hiking boots, hard hats, and eye protection. Other safety equipment for the flight crews that
+should be included: two-way radios, first aid kit, and fire extinguisher.
+In accordance to NOAA UASD and FAA guidelines, a crew duty day will consist of no more than
+16 hours. During the 16 hour duty, no person may act as crew member for 8 hours of flight time.
+
+5.5. Privacy
+Data will only be collected for use that is consistent and relevant to NSSL’s mission. Flight crews
+will make every attempt to limit the collection of personally identifiable information (PII).
+Unintentional collection of PII will be deleted, masked or obscured following the methods
+described in NSSL UAS Privacy Policy.
+
+5.6. Permissions
+5.6.1. Controlled Airspace
+Airspace must be verified to check for controlled airspace and/or emergency restrictions following
+a disaster. In the case of controlled airspace, the RPIC must submit an airspace authorization
+request via Low Altitude Authorization and Notification Capability (LAANC) or apply for a
+certificate of waiver or authorization (COA) with non-LAANC participating airports.
+5.6.2. Temporarily Flight Restriction
+Temporarily Flight Restriction (TFR) is a type of Notice to Airmen (NOTAM) that defines the area
+restricted due to a hazardous condition, special event, or general warning for the entire FAA
+airspace. Following a large scale disaster, TFRs are often issued for active emergency response
+operations and/or surveillance by government officials. In the issuance of a TFR, the MC and
+RPIC shall work with NOAA UAS to obtain a Special Government Interest (SGI) waiver to operate
+in TFR airspace.
+5.6.3. Operations on Private Property
+If the takeoff and landing point falls on private property, the RPIC, VOs, or ground support
+personnel must obtain permission from the property owners. The flight crew shall make all
+attempts to obtain written permission (name, address and signature).
+5.6.4. NOAA UAS Procedures and Permissions
+There are several NOAA UAS procedures/protocols that must be followed to receive approval for
+UAS operations prior to deployment. Below is a flow chart the details the processes and timelines
+involved in obtaining approval for UAS operations. The MC and RPIC should already understand
+10
+
+these procedures and have submitted the necessary paperwork from NOAA UAS. For more
+detailed information, the operator/reader is referred to NOAA UAS Handbook Policy here.
+
+Figure 1. Flow chart of NOAA UAS procedures required to obtain flight approval by NOAA UAS
+and in compliance with FAA regulations.
+
+6. Pre-Flight Operations:
+The RPIC/VOs shall familiarize themselves with all available information concerning the flight. At
+least one emergency landing area should be identified per deployment. RPIC & VOs will ensure
+that they are aware of their surroundings in the event that an emergency landing is necessary.
+This includes the ability to recover the UAS. The flight area shall be depicted on a flight planning
+software.
+Before any UAS activity is conducted under the provisions of this SOP, the RPIC will obtain
+permission to conduct these operations from all necessary parties. Approval may also be
+necessary from local and state government officials especially following a disaster.
+RPICs and VOs are both responsible for a thorough preflight inspection of the UAS.
+RPICs and VOs shall check airspace onsite for any potential changes in airspace restrictions or
+to submit an airspace authorization via the LAANC network. The RPIC must submit and receive
+an airspace authorization prior to takeoff. If a TFR has been issued in the designated area, UAS
+operations must be aborted until the proper authorization has been obtained.
+11
+
+RPICs and VOs must complete pre-flight checklists to ensure the highest level of safety for flight.
+(see Appendix).
+
+7. Flight Operations
+All Flight Personnel must remain at their station as listed in the Flight Operation Plan during
+takeoff, landing, recovery, and other critical phases of flight, except when performing those duties
+required for the safe operation of the aircraft.
+The RPIC must ensure that the unmanned aircraft maintains a sufficient power reserve as
+recommended by the manufacturer.
+All flight operations must be done in accordance with the prepared flight plan and as described
+during the pre-flight briefing. Intentional deviations are prohibited.
+Below is a list of general guidelines that should be followed by the RPIC during flight operations.
+•
+•
+•
+•
+•
+•
+•
+
+Ensure the operating environment is safe and that the RPIC is competent and proficient
+in the operation of the SUAS.
+Fly no higher than 400 feet AGL unless operating under an approved COA and remain
+below any surrounding obstacles when possible.
+For VLOS operations, keep your sUAS in eyesight at all times and use an observer to
+assist if needed.
+Remain well clear of and do not interfere with crewed aircraft operations, and you must
+see and avoid other aircraft and obstacles at all times.
+Contact the airport or control tower before flying within five miles of an airport.
+Fly no closer than two nautical miles from a heliport with a published instrument flight
+procedure.
+Do not fly near or over sensitive infrastructure or property such as power stations, water
+treatment facilities, correctional facilities, heavily traveled roadways, government facilities,
+etc.
+
+8. Post-flight Operations
+UAS shutdown and post flight actions will be taken in accordance with the Manufacturer’s Manual.
+The RPIC or a properly trained Visual Observer or Ground Support Personnel must conduct a
+post flight aircraft inspection as recommended in the Manufacturer’s Manual.
+RPICs and VOs must complete post-flight checklists (see Appendix).
+RPICs and VOs are both responsible for a thorough post-flight inspection of the UAS.
+12
+
+9. Emergency Operations and Response
+Procedures suggested here are best practices for coping with particular conditions but are not a
+substitute for sound judgment and common sense. All personnel (RPIC, VOs, and ground support
+personnel) should familiarize themselves with general procedures here and in Manufacturer’s
+Manual as well as be prepared to take the appropriate action should an emergency arise. The
+RPIC is responsible for ensuring flight safety and is responsible for making any assessment in
+regard to flight safety. If the RPIC is incapacitated for any reason, the responsibility goes to the
+VO, unless an alternate has been selected.
+All operations require the RPIC to designate a lost link/emergency termination zone prior to UAS
+activity. The RPIC retains the right to change or modify that selection if potentially unsafe
+conditions exist. These zones may be the same location or different locations, depending on the
+needs of the mission.
+The RPIC shall take all necessary actions to ensure that the launch and recovery of the UAS does
+not present a hazard to persons and property on the ground. The RPIC, VO and any ground
+support personnel will take all reasonable actions to ensure all non-essential personnel and
+nonparticipating persons remain at least 10 feet laterally away from landing zones, including
+emergency landing zones, while the UAS is taking off or landing.
+In an emergency situation involving the safety of persons or property, the RPIC or any other crew
+member may take action that is considered necessary under the circumstances to ensure safety.
+The RPIC may deviate from prescribed operations procedures and methods, weather minimums,
+regulations, this manual, etc., to the extent necessary, in the interest of safety.
+If, for any reason, the UAS needs to conduct an emergency landing, the flight crew will take
+actions to immediately warn people on the ground below where the UAS is operating and alert
+the RPIC of any potential hazards so the RPIC can take appropriate action to ensure safe flight
+operations. They must also immediately warn people on the ground below where the UAS is
+operating of any potential hazards associated with the UAS.
+A member of the flight crew, typically the VO, shall keep the appropriate ATC facilities fully
+informed when an in-flight UAS emergency could potentially impact operations of aircraft in
+navigable airspace.
+
+9.1. Emergency Response
+9.1.1. Loss of Link
+The RPIC should maintain an unobstructed line of sight between the controller and UAS to
+ensure a strong signal. Occasionally, signal will drop out as a result of obscurations in the
+environment in which the controller will attempt to regain signal with the UAS. In the event of
+13
+
+signal loss, every effort should be made to reestablish link communications between the
+controller and UAS.
+Trinity F90+
+•
+
+The link loss should be established before UAS operations. If the RC link as well as the
+flight data link is lost during the flight, the Trinity F90+ returns to the link reestablishing
+waypoint after the selected time expired (~30 seconds). If link cannot be reestablished
+during the selected time, the Trinity will return to home displaying and broadcasting link
+loss message on control and laptop, respectively.
+
+Skydio 2
+•
+•
+•
+
+Wait Before Return - sets the amount of time that you want Skydio to wait before it
+initiates a return flight, allowing time to reconnect.
+Land Once Returned - when enabled, Skydio will return, hover for a specified amount of
+time, and then land.
+Wait Before Land - set the amount of time between 0 to 300 seconds (the default is 240
+seconds) that you want Skydio to wait before landing. This setting is only enabled when
+Land Once Return is toggled on.
+
+Marlyn
+•
+
+•
+•
+
+Link loss should be turned on before UAS operations. If link is lost during flight, the
+Marlyn will returns to the link reestablishing waypoint (flight leg) after the selected time
+expired. Using the 'Time before returning' slider, a value between 30s and 180s can be
+set. Upon reaching the set value, Marlyn will automatically switch to 'Return to Home'
+mode and fly back to the take-off location.
+If you uncheck the 'Return on lost link' box the aircraft will continue its flight even if the
+Telemetry radio link is lost.
+The RC loss of link behaviour is not selectable and is implemented as follows:
+o When Marlyn executes its mission, a loss of the RC link is ignored.
+o When Marlyn is in a Manual flight mode, a loss of the RC link for more than 5
+seconds triggers the Return to home procedure.
+
+Evo II
+•
+
+•
+
+Failsafe will be activated if communication is lost between your aircraft and remote
+control for 3 seconds. Failsafe is an automatic function designed to help the Evo II return
+home or land in its current position (when necessary),
+If GPS is available when the Failsafe function is activated, the aircraft will automatically
+use the Go Home function. Otherwise, it will land from its current position. When
+communication is restored, you can still press the Pause button to regain control of the
+aircraft.
+
+9.1.2. Fly Away
+•
+
+Contact the nearest Air Traffic Control (ATC)
+14
+
+•
+•
+
+Note the UAS remaining available flight time, direction of travel, last known location (on
+screen and in the flight mission)
+Keep eyes on the UAS and track it for as long as possible
+
+9.1.3. Low Battery
+Although some platforms (i.e., Trinity F90+) will automatically return to home due to low battery,
+it is recommended that flight operations (missions) conclude before reaching low battery
+voltage. This practice allows for sufficient time for the UAS to return to home and safely land.
+Ideally, the RPIC should initiate return to home operations when battery voltage reaches 30% of
+its voltage. If battery voltage falls to levels insufficient to return, the RPIC should land the UAS
+at the designated lost link/emergency termination zone. If this option is not feasible (due to
+critically low battery voltage), the RPIC should land the UAS immediately in an open area
+avoiding any potential obstacles.
+Trinity F90+
+•
+•
+
+Low Battery (yellow) provides a 10 minute warning before the UAS returns home due to
+battery capacity.
+Critical Battery (red) will automatically trigger the UAS to return to home and land.
+
+Skydio 2
+
+•
+•
+
+•
+
+Skydio will assess your altitude and distance from the Home Point, then warn you when
+it is time to return home. It is recommended that you initiate a return or land at this time,
+however you can choose to keep flying.
+Skydio will then notify you when it has 2 minutes of flight time left based on its current
+altitude and the battery indicator will begin a two-minute countdown. You may choose to
+continue flying, however it is strongly recommended that you fly to a safe location and
+land.
+When the two-minute countdown is complete, Skydio will initiate an automatic landing
+that you will be unable to cancel. You will maintain the ability to nudge the drone in roll,
+pitch, and yaw to avoid any obstacles.
+
+Marlyn
+•
+
+•
+
+When the battery percentage in one of the two batteries drops below this value, the
+aircraft will abort its mapping flight and it will return to its home location immediately. It is
+highly recommended to select a value of 20% or higher to have margin for unforeseen
+circumstances for flying a nearby mapping region at 120m and less than 10m/s wind. A
+safe battery margin may be different for each project and environmental condition.
+Setting the Return on low battery to a low value can risk running out of energy before
+landing the drone, which will result in damage to the drone. Take good caution and
+commons sense in choosing an appropriate value.
+
+Evo II
+
+15
+
+•
+
+•
+
+When the aircraft's battery level reaches the 25% threshold, you’ll receive a Low Battery
+Warning and Failsafe will be activated, after which the aircraft will automatically return
+home.
+If you retake control of the aircraft, you’ll receive a Critically Low Battery Warning when
+the battery reaches 15%, and the aircraft will automatically land in its current position. If
+landing in the current position may result in an emergency, you can press the Pause
+Button to halt the landing and fly it to the nearest possible safe landing site.
+
+9.1.4. Evasive Maneuvers
+RPIC should manually fly the UAS to avoid any potential obstacles using any or a combination
+of the following evasive maneuvers:
+1) Decrease or increase altitude (Eagle function on Trinity F90+)
+2) Loiter at a current altitude and location (Hold function on Trinity F90+; Divert Right function of
+the Marlyn)
+3) Land at an established alternative landing site
+4) Land at current location
+•
+•
+
+Use Land Now function (Trinity F90+) which will descend and land at current location
+Forced Landing (function Marlyn)
+• In Airplane Mode, it will immediately transition to Helicopter Mode and begin descent
+at 2.5 m/s, slowing to 0.6 m/s below 5m above the altitude of the home point. When
+Marlyn touches down and a jolt is detected, the Motors will continue to idle for 2
+seconds before shutting off.
+• In Helicopter Mode it will abort any automated takeoff or flight and immediately begin
+descent.
+
+5) Emergency Motor Shutdown
+•
+
+•
+
+Use Hard Abort (function Trinity F90+) which will switch off motors and entire spiral dive
+crashing the UAS. This option should be used as a last resort to avoid an in-air collision
+and/or collide with an obstacle
+For Marlyn Shut down motors by pushing and holding down buttons marked E & F. If the
+buttons are released within 5 seconds of triggering, the motors will spin up again. The
+drone will likely recover to a normal state, but this is not guaranteed. Press both buttons
+for more than 5 seconds to confirm the emergency motor shutdown.
+
+10. Incident/Accident Response and Reporting
+The RPIC shall immediately notify the MC if the MC is not present. The MC will immediately
+establish communications with operations officer at NOAA UAS within 24 hours via email or
+phone:
+16
+
+NOAA UAS Division Group Email: uas@noaa.gov
+NOAA UAS Deputy Phone: 863.296.8102
+
+And complete the Mishap reporting form (here). According to NOAA’s UAS policy handbook
+section 6.15.3, all NOAA UAS operations will be suspended until positive clearance is given by
+the Chief, OMAO UAS Section of their designee. The MC or RPIC will also notify and brief NSSL’s
+lab director and upper management on the incident and current status of NSSL UAS operations.
+If the incident involves CIWRO staff, CIWRO’s director and relevant management will also be
+notified and briefed.
+The incident should also be reported using NASA’s Aviation Safety Reporting System (ASRS)
+within 10 days of the incident (available here). After completing the detailed document, you will
+receive a code that can be given to the FAA. This form can also be used to report a close call.
+
+10.1. Documentation
+As soon as it is safe, the flight crew should write down a narrative about the incident detailing as
+much as possible. Take note of anything out of the ordinary and include any information that might
+be relevant to understanding how the incident occurred. If the platform is recoverable, document
+the scene by first taking photos and videos prior to retrieving the platform. All documentation
+collected will be used to improve future practices.
+
+17
+
+11. Checklists
+The Marlyn has programmed pre-flight checklists that will not allow the user to advance to the
+next step. Post-flight checklists have been developed for the Atmos Marlyn and will be included
+in the next SOP update. For all other platforms, preflight and postflight checklists for Trinity and
+Skydio are accessible via Google Forms and detailed below. Checklists for Evo will be
+developed and included in next SOP update after training has been completed.
+
+11.1. Trinity Pre-Flight
+Content contained in the preflight checklist is listed below and may not always be updated.
+Current and up-to-date content can be accessed here.
+1.
+2.
+3.
+4.
+
+Evaluate weather forecasts, airspace, and possible hazards in potential survey sites.
+Carefully inspect the props, landing gear, shell and structure of the UAS.
+Select fully charged battery, record, and install.
+Calibrate magnetometer if flight is more than 50km away from the location where
+magnetometer was last calibrated.
+5. Insert microSD card into the iBase if not already in the iBase.
+6. Place survey mat on level ground and away from any obstructions or shaded areas.
+Press button once to power on. Green light should be on logging.
+7. Set up iBase station. Center the iBase station directly in the center of the survey mat.
+Connect the power bank to the iBase via the USB cable and power on. Blue LED should
+be blinking.
+8. Set up QBase modem. Connect modem to laptop and place modem as high above the
+ground as possible. Ensure modem has a direct line of sight with the Trinity.
+9. Choose a take-off position free from obstacles and with sufficient clearance to transition
+from vertical to horizontal flight.
+10. Check to see that SD cards are in both cameras.
+11. Assemble the Trinity. Place the Trinity on the case and ensure the nose is facing int the
+direction of the wind.
+12. Plan the mission in Qbase. Set take-off point (check transition height). Draw the survey
+area - flying height should be set to 120 m, ensure 75% front and side overlap. Set
+retransition area - return to home point should be close to launch point. Retransition
+height should be higher than nearby obstacles. Retransition path should be free from
+obstacles and over flat terrain. Transition/Retransitions should be green (if yellow
+increase flying heights).
+13. Ensure the direction of the aircraft in QBase corresponds to the direction of the Trinity.
+14. Turn on remote control (transmitter).
+15. Upload (write) mission to Trinity.
+16. Record battery voltage and time of take off.
+17. RPIC obtains verbal status from crew.
+18. RPIC announces "Arming Aircraft"
+19. Select preflight check.
+20. Arm the UAS. Select Arm and confirm the arming process by pressing Yes.
+18
+
+21. Takeoff. Select Takeoff on remote controller. Select yes when prompted.
+
+19
+
+11.2. Trinity Post-Flight Checklist
+Content contained in the postflight checklist is listed below and may not always be updated.
+Current and up-to-date content can be accessed here.
+1. Landing. RPIC announces "Landing". Flight crew maintains a safe distance of 25 feet
+away from landing point.
+2. Turn of motors by holding throttle down until motors cut-off.
+3. Record battery voltage and time.
+4. Calibrate reflectance panel. Trigger via laptop or remote control.
+5. Save flight mission.
+6. Disassemble Trinity and place in box.
+7. Disassemble iBase station. Turn off powerbank first and pack up iBase station
+8. Turn off survey mat by pressing button (green light should flash on network).
+9. Disconnect and pack-up modem.
+10. Sweep the area - making certain all items are accounted for before leaving the site.
+
+11.3. Skydio 2 Pre-Flight Checklist
+Content contained in the preflight checklist is listed below and may not always be updated.
+Current and up-to-date content can be accessed here.
+1. Evaluate weather forecasts, airspace and possible hazards in the flight site.
+2. Visual inspection of the UAS. Check motors and shell are fastened. Check props for
+cracks and tightness.
+3. Identify areas of interest for scouting and confirm flight pattern with the UAS and crew.
+4. Flight crew agrees on a takeoff and landing zone as well as emergency landing areas.
+5. Select a fully charged battery, take note of its ID and install it on the UAS.
+6. Set up controller - connect to iPad and assure the iPad is securely seated.
+7. Place the UAS on the designated launch pad, and power it up (press once and then
+press and hold). Don't move the UAS while it is booting up (calibrating).
+8. Open the Skydio app to connect to the UAS. Once connection has been established,
+clear a safe perimeter.
+9. RPIC announces “Takeoff”.
+10. Hold the take-off button down until UAS launches.
+11. Record battery voltage and time of takeoff.
+
+11.4. Skydio 2 Post-Flight Checklist
+Content contained in the preflight checklist is listed below and may not always be updated.
+Current and up-to-date content can be accessed here.
+1. Landing. RPIC announces "Landing". Flight crew maintains a safe distance of 25 feet
+away from landing point.
+20
+
+2.
+3.
+4.
+5.
+6.
+7.
+
+Power down the UAS and remove the battery.
+Record battery voltage and time.
+Remove iPad from remote control (transmitter). Power off remote control.
+Inspect UAS for visible damage before departure.
+Put Skydio back in case and pack up all Skydio accessories.
+Sweep the area - making certain all items are accounted for before leaving the site.
+
+21
+
+
