@@ -2,6 +2,13 @@
 
 Newest first. One entry per change set: what changed and why.
 
+## 2026-07-10 (ASPRS reading list)
+
+- Created [ASPRS Recommended Reading List](/analysis/asprs-recommended-reading-list.md) (GitHub issue 36), assessing the nine texts the ASPRS certification guidelines suggest for exam preparation as curriculum design inputs for the mapping course: current editions (four texts have newer editions than the manual cites, and the manual mislabels the 2015 Lillesand printing as the 5th edition when it is the 7th), prices and availability checked 2026-07-10, legitimate free and library options, and a per-text relevance assessment mapping contents onto the mapping topics. Closed with a three-tier reading priority (Lillesand, Wolf/DeWitt/Wilkinson, and Barnhart as the core mining tier) and the observation that nothing on the list covers small-drone RTK photogrammetry practice, which the wiki's own topic layer must supply.
+- Preserved Wiley's free excerpt downloads as two source anchors: [Remote Sensing and Image Interpretation Excerpts](/sources/remote-sensing-and-image-interpretation-excerpts.md) and [Introduction to UAV Systems Excerpts](/sources/introduction-to-uav-systems-excerpts.md), each holding the table of contents PDF (with extracted text) and the complete first chapter PDF. The books themselves are under copyright and carry only metadata and assessments on the analysis page.
+- Sourcing notes: ASPRS bookstore pages supplied prices for the four ASPRS titles, with the Manual of Photogrammetry and the Glossary of the Mapping Sciences both marked "This item is not available" despite listed prices. Routledge hides prices behind scripts, so Barnhart retail pricing is cited from an eCampus listing. Internet Archive lending status was checked per item: only the Avery and Berlin scan is freely borrowable; the Lillesand scan is print-disabled access only.
+- Cross-linked both directions with [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md) (Content section and Related) and listed the page and both sources in [index.md](/index.md).
+
 ## 2026-07-10 (ASPRS intern pathway)
 
 - Created [ASPRS Geospatial Intern Program](/exams/asprs-geospatial-intern-program.md) (GitHub issue 34): application requirements, the six month exam window, the two hour Prometric technologist exam and its 70 percent UAS content matrix, the five year conversion window to Certified UAS Technologist with three references and no retest, fees, institutional precedent, the intended Cuesta student journey, and a numbered Open Questions section that feeds the ASPRS outreach call (GitHub issue 35).
