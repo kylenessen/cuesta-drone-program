@@ -2,9 +2,10 @@
 
 The knowledge base behind Cuesta College's drone program curriculum. It covers the aeronautical knowledge tested on the FAA Part 107 exam and, for the program's advanced course, the full body of professional drone mapping knowledge, from cameras and positioning through photogrammetry, deliverables, and the business around them, organized so course content for AERO 100 and AERO 110 can be written against cited, durable articles. Start with [Wiki Schema](/schema.md) before editing, and see [log.md](/log.md) for change history.
 
-## The Exam
+## Exams and Certifications
 
 - [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md): format, content areas, and logistics of the UAG test students must pass.
+- [Level 1 Thermography Certification](/exams/level-1-thermography-certification.md): the industry thermal inspection credential, its providers, cost, body of knowledge, and career value.
 
 ## Regulations
 
@@ -51,7 +52,11 @@ The physics and sensor layer under professional drone work. These carry `acs_are
 - [Electromagnetic Spectrum](/topics/electromagnetic-spectrum.md): visible light as a narrow band, wavelength filters, and the infrared and ultraviolet regions.
 - [Multispectral Imaging](/topics/multispectral-imaging.md): NDVI, the red edge, and greenness measurement.
 - [Multispectral Field Practice](/topics/multispectral-field-practice.md): calibration panels, band registration, and when multispectral beats RGB.
-- [Thermal Imaging](/topics/thermal-imaging.md): LWIR physics, radiometric measurement, emissivity traps, thermal tuning, spot size, delta-T severity, and thermal mapping.
+- [Thermal Imaging](/topics/thermal-imaging.md): LWIR physics, microbolometers, radiometric data, and the hub for the thermography unit topics.
+- [Emissivity and Reflected Temperature](/topics/emissivity-and-reflected-temperature.md): apparent versus true temperature and the infrared mirror trap.
+- [Spot Size and Measurement Distance](/topics/spot-size-and-measurement-distance.md): IFOV, the 3 x 3 pixel rule, and flying height versus measurement validity.
+- [Thermal Tuning and Palettes](/topics/thermal-tuning-and-palettes.md): level and span, palette selection, and the data-versus-display discipline.
+- [Delta-T Severity Classification](/topics/delta-t-severity-classification.md): temperature rise over reference, NETA-style severity tiers, and inspection conditions.
 - [Lidar](/topics/lidar.md): active laser mapping, taught conceptually against photogrammetry.
 - [Drone Payloads](/topics/drone-payloads.md): passive versus active sensors and the payload taxonomy from cameras to LiDAR.
 - [Remote Sensing Platforms](/topics/remote-sensing-platforms.md): the platform continuum from kites to satellites and the resolution-versus-coverage tradeoff.
@@ -97,7 +102,6 @@ The physics and sensor layer under professional drone work. These carry `acs_are
 ## Adjacent Applications
 
 - [Infrastructure Inspection Operations](/topics/infrastructure-inspection-operations.md): zoom and thermal inspection, California utility mandates, and reporting.
-- [Thermography Certification](/topics/thermography-certification.md): the Level 1 credential landscape, ITC course format and cost, and career value.
 - [Public Safety Drone Operations](/topics/public-safety-drone-operations.md): SAR, fire support, DFR programs, and incident command.
 
 ## Analyses

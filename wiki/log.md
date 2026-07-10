@@ -2,10 +2,17 @@
 
 Newest first. One entry per change set: what changed and why.
 
+## 2026-07-10
+
+- Restructured the thermography material from one heavy page into teachable units, mirroring the Part 107 layer. [Thermal Imaging](/topics/thermal-imaging.md) slimmed back to the sensor layer and now hubs four new Topic pages: [Emissivity and Reflected Temperature](/topics/emissivity-and-reflected-temperature.md), [Spot Size and Measurement Distance](/topics/spot-size-and-measurement-distance.md), [Thermal Tuning and Palettes](/topics/thermal-tuning-and-palettes.md), and [Delta-T Severity Classification](/topics/delta-t-severity-classification.md). Page boundaries follow the CP-105 aligned Level 1 topical outline.
+- Promoted the certification page to the exams layer as [Level 1 Thermography Certification](/exams/level-1-thermography-certification.md), reshaped into the Exam pattern (Format, Content, Logistics) with the Content section mapping the body of knowledge onto the unit topics.
+- Schema: registered the `thermography` tag as the retrieval axis for the thermal inspection unit, and generalized the Exam type's purpose beyond FAA tests, since the program will touch non-FAA credentials (this one now, an agricultural applicator license and Part 108 eventually). Renamed the index's exam section to Exams and Certifications.
+- Rationale: feedback from the curriculum developer that the deepened thermal page packed an entire course into one article, where the wiki's structure wants one teachable unit per Topic with the credential as the exam anchor, the way the Part 107 layer is built.
+
 ## 2026-07-09 (night)
 
 - Substantially deepened [Thermal Imaging](/topics/thermal-imaging.md) with the measurement science and inspection craft a Level 1 thermography course teaches: apparent versus true temperature, qualitative versus quantitative technique, spot size ratio and flying height, thermal tuning and palettes, load and irradiance timing for electrical and solar work, and NETA-style delta-T severity classification.
-- Created [Thermography Certification](/topics/thermography-certification.md) covering the SNT-TC-1A employer-based qualification model, the ITC Level 1 course (four days, about $2,200, five year validity, sUAS variant), Infraspection and ABJ alternatives, employer expectations, and pay evidence. Costs and prices carry `last_checked: 2026-07-09`.
+- Created [Thermography Certification](/exams/level-1-thermography-certification.md) covering the SNT-TC-1A employer-based qualification model, the ITC Level 1 course (four days, about $2,200, five year validity, sUAS variant), Infraspection and ABJ alternatives, employer expectations, and pay evidence. Costs and prices carry `last_checked: 2026-07-09`.
 - Cross-linked the new material: [Infrastructure Inspection Operations](/topics/infrastructure-inspection-operations.md) now points at the certification pathway, and [Electromagnetic Spectrum](/topics/electromagnetic-spectrum.md) now introduces emitted longwave infrared and links [Thermal Imaging](/topics/thermal-imaging.md). Listed the new page in [index.md](/index.md).
 - Rationale: GitHub issue 21, part of the research set behind the PG&E utility inspection course. The certification page doubles as the syllabus skeleton for a thermography unit, since Level 1 exams follow published learning objectives.
 - Caveat: certification pricing came from reseller listings and provider pages fetched today, and the pay figures are job board and training provider numbers, so spot-check before quoting in public documents.
