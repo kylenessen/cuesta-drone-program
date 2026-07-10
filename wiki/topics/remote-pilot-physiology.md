@@ -18,6 +18,7 @@ Seeing a small aircraft against the sky is genuinely hard, and the ACS tests the
 
 - [Aeronautical Decision-Making](/topics/aeronautical-decision-making.md) turns these limits into preflight self-assessment.
 - [Night Operations](/topics/night-operations.md) covers the operational rules that assume this physiology.
+- [Field Operations Best Practices](/topics/field-operations-best-practices.md) turns hydration, heat, and fatigue management into field procedure across a working season.
 
 ## Citations
 

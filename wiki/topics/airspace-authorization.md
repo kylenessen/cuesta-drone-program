@@ -14,6 +14,12 @@ When a job needs altitude above the grid ceiling but still at or below 400 feet,
 
 Since the 2021 operations over people rule took effect, Part 107 pilots may fly at night without a waiver, provided they have current recurrent training and anti-collision lighting visible for three statute miles, and LAANC supports night authorizations in controlled airspace, so a night mapping or inspection flight near an airport is a routine request rather than a waiver process. [5](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.29) [6](https://www.faa.gov/uas/commercial_operators/part_107_airspace_authorizations)
 
+## The Day-of Clearance Workflow
+
+Holding an authorization and being cleared to fly are different states, and mature programs separate them deliberately. The authorization is paperwork obtained days or weeks ahead. The clearance is a day-of confirmation that the paperwork, the airspace, and the conditions still line up. For an individual pilot the morning sequence is short: confirm the authorization covers today's window and footprint, recheck TFRs and NOTAMs, a step the FAA's guidance treats as part of every preflight review, since a wildfire or VIP TFR can appear after LAANC approved the request and an authorization does not relieve compliance with flight restrictions [2](/sources/ac-107-2a.md), and save the authorization where it can be shown without cell service, because inspection sites and coverage gaps overlap heavily. If the job moves or grows past the approved polygon, the fix is a new near-real-time request from the field, not a hopeful reading of the old one, and the auto-approval workflow makes that a two minute task anywhere the grid ceiling allows. [1](https://www.faa.gov/uas/getting_started/laanc)
+
+Utility-scale programs centralize the same sequence in a dispatch desk. PG&E's Flight Core, the in-house communications center, issues flight clearances to every UAS, helicopter, and airplane pilot flying for the company, so a drone pilot checks in with the same desk a helicopter crew does before launching. [9](/sources/verticalmag-pge-uas-operations.md) A desk like this holds the picture no single pilot has: which of the day's crews sit under controlled airspace, which authorizations are active, what TFRs went up overnight, and which crewed aircraft the company itself has working the same corridors. The published details stop short of how PG&E routes its LAANC requests, but the operational lesson for students is the structure, a clearance function that is distinct from the pilot, with the pilot still legally responsible as remote pilot in command. A small operation reproduces it with a checklist instead of a dispatcher. The desk model matters most in [Infrastructure Inspection Operations](/topics/infrastructure-inspection-operations.md), where dozens of distributed single-pilot crews fly daily, and it pairs with the centralized weather briefing workflow described in [Aviation Weather Sources](/topics/aviation-weather-sources.md).
+
 ## When LAANC Cannot Help
 
 LAANC handles authorizations below 400 feet in participating controlled airspace. Everything else goes through the FAA DroneZone portal, including airports without LAANC service, operations needing both a waiver and an airspace authorization, and anything above 400 feet. DroneZone processing takes weeks to months, which is why experienced operators check authorization requirements before bidding a job, not after. [1](https://www.faa.gov/uas/getting_started/laanc) Authorization is distinct from a [Certificate of Waiver](/regulations/certificate-of-waiver.md): an authorization permits an otherwise-standard operation in controlled airspace, while a waiver permits deviating from an operating rule. The paperwork students will encounter blurs these because DroneZone handles both. [2](/sources/ac-107-2a.md)
@@ -30,6 +36,8 @@ San Luis Obispo County Regional Airport (SBP) sits about three miles south of do
 - [Sectional Chart](/topics/sectional-chart.md) is how pilots identify controlled airspace boundaries.
 - [Night Operations](/topics/night-operations.md) covers the training and lighting rules behind night authorizations.
 - [Mapping Mission Planning](/topics/mapping-mission-planning.md) is where authorization checks enter the professional workflow.
+- [Field Operations Best Practices](/topics/field-operations-best-practices.md) covers the rest of the field day the clearance workflow opens.
+- [Aviation Weather Sources](/topics/aviation-weather-sources.md) covers the weather briefing delivered alongside the clearance.
 
 ## Citations
 
@@ -41,3 +49,4 @@ San Luis Obispo County Regional Airport (SBP) sits about three miles south of do
 [6] [Part 107 Airspace Authorizations](https://www.faa.gov/uas/commercial_operators/part_107_airspace_authorizations), FAA.
 [7] [KSBP San Luis Obispo County Regional Airport](https://www.airnav.com/airport/ksbp), AirNav.
 [8] [FAA Order JO 7400.11, Airspace Designations and Reporting Points](https://www.faa.gov/documentLibrary/media/Order/JO_7400.11C.pdf), FAA.
+[9] [How Pacific Gas and Electric Company Uses Unmanned Aircraft](/sources/verticalmag-pge-uas-operations.md), Vertical Mag, November 12, 2025.

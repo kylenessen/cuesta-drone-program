@@ -24,9 +24,9 @@ The knowledge base behind Cuesta College's drone program curriculum. It covers t
 ## Aeronautical Knowledge Topics
 
 - [Airspace Classification](/topics/airspace-classification.md): classes A through G, special use, and other designated areas.
-- [Airspace Authorization](/topics/airspace-authorization.md): LAANC in practice, grid ceilings, further coordination, and DroneZone.
+- [Airspace Authorization](/topics/airspace-authorization.md): LAANC in practice, grid ceilings, further coordination, DroneZone, and the day-of clearance workflow.
 - [Sectional Chart](/topics/sectional-chart.md): reading the chart, the tested skill behind airspace questions.
-- [Aviation Weather Sources](/topics/aviation-weather-sources.md): METAR and TAF decoding, ASOS and AWOS, and briefing resources.
+- [Aviation Weather Sources](/topics/aviation-weather-sources.md): METAR and TAF decoding, ASOS and AWOS, and the documented go/no-go briefing workflow.
 - [Weather Effects on Performance](/topics/weather-effects-on-performance.md): density altitude, wind, fronts, thunderstorms, fog, and icing.
 - [Loading and Performance](/topics/loading-and-performance.md): weight and balance, center of gravity, and load factor.
 - [Airport Operations](/topics/airport-operations.md): airport types, traffic patterns, markings, and data sources.
@@ -43,7 +43,7 @@ Operational craft serving both courses.
 
 - [Flight Proficiency and Practice Exercises](/topics/flight-proficiency-and-practice-exercises.md): the NIST test lanes behind AERO 100's flight test, and the drills that build stick skills.
 - [Battery Fundamentals and Safety](/topics/battery-fundamentals-and-safety.md): volts, amps, and watts, LiPo hazards, charging, storage, and transport rules.
-- [Field Operations Best Practices](/topics/field-operations-best-practices.md): checklists, attention discipline, go/no-go judgment, shared airspace, and in-field image checks.
+- [Field Operations Best Practices](/topics/field-operations-best-practices.md): checklists, attention discipline, go/no-go judgment, shared airspace, in-field image checks, and the human side of field days from health to public interaction.
 - [Field Power Management](/topics/field-power-management.md): batteries, charging hubs, generators, and power stations on a mapping day.
 - [Drone Radio Links and Interference](/topics/drone-radio-links-and-interference.md): the C2 and video links, the 2.4 GHz band, interference near towers and lines, and lost-link failsafes.
 
@@ -125,4 +125,6 @@ The physics and sensor layer under professional drone work.
 - [ASPRS Certification Manual](/sources/asprs-certification-manual.md): the ASPRS Certification and Recertification Guidelines, evidence anchor for the certification pages.
 - [ASPRS Certification Manual (2019)](/sources/asprs-certification-manual-2019.md): the 2019 revision preserving the Geospatial Intern Program section and intern fees.
 - [ASPRS Intern Application Page](/sources/asprs-intern-application-page.md): the archived "How To Apply - Interns" page with the intern program mechanics.
+- [How Pacific Gas and Electric Company Uses Unmanned Aircraft](/sources/verticalmag-pge-uas-operations.md): the 2025 Vertical Mag feature on PG&E's UAS program, Flight Core, and field realities.
+- [NSSL UAS Standard Operating Procedure](/sources/nssl-uas-sop.md): a complete public institutional drone SOP, the model for crew, weather, and safety procedures.
 - [NCAT TOP Level 2 Course Syllabus](/sources/ncat-top-level-2-syllabus.md): a partner college's three credit syllabus for teaching Trusted Operator Level 2, evidence for the provider pathway.

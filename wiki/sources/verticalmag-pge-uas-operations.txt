@@ -1,0 +1,284 @@
+Photo Info
+
+# **How Pacific Gas and Electric Company uses unmanned aircraft to augment
+services in California**
+
+**By Elan Head**
+
+Published on: November 12, 2025  
+Estimated reading time __21 minutes, 36 seconds.
+
+#####  _Over the past several years, the utility has been steadily ramping up
+its drone operations in parallel with its helicopter fleet._
+
+As one of the largest utility companies in the United States, Pacific Gas and
+Electric Company (PG&E) is also one of the largest customers for helicopters.
+Responsible for a service area encompassing almost half of the state of
+California, PG&E routinely contracts for around 30,000 helicopter flight hours
+per year, supporting missions including power line maintenance, construction,
+and patrols.
+
+As _Vertical_ recently reported, PG&E has no plans to reduce its reliance on
+helicopters anytime soon. Yet, over the past several years, the utility has
+been steadily ramping up its drone operations in parallel, logging more than
+300,000 pole and tower inspections by uncrewed aerial system (UAS) in 2024.  
+
+Drones are not a direct substitute for helicopters, but they are highly
+complementary. Equipped with high-definition cameras, they can reveal details
+on structures that would otherwise only be visible through potentially risky,
+time-consuming climbing inspections. They can be used to string power lines in
+congested areas, helping to minimize disturbances to residents compared to
+using helicopters. And PG&E continues to find new uses for them.
+
+Michael Stark Photo
+
+"Helicopters will never go away, just because of the sheer volume of our
+territory and the rugged terrain that we operate in and the fact that our
+infrastructure is laid across the whole state," said Chris Courtney, director
+of PG&E's Aviation Services department. "But on the UAS side, the use cases
+keep going up exponentially."
+
+## Closer inspections
+
+PG&E's ambitious drone inspection program represents a confluence of
+technology and incentives. The company performed its first drone inspections
+back in 2015. However, it didn't commit to scaling the program until after the
+devastating Camp Fire in November 2018, which killed 84 people and cost PG&E
+around $25 billion in settlement payments.
+
+The Camp Fire was caused by the failure of a worn suspension hook on a
+transmission tower. The investigation into the fire found, among other things,
+that this type of hardware may not have been reliably inspected by either
+helicopter or ground inspections.
+
+Clearly, more detailed inspections of some towers were needed. At the same
+time, camera drones were becoming more sophisticated and capable, enabling
+their operators to capture high-definition imagery that could later be
+examined closely by experts.
+
+Michael Stark Photo
+
+Kellen Kirk, a former U.S. Navy aircraft mechanic and commercially rated
+airplane pilot, helped ramp up PG&E's drone inspection program starting in
+2019. Today, he works under the umbrella of the Aviation Services department
+as the manager of UAS and fixed-wing operations.
+
+"When we first started the program, we were doing about 60,000 towers
+[annually], primarily focused on the transmission and substation," Kirk
+recalled. "And that has expanded year after year." Today, he said, it is
+typical to have around 80 UAS pilots out in the field every day collecting
+data.
+
+Beyond growing the total number of drone inspections, PG&E has expanded the
+program from the transmission network -- which carries high-voltage
+electricity over long distances -- to also encompass the distribution network,
+which feeds lower-voltage power into homes and businesses. And, while the
+company still relies heavily on contractors to perform these inspections, it
+has brought a portion of them in-house under supervisor Daniel Toothman.
+
+"Coming from the line department, and seeing what this can do for us, it's
+game-changing," Toothman said. "We want to lead the industry, this is the way
+that we have to go, and this company is all in -- they've gotten us the best
+equipment, pilots, and training for our pilots."
+
+Michael Stark Photo
+
+## Safety first
+
+PG&E and its contractors use a variety of drone types, although the majority
+of the drones it currently uses for inspections are made by DJI. In accordance
+with the Federal Aviation Administration's (FAA's) part 107 Small UAS Rule,
+all drone operators are required to hold a remote pilot certificate, and PG&E
+imposes additional training and qualification requirements depending on what
+missions the operator is performing.
+
+"What we've done to be able to manage their training requirements is create
+certifications," said program manager Bounmy Daoheuang, who is responsible for
+learning and development within the Aviation Services department. Daoheuang
+said that remote pilots are required to complete initial and recurrent web-
+based training modules on a variety of technical and safety topics, which are
+periodically updated to reflect any changes to procedures and learnings from
+the field, always with safety top of mind.
+
+"I appreciate how this organization is more proactive than reactive,"
+Daoheuang said, noting that the Aviation Services department is constantly
+looking for ways to prevent incidents and accidents before they happen.
+Aircraft maintenance is part of this proactive approach: just like PG&E's
+crewed aircraft, its drones are on a regular maintenance program designed by
+aircraft maintenance supervisor Dennis Doyle.
+
+Although uncrewed aircraft do not carry the risk of harm to occupants that
+crewed airplanes and helicopters do, drone operations pose their own safety
+challenges. UAS operations are often "remote" in more ways than one, with
+drone operators routinely required to trek off the beaten path.
+
+"The flying is the easiest part," said Toothman. "There's just so much more:
+there's the driving; the slips, trips and falls; the hiking, dehydration,
+exhaustion." He noted that PG&E's remote pilots are provided with Garmin
+inReach satellite communication devices to help ensure a timely response in
+the event of an emergency.
+
+Irate customers can also pose a safety risk, as many inspections are performed
+near homes and on customer property. "Customer contacts are extremely common
+for us, especially when we're flying an asset on people's property," explained
+remote pilot Daniel Lira. "It's standard operating procedure for us to knock
+and introduce ourselves."
+
+Lira said that most of these interactions are positive, and customer contacts
+are actually one of his favorite parts of the job. However, homeowners are
+occasionally combative, and some drones performing inspections for PG&E have
+even been shot out of the sky. All such incidents are tracked by the company's
+in-house communications center, Flight Core, which provides weather briefings
+and flight clearances to any UAS, helicopter, or airplane pilot working for
+PG&E. If a Flight Core dispatcher sees that a pilot will be working in
+proximity to a known hostile customer, they will advise them to avoid making
+contact and involve corporate security as needed.
+
+Michael Stark Photo
+
+## Going remote
+
+Although PG&E's drone inspections have been highly effective, the standard
+line-of-sight inspection process is still very manual and time-consuming, with
+productivity constrained by the time it takes UAS pilots to travel to and from
+their far-flung inspection sites. That is a primary reason why PG&E is now
+exploring more autonomous operations using dock remote technology from
+California-based drone manufacturer Skydio.
+
+A dock is a combined hangar and charging station that allows a drone to be
+positioned at a critical infrastructure site but commanded from hundreds or
+thousands of miles away -- in this case, from PG&E's aviation facility in
+Concord, California. Using LTE signals or Starlink satellite internet for
+connectivity, the drones can be piloted manually in real time, and they can
+also fly pre-programmed missions autonomously.
+
+"The advantage is just the ability to be able to respond to a situation
+instantly," said dock remote operations UAS operator Tapiwa Piloto, who
+provided _Vertical_ with a live demonstration of the technology. "Let's say
+something happens up in Redding at our substation, instead of having somebody
+drive four hours up there to fly the assets, we can respond immediately."  
+
+PG&E has received support for its dock remote operations program through the
+California Public Utilities Commission's Electric Program Investment Charge
+(EPIC) program, which invests in scientific and technological research to
+accelerate transformation of the state's electricity sector. PG&E was an early
+adopter of Skydio's dock technology through the manufacturer's early access
+program, initially using Skydio's X2 drone. The companies are now in the
+process of transitioning the program to the upgraded X10 drone, which has
+improved sensors and autonomy.
+
+According to program manager Jon Teach, who is overseeing the implementation
+of dock remote operations, PG&E currently has seven docks in operation, from
+Redding south past Paso Robles and into the Sierra Nevada Mountains. The
+drones are being used for regular inspections of infrastructure including
+power substations and penstocks, which are pipes used in hydro-electric dams
+to transfer water from an intake structure to a hydro turbine.
+
+"The one mission that's caused the most interest, I would say, is the penstock
+mission, because those penstocks are in very remote locations, and they're
+going up a hill, and some of these hills are very, very steep," Teach said.
+"So we have the ability to launch and then fly these missions without incident
+and very safely, without somebody having to go up there and walk."
+
+PG&E conducts its dock remote operations beyond visual line of sight (BVLOS)
+under a waiver from the FAA, and the permissions afforded by the waiver have
+been progressively expanded as the company has demonstrated its ability to
+operate safely. Although the technology is still being developed, Teach said
+he expects these operations to become more important in the future, with the
+"holy grail" being rapid response to fault detection.
+
+"Somewhere there is a fault detected; one of our alarm systems, which is
+linked to our docks, will show an alert; we'll be able to launch an aircraft
+immediately and get eyes on in a matter of minutes, which before could take
+hours -- that's what we're working toward," he said. "To be able to perform
+that task, there's a large amount of different systems -- our GIS [geographic
+information system], our alarm systems, the dock system -- all coming together
+and being able to notify the pilot properly of where to go, and the aircraft
+being able to execute that with all the information that's being gathered."
+
+Michael Stark Photo
+
+## Choosing the right tools
+
+Thanks to the pace of innovation in the drone space, PG&E is continually
+expanding its existing applications for drones and finding new ones, with a
+special projects team led by Joshua Hill tasked with developing new use cases.
+
+"In the five years that I've been doing this type of work, the technology has
+just exploded," said Lira. "Drones are more reliable; the cameras are better.
+A drone will fly longer, you can get closer to an asset and take better
+quality data, and with more and more use cases, new drones are being brought
+in for the task."
+
+One such specialized solution is Infravision's TX System, which includes a
+drone that can pull the rope used for stringing power lines -- a task
+typically performed by helicopters. Pete Anderson, PG&E's senior manager of
+helicopter operations, recalled a recent rope-pulling job near Vallejo where
+seven spans passed through a metropolitan neighborhood.
+
+Rather than evacuate thousands of people in order to perform the work with a
+helicopter, a UAS team "came in, flew those seven spans with that drone and
+got the rope in. And then soon as it got to the end of that, the helicopter
+just picked back up and kept pulling. So it's really finding that balance of
+the right tool for the right job," he said.
+
+Teach said that one of the things he finds so rewarding about working with
+drones is that because the technology is so new, there's a continuous process
+of discovery and improvement, akin to the earliest days of airplanes and
+helicopters.
+
+"This is new technology, and I don't think that anybody really knows where the
+ceiling is, because once the sensors improve, once the range improves, we're
+going to develop more use cases that we don't even know exist right now," he
+said. "And it's just going to keep expanding."  
+
+Michael Stark Photo
+
+## Going the Distance
+
+Most commercial drone operations in the United States to date have involved
+aircraft weighing 55 pounds (25 kilograms) or less, the weight limit for the
+FAA's part 107 Small UAS rule. While there are paths to flying larger uncrewed
+aircraft, it will likely be some time before heavy drones can operate in the
+national airspace system routinely.
+
+In the meantime, PG&E uses contract helicopters for many of its power line
+patrols and its own two Cessna Caravans for gas pipeline patrols, which are
+the longest patrol missions it flies. "We patrol all of our pipelines, from
+the Arizona border to the Oregon border, quarterly," said Kellen Kirk, manager
+of UAS and fixed-wing operations, pointing out that it would be wildly
+impractical to conduct these flights with drones that can only fly a few miles
+at a time.
+
+The primary purpose of the patrols is to look for encroachments on underground
+pipelines -- such as construction or agricultural work -- by people who are
+unaware of the potential for conflict. The Caravans are equipped with Wescam
+MX-15 cameras that operators in the back can use to clearly see details on the
+ground from altitudes of 10,000 feet or higher.
+
+"They have a precise GPS overlay so they can see where the pipe is underground
+while we're flying," explained fixed-wing supervisor Ben Doyle. If they see a
+potential threat, "they're able to, in real time, contact the ground and send
+someone out there to make sure that they've done an underground survey and
+that they're aware of where the pipeline is, or if they're not to have work be
+stopped until that safety measure can be put in place."
+
+The Caravans also conduct survey missions using onboard lidar, which is used
+for purposes including general mapping, vegetation management, and detecting
+movements in the earth. They additionally provide emergency response support
+and move people and equipment on an as-needed basis. Combined, the two planes
+currently fly around 700 hours per year.
+
+PG&E maintains the Caravans in house with heavy maintenance support provided
+by Textron Aviation's Sacramento Service Center. The utility employs full-time
+pilots and operates under 14 Code of Federal Regulations Part 91, but strives
+to uphold the higher operations and maintenance standards of Part 135 -- or
+sometimes higher. For example, PG&E determined that Part 135 flight and duty
+time limits were not adequate to prevent fatigue during survey missions that
+require intense concentration, so pilots flying lidar missions are limited to
+six hours of flight time per day.
+
+"Our mission is different than most aviation organizations that are out there
+to really make a profit," Doyle noted. "Ours is purely an expense to PG&E --
+we have no real purpose other than safety."
+
