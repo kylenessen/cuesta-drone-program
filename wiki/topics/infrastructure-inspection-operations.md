@@ -2,9 +2,9 @@
 type: Topic
 title: Infrastructure Inspection Operations
 description: Drone inspection as an employment sector, including high-zoom and thermal technique, California utility inspection mandates, and safety near energized equipment.
-tags: [remote-sensing, field-operations]
+tags: [ remote-sensing, field-operations ]
 acs_area: general
-timestamp: 2026-07-09T18:00:00Z
+timestamp: 2026-07-10T07:00:00Z
 ---
 
 # Infrastructure Inspection Operations
@@ -31,10 +31,11 @@ The deliverable is a defect report, not a map. A competent report identifies eac
 
 ## Safety near energized equipment
 
-Energized equipment adds hazards that mapping work never encounters. Operators maintain minimum approach distances from energized conductors, and utilities specify their own standoff requirements consistent with OSHA's minimum approach distance framework for work near energized parts [5]. High-voltage lines can induce interference in aircraft electronics and magnetometers at close range, which is another argument for zoom over proximity. A crash into a conductor is not just a lost aircraft, it is a potential outage or ignition source. Utility flight operations therefore run under job briefings, with the asset owner's knowledge, and treat the conductor the way a manned aviation crew treats terrain.
+Energized equipment adds hazards that mapping work never encounters. Operators maintain minimum approach distances from energized conductors, and utilities specify their own standoff requirements consistent with OSHA's minimum approach distance framework for work near energized parts [5]. High-voltage lines can induce interference in aircraft electronics and magnetometers at close range, which is another argument for zoom over proximity. A crash into a conductor is not just a lost aircraft, it is a potential outage or ignition source. Utility flight operations therefore run under job briefings, with the asset owner's knowledge, and treat the conductor the way a manned aviation crew treats terrain. [Flying Near Energized Infrastructure](/topics/flying-near-energized-infrastructure.md) covers these hazards, the approach distance framework, and the surrounding safety culture in depth.
 
 ## Related
 
+- [Flying Near Energized Infrastructure](/topics/flying-near-energized-infrastructure.md) for the hazards and work rules around energized conductors.
 - [Thermal Imaging](/topics/thermal-imaging.md) for the sensing behind thermal inspection.
 - [Public Safety Drone Operations](/topics/public-safety-drone-operations.md) for the neighboring employment sector.
 - [Field Operations Best Practices](/topics/field-operations-best-practices.md) for the operational discipline inspection inherits.

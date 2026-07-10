@@ -3,8 +3,8 @@ type: Topic
 title: Emergency Procedures
 description: Contingency planning and response for small UAS emergencies, including lithium battery fires, lost link, flyaways, and GPS degradation.
 acs_area: operations
-tags: [batteries, risk-management]
-timestamp: 2026-07-02T17:00:00Z
+tags: [ batteries, risk-management ]
+timestamp: 2026-07-10T07:00:00Z
 ---
 
 # Emergency Procedures
@@ -24,6 +24,7 @@ Control links live in shared unlicensed spectrum, typically 2.4 and 5.8 GHz, whe
 ## Related
 
 - [Maintenance and Inspection](/topics/maintenance-and-inspection.md) covers the preflight checks that prevent most of these events.
+- [Flying Near Energized Infrastructure](/topics/flying-near-energized-infrastructure.md) covers compass and GPS interference near power lines, where attitude-mode proficiency gets used for real.
 - [Part 107 Operating Rules](/regulations/part-107-operating-rules.md) contains the emergency deviation authority and reporting duties.
 
 ## Citations

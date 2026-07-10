@@ -3,7 +3,7 @@ type: Topic
 title: Radio Communications
 description: The frequencies, services, and phraseology remote pilots monitor to track manned aircraft, including CTAF, UNICOM, ATIS, and the phonetic alphabet.
 acs_area: operations
-timestamp: 2026-07-02T17:00:00Z
+timestamp: 2026-07-10T07:00:00Z
 ---
 
 # Radio Communications
@@ -24,6 +24,7 @@ A good lab exercise is playing recorded CTAF traffic and having students plot ea
 
 - [Airport Operations](/topics/airport-operations.md) covers the traffic patterns these calls describe.
 - [Aviation Weather Sources](/topics/aviation-weather-sources.md) covers the automated weather broadcasts (ASOS and AWOS) heard on airport frequencies.
+- [Flying Near Energized Infrastructure](/topics/flying-near-energized-infrastructure.md) covers utility corridor work, where crews monitor these frequencies when a line runs near airport traffic.
 
 ## Citations
 
