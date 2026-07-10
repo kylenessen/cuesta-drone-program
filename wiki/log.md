@@ -2,6 +2,11 @@
 
 Newest first. One entry per change set: what changed and why.
 
+## 2026-07-10
+
+- Created [Flying Near Energized Infrastructure](/topics/flying-near-energized-infrastructure.md), a research-backed Topic page for the planned utility infrastructure inspection course (GitHub issue 22), replacing the draft stub the issue 23 pass left in place. It covers magnetic field compass corruption and ATTI mode, GPS multipath and shadowing near lattice steel, the OSHA 1910.269 minimum approach distance framework and the 1910.333 unqualified-person clearance, induced voltage and flashover versus folklore, wire strike geometry including shield wires, guy wires, sag, and blowout, and utility tailboard and job hazard analysis culture. Cross-linked from [Infrastructure Inspection Operations](/topics/infrastructure-inspection-operations.md) (body and Related), [Emergency Procedures](/topics/emergency-procedures.md), [Radio Communications](/topics/radio-communications.md), and [index.md](/index.md).
+- Sourcing note: OSHA distances were read from OSHA's own tables and eTool. Practical drone standoffs are presented as a spectrum (EPRI-tested close approach, specialized aircraft at ten feet, public advisories at 200 feet) rather than a single invented number, since utilities set job-specific distances in their own UAS procedures. No new tags were needed, `field-operations` and `risk-management` cover it.
+
 ## 2026-07-09 (night)
 
 - Created [Drone Radio Links and Interference](/topics/drone-radio-links-and-interference.md) (GitHub issue 23): the C2 uplink and telemetry and video downlink, multi-band hopping systems (DJI O4, Skydio Connect, ExpressLRS), a 2.4 GHz subsection on why the ISM band became the workhorse and what congestion does, 5.8 GHz and 900 MHz as contrasting siblings, interference in practice (receiver desensitization near cell towers, EMI from energized lines, terrain masking, antenna orientation and polarization), what a degrading link looks like, lost-link failsafe and RTH pitfalls near tall structures, and preflight RF site assessment habits.
