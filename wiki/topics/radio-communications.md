@@ -24,6 +24,7 @@ A good lab exercise is playing recorded CTAF traffic and having students plot ea
 
 - [Airport Operations](/topics/airport-operations.md) covers the traffic patterns these calls describe.
 - [Aviation Weather Sources](/topics/aviation-weather-sources.md) covers the automated weather broadcasts (ASOS and AWOS) heard on airport frequencies.
+- [Drone Radio Links and Interference](/topics/drone-radio-links-and-interference.md) covers the aircraft's own control and video links, a separate radio system from the voice frequencies here.
 
 ## Citations
 
