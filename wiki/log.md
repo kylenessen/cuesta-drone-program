@@ -2,6 +2,14 @@
 
 Newest first. One entry per change set: what changed and why.
 
+## 2026-07-10 (ASPRS intern pathway)
+
+- Created [ASPRS Geospatial Intern Program](/exams/asprs-geospatial-intern-program.md) (GitHub issue 34): application requirements, the six month exam window, the two hour Prometric technologist exam and its 70 percent UAS content matrix, the five year conversion window to Certified UAS Technologist with three references and no retest, fees, institutional precedent, the intended Cuesta student journey, and a numbered Open Questions section that feeds the ASPRS outreach call (GitHub issue 35).
+- Preserved three source anchors: [ASPRS Certification Manual](/sources/asprs-certification-manual.md) (current guidelines, PDF plus extraction), [ASPRS Certification Manual (2019)](/sources/asprs-certification-manual-2019.md) (retrieved via the Internet Archive after the ASPRS site migration broke the original URL), and [ASPRS Intern Application Page](/sources/asprs-intern-application-page.md) (archived "How To Apply - Interns" page, also via the Internet Archive).
+- Key sourcing finding: the current ASPRS guidelines no longer contain the Geospatial Intern Program section or intern fee rows, both present in the 2019 revision. The page therefore documents intern mechanics from the 2019 manual and the archived application page, marks the discrepancies (two courses versus twelve credits, unpublished current fee, no UAS intern designation named) as open questions rather than resolving them, and cites a March 2026 secondary source indicating the program remains active.
+- Cross-linked from [index.md](/index.md), [Drone Mapping and Licensed Surveying](/topics/drone-mapping-and-licensed-surveying.md), [Mapping Accuracy](/topics/mapping-accuracy.md), and [Level 1 Thermography Certification](/exams/level-1-thermography-certification.md). The page forward-links [Certified UAS Technologist](/exams/certified-uas-technologist.md), which does not exist yet; the GitHub issue 33 pass should create it at that path or update the links here.
+- Placement rationale: the page lives in the exams family because the schema assigns certifications and credential pathways there, alongside the thermography certification page.
+
 ## 2026-07-10 (thermography restructure)
 
 - Restructured the thermography material from one heavy page into teachable units, mirroring the Part 107 layer. [Thermal Imaging](/topics/thermal-imaging.md) slimmed back to the sensor layer and now hubs four new Topic pages: [Emissivity and Reflected Temperature](/topics/emissivity-and-reflected-temperature.md), [Spot Size and Measurement Distance](/topics/spot-size-and-measurement-distance.md), [Thermal Tuning and Palettes](/topics/thermal-tuning-and-palettes.md), and [Delta-T Severity Classification](/topics/delta-t-severity-classification.md). Page boundaries follow the CP-105 aligned Level 1 topical outline.

@@ -27,6 +27,7 @@ Non-survey deliverables commonly carry explicit disclaimers, and drone law comme
 - [Applications of Drone Mapping](/topics/applications-of-drone-mapping.md) for the products this boundary governs.
 - [Mapping Accuracy](/topics/mapping-accuracy.md) for the accuracy claims that deliverable language must match.
 - [Mission Cost Analysis](/topics/mission-cost-analysis.md) for the liability and contract side of the business.
+- [ASPRS Geospatial Intern Program](/exams/asprs-geospatial-intern-program.md) for the voluntary professional certification that sits on the non-licensed side of this line.
 
 ## Citations
 

@@ -31,6 +31,7 @@ The pay evidence, with the caveat that much of it comes from training providers 
 - [Thermal Imaging](/topics/thermal-imaging.md) for the sensor layer, and [Emissivity and Reflected Temperature](/topics/emissivity-and-reflected-temperature.md), [Spot Size and Measurement Distance](/topics/spot-size-and-measurement-distance.md), [Thermal Tuning and Palettes](/topics/thermal-tuning-and-palettes.md), and [Delta-T Severity Classification](/topics/delta-t-severity-classification.md) for the tested body of knowledge.
 - [Infrastructure Inspection Operations](/topics/infrastructure-inspection-operations.md) for the work the credential unlocks.
 - [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md) for the other credential every drone student needs first.
+- [ASPRS Geospatial Intern Program](/exams/asprs-geospatial-intern-program.md) for the mapping-side credential pathway students can start while still enrolled.
 
 ## Citations
 
