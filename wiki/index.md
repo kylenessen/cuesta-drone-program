@@ -6,6 +6,7 @@ The knowledge base behind Cuesta College's drone program curriculum. It covers t
 
 - [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md): format, content areas, and logistics of the UAG test students must pass.
 - [Level 1 Thermography Certification](/exams/level-1-thermography-certification.md): the industry thermal inspection credential, its providers, cost, body of knowledge, and career value.
+- [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md): the professional mapping credential, its exam matrix, the wider ASPRS certification family, and the curriculum mapping.
 
 ## Regulations
 
@@ -118,3 +119,4 @@ The physics and sensor layer under professional drone work.
 - [UAG Sample Questions](/sources/uag-sample-questions.md): FAA-published example test questions.
 - [Drone Course Content Brainstorm](/sources/drone-course-content-brainstorm.md): July 2026 voice memo behind the advanced-applications remote sensing topics.
 - [AERO 100 Course Outline](/sources/aero-100-course-outline.md): anchor for the approved course outline this wiki's content feeds.
+- [ASPRS Certification Manual](/sources/asprs-certification-manual.md): the ASPRS Certification and Recertification Guidelines, evidence anchor for the certification pages.

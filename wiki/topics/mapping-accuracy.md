@@ -28,6 +28,7 @@ Most failed accuracy tests trace to a short list. Datum confusion is first, an e
 - [RTK and PPK Positioning](/topics/rtk-and-ppk-positioning.md) for the survey accuracy underneath the assessment.
 - [Vertical Datums and Geoid Models](/topics/vertical-datums-and-geoid-models.md) for the largest single failure mode.
 - [Ground Sample Distance](/topics/ground-sample-distance.md) for why resolution and accuracy are separate claims.
+- [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md) for the credential from the body that publishes these standards.
 
 ## Citations
 

@@ -30,6 +30,7 @@ A clean delivery package is a folder or download link containing the products, t
 - [Map Projections and Coordinate Systems](/topics/map-projections-and-coordinate-systems.md) and [Vertical Datums and Geoid Models](/topics/vertical-datums-and-geoid-models.md) for the CRS documentation the package must carry.
 - [Photogrammetry Software](/topics/photogrammetry-software.md) for the processing reports and project files worth archiving.
 - [Mission Cost Analysis](/topics/mission-cost-analysis.md) for the desk hours this work represents.
+- [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md) for the credential whose exam covers data management and metadata.
 
 ## Citations
 

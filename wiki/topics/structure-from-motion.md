@@ -40,6 +40,7 @@ Adding control after alignment does not by itself change the geometry. The criti
 - [Ground Control Points](/topics/ground-control-points.md) for the control that anchors the adjustment.
 - [Photogrammetry Software](/topics/photogrammetry-software.md) for the tools that implement the pipeline.
 - [Digital Imaging](/topics/digital-imaging.md) for the image data the pipeline consumes.
+- [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md) for the mapping credential this processing knowledge feeds.
 
 ## Citations
 
