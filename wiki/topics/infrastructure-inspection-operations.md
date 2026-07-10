@@ -17,7 +17,7 @@ High-zoom visual inspection is the core technique. Instead of flying close to an
 
 ## Thermal inspection
 
-Thermal imaging extends inspection to defects invisible to the eye, and the underlying physics and traps are covered in [Thermal Imaging](/topics/thermal-imaging.md). On electrical equipment, resistive heating at degraded connectors, splices, and transformer bushings shows up as localized hot spots, best judged as a temperature rise over ambient or over an identical adjacent component rather than as an absolute number. On solar arrays, thermal flights find hot cells, failed bypass diodes, and whole strings offline, and array-scale surveys are commonly flown as thermal orthomosaics. On building envelopes, thermal reveals insulation voids, air leakage, and moisture, with timing chosen to maximize inside to outside temperature difference and avoid solar loading.
+Thermal imaging extends inspection to defects invisible to the eye, and the underlying physics and traps are covered in [Thermal Imaging](/topics/thermal-imaging.md). On electrical equipment, resistive heating at degraded connectors, splices, and transformer bushings shows up as localized hot spots, best judged as a temperature rise over ambient or over an identical adjacent component rather than as an absolute number. On solar arrays, thermal flights find hot cells, failed bypass diodes, and whole strings offline, and array-scale surveys are commonly flown as thermal orthomosaics. On building envelopes, thermal reveals insulation voids, air leakage, and moisture, with timing chosen to maximize inside to outside temperature difference and avoid solar loading. Clients increasingly expect this work from certified thermographers, and the credential pathway, cost, and career value are covered in [Level 1 Thermography Certification](/exams/level-1-thermography-certification.md).
 
 ## The California utility context
 
@@ -37,6 +37,7 @@ Energized equipment adds hazards that mapping work never encounters. Operators m
 
 - [Flying Near Energized Infrastructure](/topics/flying-near-energized-infrastructure.md) for the hazards and work rules around energized conductors.
 - [Thermal Imaging](/topics/thermal-imaging.md) for the sensing behind thermal inspection.
+- [Level 1 Thermography Certification](/exams/level-1-thermography-certification.md) for the credential utility and solar clients expect.
 - [Public Safety Drone Operations](/topics/public-safety-drone-operations.md) for the neighboring employment sector.
 - [Field Operations Best Practices](/topics/field-operations-best-practices.md) for the operational discipline inspection inherits.
 - [Drone Radio Links and Interference](/topics/drone-radio-links-and-interference.md) for what strong transmitters do to the aircraft's control link.

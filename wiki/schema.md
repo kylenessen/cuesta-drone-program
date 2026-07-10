@@ -2,7 +2,7 @@
 type: Schema
 title: Wiki Schema
 description: Local vocabulary, layout, and lint rules for the drone knowledge wiki. Read before writing.
-timestamp: 2026-07-09T18:00:00Z
+timestamp: 2026-07-10T18:00:00Z
 ---
 # Wiki Schema
 
@@ -25,7 +25,7 @@ types:
     folder: regulations
     sections: [Requirements, Related, Citations]
   Exam:
-    purpose: An FAA test or training requirement, covering its format, content, and logistics.
+    purpose: A test, certification, or license the program prepares students for, covering its format, content, and logistics.
     folder: exams
     sections: [Format, Content, Logistics, Related, Citations]
   Source Document:
@@ -45,6 +45,7 @@ tags:
   remote-sensing: Imaging and sensor payloads that turn drone flight into measurement, across the electromagnetic spectrum.
   mapping: Photogrammetric drone mapping, from positioning and mission design through processing and deliverables.
   field-operations: The practical craft of running drone operations in the field, including logistics, checklists, and conditions.
+  thermography: The thermal inspection body of knowledge, from infrared measurement science through certification, feeding the utility inspection course.
 
 fields:
   status: [draft, reviewed, needs-source, needs-review, archived]
@@ -65,15 +66,15 @@ Every page carries `type`, `title`, and `description`. The description is one se
 
 The `acs_area` field maps a page to the five content areas of the FAA Part 107 knowledge test (Area I Regulations, Area II Airspace, Area III Weather, Area IV Loading and Performance, Area V Operations), plus `general` for pages that span areas or sit outside the test. Set it on every Topic, Regulation, and Exam page. It is the main retrieval axis for course design: filtering on `acs_area` collects everything that feeds one block of instruction. Advanced-applications topics that sit outside the Part 107 test, such as remote sensing foundations and the drone mapping curriculum, take `acs_area: general`.
 
-Tags are for cross-cutting themes that the type and `acs_area` cannot express. Use them sparingly and only from the registered list. The `mapping` and `field-operations` tags are the retrieval axes for the advanced applications course content.
+Tags are for cross-cutting themes that the type and `acs_area` cannot express. Use them sparingly and only from the registered list. The `mapping` and `field-operations` tags are the retrieval axes for the advanced applications course content, and the `thermography` tag collects the thermal inspection unit feeding the planned utility inspection course.
 
 Use `last_checked` (an ISO date) on pages whose claims can silently go stale, such as pending rulemaking or fee amounts. Use `certainty` when a page rests substantially on inference, and `status: needs-review` when a page has a known gap.
 
 ## Layout
 
-- `exams/` holds pages about FAA tests and training requirements.
+- `exams/` holds pages about the tests, certifications, and licenses the program prepares students for, from the Part 107 knowledge test to industry credentials.
 - `regulations/` holds pages about rules, rule areas, and FAA regulatory programs.
 - `topics/` holds subject-matter pages, the teachable units of aeronautical knowledge.
 - `analysis/` holds promoted analyses connecting the wiki to curriculum work.
 - `sources/` holds original artifacts (PDFs), their extracted text (`.txt`), and one Source Document anchor page per artifact.
-- `scripts/` holds `lint.py`. Run `uv run scripts/lint.py .` from the wiki root before finishing any change.
+- `scripts/` holds `lint.py`. Run `uv run scripts/lint.py .` from this directory before finishing any change.

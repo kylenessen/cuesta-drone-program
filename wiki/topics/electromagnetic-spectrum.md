@@ -17,7 +17,7 @@ What people call color is a small slice of a much longer continuous stretch of w
 
 ## Infrared
 
-Just beyond red light is infrared, the most useful region for drone work after visible light. Its key property is the ability to distinguish photosynthetic material from non-photosynthetic material, which makes near-infrared the foundation of vegetation analysis. The applications of infrared reflectance, including the red edge and NDVI, are covered in [Multispectral Imaging](/topics/multispectral-imaging.md). [1]
+Just beyond red light is infrared, the most useful region for drone work after visible light. Its key property is the ability to distinguish photosynthetic material from non-photosynthetic material, which makes near-infrared the foundation of vegetation analysis. The applications of infrared reflectance, including the red edge and NDVI, are covered in [Multispectral Imaging](/topics/multispectral-imaging.md). [1] Much further from the visible band sits longwave infrared, which surfaces emit as a function of their own temperature rather than reflect from the sun. Cameras that image this emitted radiation, and the inspection work built on them, are covered in [Thermal Imaging](/topics/thermal-imaging.md).
 
 ## Ultraviolet
 
@@ -31,6 +31,7 @@ The brainstorm also flags the infra and ultra prefixes for confirmation, because
 
 - [Multispectral Imaging](/topics/multispectral-imaging.md) applies the infrared region to vegetation and greenness measurement.
 - [Digital Imaging](/topics/digital-imaging.md) covers the sensors and filters that record these wavelengths.
+- [Thermal Imaging](/topics/thermal-imaging.md) covers the longwave infrared band that objects emit rather than reflect.
 - [Drone Radio Links and Interference](/topics/drone-radio-links-and-interference.md) applies the radio end of the spectrum to the links that connect a drone to its pilot.
 
 ## Citations
