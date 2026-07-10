@@ -1,0 +1,67 @@
+24 April 2025
+Mr. Jaykob Miller
+Adjunct Instructor
+Northland Community & Technical College
+Syllabus for UAST xxxx – Trusted Operator (TOP) Level 2 (3 Credit Hours)
+1.  COURSE DESCRIPTION:  This course offers students training and academics leading to Trusted Operator (TOP) Level 2 certification.  The goal of this course is to provide students enhanced coursework leading to the TOP Level 2 professional credential.
+2. RATIONALE: The UAS career field is ever-growing, spanning a multitude of industries in private practice, education, government, etc. With an increase in UAS job market opportunities comes the necessity for UAS operators to distinguish themselves as specialists in order to secure the jobs they want. The Trusted Operator (TOP) professional certification exists to help UAS operators stand out among their peers and give them a leading edge in the UAS workforce.
+3. COURSE OBJECTIVES: By the end of this course students should be able to:
+Explain aviation management principles and FAA documentation requirements for uncrewed systems.
+Identify the components of UAS.
+Explain the effects of weather on UAS flight operations.
+Define OSHA safety standards and safety principles utilized in the aircraft maintenance environment.
+Explain basic aerodynamic principles and aircraft performance characteristics.
+Describe concepts and materials used in UAS construction.
+Understand the systems of Uncrewed Aircraft Systems (UAS) architecture to include local area networks, network transmission, data link functions, attributes, and frequency propagation.
+Identify UAS payloads including sensing and imaging sensors, electro optical/infrared, design, environmental conditions, and synthetic aperture radar.
+4.  COMMUNICATION:
+The primary method by which course-related information will and should be communicated is the D2L Learning Management System (LMS). Reminders, notification of any schedule or assignment changes should be communicated via the D2L Instant Message or Email function.
+Faculty will use LMS, Zoom, or Teams for course deliver, as appropriate. Virtual participation in this course requires both video and audio capabilities.
+It is your responsibility to meet all suspense and deadlines which will require you to check D2L and your university email multiple times a day.
+5.  ATTENDANCE POLICY:
+Attendance is confirmed by the student’s continuous participation, unless withdrawn via the registrar.
+6.  D2L LMS:
+Please be certain you are able to access the site, as this is a hybrid course and much of the content and assignments will require the use of D2L.
+7. UNIVERSITY POLICIES:
+Equal Opportunity:  The university directs that there shall be no discrimination against persons because of race, religion, age, color, sex, disability, sexual orientation, national origin, marital status, veterans' status, or political belief or affiliation, and that equal opportunity and access to facilities shall be available to all.
+Discrimination or Harassment:  The university does not tolerate harassment.  If you feel that you have been harassed, contact a university representative.
+Disability Act:  Any students with disabilities or other special needs, who need special accommodations in this course are invited to share these concerns or requests with the instructor and contact the University Disability Services Office as soon as possible.
+Academic Freedom:  You are encouraged to participate fully and freely in all class discussions.  A policy of academic freedom will be practiced in the classroom.  We may discuss a variety of topics, and we must maintain an open, supportive dialogue.  This implies tolerance for the freedom to hold differing opinions and being courteous to others.
+Veterans and student service members with special circumstances or who are activated are encouraged to notify the instructor as soon as possible and are encouraged to provide Activation Orders.
+8.  GRADING AND EVALUATION SCALE: While the following table outlines general guidelines for grading, the instructor retains the prerogative to add assignments and opportunities for extra credit
+9.  OFFICE HOURS: You may meet with the instructor(s) by appointment or during virtual office hours.
+10.  TEXTS:  Students can expect lesson texts and presentations to be made available. Some required/recommended texts may include the following;
+Barnhart, R. K. (2016). Introduction to unmanned aircraft systems. 2nd Edition Boca Raton, FL: CRC Press. ISB-978-1-4822-6393-0.
+11.  ASSIGNMENTS AND EXAMS:
+Late policy:10% of the total points available may be deducted from late assignment at instructor discretion.
+End of Lesson Knowledge Checks: End of Lesson Knowledge Checks will be posted to D2L and will be open book; these must be completed within the assigned time allocated.  Instructions will be provided for how long you have to take each quiz/test and may vary.  The material covered on the quiz/test will cover both the assigned reading material and classroom lecture material.
+Final Exercise: The final exercise will be a “check-ride” style application of concepts learned throughout the duration of the course. Students will be expected to demonstrate proficiency in tasks.
+Final Exam: The final exam will cover selected material from throughout the course.
+12.  ACADEMIC HONESTY:  The academic community is operated on the basis of honesty, integrity, and fair play. Students found guilty of academic misconduct are subject to penalties, up to and possibly including suspension and/or expulsion. Student academic misconduct records are maintained by the Office of Registration and Records. Informational resources about academic honesty for students and instructional staff members can be found at the university website.
+13.  HEALTH AND SAFETY EXPECTATIONS; Students should navigate to the university COVID Portal to receive real-time updates regarding COVID-19 mask and social distancing policy.
+14.  POINTS OF CONTACT: Mr. Jaykob D. Miller: jaykob.miller@northlandcollege.edu
+Attachments:
+1.  Course Outline
+Attachment 1: Course Outline
+--- Table 1 ---
+ | Points | Percentage of Grade | Grading Percentages | Total Points
+End of Lesson Knowledge Checks (6) | 600 | 60% | 90 - 100 = A | 900-1000
+Final Exam | 150 | 15% | 80 - 89.9 = B | 800-899
+Final Exercise | 250 | 25% | 70 - 79.9 = C | 700-799
+ |  |  | 60 - 69.9 = D | 600-699
+ |  |  | 0 – 59.9 = F | 0-599
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ | 1000 | 100% |  | 
+--- Table 2 ---
+MODULE | TITLE
+1 | Operational Overview
+2 | Navigation
+3 | Meteorology and Environmental Elements
+4 | Human Factors
+5 | Personal Flight Assessment
+6 | Quality Assurance
+7 | Review Week
+8 | Finals
