@@ -42,6 +42,7 @@ Operational craft serving both courses.
 - [Battery Fundamentals and Safety](/topics/battery-fundamentals-and-safety.md): volts, amps, and watts, LiPo hazards, charging, storage, and transport rules.
 - [Field Operations Best Practices](/topics/field-operations-best-practices.md): checklists, attention discipline, go/no-go judgment, shared airspace, and in-field image checks.
 - [Field Power Management](/topics/field-power-management.md): batteries, charging hubs, generators, and power stations on a mapping day.
+- [Drone Radio Links and Interference](/topics/drone-radio-links-and-interference.md): the C2 and video links, the 2.4 GHz band, interference near towers and lines, and lost-link failsafes.
 
 ## Remote Sensing Foundations
 
@@ -102,6 +103,7 @@ The physics and sensor layer under professional drone work. These carry `acs_are
 ## Adjacent Applications
 
 - [Infrastructure Inspection Operations](/topics/infrastructure-inspection-operations.md): zoom and thermal inspection, California utility mandates, and reporting.
+- [Flying Near Energized Infrastructure](/topics/flying-near-energized-infrastructure.md): compass interference, GPS multipath, minimum approach distances, wire strike, and utility safety culture.
 - [Public Safety Drone Operations](/topics/public-safety-drone-operations.md): SAR, fire support, DFR programs, and incident command.
 
 ## Analyses

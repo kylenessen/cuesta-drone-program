@@ -32,6 +32,7 @@ The brainstorm also flags the infra and ultra prefixes for confirmation, because
 - [Multispectral Imaging](/topics/multispectral-imaging.md) applies the infrared region to vegetation and greenness measurement.
 - [Digital Imaging](/topics/digital-imaging.md) covers the sensors and filters that record these wavelengths.
 - [Thermal Imaging](/topics/thermal-imaging.md) covers the longwave infrared band that objects emit rather than reflect.
+- [Drone Radio Links and Interference](/topics/drone-radio-links-and-interference.md) applies the radio end of the spectrum to the links that connect a drone to its pilot.
 
 ## Citations
 

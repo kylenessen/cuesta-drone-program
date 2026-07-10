@@ -3,8 +3,8 @@ type: Topic
 title: Emergency Procedures
 description: Contingency planning and response for small UAS emergencies, including lithium battery fires, lost link, flyaways, and GPS degradation.
 acs_area: operations
-tags: [batteries, risk-management]
-timestamp: 2026-07-02T17:00:00Z
+tags: [ batteries, risk-management ]
+timestamp: 2026-07-10T07:00:00Z
 ---
 
 # Emergency Procedures
@@ -19,11 +19,12 @@ Lithium-based batteries power nearly every small UAS and are the program's most 
 
 Loss of the control link is the characteristic drone emergency. The remote pilot must know the aircraft's programmed lost-link behavior (typically return-to-home at a set altitude) and verify its settings, including the home point and RTH altitude against surrounding obstacles, during preflight. A flyaway, where the aircraft departs controlled flight entirely, is the escalation case; the plan is knowing last position, heading, and endurance, and warning anyone at risk, which is why emergency communication planning appears in the ACS. Loss or degradation of GPS removes position hold and geofencing and may shift the aircraft into a manual stabilization mode mid-flight, so students should practice attitude-mode flying before they need it. [1](/sources/faa-s-acs-10b.md) [2](/sources/ac-107-2a.md)
 
-Control links live in shared unlicensed spectrum, typically 2.4 and 5.8 GHz, where distance, obstructions, and other transmitters degrade the link. Operating near dense Wi-Fi, large crowds, or transmission infrastructure raises interference risk, which the ACS covers as frequency spectrum limitations. Night and over-people operations add their own contingencies, covered under [Night Operations](/topics/night-operations.md) and [Operations Over People](/regulations/operations-over-people.md). [1](/sources/faa-s-acs-10b.md)
+Control links live in shared unlicensed spectrum, typically 2.4 and 5.8 GHz, where distance, obstructions, and other transmitters degrade the link, a subject covered in depth in [Drone Radio Links and Interference](/topics/drone-radio-links-and-interference.md). Operating near dense Wi-Fi, large crowds, or transmission infrastructure raises interference risk, which the ACS covers as frequency spectrum limitations. Night and over-people operations add their own contingencies, covered under [Night Operations](/topics/night-operations.md) and [Operations Over People](/regulations/operations-over-people.md). [1](/sources/faa-s-acs-10b.md)
 
 ## Related
 
 - [Maintenance and Inspection](/topics/maintenance-and-inspection.md) covers the preflight checks that prevent most of these events.
+- [Flying Near Energized Infrastructure](/topics/flying-near-energized-infrastructure.md) covers compass and GPS interference near power lines, where attitude-mode proficiency gets used for real.
 - [Part 107 Operating Rules](/regulations/part-107-operating-rules.md) contains the emergency deviation authority and reporting duties.
 
 ## Citations
