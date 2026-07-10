@@ -56,6 +56,10 @@ The deliverable is a defect report, not a map. A competent report identifies eac
 
 Energized equipment adds hazards that mapping work never encounters. Operators maintain minimum approach distances from energized conductors, and utilities specify their own standoff requirements consistent with OSHA's minimum approach distance framework for work near energized parts [20]. High-voltage lines can induce interference in aircraft electronics and magnetometers at close range, which is another argument for zoom over proximity. A crash into a conductor is not just a lost aircraft, it is a potential outage or ignition source. Utility flight operations therefore run under job briefings, with the asset owner's knowledge, and treat the conductor the way a manned aviation crew treats terrain. [Flying Near Energized Infrastructure](/topics/flying-near-energized-infrastructure.md) covers these hazards, the approach distance framework, and the surrounding safety culture in depth.
 
+## What the industry's training standard teaches
+
+The closest thing this sector has to a training standard is the [AUVSI Trusted Operator Program](/exams/auvsi-trusted-operator-program.md), whose upper levels were written around exactly this work. Level 2 covers operations under waivers and with crews, meaning visual observers and sensor operators, near airports and populated areas, and Level 3 covers safety critical environments including power plants, energized infrastructure, and industrial facilities, with a flight assessment tailored to the sector [21] [22]. The credential's market pull is an open question, but its curriculum is a useful checklist for what an inspection course should teach beyond technique: preflight risk assessment on a written form, formal standard operating procedures, crew resource management for multi-person operations, documentation and record keeping that survive an audit, and quality assurance over the delivered data [21] [22]. Level 3's additions are telling about how utilities think, pairing expanded flight skills with first aid, air boss responsibilities, safety management systems, and spectrum analysis for the radio environment around energized equipment [21]. Whether PG&E and its contractors actually value the certification itself belongs in the partnership conversation, and the answer decides whether Cuesta should consider becoming a training provider or simply keep teaching to the standard.
+
 ## Related
 
 - [PG&E Drone Program and Training Pipeline](/analysis/pge-drone-program-and-training-pipeline.md) for how the sector's largest California employer staffs and trains its pilots.
@@ -64,6 +68,7 @@ Energized equipment adds hazards that mapping work never encounters. Operators m
 - [Spot Size and Measurement Distance](/topics/spot-size-and-measurement-distance.md) for the flying height versus measurement validity tradeoff solar work depends on.
 - [Delta-T Severity Classification](/topics/delta-t-severity-classification.md) for the severity discipline behind inspection reporting.
 - [Level 1 Thermography Certification](/exams/level-1-thermography-certification.md) for the credential utility and solar clients expect.
+- [AUVSI Trusted Operator Program](/exams/auvsi-trusted-operator-program.md) for the sector's voluntary training standard and the provider pathway question.
 - [Public Safety Drone Operations](/topics/public-safety-drone-operations.md) for the neighboring employment sector.
 - [Field Operations Best Practices](/topics/field-operations-best-practices.md) for the operational discipline inspection inherits.
 - [Drone Radio Links and Interference](/topics/drone-radio-links-and-interference.md) for what strong transmitters do to the aircraft's control link.
@@ -90,3 +95,5 @@ Energized equipment adds hazards that mapping work never encounters. Operators m
 [18] Raptor Maps, PV Aerial Thermography Data Requirements. https://raptormaps.com/solar-tech-docs/pv-aerial-thermography-data-requirements
 [19] Aerial Accuracy, IEC 62446-3 Thermal Inspection Methodology. https://aerialaccuracy.com/resources/iec-62446-3-methodology
 [20] OSHA 29 CFR 1910.269, Electric Power Generation, Transmission, and Distribution. https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.269
+[21] NC State ITRE, Trusted Operator Drone Training. https://itre.ncsu.edu/training/aviation/trusted-operator-program/
+[22] AUVSI, Trusted UAS Operator FAQs. https://www.auvsi.org/certification-training/trusted-operator-uas/faqs/

@@ -30,9 +30,16 @@ Figure eights combine left and right turning circles in one continuous pattern, 
 
 Target centering drills close the progression by adding the camera task. The pilot positions the aircraft to center a small target in the frame, then adds zoom, focus, and exposure adjustments, then adds a clock. This is a direct rehearsal of the Level 2 bucket task, and it teaches the discipline of stabilizing the aircraft first and operating the payload second. Running full timed lane trials, tracked by score and time across the course, then gives objective evidence of progress, which is the point of using a standard test method in the first place [1].
 
+## A check-ride around the lane
+
+The lane is also the apparatus behind the industry's main third party flight check. The [AUVSI Trusted Operator Program](/exams/auvsi-trusted-operator-program.md) requires an in-person Practical Flight Assessment at its upper levels, and Embry-Riddle delivers that assessment on apparatus built to NIST standards, with flight standards drawn from ASTM F3266, the standard guide for remote pilot training [5] [6]. AERO 100's NIST Level 2 capstone therefore already contains the flying half of a professional flight assessment, which is useful validation for the capstone choice.
+
+What the Trusted Operator assessment adds around the lane is the check-ride framing, and that framing is worth borrowing as the capstone matures. In a TOP style assessment the scored flight is one element inside a larger evaluation. Candidates complete a preflight risk assessment of the site and aircraft on a written form, present a logbook and documentation for review, demonstrate ground control station operations, and execute an autonomous mission in addition to flying manual maneuvers [5]. Dressed this way, the capstone becomes a rehearsal for professional flight evaluation rather than a timed game: the student briefs the site, documents the aircraft, flies the lane for score, then hands the examiner a defensible paper trail. Each added element is cheap to run and directly mirrors what employers' flight programs and third party assessors actually check.
+
 ## Related
 
 - [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md) for the knowledge half of AERO 100's outcomes.
+- [AUVSI Trusted Operator Program](/exams/auvsi-trusted-operator-program.md) for the certification standard whose flight assessment shares this apparatus.
 - [Field Operations Best Practices](/topics/field-operations-best-practices.md) for the operational habits built on these stick skills.
 - [Camera Exposure](/topics/camera-exposure.md) for the exposure control the Level 2 lane tests.
 
@@ -42,3 +49,5 @@ Target centering drills close the progression by adding the camera task. The pil
 [2] NIST, Aerial Drone Tests (Standard Test Methods for Response Robots). https://www.nist.gov/el/intelligent-systems-division-73500/standard-test-methods-response-robots/aerial-drone-tests
 [3] NIST, Level 1-3 Open Test Lane and Scenarios. https://www.nist.gov/el/intelligent-systems-division-73500/level-1-3-open-test-lane-and-scenarios
 [4] NIST, sUAS Open Test Lane Fabrication Guide (v2020B). https://www.nist.gov/system/files/documents/2023/09/19/NIST%20sUAS%20Open%20Test%20Lane%20-%20Fabrication%20Guide%20(v2020B).pdf
+[5] Embry-Riddle Professional Education, TOP Level 2 in association with AUVSI (sUAS 4000L2). https://www.enrole.com/erau/jsp/course.jsp?categoryId=5523A9B8&courseId=SUAS-4000L2
+[6] Embry-Riddle Professional Education, TOP Level 3 in association with AUVSI (sUAS 4000L3). https://www.enrole.com/erau/jsp/course.jsp?courseId=SUAS-4000L3

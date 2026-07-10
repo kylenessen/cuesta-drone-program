@@ -8,6 +8,7 @@ The knowledge base behind Cuesta College's drone program curriculum. It covers t
 - [Level 1 Thermography Certification](/exams/level-1-thermography-certification.md): the industry thermal inspection credential, its providers, cost, body of knowledge, and career value.
 - [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md): the professional mapping credential, its exam matrix, the wider ASPRS certification family, and the curriculum mapping.
 - [ASPRS Geospatial Intern Program](/exams/asprs-geospatial-intern-program.md): the student pathway into ASPRS certification, its application mechanics, conversion timeline, and open questions for the ASPRS call.
+- [AUVSI Trusted Operator Program](/exams/auvsi-trusted-operator-program.md): the voluntary flight competency standard, its levels and flight assessment, honest recognition notes, and the training provider pathway question.
 
 ## Regulations
 
@@ -124,3 +125,4 @@ The physics and sensor layer under professional drone work.
 - [ASPRS Certification Manual](/sources/asprs-certification-manual.md): the ASPRS Certification and Recertification Guidelines, evidence anchor for the certification pages.
 - [ASPRS Certification Manual (2019)](/sources/asprs-certification-manual-2019.md): the 2019 revision preserving the Geospatial Intern Program section and intern fees.
 - [ASPRS Intern Application Page](/sources/asprs-intern-application-page.md): the archived "How To Apply - Interns" page with the intern program mechanics.
+- [NCAT TOP Level 2 Course Syllabus](/sources/ncat-top-level-2-syllabus.md): a partner college's three credit syllabus for teaching Trusted Operator Level 2, evidence for the provider pathway.
