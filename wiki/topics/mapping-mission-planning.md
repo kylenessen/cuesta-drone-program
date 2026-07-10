@@ -41,6 +41,7 @@ Part 107 requires the remote pilot or a visual observer to keep the unaided visu
 - [Mission Planning Software](/topics/mission-planning-software.md) for the tools that execute these plans.
 - [Field Operations Best Practices](/topics/field-operations-best-practices.md) for flying the plan well on the day.
 - [Field Power Management](/topics/field-power-management.md) for covering the battery cycles the plan demands.
+- [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md) for the mapping credential that tests operational planning.
 
 ## Citations
 

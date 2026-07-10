@@ -1,0 +1,64 @@
+# ASPRS Certified UAS Technologist
+
+The **ASPRS Certified UAS Technologist** is the professional mapping credential that anchors the advanced mapping course, the way the [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md) anchors AERO 100 and [Level 1 Thermography Certification](/exams/level-1-thermography-certification.md) anchors the inspection course. It is issued by the American Society for Photogrammetry and Remote Sensing (ASPRS), the professional body for photogrammetry and remote sensing in the United States and the publisher of the positional accuracy standards the mapping industry works to. The certification recognizes a technologist who performs or supervises routine tasks to collect, process, and interpret data acquired with uncrewed aircraft systems for surveying, mapping, and remote sensing applications [1]. The ASPRS certification programs have been accredited by the Council of Engineering and Scientific Specialty Boards (CESB) since January 2013 [1], and ASPRS credentials appear on military COOL credentialing sites and in the O*NET certification database, which matters for veteran students and for labor market recognition [3] [4].
+
+The framing for the curriculum is important. Part 107 is the only certification students are required to earn in Cuesta's courses. The full ASPRS credential is an optional pursuit after the class, and not an immediate one, because certification requires three years of work experience. The [ASPRS Geospatial Intern Program](/exams/asprs-geospatial-intern-program.md) softens that timeline for students, letting an enrolled student sit this same exam before graduating and hold an intern designation that converts to the full credential once the experience accumulates. Either way the curriculum goal is the same: a graduate who pursues the credential finds the exam content familiar, because the mapping course taught toward the same body of knowledge.
+
+## Format
+
+All ASPRS certification exams are delivered by computer through Prometric, either at a Prometric testing center or by remote proctoring, with immediate results on completion [1] [2]. ASPRS recommends the testing center as the more reliable option, since remote proctoring puts connectivity and hardware risk on the candidate [1]. Technologist exams run no longer than 2 hours. Candidates may bring one bound reference book, a handheld calculator, a writing device, and scratch paper, and nothing else [1]. The guidelines describe the test only as a written examination and do not publish a question count or format, though the immediate machine scoring and the ASPRS preparation materials indicate objective multiple choice style questions [1] [5].
+
+An approved applicant may attempt the exam twice. A candidate who fails the first attempt may retake it within 6 months, paying only the Prometric testing fee for the second appointment. A second failure requires a full new application with fees and updated references [1].
+
+## Content
+
+The examination matrix for the Certified UAS Technologist is 70 percent UAS material, with the remaining 30 percent spread evenly across five general knowledge areas at 6 percent each [1]:
+
+| Focus area | Share of exam |
+| --- | --- |
+| UAS | 70 percent |
+| Mathematics | 6 percent |
+| Earth Science | 6 percent |
+| Engineering/Surveying | 6 percent |
+| Physics | 6 percent |
+| Professional/Ethical | 6 percent |
+
+The manual's classification chart describes what the UAS specialty covers at the technologist level: instrumentation knowledge and operational planning (platforms, calibration, flight planning, training), data management (preprocessing, postprocessing, archiving, flight line mosaicking and tiling), point cloud classification (standard filtering, automatic and manual editing), and metadata development, with the technologist performing instrument operation, raw data archiving, data processing, filter application, manual editing, and deliverable development [1]. ASPRS suggests Introduction to Unmanned Aircraft Systems (Barnhart et al.) and Introduction to UAV Systems (Fahlstrom and Gleason) among its preparation texts, alongside the standard photogrammetry and remote sensing references [1].
+
+That body of knowledge maps closely onto this wiki's mapping topics. Operational planning is [Mapping Mission Planning](/topics/mapping-mission-planning.md) and [Ground Sample Distance](/topics/ground-sample-distance.md), resting on the positioning layer of [GNSS Fundamentals](/topics/gnss-fundamentals.md), [RTK and PPK Positioning](/topics/rtk-and-ppk-positioning.md), and [Ground Control Points](/topics/ground-control-points.md). Data processing and product generation are [Structure from Motion](/topics/structure-from-motion.md), [Photogrammetry Software](/topics/photogrammetry-software.md), [Orthomosaics](/topics/orthomosaics.md), and [Elevation Models](/topics/elevation-models.md). Quality control and accuracy reporting are [Mapping Accuracy](/topics/mapping-accuracy.md), which is built directly on the ASPRS Positional Accuracy Standards. Coordinate discipline is [Map Projections and Coordinate Systems](/topics/map-projections-and-coordinate-systems.md) and [Vertical Datums and Geoid Models](/topics/vertical-datums-and-geoid-models.md). Data management and metadata are [Geospatial Data Management](/topics/geospatial-data-management.md). Point cloud concepts are introduced in [Lidar](/topics/lidar.md). The professional and ethical area overlaps [Drone Mapping and Licensed Surveying](/topics/drone-mapping-and-licensed-surveying.md), and the manual itself draws the same certification versus licensure distinction that page covers [1].
+
+## Curriculum Gaps
+
+Comparing the exam matrix against the wiki's mapping topics leaves a short gap list. Applied mathematics is tested at 6 percent but has no teachable unit; the GSD formula and RMSE statistics appear inside other topics, but the exam's general mathematics (trigonometry, unit conversions, basic statistics) is not taught anywhere as a subject. Earth science is similar. The geodesy pages cover the figure of the earth, but general earth science (landforms, geology, terrain interpretation) has no home. Plane surveying fundamentals (leveling, traversing, total station work) are tested under engineering/surveying but the wiki covers only GNSS-based survey procedure. Professional ethics has partial coverage through the surveying licensure page, but the ASPRS Code of Ethics itself, which every applicant must declare compliance with, is not treated. These are noted as gaps rather than urgent work, since together they represent 24 percent of an optional exam, and community college general education (mathematics, physical science) supplies some of it outside the drone program.
+
+## The ASPRS Certification Family
+
+ASPRS certifies at two tiers, Technologist and Mapping Scientist, across the specialty areas of photogrammetry, remote sensing, lidar, and UAS [1] [2]. The Certified UAS Technologist sits on the first rung of a ladder a working graduate can climb.
+
+The Technologist tier (Certified Photogrammetric Technologist, Certified Remote Sensing Technologist, Certified Lidar Technologist, Certified UAS Technologist) covers work that is routine and technical but demanding high skill. All technologist categories share the same requirements: three years of experience of which two are in the specialty, four references, a code of ethics declaration with the application, and the written exam [1].
+
+The Scientist tier is the professional level, for practitioners exercising independent professional judgment and directing the work of others. Certified Mapping Scientist, UAS requires six years of experience, three in mapping sciences or photogrammetry in a position of responsibility and three more of professional UAS experience, plus four references and the exam [1]. The scientist exams run up to 4 hours and spread their content across all specialties, with the CMS UAS matrix at 41 percent UAS, 10 percent mathematics, 8 percent each earth science and engineering/surveying, and 5 to 7 percent everything else, so a scientist candidate is tested on photogrammetry, remote sensing, GIS, and lidar as well as UAS [1]. Certified Photogrammetrist, the original 1975 credential, and the Certified Mapping Scientist tracks in Remote Sensing and Lidar follow the same pattern in their own specialties [1]. Scientist certifications recertify every five years against 100 professional development hours, versus three years and 60 hours for technologists [1].
+
+One track is gone. The former Certified Mapping Scientist GIS/LIS and GIS/LIS Technologist certifications were retired and replaced by the GISP credential from the GIS Certification Institute (GISCI), under a partnership announced in August 2024 that put ASPRS on the GISCI board [1]. A student headed toward GIS rather than photogrammetry should look at the GISP, not ASPRS.
+
+## Logistics
+
+Certification requires more than the exam. A Certified UAS Technologist applicant needs three years of experience, two of them in the UAS specialty, four references from people who know the applicant's work and conduct, and a declaration of compliance with the ASPRS Code of Ethics as part of the application [1]. The manual's educational credit table grants half a year of experience credit per completed degree, listing bachelor's, master's, and doctoral degrees [1]. Whether an associate degree earns the same credit is stated only in military credentialing profiles, not in the manual, and is tracked as an open question on the [ASPRS Geospatial Intern Program](/exams/asprs-geospatial-intern-program.md) page. Applications take roughly 8 to 10 weeks to process, and an approved applicant must take the exam within six months of approval [1].
+
+The initial technologist application fee is $200 for ASPRS members and $375 for non-members, plus the Prometric testing fee, and fees are not refundable if certification is denied [1]. Recertification runs every three years at $125 for members and $300 for non-members, against 60 professional development hours over the three year window, of which continuous work experience in the certified field supplies 30 at 10 per year [1]. The remainder comes from workshops, conference attendance, service, and publications, so a working technologist who attends occasional training maintains the credential without difficulty.
+
+ASPRS runs exam preparation workshops via webinar and at most ASPRS conferences, covering the general knowledge areas, the application process, and sample questions [1] [5]. For veteran students, ASPRS certifications are listed on military COOL sites, where credentialing assistance can cover costs. Army and Navy COOL listings are confirmed for the photogrammetric and remote sensing tracks [4], and the Certified UAS Technologist appears in the O*NET certification database [3]. Whether a UAS Technologist listing exists on a specific service's COOL site should be verified against that site directly when advising a student.
+
+## Related
+
+- [Mapping Accuracy](/topics/mapping-accuracy.md), [Ground Control Points](/topics/ground-control-points.md), [RTK and PPK Positioning](/topics/rtk-and-ppk-positioning.md), [Structure from Motion](/topics/structure-from-motion.md), [Photogrammetry Software](/topics/photogrammetry-software.md), [Ground Sample Distance](/topics/ground-sample-distance.md), and [Map Projections and Coordinate Systems](/topics/map-projections-and-coordinate-systems.md) for the tested body of knowledge.
+- [Drone Mapping and Licensed Surveying](/topics/drone-mapping-and-licensed-surveying.md) for the certification versus licensure boundary the manual itself draws.
+- [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md) for the certification every student earns first, and [Level 1 Thermography Certification](/exams/level-1-thermography-certification.md) for the parallel credential on the inspection track.
+
+## Citations
+
+[1] [ASPRS Certification Manual](/sources/asprs-certification-manual.md), ASPRS Certification and Recertification Guidelines, downloaded 2026-07-10.
+[2] [ASPRS Certification Program](https://www.asprs.org/certification), ASPRS, accessed 2026-07-10.
+[3] [Certification: Certified UAS Technologist](https://www.onetonline.org/link/certinfo/11752-A), O*NET OnLine.
+[4] [Army COOL, Certified Remote Sensing Technologist](https://www.cool.osd.mil/army/credential/index.html?cert=crst3588), Department of Defense Credentialing Opportunities On-Line.
+[5] [Preparation for ASPRS Certification, General Knowledge](https://my.asprs.org/ASPRSMember/ASPRSMember/Events/Event_Display.aspx?EventKey=GW2020PM7), ASPRS workshop by Robert Burtch, Ferris State University.
