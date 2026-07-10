@@ -2,6 +2,14 @@
 
 Newest first. One entry per change set: what changed and why.
 
+## 2026-07-10 (Trusted Operator)
+
+- Created [AUVSI Trusted Operator Program](/exams/auvsi-trusted-operator-program.md) (GitHub issue 32): the three levels and their operational scopes, the Protocol Certification Manual and its 300+ referenced standards, the provider-taught curriculum (NC State ITRE module lists, DARTdrones, Embry-Riddle competencies, the NCAT partner syllabus), the Practical Flight Assessment run to ASTM F3266 standards on NIST-standard apparatus, the two year recertification cycle, honest market recognition notes, and the NCAT mentor/protege instructor pathway flagged as a program development idea contingent on the PG&E partnership conversation (issue 25).
+- Key research findings: the PCM is the Protocol Certification Manual, not "Performance Compliance Matrix" as the issue guessed, and it is distributed by request form, so the page documents its requirements through accredited provider catalogs. The Level 2 and 3 flight assessments use the same NIST bucket-lane apparatus AERO 100's capstone already uses, which validates the capstone and makes the TOP check-ride framing directly stealable.
+- Mined course ideas onto existing pages rather than piling them on the new one: [Flight Proficiency and Practice Exercises](/topics/flight-proficiency-and-practice-exercises.md) gained "A check-ride around the lane" (wrap the NIST capstone in preflight risk assessment, logbook review, GCS operations, and an autonomous mission element), and [Infrastructure Inspection Operations](/topics/infrastructure-inspection-operations.md) gained "What the industry's training standard teaches" (SOPs, CRM, documentation, quality assurance, and Level 3's air boss, first aid, and spectrum analysis additions as an inspection course checklist).
+- Preserved [NCAT TOP Level 2 Course Syllabus](/sources/ncat-top-level-2-syllabus.md) (original docx plus extracted text), the Northland Community & Technical College three credit syllabus showing what teaching TOP Level 2 for credit looks like at a partner school.
+- Placement rationale: exams family, since the schema assigns certifications and credential pathways there, alongside the thermography and ASPRS pages. Listed the exam page and source in [index.md](/index.md).
+
 ## 2026-07-10 (ASPRS intern pathway)
 
 - Created [ASPRS Geospatial Intern Program](/exams/asprs-geospatial-intern-program.md) (GitHub issue 34): application requirements, the six month exam window, the two hour Prometric technologist exam and its 70 percent UAS content matrix, the five year conversion window to Certified UAS Technologist with three references and no retest, fees, institutional precedent, the intended Cuesta student journey, and a numbered Open Questions section that feeds the ASPRS outreach call (GitHub issue 35).
