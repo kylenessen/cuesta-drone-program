@@ -1,6 +1,6 @@
 # Drone Knowledge Wiki
 
-The knowledge base behind Cuesta College's drone program curriculum. It covers the aeronautical knowledge tested on the FAA Part 107 exam and, for the program's advanced track, the remote sensing foundations of professional drone work, organized so course content for AERO 100 and successor courses can be written against cited, durable articles. Start with [Wiki Schema](/schema.md) before editing, and see [log.md](/log.md) for change history.
+The knowledge base behind Cuesta College's drone program curriculum. It covers the aeronautical knowledge tested on the FAA Part 107 exam and, for the program's advanced course, the full body of professional drone mapping knowledge, from cameras and positioning through photogrammetry, deliverables, and the business around them, organized so course content for AERO 100 and AERO 110 can be written against cited, durable articles. Start with [Wiki Schema](/schema.md) before editing, and see [log.md](/log.md) for change history.
 
 ## The Exam
 
@@ -20,7 +20,7 @@ The knowledge base behind Cuesta College's drone program curriculum. It covers t
 ## Aeronautical Knowledge Topics
 
 - [Airspace Classification](/topics/airspace-classification.md): classes A through G, special use, and other designated areas.
-- [Airspace Authorization](/topics/airspace-authorization.md): LAANC and DroneZone workflows for controlled airspace.
+- [Airspace Authorization](/topics/airspace-authorization.md): LAANC in practice, grid ceilings, further coordination, and DroneZone.
 - [Sectional Chart](/topics/sectional-chart.md): reading the chart, the tested skill behind airspace questions.
 - [Aviation Weather Sources](/topics/aviation-weather-sources.md): METAR and TAF decoding, ASOS and AWOS, and briefing resources.
 - [Weather Effects on Performance](/topics/weather-effects-on-performance.md): density altitude, wind, fronts, thunderstorms, fog, and icing.
@@ -33,16 +33,71 @@ The knowledge base behind Cuesta College's drone program curriculum. It covers t
 - [Maintenance and Inspection](/topics/maintenance-and-inspection.md): maintenance practice, preflight inspection, and records.
 - [Night Operations](/topics/night-operations.md): the 2021 night rules, anti-collision lighting, and twilight definitions.
 
-## Advanced Drone Applications
+## Flight Skills and Field Operations
 
-Remote sensing foundations for the program's advanced track, beyond the Part 107 exam. These carry `acs_area: general`.
+Operational craft serving both courses.
+
+- [Flight Proficiency and Practice Exercises](/topics/flight-proficiency-and-practice-exercises.md): the NIST test lanes behind AERO 100's flight test, and the drills that build stick skills.
+- [Battery Fundamentals and Safety](/topics/battery-fundamentals-and-safety.md): volts, amps, and watts, LiPo hazards, charging, storage, and transport rules.
+- [Field Operations Best Practices](/topics/field-operations-best-practices.md): checklists, attention discipline, go/no-go judgment, shared airspace, and in-field image checks.
+- [Field Power Management](/topics/field-power-management.md): batteries, charging hubs, generators, and power stations on a mapping day.
+
+## Remote Sensing Foundations
+
+The physics and sensor layer under professional drone work. These carry `acs_area: general`.
 
 - [Uncrewed Aircraft](/topics/uncrewed-aircraft.md): what a drone is, the UAV and UAS terminology, and the airframe-and-payload framing.
 - [Digital Imaging](/topics/digital-imaging.md): how sensors turn light into numbers, color and demosaicing, RAW versus JPEG, and bit depth.
 - [Electromagnetic Spectrum](/topics/electromagnetic-spectrum.md): visible light as a narrow band, wavelength filters, and the infrared and ultraviolet regions.
 - [Multispectral Imaging](/topics/multispectral-imaging.md): NDVI, the red edge, and greenness measurement.
+- [Multispectral Field Practice](/topics/multispectral-field-practice.md): calibration panels, band registration, and when multispectral beats RGB.
+- [Thermal Imaging](/topics/thermal-imaging.md): LWIR physics, radiometric measurement, emissivity traps, and thermal mapping.
+- [Lidar](/topics/lidar.md): active laser mapping, taught conceptually against photogrammetry.
 - [Drone Payloads](/topics/drone-payloads.md): passive versus active sensors and the payload taxonomy from cameras to LiDAR.
 - [Remote Sensing Platforms](/topics/remote-sensing-platforms.md): the platform continuum from kites to satellites and the resolution-versus-coverage tradeoff.
+
+## Cameras and Imaging for Mapping
+
+- [Cameras for Drone Mapping](/topics/cameras-for-drone-mapping.md): mechanical versus electronic shutter, sensor size, focal length, and JPEG versus RAW.
+- [Camera Exposure](/topics/camera-exposure.md): shutter, aperture, ISO as signal amplification, and the motion blur floor.
+- [Ground Sample Distance](/topics/ground-sample-distance.md): the formula, choosing the GSD a target requires, and the altitude tradeoffs.
+- [Lighting and Sun Angle for Mapping](/topics/lighting-and-sun-angle-for-mapping.md): shadows, overcast, the hotspot effect, and sun glint.
+
+## Positioning and Geodesy
+
+- [GNSS Fundamentals](/topics/gnss-fundamentals.md): how satellite positioning works and why standalone receivers give meter-level maps.
+- [RTK and PPK Positioning](/topics/rtk-and-ppk-positioning.md): base and rover, fix versus float, NTRIP and CRTN, and RTK versus PPK.
+- [Map Projections and Coordinate Systems](/topics/map-projections-and-coordinate-systems.md): geographic versus projected, UTM, State Plane Zone 5, and EPSG codes.
+- [Vertical Datums and Geoid Models](/topics/vertical-datums-and-geoid-models.md): ellipsoidal versus orthometric heights and the 30 meter elevation trap.
+- [Ground Control Points](/topics/ground-control-points.md): control versus checkpoints, network design, targets, and survey procedure.
+- [Mapping Accuracy](/topics/mapping-accuracy.md): RMSE reporting, ASPRS Edition 2, checkpoint validation, and failure causes.
+
+## Mission Planning
+
+- [Mapping Mission Planning](/topics/mapping-mission-planning.md): overlap, altitude, speed, capture rate, terrain following, and constraint balancing.
+- [Mission Planning Software](/topics/mission-planning-software.md): UgCS, DJI Pilot 2, and the rest of the planner landscape.
+
+## Photogrammetry and Products
+
+- [Structure from Motion](/topics/structure-from-motion.md): feature matching, bundle adjustment, depth maps, and georeferencing.
+- [Orthomosaics](/topics/orthomosaics.md): orthorectification, generation artifacts, true ortho, and absolute position.
+- [Elevation Models](/topics/elevation-models.md): DSM versus DTM, contours, volumetrics, and formats.
+- [Photogrammetry Software](/topics/photogrammetry-software.md): Metashape, Pix4D, DroneDeploy, OpenDroneMap, and hardware requirements.
+- [Geospatial Data Management](/topics/geospatial-data-management.md): project structure, archiving, flight logs, and delivering orthos.
+
+## Mapping Practice and Profession
+
+- [Applications of Drone Mapping](/topics/applications-of-drone-mapping.md): the products clients buy and the decisions they feed.
+- [Change Detection and Repeat Mapping](/topics/change-detection-and-repeat-mapping.md): aligning maps across time for trustworthy monitoring.
+- [Limits of Drone Mapping](/topics/limits-of-drone-mapping.md): where photogrammetry stops being the right tool.
+- [Mission Cost Analysis](/topics/mission-cost-analysis.md): mobilization-dominated costs, estimating, insurance, and pricing.
+- [Drone Mapping and Licensed Surveying](/topics/drone-mapping-and-licensed-surveying.md): the legal boundary and California's PLS Act.
+- [NDAA Compliance and Blue UAS](/topics/ndaa-compliance-and-blue-uas.md): federal funding restrictions, the Cleared List, and the non-DJI platform landscape.
+
+## Adjacent Applications
+
+- [Infrastructure Inspection Operations](/topics/infrastructure-inspection-operations.md): zoom and thermal inspection, California utility mandates, and reporting.
+- [Public Safety Drone Operations](/topics/public-safety-drone-operations.md): SAR, fire support, DFR programs, and incident command.
 
 ## Analyses
 
