@@ -1,0 +1,217 @@
+❙
+CONTENTS
+1
+Concepts and Foundations of Remote
+Sensing 1
+1.1 Introduction 1
+1.2 Energy Sources and Radiation
+Principles 4
+1.3 Energy Interactions in the
+Atmosphere 9
+1.4 Energy Interactions with Earth Surface
+Features 12
+1.5 Data Acquisition and Digital Image
+Concepts 30
+1.6 Reference Data 39
+1.7 The Global Positioning System and
+Other Global Navigation Satellite
+Systems 43
+1.8 Characteristics of Remote Sensing
+Systems 45
+1.9 Successful Application of Remote
+Sensing 49
+1.10 Geographic Information Systems
+(GIS) 52
+1.11 Spatial Data Frameworks for GIS and
+Remote Sensing 57
+1.12 Visual Image Interpretation 59
+2
+Elements of Photographic
+Systems 85
+2.1 Introduction 85
+2.2 Early History of Aerial Photography 86
+ix
+COPYRIGHTED MATERIAL
+2.3 Photographic Basics 89
+2.4 Film Photography 99
+2.5 Digital Photography 115
+2.6 Aerial Cameras 118
+2.7 Spatial Resolution of Camera
+Systems 136
+2.8 Aerial Videography 143
+2.9 Conclusion 145
+3
+Basic Principles of
+Photogrammetry 146
+3.1 Introduction 146
+3.2 Basic Geometric Characteristics
+of Aerial Photographs 150
+3.3 Photographic Scale 159
+3.4 Ground Coverage of Aerial
+Photographs 164
+3.5 Area Measurement 167
+3.6 Relief Displacement of Vertical
+Features 170
+3.7 Image Parallax 177
+3.8 Ground Control for Aerial
+Photography 188
+3.9 Determining the Elements of Exterior
+Orientation of Aerial Photographs 189
+3.10 Production of Mapping Products
+from Aerial Photographs 194
+3.11 Flight Planning 210
+3.12 Conclusion 217
+4
+Multispectral, Thermal, and
+Hyperspectral Sensing 218
+4.1 Introduction 218
+4.2 Across-Track Scanning 219
+4.3 Along-Track Scanning 225
+4.4 Example Across-Track Multispectral
+Scanner and Imagery 226
+4.5 Example Along-Track Multispectral
+Scanner and Imagery 230
+4.6 Geometric Characteristics of
+Across-Track Scanner Imagery 232
+4.7 Geometric Characteristics of
+Along-Track Scanner Imagery 241
+4.8 Thermal Imaging 243
+4.9 Thermal Radiation Principles 245
+4.10 Interpreting Thermal Imagery 254
+4.11 Radiometric Calibration of
+Thermal Images and Temperature
+Mapping 265
+4.12 FLIR Systems 269
+4.13 Hyperspectral Sensing 271
+4.14 Conclusion 282
+5
+Earth Resource Satellites Operating
+in the Optical Spectrum 283
+5.1 Introduction 283
+5.2 General Characteristics of Satellite
+Remote Sensing Systems Operating
+in the Optical Spectrum 285
+5.3 Moderate Resolution Systems 295
+5.4 Landsat-1 to -7 296
+5.5 Landsat-8 309
+5.6 Future Landsat Missions and the
+Global Earth Observation System of
+Systems 322
+5.7 SPOT-1 to -5 324
+5.8 SPOT-6 and -7 336
+5.9 Evolution of Other Moderate Resolution
+Systems 339
+x CONTENTS
+5.10 Moderate Resolution Systems
+Launched prior to 1999 340
+5.11 Moderate Resolution Systems Launched
+since 1999 342
+5.12 High Resolution Systems 349
+5.13 Hyperspectral Satellite Systems 356
+5.14 Meteorological Satellites Frequently
+Applied to Earth Surface Feature
+Observation 359
+5.15 NOAA POES Satellites 360
+5.16 JPSS Satellites 363
+5.17 GOES Satellites 366
+5.18 Ocean Monitoring Satellites 367
+5.19 Earth Observing System 371
+5.20 Space Station Remote Sensing 379
+5.21 Space Debris 382
+6
+Microwave and Lidar Sensing 385
+6.1 Introduction 385
+6.2 Radar Development 386
+6.3 Imaging Radar System Operation 389
+6.4 Synthetic Aperture Radar 399
+6.5 Geometric Characteristics of Radar
+Imagery 402
+6.6 Transmission Characteristics of Radar
+Signals 409
+6.7 Other Radar Image Characteristics 413
+6.8 Radar Image Interpretation 417
+6.9 Interferometric Radar 435
+6.10 Radar Remote Sensing from Space 441
+6.11 Seasat-1 and the Shuttle Imaging
+Radar Missions 443
+6.12 Almaz-1 448
+6.13 ERS, Envisat, and Sentinel-1 448
+6.14 JERS-1, ALOS, and ALOS-2 450
+6.15 Radarsat 452
+6.16 TerraSAR-X, TanDEM-X, and PAZ 455
+6.17 The COSMO-SkyMed
+Constellation 457
+6.18 Other High-Resolution Spaceborne
+Radar Systems 458
+6.19 Shuttle Radar Topography Mission 459
+6.20 Spaceborne Radar System
+Summary 462
+6.21 Radar Altimetry 464
+6.22 Passive Microwave Sensing 466
+6.23 Basic Principles of Lidar 471
+6.24 Lidar Data Analysis and
+Applications 475
+6.25 Spaceborne Lidar 482
+7
+Digital Image Analysis 485
+7.1 Introduction 485
+7.2 Preprocessing of Images 488
+7.3 Image Enhancement 500
+7.4 Contrast Manipulation 501
+7.5 Spatial Feature Manipulation 507
+7.6 Multi-Image Manipulation 517
+7.7 Image Classiﬁcation 537
+7.8 Supervised Classiﬁcation 538
+7.9 The Classiﬁcation Stage 540
+7.10 The Training Stage 546
+7.11 Unsupervised Classiﬁcation 556
+7.12 Hybrid Classiﬁcation 560
+7.13 Classiﬁcation of Mixed Pixels 562
+7.14 The Output Stage and Postclassi ﬁcation
+Smoothing 568
+7.15 Object-Based Classiﬁcation 570
+7.16 Neural Network Classi ﬁcation 573
+CONTENTS xi
+7.17 Classiﬁcation Accuracy
+Assessment 575
+7.18 Change Detection 582
+7.19 Image Time Series Analysis 587
+7.20 Data Fusion and GIS Integration 591
+7.21 Hyperspectral Image Analysis 598
+7.22 Biophysical Modeling 602
+7.23 Conclusion 608
+8
+Applications of Remote Sensing 609
+8.1 Introduction 609
+8.2 Land Use/Land Cover Mapping 611
+8.3 Geologic and Soil Mapping 618
+8.4 Agricultural Applications 628
+8.5 Forestry Applications 632
+8.6 Rangeland Applications 638
+8.7 Water Resource Applications 639
+8.8 Snow and Ice Applications 649
+8.9 Urban and Regional Planning
+Applications 652
+8.10 Wetland Mapping 654
+8.11 Wildlife Ecology Applications 658
+8.12 Archaeological Applications 662
+8.13 Environmental Assessment and
+Protection 665
+8.14 Natural Disaster Assessment 668
+8.15 Principles of Landform Identi ﬁcation and
+Evaluation 678
+8.16 Conclusion 697
+Works Cited 699
+Index 709
+SI Units Frequently Used in
+Remote Sensing 720
+Appendices—Available online at
+www.wiley.com/college/lillesand
+Appendix A: Radiometric Concepts,
+Terminology, and Units
+Appendix B: Sample Coordinate
+Transformation and Resampling
+Procedures
+Appendix C: Radar Signal Concepts,
+Terminology, and Units
+xii CONTENTS
