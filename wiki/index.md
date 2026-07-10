@@ -51,7 +51,7 @@ The physics and sensor layer under professional drone work. These carry `acs_are
 - [Electromagnetic Spectrum](/topics/electromagnetic-spectrum.md): visible light as a narrow band, wavelength filters, and the infrared and ultraviolet regions.
 - [Multispectral Imaging](/topics/multispectral-imaging.md): NDVI, the red edge, and greenness measurement.
 - [Multispectral Field Practice](/topics/multispectral-field-practice.md): calibration panels, band registration, and when multispectral beats RGB.
-- [Thermal Imaging](/topics/thermal-imaging.md): LWIR physics, radiometric measurement, emissivity traps, and thermal mapping.
+- [Thermal Imaging](/topics/thermal-imaging.md): LWIR physics, radiometric measurement, emissivity traps, thermal tuning, spot size, delta-T severity, and thermal mapping.
 - [Lidar](/topics/lidar.md): active laser mapping, taught conceptually against photogrammetry.
 - [Drone Payloads](/topics/drone-payloads.md): passive versus active sensors and the payload taxonomy from cameras to LiDAR.
 - [Remote Sensing Platforms](/topics/remote-sensing-platforms.md): the platform continuum from kites to satellites and the resolution-versus-coverage tradeoff.
@@ -97,6 +97,7 @@ The physics and sensor layer under professional drone work. These carry `acs_are
 ## Adjacent Applications
 
 - [Infrastructure Inspection Operations](/topics/infrastructure-inspection-operations.md): zoom and thermal inspection, California utility mandates, and reporting.
+- [Thermography Certification](/topics/thermography-certification.md): the Level 1 credential landscape, ITC course format and cost, and career value.
 - [Public Safety Drone Operations](/topics/public-safety-drone-operations.md): SAR, fire support, DFR programs, and incident command.
 
 ## Analyses
