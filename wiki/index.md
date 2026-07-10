@@ -41,6 +41,7 @@ Operational craft serving both courses.
 - [Battery Fundamentals and Safety](/topics/battery-fundamentals-and-safety.md): volts, amps, and watts, LiPo hazards, charging, storage, and transport rules.
 - [Field Operations Best Practices](/topics/field-operations-best-practices.md): checklists, attention discipline, go/no-go judgment, shared airspace, and in-field image checks.
 - [Field Power Management](/topics/field-power-management.md): batteries, charging hubs, generators, and power stations on a mapping day.
+- [Drone Radio Links and Interference](/topics/drone-radio-links-and-interference.md): the C2 and video links, the 2.4 GHz band, interference near towers and lines, and lost-link failsafes.
 
 ## Remote Sensing Foundations
 
