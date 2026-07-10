@@ -38,6 +38,7 @@ Energized equipment adds hazards that mapping work never encounters. Operators m
 - [Thermal Imaging](/topics/thermal-imaging.md) for the sensing behind thermal inspection.
 - [Public Safety Drone Operations](/topics/public-safety-drone-operations.md) for the neighboring employment sector.
 - [Field Operations Best Practices](/topics/field-operations-best-practices.md) for the operational discipline inspection inherits.
+- [Drone Radio Links and Interference](/topics/drone-radio-links-and-interference.md) for what strong transmitters do to the aircraft's control link.
 
 ## Citations
 
