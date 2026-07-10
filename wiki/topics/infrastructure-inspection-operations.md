@@ -14,7 +14,7 @@ Thermal imaging extends inspection to defects invisible to the eye, and the unde
 
 Two CPUC general orders structure California utility inspection work. General Order 95 sets the rules for overhead electric line construction and maintenance, including the requirement that lines be inspected and kept in safe condition, with heightened requirements in designated fire-threat areas [1]. General Order 165 sets maximum inspection cycles for electric distribution facilities and defines the inspection types, patrol inspections (a simple visual check for obvious hazards), detailed inspections (careful examination of each piece of equipment with condition rating and recordkeeping), and intrusive wood pole inspections [2]. Patrols run at least annually in urban areas and at least every two years in rural areas, with annual patrols required in the highest fire-threat areas, and detailed overhead inspections run on a five year cycle at most [2]. Utilities must keep inspection records for at least ten years [2].
 
-Those mandated cycles, multiplied across millions of poles and structures, are what create sustained demand for inspection imagery. PG&E has used drones since the mid 2010s and now flies them at scale for distribution, transmission, and substation inspection, concentrating on high fire-threat districts, and has publicly described aerial inspection of hundreds of thousands of poles per year along with FAA approval for beyond visual line of sight operations [3] [4]. Contractors and service companies perform much of this flying and image review, which is where entry-level inspection employment tends to sit.
+Those mandated cycles, multiplied across millions of poles and structures, are what create sustained demand for inspection imagery. PG&E has used drones since the mid 2010s and now flies them at scale for distribution, transmission, and substation inspection, concentrating on high fire-threat districts, and has publicly described aerial inspection of hundreds of thousands of poles per year along with FAA approval for beyond visual line of sight operations [3] [4]. Contractors and service companies perform much of this flying and image review, which is where entry-level inspection employment tends to sit. How PG&E organizes, trains, and qualifies its pilots, and how a college course could align with that pipeline, is analyzed in [PG&E Drone Program and Training Pipeline](/analysis/pge-drone-program-and-training-pipeline.md).
 
 ## Cell towers
 
@@ -58,6 +58,7 @@ Energized equipment adds hazards that mapping work never encounters. Operators m
 
 ## Related
 
+- [PG&E Drone Program and Training Pipeline](/analysis/pge-drone-program-and-training-pipeline.md) for how the sector's largest California employer staffs and trains its pilots.
 - [Flying Near Energized Infrastructure](/topics/flying-near-energized-infrastructure.md) for the hazards and work rules around energized conductors, and the ATTI-mode flying bridges also demand.
 - [Thermal Imaging](/topics/thermal-imaging.md) for the sensing behind thermal inspection.
 - [Spot Size and Measurement Distance](/topics/spot-size-and-measurement-distance.md) for the flying height versus measurement validity tradeoff solar work depends on.

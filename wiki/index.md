@@ -111,6 +111,7 @@ The physics and sensor layer under professional drone work.
 ## Analyses
 
 - [Part 107 Coverage of the AERO 100 Outline](/analysis/part-107-coverage-of-aero-100.md): gap analysis between the test and the approved course outline.
+- [PG&E Drone Program and Training Pipeline](/analysis/pge-drone-program-and-training-pipeline.md): partnership intelligence on PG&E's pilot qualification ladder, the IBEW 1245 training model, and articulation precedent for the utility inspection course.
 
 ## Sources
 
