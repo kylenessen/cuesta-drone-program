@@ -105,13 +105,14 @@ The physics and sensor layer under professional drone work.
 
 ## Adjacent Applications
 
-- [Infrastructure Inspection Operations](/topics/infrastructure-inspection-operations.md): zoom and thermal inspection, California utility mandates, and reporting.
+- [Infrastructure Inspection Operations](/topics/infrastructure-inspection-operations.md): zoom and thermal inspection, California utility mandates, reporting, and the asset-specific craft of cell tower, wind turbine, bridge, and solar farm work.
 - [Flying Near Energized Infrastructure](/topics/flying-near-energized-infrastructure.md): compass interference, GPS multipath, minimum approach distances, wire strike, and utility safety culture.
 - [Public Safety Drone Operations](/topics/public-safety-drone-operations.md): SAR, fire support, DFR programs, and incident command.
 
 ## Analyses
 
 - [Part 107 Coverage of the AERO 100 Outline](/analysis/part-107-coverage-of-aero-100.md): gap analysis between the test and the approved course outline.
+- [PG&E Drone Program and Training Pipeline](/analysis/pge-drone-program-and-training-pipeline.md): partnership intelligence on PG&E's pilot qualification ladder, the IBEW 1245 training model, and articulation precedent for the utility inspection course.
 
 ## Sources
 
