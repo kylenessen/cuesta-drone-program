@@ -1,12 +1,3 @@
----
-type: Topic
-title: Camera Exposure
-description: How shutter speed, aperture, and ISO interact on a mapping drone, and how to set them so images stay sharp and clean.
-tags: [mapping, remote-sensing]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Camera Exposure
 
 **Camera Exposure** is the total amount of light a camera records in a single image, controlled by three settings. Shutter speed sets how long light falls on the sensor. Aperture sets how large the lens opening is. ISO sets how much the recorded signal is amplified afterward. Photographers call this the exposure triangle because changing one setting forces a tradeoff in the others. In drone mapping the triangle is not just an aesthetic concern. Bad exposure choices produce motion blur, noise, or soft images, and all three degrade the tie points that photogrammetry software depends on.

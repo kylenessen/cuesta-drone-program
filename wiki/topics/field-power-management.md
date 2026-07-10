@@ -1,12 +1,3 @@
----
-type: Topic
-title: Field Power Management
-description: How to power a multi-battery drone mapping day away from wall outlets, including battery estimation, charging hub cycling, and realistic wattage math for generators, power stations, and vehicle inverters.
-tags: [batteries, field-operations]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Field Power Management
 
 **Field Power Management** is the logistics problem behind every large mapping project. A single enterprise drone battery buys roughly half an hour of productive flight, and survey sites rarely come with wall outlets. Whether a crew finishes a big site in one day or three often comes down to arithmetic done the night before, deciding how many charged batteries to bring and how to keep them cycling through a charger while the aircraft flies. This article works the numbers using the DJI Matrice 4 series as the example platform.

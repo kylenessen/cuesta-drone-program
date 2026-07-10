@@ -1,12 +1,3 @@
----
-type: Regulation
-title: Remote Pilot Certificate
-description: The FAA certificate with small UAS rating required to act as remote pilot in command, including eligibility, application paths, and recency requirements.
-acs_area: regulations
-timestamp: 2026-07-02T17:00:00Z
-aliases: [Part 107 Certificate, Drone License]
----
-
 # Remote Pilot Certificate
 
 The **Remote Pilot Certificate** with a small UAS rating is the FAA airman certificate required to act as remote pilot in command under [Part 107](/regulations/part-107.md). It is the credential AERO 100 students are working toward, colloquially called a drone license, and it carries both initial requirements and an ongoing knowledge recency obligation that students should understand before they invest in the test.

@@ -1,12 +1,3 @@
----
-type: Topic
-title: Cameras for Drone Mapping
-description: What makes a camera good for photogrammetry, covering shutter type, sensor size, pixel pitch, focal length, and JPEG versus RAW, using the DJI Matrice 4E as the example.
-tags: [mapping, remote-sensing]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Cameras for Drone Mapping
 
 **Cameras for Drone Mapping** are judged by different criteria than cameras for photography. A mapping camera is a measurement instrument. Photogrammetry software reconstructs geometry from the precise positions of matched features across thousands of images, so anything that shifts pixels, blurs texture, or buries detail in noise translates directly into reconstruction error. The properties that matter most are shutter design, sensor size and pixel pitch, resolution, focal length, and capture format. The DJI Matrice 4E wide camera, a 4/3-inch 20 MP sensor with a mechanical shutter, is the working example throughout [1].

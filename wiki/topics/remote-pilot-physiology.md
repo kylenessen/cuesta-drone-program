@@ -1,12 +1,3 @@
----
-type: Topic
-title: Remote Pilot Physiology
-description: The physiological factors that degrade remote pilot performance, including alcohol and drugs, fatigue, stress, dehydration, vision, and night effects.
-acs_area: operations
-tags: [risk-management, night-operations]
-timestamp: 2026-07-02T17:00:00Z
----
-
 # Remote Pilot Physiology
 
 **Remote Pilot Physiology** covers the human body's failure modes as they affect drone operations: impairment from alcohol, drugs, and medication, degraded judgment from stress and fatigue, environmental stressors like heat and dehydration during field work, and the limits of human vision, especially at night. The remote pilot, visual observer, and anyone manipulating the controls are all safety-critical humans standing in the sun, so this material is field craft as much as test content. [1](/sources/remote-pilot-study-guide.md) [2](/sources/faa-s-acs-10b.md)

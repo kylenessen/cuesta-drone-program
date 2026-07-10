@@ -1,12 +1,3 @@
----
-type: Topic
-title: Structure from Motion
-description: How photogrammetry software converts overlapping drone photos into 3D data through feature matching, bundle adjustment, depth maps, and georeferencing.
-tags: [mapping]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Structure from Motion
 
 **Structure from Motion** (SfM) is the process that lets photogrammetry software recover 3D geometry from ordinary overlapping photographs. Given a set of images taken from different positions, SfM simultaneously solves for where each camera was, which way it pointed, and where thousands of matched points sit in 3D space. It is the mathematical core of every drone mapping product, from Agisoft Metashape to Pix4D to OpenDroneMap. Everything downstream, including dense point clouds, elevation models, and orthomosaics, inherits its quality from this first solve.

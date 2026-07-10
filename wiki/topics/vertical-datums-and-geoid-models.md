@@ -1,12 +1,3 @@
----
-type: Topic
-title: Vertical Datums and Geoid Models
-description: Ellipsoidal versus orthometric heights, GEOID18 and NAVD88 in current US practice, and why mishandled datums shift drone elevations by roughly 30 meters.
-tags: [mapping]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Vertical Datums and Geoid Models
 
 **Vertical Datums and Geoid Models** explain the single most common gross error in drone mapping, elevations that are off by around 30 meters even though the map looks perfect. GNSS measures height above a mathematical ellipsoid. Engineering, floodplain, and construction work uses height above a gravity-defined surface that approximates sea level. The two differ by tens of meters, the difference varies from place to place, and a geoid model is the bridge between them. A mapping professional who cannot state which height type a dataset uses cannot defend its elevations.

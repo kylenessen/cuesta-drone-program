@@ -1,12 +1,3 @@
----
-type: Topic
-title: Limits of Drone Mapping
-description: Where drone photogrammetry stops being the right tool, including vegetation, very large areas, accuracy ceilings, and regulatory constraints like visual line of sight.
-tags: [mapping]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Limits of Drone Mapping
 
 **Limits of Drone Mapping** matter as much as its capabilities. Drone photogrammetry occupies a specific niche, high resolution mapping of small to medium sites where the surfaces of interest are visible to a camera. Outside that niche it degrades or fails, and a professional's credibility rests on recognizing the boundary before the client does. The failure modes fall into a few families, what the imagery cannot distinguish, where the economics invert, where the physics of passive imaging give out, and what regulation permits.

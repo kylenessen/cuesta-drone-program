@@ -1,12 +1,3 @@
----
-type: Regulation
-title: Part 107 Operating Rules
-description: The Subpart B flight rules of Part 107, including remote PIC responsibility, visual line of sight, right of way, and the numeric operating limitations.
-acs_area: regulations
-tags: [night-operations]
-timestamp: 2026-07-02T17:00:00Z
----
-
 # Part 107 Operating Rules
 
 The **Part 107 Operating Rules** are the flight rules in Subpart B of [Part 107](/regulations/part-107.md) that govern every small UAS operation, from who is responsible for the flight to how high, how fast, and in what weather a drone may fly. They are the most heavily tested regulatory material on the [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md), and the ACS enumerates them item by item in its Operating Rules task. [1](/sources/faa-s-acs-10b.md)

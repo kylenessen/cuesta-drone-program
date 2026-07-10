@@ -1,13 +1,3 @@
----
-type: Topic
-title: Photogrammetry Software
-description: The current drone mapping software landscape, from Agisoft Metashape and Pix4D to DroneDeploy and OpenDroneMap, compared on control, cost, licensing, data ownership, and hardware needs.
-tags: [mapping]
-acs_area: general
-last_checked: 2026-07-09
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Photogrammetry Software
 
 **Photogrammetry Software** turns a folder of overlapping drone photos into point clouds, elevation models, and orthomosaics. The underlying math is broadly shared across products, so the real differences are workflow philosophy, cost structure, and where your data lives. The market splits into desktop packages that trade convenience for control, cloud platforms that trade control for convenience, and open source tools that trade polish for freedom.

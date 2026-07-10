@@ -1,12 +1,3 @@
----
-type: Topic
-title: Emergency Procedures
-description: Contingency planning and response for small UAS emergencies, including lithium battery fires, lost link, flyaways, and GPS degradation.
-acs_area: operations
-tags: [ batteries, risk-management ]
-timestamp: 2026-07-10T07:00:00Z
----
-
 # Emergency Procedures
 
 **Emergency Procedures** covers how a remote pilot plans for and responds to things going wrong: battery fires, loss of the control link, flyaways, GPS loss, and interference. The regulatory backstop is that in an in-flight emergency the remote pilot in command may deviate from any rule of Part 107 to the extent required to meet the emergency, reporting to the FAA afterward if requested. The teaching emphasis, and the ACS's, is that emergencies are handled well when they were briefed before takeoff, which connects this topic to [Aeronautical Decision-Making](/topics/aeronautical-decision-making.md). [1](/sources/faa-s-acs-10b.md) [2](/sources/ac-107-2a.md)

@@ -1,13 +1,3 @@
----
-type: Topic
-title: Thermal Imaging
-description: "Longwave infrared physics and the sensor layer of drone thermal work: microbolometers, radiometric data, sensitivity and resolution, environmental effects, and applications."
-tags:
-  - remote-sensing
-  - thermography
-acs_area: general
-timestamp: 2026-07-10T18:00:00Z
----
 # Thermal Imaging
 
 **Thermal Imaging** on drones means capturing longwave infrared (LWIR) radiation, roughly the 8 to 14 micrometer band, and converting it into an image of apparent surface temperature. Every object above absolute zero emits infrared radiation, and the amount emitted rises steeply with temperature. A thermal camera does not see heat directly. It sees radiated infrared energy, and everything about competent thermal work follows from understanding what can corrupt the link between that radiation and the true surface temperature.

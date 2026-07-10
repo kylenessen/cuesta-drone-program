@@ -1,12 +1,3 @@
----
-type: Topic
-title: Map Projections and Coordinate Systems
-description: Geographic versus projected coordinates, UTM and California State Plane, EPSG codes, and the survey foot pitfalls that break drone mapping deliverables.
-tags: [mapping]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Map Projections and Coordinate Systems
 
 **Map Projections and Coordinate Systems** determine what the numbers in a drone mapping deliverable actually mean. GNSS natively produces geographic coordinates, latitude and longitude on an ellipsoid, but orthomosaics, DEMs, and CAD linework need planar coordinates in linear units. Choosing the wrong system, or mixing two systems that look similar, produces offsets from centimeters to hundreds of meters that no amount of careful flying can repair. In practice a mapping professional needs fluency in a small vocabulary, UTM, State Plane, and EPSG codes, plus awareness of a few classic traps.

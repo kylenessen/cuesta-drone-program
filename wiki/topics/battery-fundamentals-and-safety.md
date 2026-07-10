@@ -1,12 +1,3 @@
----
-type: Topic
-title: Battery Fundamentals and Safety
-description: Lithium battery chemistry, electrical concepts, safe charging and storage practice, behavior under load, and air transport rules for drone operations.
-tags: [batteries, field-operations]
-acs_area: operations
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Battery Fundamentals and Safety
 
 **Battery Fundamentals and Safety** covers the single most hazardous component a drone pilot handles. Lithium polymer and lithium-ion batteries pack a large amount of energy into a small flammable package. When abused by overcharging, puncture, crash damage, or heat, a cell can enter thermal runaway, a self-sustaining chemical fire that is difficult to extinguish and can reignite after appearing to be out. Respecting that hazard, and understanding the electrical basics behind it, is foundational for both the intro and advanced courses.

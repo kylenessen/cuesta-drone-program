@@ -1,13 +1,3 @@
----
-type: Topic
-title: Drone Radio Links and Interference
-description: The command, telemetry, and video links that connect a drone to its pilot, the unlicensed bands they occupy, and how congestion, strong transmitters, and terrain degrade them.
-acs_area: operations
-tags:
-  - field-operations
-timestamp: 2026-07-09T21:00:00Z
-last_checked: 2026-07-09
----
 # Drone Radio Links and Interference
 
 **Drone Radio Links and Interference** covers the radio connections that keep a small uncrewed aircraft tethered to its pilot, meaning the command and control uplink and the telemetry and video downlink, and the ways those connections degrade and fail. These links live in shared unlicensed spectrum, mostly at 2.4 GHz, so every flight competes with Wi-Fi, Bluetooth, and whatever else the neighborhood is transmitting. The FAA tests frequency spectrum limitations as remote pilot knowledge [12], and for utility and tower inspection work the subject stops being background theory and becomes a daily operational constraint. The wavelength physics underneath these tradeoffs is introduced in [Electromagnetic Spectrum](/topics/electromagnetic-spectrum.md), and the aviation voice frequencies a remote pilot monitors are a separate subject covered in [Radio Communications](/topics/radio-communications.md).

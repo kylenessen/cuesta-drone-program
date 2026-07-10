@@ -1,12 +1,3 @@
----
-type: Topic
-title: Multispectral Field Practice
-description: The practical layer of multispectral drone work, calibration, band registration, sensor choices, and when multispectral genuinely beats RGB.
-tags: [remote-sensing]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Multispectral Field Practice
 
 **Multispectral Field Practice** covers the working layer of multispectral drone surveys, the calibration and workflow steps that separate a decorative NDVI map from a measurement. The theory, NDVI, the red edge, and why healthy vegetation reflects strongly in the near infrared, is covered in [Multispectral Imaging](/topics/multispectral-imaging.md). This page assumes that background and deals with what happens in the field and in processing. The program currently has no multispectral hardware, so this content is taught conceptually against the same radiometric reasoning students practice with RGB and thermal sensors.

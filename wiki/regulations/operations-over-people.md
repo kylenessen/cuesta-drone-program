@@ -1,13 +1,3 @@
----
-type: Regulation
-title: Operations Over People
-description: The Part 107 Subpart E category system that allows routine flight over people, from sub-250-gram Category 1 aircraft to type-certificated Category 4 aircraft.
-acs_area: regulations
-tags: [night-operations]
-timestamp: 2026-07-02T17:00:00Z
-aliases: [OOP, Flight Over People]
----
-
 # Operations Over People
 
 **Operations Over People** is the framework in [Part 107](/regulations/part-107.md) Subpart E, effective April 2021, that lets remote pilots fly over human beings without a waiver by using aircraft that meet one of four escalating eligibility categories. Before this rule, section 107.39 flatly prohibited flight over anyone not directly participating in the operation or under a covered structure or stationary vehicle; that prohibition still stands as the default, and the categories are the exceptions to it. The 2021 ACS revision added a full task on this material, so it is tested knowledge, not an advanced elective. [1](/sources/faa-s-acs-10b.md) [2](/sources/ac-107-2a.md)

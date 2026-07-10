@@ -1,12 +1,3 @@
----
-type: Topic
-title: Mapping Mission Planning
-description: How overlap, altitude, speed, terrain following, and battery endurance interact when planning a photogrammetry flight, and how to reason through the tradeoffs.
-tags: [mapping, field-operations]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Mapping Mission Planning
 
 **Mapping Mission Planning** is the process of translating a data requirement, usually a target ground sample distance and a coverage area, into a flyable automated route. The planner chooses overlap, altitude, speed, and flight line geometry so the camera collects images that a photogrammetry pipeline can reconstruct, within the limits of the aircraft's battery and the pilot's time on site. Every parameter interacts with the others, so good planning is less about memorizing settings and more about understanding the chain of constraints.

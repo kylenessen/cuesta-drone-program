@@ -1,12 +1,3 @@
----
-type: Regulation
-title: Part 107
-description: 14 CFR Part 107, the FAA's small UAS rule, which governs civil drone operations under 55 pounds and frames everything the knowledge test covers.
-acs_area: regulations
-timestamp: 2026-07-02T17:00:00Z
-aliases: [14 CFR Part 107, Small UAS Rule]
----
-
 # Part 107
 
 **Part 107** of Title 14 of the Code of Federal Regulations is the FAA's small unmanned aircraft systems rule, the primary regulation governing civil drone operations in the United States. It applies to the operation of small unmanned aircraft, meaning aircraft weighing less than 55 pounds at takeoff including everything on board or attached, and it created the [Remote Pilot Certificate](/regulations/remote-pilot-certificate.md) that authorizes commercial drone flight. [1](/sources/ac-107-2a.md)

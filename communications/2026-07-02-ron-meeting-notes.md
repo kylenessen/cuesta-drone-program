@@ -32,7 +32,7 @@ All outreach emails go out at once on Monday, July 6, right after the holiday. T
 
 Course content will be developed in this repo as a knowledge base: a wiki style knowledge graph of the topics I want to teach, with tags marking which courses each topic applies to so nothing gets duplicated. Student learning outcomes live in the wiki, associated with tags and linked to content. Course outline pages link directly to the topics they cover and could be built programmatically. This matches the design principle established earlier: content comes first, teaching materials attach to it, and lectures and labs are pulled from those. Build it once.
 
-One open problem is collaboration with reviewers who are not versed in GitHub or Markdown. A static page with expandable topics and email replies would be acceptable, but I would prefer inline comments that other reviewers can see. Overleaf did not work well for this. Open Knowledge deserves a second look.
+One open problem is collaboration with reviewers who are not versed in GitHub or Markdown. A static page with expandable topics and email replies would be acceptable, but I would prefer inline comments that other reviewers can see. Overleaf did not work well for this.
 
 ## Action Items
 

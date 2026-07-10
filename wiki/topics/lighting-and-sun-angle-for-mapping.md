@@ -1,12 +1,3 @@
----
-type: Topic
-title: Lighting and Sun Angle for Mapping
-description: How solar elevation, shadows, overcast skies, the BRDF hotspot, and sun glint affect drone mapping imagery, and how to plan flight windows around light.
-tags: [mapping, remote-sensing]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Lighting and Sun Angle for Mapping
 
 **Lighting and Sun Angle for Mapping** is the part of flight planning that no camera setting can substitute for. The sun's position controls shadow length, scene contrast, and several directional reflectance effects that print themselves into every image. Photogrammetry then multiplies the problem, because an orthomosaic is stitched from thousands of images taken over an hour or more, and any lighting artifact that shifts from image to image becomes a visible seam or a matching failure. Choosing when to fly is as consequential as choosing how high.

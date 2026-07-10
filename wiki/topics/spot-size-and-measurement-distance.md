@@ -1,13 +1,3 @@
----
-type: Topic
-title: Spot Size and Measurement Distance
-description: The pixel geometry that limits how far a thermal camera can measure, from IFOV and the 3 x 3 pixel rule to what flying height does to measurement validity.
-tags:
-  - remote-sensing
-  - thermography
-acs_area: general
-timestamp: 2026-07-10T18:00:00Z
----
 # Spot Size and Measurement Distance
 
 **Spot Size and Measurement Distance** describe the geometric limit on how far away a thermal camera can be and still measure a target's temperature. Detection has no such limit, since a hot spot can show contrast from far beyond measurement range, but a valid temperature requires enough pixels on the target. For drone thermography this is the link between flying height and whether the numbers in a report mean anything, and it is a standard unit in a Level 1 thermography course.

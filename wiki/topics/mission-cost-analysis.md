@@ -1,12 +1,3 @@
----
-type: Topic
-title: Mission Cost Analysis
-description: The real cost structure of drone mapping work, from travel and field time to processing, insurance, and equipment amortization, and how jobs get estimated and priced.
-tags: [mapping, field-operations]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Mission Cost Analysis
 
 **Mission Cost Analysis** is the discipline of understanding what a drone mapping job actually costs before quoting it. New operators tend to price the flight, because the flight is the visible part. In reality the airborne minutes are often the smallest line item. A realistic cost model counts every hour from the first client call to the delivered file, plus the fixed costs of staying in business, and it is the difference between a mapping operation that survives and one that quietly subsidizes its clients.

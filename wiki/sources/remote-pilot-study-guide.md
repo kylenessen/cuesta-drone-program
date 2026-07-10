@@ -1,12 +1,3 @@
----
-type: Source Document
-title: Remote Pilot Study Guide
-description: FAA-G-8082-22, the FAA's official study guide for the Part 107 knowledge test, covering all tested subject matter in teaching order.
-tags: []
-timestamp: 2026-07-02T17:00:00Z
-aliases: [FAA-G-8082-22]
----
-
 # Remote Pilot Study Guide
 
 The **Remote Pilot Study Guide** (FAA-G-8082-22) is the FAA's official study text for the [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md). Across 88 pages it works through the tested subject matter in roughly the order a course would teach it: regulations, airspace classification and operating requirements, weather sources and effects, loading and performance, and operations including radio procedures, airport operations, emergency procedures, aeronautical decision-making, physiology, and maintenance.

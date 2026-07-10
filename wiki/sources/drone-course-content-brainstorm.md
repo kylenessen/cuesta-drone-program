@@ -1,10 +1,3 @@
----
-type: Source Document
-title: Drone Course Content Brainstorm
-description: "July 2026 voice memo brainstorming advanced drone applications course content: sensors, light, imaging, NDVI, payloads, and platforms."
-timestamp: 2026-07-09T00:00:00Z
----
-
 # Drone Course Content Brainstorm
 
 **Drone Course Content Brainstorm** is a July 2026 voice memo in which the curriculum developer thought out loud about the subject matter an advanced drone applications course should cover, beyond the Part 107 exam material the wiki already holds. It ranges across defining drones and UAVs, how digital camera sensors work, RAW versus JPEG, bit depth, the electromagnetic spectrum, infrared and NDVI, drone payloads and sensor types, and where drones sit among other remote sensing platforms. It is a brainstorm, not a vetted reference, so it records intent and the developer's working understanding, including several points he explicitly flagged for later verification.

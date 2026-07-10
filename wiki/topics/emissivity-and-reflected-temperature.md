@@ -1,13 +1,3 @@
----
-type: Topic
-title: Emissivity and Reflected Temperature
-description: Why a thermal camera reading is only apparent temperature, and how emissivity, reflection, and compensation parameters separate a defensible measurement from a wrong one.
-tags:
-  - remote-sensing
-  - thermography
-acs_area: general
-timestamp: 2026-07-10T18:00:00Z
----
 # Emissivity and Reflected Temperature
 
 **Emissivity and Reflected Temperature** are the two surface properties standing between the infrared radiation a camera detects and the true temperature of the surface emitting it. They are the classic interpretation traps of thermography and the core of the measurement science a Level 1 thermography course teaches. Every temperature reported from the sensors described in [Thermal Imaging](/topics/thermal-imaging.md) passes through them, and misjudging either one produces readings that are confidently, sometimes absurdly, wrong.

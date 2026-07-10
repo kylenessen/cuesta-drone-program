@@ -1,12 +1,3 @@
----
-type: Topic
-title: Electromagnetic Spectrum
-description: Visible color as a narrow band of a continuous spectrum, the filters that select wavelengths, and the infrared and ultraviolet regions used in drone work.
-acs_area: general
-tags:
-  - remote-sensing
-timestamp: 2026-07-09T00:00:00Z
----
 # Electromagnetic Spectrum
 
 The **electromagnetic spectrum** is the continuous range of light across every wavelength, of which visible color occupies only a very narrow band. For advanced drone applications this matters because cameras can be built to see beyond what the human eye detects, and different wavelengths reveal different things about the world. A short tour of the spectrum pays off repeatedly across the course. [1]

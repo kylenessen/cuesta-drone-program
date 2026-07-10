@@ -1,12 +1,3 @@
----
-type: Source Document
-title: UAG Sample Questions
-description: FAA-published sample questions for the Unmanned Aircraft General knowledge test, showing question style and difficulty.
-tags: []
-timestamp: 2026-07-02T17:00:00Z
-aliases: [Part 107 Sample Questions]
----
-
 # UAG Sample Questions
 
 The **UAG Sample Questions** document is the FAA's published set of example questions for the Unmanned Aircraft General, Small (UAG) knowledge test, the test taken for initial Part 107 certification. It shows the multiple-choice format, the phrasing style, the use of testing-supplement figures (sectional chart excerpts and airport diagrams), and the level of difficulty applicants face on the [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md).

@@ -1,14 +1,3 @@
----
-type: Regulation
-title: Certificate of Waiver
-description: The Part 107 Subpart D mechanism for deviating from specific operating rules when an applicant demonstrates the operation can be conducted safely.
-acs_area: regulations
-timestamp: 2026-07-02T17:00:00Z
-last_checked: 2026-07-03
-aliases:
-  - Part 107 Waiver
-  - CoW
----
 # Certificate of Waiver
 
 A **Certificate of Waiver** (CoW) is the FAA authorization, established in Subpart D of [Part 107](/regulations/part-107.md), that permits a small UAS operation to deviate from specific operating rules when the Administrator finds the proposed operation can be conducted safely under the certificate's terms. The certificate is narrow by design. It lets the holder deviate only from the rules and only under the conditions named in the certificate. [3](/sources/govinfo-14-cfr-107-200.md)

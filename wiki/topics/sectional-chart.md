@@ -1,13 +1,3 @@
----
-type: Topic
-title: Sectional Chart
-description: The VFR aeronautical chart remote pilots use to identify airspace, airports, obstacles, and coordinates, and the chart-reading skills the knowledge test demands.
-acs_area: airspace
-tags: [charts]
-timestamp: 2026-07-02T17:00:00Z
-aliases: [Sectional Aeronautical Chart, VFR Sectional]
----
-
 # Sectional Chart
 
 A **Sectional Chart** is the standard VFR aeronautical chart, drawn at 1:500,000 scale, that depicts airspace, airports, navigation aids, obstacles, and terrain. It is the remote pilot's primary tool for answering the question the FAA cares most about: what airspace am I in, and what does it require? A large share of [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md) airspace questions present a sectional excerpt from the testing supplement and ask the applicant to interpret it, so chart reading deserves dedicated practice time in class rather than a single lecture pass. [1](/sources/remote-pilot-study-guide.md) [2](/sources/uag-sample-questions.md)

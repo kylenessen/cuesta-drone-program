@@ -1,12 +1,3 @@
----
-type: Topic
-title: Field Operations Best Practices
-description: The accumulated craft of running drone mapping missions well, from checklist discipline and weather judgment to airspace awareness and in-field image quality checks.
-tags: [field-operations, risk-management]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Field Operations Best Practices
 
 **Field Operations Best Practices** is the working knowledge that separates a smooth mapping day from a lost dataset or a damaged aircraft. Flight planning software makes it easy to believe that a mission flies itself. It does not. The pilot's judgment before launch, attention during flight, and discipline after landing determine whether the data is usable and the equipment comes home intact. This article collects the habits that professional mapping crews rely on, with specifics drawn from the DJI Matrice 4 series aircraft used in this program.

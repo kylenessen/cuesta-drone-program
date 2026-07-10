@@ -1,13 +1,3 @@
----
-type: Regulation
-title: Drone Registration
-description: The Part 48 requirement to register small unmanned aircraft before flight, including fees, validity, marking, and the recreational exemption threshold.
-acs_area: regulations
-timestamp: 2026-07-02T17:00:00Z
-last_checked: 2026-07-02
-aliases: [Part 48 Registration, FAADroneZone Registration]
----
-
 # Drone Registration
 
 **Drone Registration** is the requirement that a small unmanned aircraft be registered with the FAA before it operates under [Part 107](/regulations/part-107.md). Part 48 provides the streamlined online option through the FAADroneZone portal for aircraft operated only within the United States, and Part 47 remains available as the paper process used for manned aircraft. Registration is aircraft-side compliance, parallel to the pilot-side [Remote Pilot Certificate](/regulations/remote-pilot-certificate.md), and the knowledge test expects students to know who must register, how, and what the recreational exemption does and does not cover. [1](/sources/ac-107-2a.md) [2](/sources/faa-s-acs-10b.md)

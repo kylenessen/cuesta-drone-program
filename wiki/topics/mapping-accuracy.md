@@ -1,12 +1,3 @@
----
-type: Topic
-title: Mapping Accuracy
-description: How drone map accuracy is defined, measured with RMSE against independent checkpoints, and reported under the ASPRS Edition 2 standards.
-tags: [mapping]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Mapping Accuracy
 
 **Mapping Accuracy** is the discipline of stating, measuring, and defending how close a drone-derived map is to the truth. Accuracy claims carry professional and legal weight. A contractor grades to the surface, an engineer designs to the contour, and an insurer relies on the measurement. The industry framework for making these claims is the ASPRS Positional Accuracy Standards for Digital Geospatial Data, and the working currency is root mean square error computed against independent checkpoints.

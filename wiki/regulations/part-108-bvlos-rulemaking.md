@@ -1,14 +1,3 @@
----
-type: Regulation
-title: Part 108 BVLOS Rulemaking
-description: The FAA's pending rule to normalize beyond visual line of sight drone operations, which would reshape the waiver-based system Part 107 students learn today.
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
-last_checked: 2026-07-09
-status: needs-review
-aliases: [Part 108, BVLOS Rule]
----
-
 # Part 108 BVLOS Rulemaking
 
 The **Part 108 BVLOS Rulemaking** is the FAA's in-progress effort to normalize beyond visual line of sight (BVLOS) drone operations, published as a notice of proposed rulemaking titled Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations on August 7, 2025. Today, flying beyond visual line of sight requires waiving section 107.31 through a [Certificate of Waiver](/regulations/certificate-of-waiver.md); Part 108 would replace that per-operation waiver system with a standing regulatory framework. For curriculum planning it is the largest regulatory change on the horizon, though as of July 2026 it remains a proposal, and course content should continue to teach the visual line of sight rule as law. [1](https://www.federalregister.gov/documents/2026/01/28/2026-01644/normalizing-unmanned-aircraft-systems-beyond-visual-line-of-sight-operations-reopening-of-comment) [2](https://www.faa.gov/newsroom/BVLOS_NPRM_website_version.pdf)

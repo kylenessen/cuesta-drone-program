@@ -1,12 +1,3 @@
----
-type: Regulation
-title: Remote Identification
-description: The Part 89 requirement that drones broadcast identification and location in flight, with three compliance paths including FRIAs.
-acs_area: regulations
-timestamp: 2026-07-02T17:00:00Z
-aliases: [Remote ID, RID, Part 89]
----
-
 # Remote Identification
 
 **Remote Identification** (Remote ID) is the requirement, codified in 14 CFR Part 89, that a drone in flight broadcast identification and location information receivable by other parties, functioning as a digital license plate. It lets the FAA and law enforcement locate the control station of a drone flying unsafely or where it is not allowed. Since September 16, 2023, most drones that are registered or required to be registered must comply, whether flown under [Part 107](/regulations/part-107.md), recreationally, or by public safety agencies. The 2021 ACS revision added a Remote ID task, so the compliance paths and broadcast rules are tested material. [1](/sources/faa-s-acs-10b.md) [2](/sources/ac-107-2a.md) [3](https://www.faa.gov/uas/getting_started/remote_id)

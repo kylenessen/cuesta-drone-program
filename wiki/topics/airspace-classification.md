@@ -1,12 +1,3 @@
----
-type: Topic
-title: Airspace Classification
-description: The classes of controlled and uncontrolled airspace, special use airspace, and other designated areas a remote pilot must recognize and respect.
-acs_area: airspace
-tags: [charts]
-timestamp: 2026-07-02T17:00:00Z
----
-
 # Airspace Classification
 
 **Airspace Classification** is the system that divides the National Airspace System into classes with different rules, services, and entry requirements. For a remote pilot the operative distinction is controlled versus uncontrolled: operations in Class B, C, or D airspace, or in Class E airspace designated for an airport, require prior authorization under section 107.41, while Class G requires none. Airspace is the second-largest content area on the [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md), usually tested through [Sectional Chart](/topics/sectional-chart.md) excerpts that the student must interpret. [1](/sources/remote-pilot-study-guide.md) [2](/sources/faa-s-acs-10b.md)

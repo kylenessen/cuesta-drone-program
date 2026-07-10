@@ -1,12 +1,3 @@
----
-type: Topic
-title: Orthomosaics
-description: What an orthomosaic is, how orthorectification works, common generation artifacts, true ortho versus conventional ortho, and why GNSS-only georeferencing can be meters off.
-tags: [mapping]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Orthomosaics
 
 An **orthomosaic** is a single seamless image assembled from many overlapping drone photos, corrected so that it has a uniform scale and can be measured like a map. It is the most requested deliverable in drone mapping. Unlike a simple stitched panorama, an orthomosaic is built on top of a full 3D reconstruction, which is what removes perspective distortion and preserves true distances [1].

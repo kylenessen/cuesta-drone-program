@@ -1,12 +1,3 @@
----
-type: Exam
-title: Part 107 Knowledge Test
-description: The FAA Unmanned Aircraft General (UAG) knowledge test required for initial remote pilot certification, including its format, content areas, and logistics.
-acs_area: general
-timestamp: 2026-07-02T17:00:00Z
-aliases: [UAG Test, Unmanned Aircraft General - Small, Remote Pilot Knowledge Test]
----
-
 # Part 107 Knowledge Test
 
 The **Part 107 Knowledge Test**, formally the Unmanned Aircraft General, Small (UAG) certification knowledge test, is the FAA exam a person must pass to earn a [Remote Pilot Certificate](/regulations/remote-pilot-certificate.md) with a small UAS rating. It is a proctored, computer-based, multiple-choice test administered at PSI testing centers. Passing it is the single gate between a new student and commercial drone privileges, which makes it the organizing target for AERO 100's aeronautical knowledge content.

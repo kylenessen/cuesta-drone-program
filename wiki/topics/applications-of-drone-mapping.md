@@ -1,12 +1,3 @@
----
-type: Topic
-title: Applications of Drone Mapping
-description: A product-and-buyer view of drone mapping deliverables, from GIS base maps to stockpile volumes, and what clients actually do with each.
-tags: [mapping]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Applications of Drone Mapping
 
 **Applications of Drone Mapping** are best understood by starting with the buyer, not the drone. Every mapping job produces some combination of a small set of core products, usually an orthomosaic, an elevation model, a point cloud, or vectors digitized from those. What separates one application from another is who buys the product and what decision it feeds. A professional mapper who can name the deliverable and the decision behind it will scope, price, and fly a job far better than one who thinks in terms of hardware.

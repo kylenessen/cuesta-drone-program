@@ -1,12 +1,3 @@
----
-type: Topic
-title: GNSS Fundamentals
-description: How satellite positioning works, where its errors come from, and why standalone drone GNSS produces meter-level absolute error in maps.
-tags: [mapping]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # GNSS Fundamentals
 
 **GNSS Fundamentals** covers how satellite-based positioning actually works and, more importantly for mapping, where its errors come from. Every drone map inherits its absolute position from GNSS one way or another, either through the drone's own receiver or through ground control measured with survey equipment. Understanding the difference between a consumer-grade position and a survey-grade one explains most of the accuracy conversation in professional drone mapping.

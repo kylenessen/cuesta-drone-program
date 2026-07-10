@@ -1,12 +1,3 @@
----
-type: Topic
-title: Maintenance and Inspection
-description: The maintenance, preflight inspection, and recordkeeping practices Part 107 expects, from manufacturer schedules to battery care.
-acs_area: operations
-tags: [batteries, night-operations]
-timestamp: 2026-07-02T17:00:00Z
----
-
 # Maintenance and Inspection
 
 **Maintenance and Inspection** covers how a remote pilot keeps a small UAS in a condition for safe operation, which is the actual regulatory standard: Part 107 prescribes no inspection program and no certificated mechanic, but section 107.15 requires the aircraft to be in a condition for safe operation and section 107.49 requires a preflight check before every flight. The FAA's guidance fills the gap with manufacturer instructions and recordkeeping practice, and the ACS tests it as the final Operations task. This material corresponds one-to-one with the maintenance unit required in the AERO 100 outline. [1](/sources/ac-107-2a.md) [2](/sources/faa-s-acs-10b.md)

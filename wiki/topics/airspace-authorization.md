@@ -1,13 +1,3 @@
----
-type: Topic
-title: Airspace Authorization
-description: How remote pilots obtain permission to fly in controlled airspace, primarily through LAANC and the FAA DroneZone, with the working detail behind grid ceilings, further coordination, and night authorizations.
-acs_area: airspace
-timestamp: 2026-07-09T18:00:00Z
-last_checked: 2026-07-09
-aliases: [LAANC]
----
-
 # Airspace Authorization
 
 **Airspace Authorization** is the prior permission section 107.41 requires before a small UAS operates in Class B, C, or D airspace or in Class E airspace designated for an airport. In practice nearly all authorizations flow through LAANC, the Low Altitude Authorization and Notification Capability, an automated data exchange between the FAA and approved private service providers that grants access in near real time. LAANC checks a request against UAS Facility Maps, special use airspace, TFRs, and NOTAMs, and is available at 726 airports as of the FAA's current count. Students should leave the course knowing not just the rule but the workflow, because requesting LAANC authorization is a routine preflight task in commercial work. [1](https://www.faa.gov/uas/getting_started/laanc) [2](/sources/ac-107-2a.md)

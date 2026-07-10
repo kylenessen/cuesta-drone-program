@@ -1,13 +1,3 @@
----
-type: Topic
-title: NDAA Compliance and Blue UAS
-description: What NDAA compliance and the Blue UAS Cleared List mean for drone procurement, who is bound by the rules, and which platforms currently qualify.
-tags: [field-operations]
-acs_area: general
-last_checked: 2026-07-09
-timestamp: 2026-07-09T18:00:00Z
----
-
 # NDAA Compliance and Blue UAS
 
 **NDAA Compliance and Blue UAS** are the two terms that come up whenever government money touches a drone project. They are related but not interchangeable. NDAA compliance is a supply chain standard rooted in federal statute. Blue UAS is a Department of Defense vetting program that goes further. Both exist because Congress and the Pentagon decided that drones made in China, above all DJI aircraft, pose an unacceptable data security risk for government work. For anyone flying on federally funded contracts, these rules now decide what aircraft can be on the truck.

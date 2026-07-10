@@ -1,13 +1,3 @@
----
-type: Source Document
-title: 14 CFR 107.205
-description: GovInfo PDF preservation of the Part 107 list of regulations subject to waiver.
-timestamp: 2026-07-03T00:00:00Z
-last_checked: 2026-07-03
-source_url: https://www.govinfo.gov/link/cfr/14/107?link-type=pdf&sectionnum=205&year=mostrecent
-source_path: ./govinfo-14-cfr-107-205.pdf
-sha256: 07b6ff7ff788d90febf7a7bcf0c0a87626aa0fdec6b60f7b4ac05e685d275d0c
----
 # 14 CFR 107.205
 
 **14 CFR 107.205** is the Part 107 list of regulations subject to waiver. It names the specific operating rules that can be waived under section 107.200 and identifies nonwaivable limits within the moving-vehicle and visual-line-of-sight provisions for compensation-based property carriage.

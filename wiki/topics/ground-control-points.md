@@ -1,12 +1,3 @@
----
-type: Topic
-title: Ground Control Points
-description: What GCPs do for photogrammetric accuracy, how to design a control network, survey targets with an RTK rover, and export them for processing.
-tags: [mapping, field-operations]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Ground Control Points
 
 **Ground Control Points** are surveyed marks on the ground, visible in the imagery, whose known coordinates anchor a photogrammetric model to the real world. Structure from motion produces a reconstruction that is internally consistent but only as absolutely accurate as the positions constraining it. GCPs supply that constraint at survey grade. Even in an era of RTK drones, GCPs remain central, both as control when geotag quality is in doubt and as the independent evidence that a map meets its accuracy claim.

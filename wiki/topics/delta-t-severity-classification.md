@@ -1,13 +1,3 @@
----
-type: Topic
-title: Delta-T Severity Classification
-description: Reporting thermal findings as temperature rise over a reference, the NETA-style severity tiers, and the load, wind, and irradiance conditions that make a classification defensible.
-tags:
-  - remote-sensing
-  - thermography
-acs_area: general
-timestamp: 2026-07-10T18:00:00Z
----
 # Delta-T Severity Classification
 
 **Delta-T Severity Classification** is the interpretation discipline of quantitative thermography. A thermal finding on electrical equipment is reported as a delta-T, the temperature rise of the anomaly above a defined reference, and graded into severity tiers that drive repair priority. It is where the measurement science of [Emissivity and Reflected Temperature](/topics/emissivity-and-reflected-temperature.md) and [Spot Size and Measurement Distance](/topics/spot-size-and-measurement-distance.md) pays off, and it is the skill that separates a certified inspection report from a picture of a hot spot.

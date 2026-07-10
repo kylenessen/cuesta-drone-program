@@ -1,12 +1,3 @@
----
-type: Topic
-title: Elevation Models
-description: DSM versus DTM, ground classification, contour generation, volumetric analysis, raster resolution relative to GSD, and standard deliverable formats.
-tags: [mapping]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Elevation Models
 
 **Elevation Models** are the raster surfaces derived from a photogrammetric point cloud, and they carry most of the analytical value in a drone mapping project. The orthomosaic answers what is there. The elevation model answers how high, how steep, and how much. Contours, cut and fill, stockpile volumes, drainage analysis, and design surface comparisons all run on elevation rasters, so knowing which surface you are looking at and how it was made is not optional.

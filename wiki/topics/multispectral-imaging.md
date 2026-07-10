@@ -1,12 +1,3 @@
----
-type: Topic
-title: Multispectral Imaging
-description: Measuring reflected light in specific bands to derive vegetation and surface properties, centered on NDVI, the red edge, and analytic image stretching.
-acs_area: general
-tags:
-  - remote-sensing
-timestamp: 2026-07-09T00:00:00Z
----
 # Multispectral Imaging
 
 **Multispectral imaging** measures reflected light in specific wavelength bands, including bands outside visible color, to reveal properties of the land that an ordinary photograph cannot show. Its best known product in drone work is NDVI, a measure of how photosynthetically active vegetation is, and it anchors an entire branch of agricultural drone applications. [1]

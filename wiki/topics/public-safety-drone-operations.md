@@ -1,12 +1,3 @@
----
-type: Topic
-title: Public Safety Drone Operations
-description: How fire, law enforcement, and search and rescue teams use drones, and the regulatory frames that govern public safety flying.
-tags: [remote-sensing, field-operations]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Public Safety Drone Operations
 
 **Public Safety Drone Operations** cover the use of drones by fire departments, law enforcement, emergency management, and search and rescue (SAR) teams. It is one of the fastest growing employment paths for trained pilots, and it leans heavily on the same thermal and zoom payloads used in inspection work. A Matrice 4T class aircraft, with a radiometric thermal camera and high optical zoom, is representative of what these agencies actually fly.

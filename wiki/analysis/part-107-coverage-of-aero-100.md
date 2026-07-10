@@ -1,12 +1,3 @@
----
-type: Analysis Report
-title: Part 107 Coverage of the AERO 100 Outline
-description: Gap analysis mapping the FAA Part 107 knowledge test content areas onto the approved AERO 100 course outline, with recommendations for course development.
-acs_area: general
-certainty: mixed
-timestamp: 2026-07-02T17:00:00Z
----
-
 # Part 107 Coverage of the AERO 100 Outline
 
 **Part 107 Coverage of the AERO 100 Outline** asks whether the approved AERO 100 course outline covers everything the [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md) requires, and where course development should add emphasis. The short answer: the outline's nine content areas map cleanly onto the five ACS test areas with no missing subject, but the 2021 regulatory additions (Remote ID, operations over people, and the night rules) are not called out explicitly, and the test's weighting suggests where lecture hours should concentrate.

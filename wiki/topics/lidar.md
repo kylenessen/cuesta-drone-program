@@ -1,12 +1,3 @@
----
-type: Topic
-title: Lidar
-description: How drone lidar works, how it differs from photogrammetry, and when photogrammetry's limitations genuinely require it.
-tags: [remote-sensing, mapping]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Lidar
 
 **Lidar** (light detection and ranging) is an active remote sensing method. The sensor fires laser pulses at the ground, times how long each pulse takes to reflect back, and converts that time to a distance. Combined with a precise record of where the sensor was and which way it was pointing at every instant, each range becomes a 3D point, and millions of them together form a point cloud. This article covers lidar conceptually. The program has no lidar hardware, so students work with photogrammetric point clouds hands-on and learn lidar as the technology they will encounter alongside it in industry.

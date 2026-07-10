@@ -1,11 +1,3 @@
----
-type: Topic
-title: Radio Communications
-description: The frequencies, services, and phraseology remote pilots monitor to track manned aircraft, including CTAF, UNICOM, ATIS, and the phonetic alphabet.
-acs_area: operations
-timestamp: 2026-07-10T07:00:00Z
----
-
 # Radio Communications
 
 **Radio Communications** for a remote pilot is a listening skill: Part 107 does not require radio use, but monitoring the frequencies manned pilots use is the most effective way to know where traffic is before it becomes visible. The ACS makes radio procedures its first Operations task, testing the Common Traffic Advisory Frequency, UNICOM, ATIS, call signs, the phonetic alphabet, and standard phraseology, all so the remote pilot can decode what they hear. [1](/sources/faa-s-acs-10b.md) [2](/sources/remote-pilot-study-guide.md)

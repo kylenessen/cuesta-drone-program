@@ -1,13 +1,3 @@
----
-type: Topic
-title: Aeronautical Decision-Making
-description: The systematic approach to risk and decision-making the FAA expects of remote pilots, including hazardous attitudes, CRM, and risk assessment.
-acs_area: operations
-tags: [risk-management]
-timestamp: 2026-07-02T17:00:00Z
-aliases: [ADM]
----
-
 # Aeronautical Decision-Making
 
 **Aeronautical Decision-Making** (ADM) is the FAA's term for a systematic approach to consistently determining the best course of action for a flight's circumstances, and it is the conceptual heart of the human factors material on the [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md). The premise, carried over from decades of manned aviation accident analysis, is that most accidents trace to human decision chains rather than mechanical failure, so the FAA tests the pilot's ability to recognize hazards, assess risk, and manage the humans in the operation. This maps to the required Human Factors unit in the AERO 100 outline. [1](/sources/remote-pilot-study-guide.md) [2](/sources/faa-s-acs-10b.md)

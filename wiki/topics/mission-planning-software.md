@@ -1,13 +1,3 @@
----
-type: Topic
-title: Mission Planning Software
-description: A survey of drone mapping mission planning tools, anchored on UgCS, with DJI Pilot 2, Map Pilot Pro, DroneDeploy, FlightHub 2, Drone Harmony, open source options, and criteria for choosing among them.
-tags: [mapping]
-acs_area: general
-last_checked: 2026-07-09
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Mission Planning Software
 
 **Mission Planning Software** turns a mapping requirement into an executable flight plan. The planner draws an area or corridor, sets GSD or altitude, overlap, and speed, and the software generates flight lines, camera triggers, and terrain aware altitudes, then uploads the route to the aircraft. Tools differ widely in terrain following quality, camera control, supported aircraft, and cost, and those differences matter more in complex coastal topography than in flat country. This article surveys the main options relevant to the program, anchored on UgCS, which is the instructor's preferred planner.

@@ -1,12 +1,3 @@
----
-type: Topic
-title: Infrastructure Inspection Operations
-description: Drone inspection as an employment sector, including high-zoom and thermal technique, California utility inspection mandates, and safety near energized equipment.
-tags: [ remote-sensing, field-operations ]
-acs_area: general
-timestamp: 2026-07-10T07:00:00Z
----
-
 # Infrastructure Inspection Operations
 
 **Infrastructure Inspection Operations** are the largest steady employment sector adjacent to drone mapping. Where mapping produces measurable geospatial products, inspection produces evidence about asset condition, photographs and thermal data tied to specific equipment, reviewed for defects, and fed into maintenance programs. In California the sector is anchored by utility work, driven by regulatory inspection mandates and wildfire risk, and Pacific Gas and Electric (PG&E) runs one of the largest utility drone inspection programs in the country. For a mapping-trained pilot, inspection is a natural second skill set with a distinct technique and reporting discipline.

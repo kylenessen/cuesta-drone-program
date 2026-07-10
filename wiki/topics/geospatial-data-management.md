@@ -1,12 +1,3 @@
----
-type: Topic
-title: Geospatial Data Management
-description: Professional practices for organizing, archiving, and delivering drone mapping data, from folder structures and flight logs to cloud optimized GeoTIFFs and client delivery packages.
-tags: [mapping]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Geospatial Data Management
 
 **Geospatial Data Management** is the unglamorous half of drone mapping. Flying the mission produces data. Everything after that, organizing it, archiving it, and getting it into a client's hands in a form they can actually use, is what makes the work professional. A mapping operation that cannot find last year's raw imagery, or that delivers a 40 gigabyte orthomosaic the client cannot open, has failed at the part of the job the client is paying for. The habits below are conventions, not regulations, but they are the conventions that separate durable operations from piles of SD cards.

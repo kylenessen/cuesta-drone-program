@@ -1,12 +1,3 @@
----
-type: Topic
-title: Change Detection and Repeat Mapping
-description: How to design repeat drone mapping programs so that maps from different dates can be compared honestly, covering ground control reuse, co-registration, seasonal effects, and elevation differencing pitfalls.
-tags: [mapping]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Change Detection and Repeat Mapping
 
 **Change Detection and Repeat Mapping** is the practice of flying the same site on multiple dates and comparing the results. It sounds like ordinary mapping done twice, but it is harder than that. A single map only has to be internally consistent and roughly in the right place. A pair of maps used for change detection must agree with each other well enough that the differences between them reflect the site, not the survey. Monitoring programs, from construction earthwork tracking to estuary restoration, live or die on this distinction.

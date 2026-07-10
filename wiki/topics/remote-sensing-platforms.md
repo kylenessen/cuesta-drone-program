@@ -1,12 +1,3 @@
----
-type: Topic
-title: Remote Sensing Platforms
-description: The continuum of platforms that lift sensors aloft, from kites to satellites, and the tradeoff between resolution, coverage, and repeated observation.
-acs_area: general
-tags:
-  - remote-sensing
-timestamp: 2026-07-09T00:00:00Z
----
 # Remote Sensing Platforms
 
 A **remote sensing platform** is anything that lifts a sensor into the sky to make measurements, and a drone is only one option among many. Helicopters, airplanes, satellites, weather balloons, and kites all serve the same basic purpose, and each carries its own tradeoffs. Placing drones in this continuum helps students choose the right tool for a given job rather than assuming a drone is always the answer. [1]

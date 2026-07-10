@@ -1,12 +1,3 @@
----
-type: Topic
-title: Weather Effects on Performance
-description: How density altitude, wind, stability, fronts, thunderstorms, fog, and icing affect small unmanned aircraft performance and flight decisions.
-acs_area: weather
-tags: [risk-management]
-timestamp: 2026-07-02T17:00:00Z
----
-
 # Weather Effects on Performance
 
 **Weather Effects on Performance** covers how the atmosphere changes what a small unmanned aircraft can do, from thinner air stealing thrust on a hot afternoon to a gust front arriving ahead of a thunderstorm. The ACS tests this as a single dense task listing density altitude, wind and currents, stability, fronts, thunderstorms and microbursts, tornadoes, icing, hail, fog, ceiling and visibility, and lightning. For drones the emphasis differs from manned aviation: battery aircraft rarely fly far enough to cross a front, but they are acutely sensitive to wind, density altitude, and precipitation. [1](/sources/faa-s-acs-10b.md) [2](/sources/remote-pilot-study-guide.md)

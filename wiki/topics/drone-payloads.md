@@ -1,12 +1,3 @@
----
-type: Topic
-title: Drone Payloads
-description: The equipment professional drones carry, from cameras to LiDAR, sorted by the passive-versus-active sensor distinction, plus environmental and non-sensing payloads.
-acs_area: general
-tags:
-  - remote-sensing
-timestamp: 2026-07-09T00:00:00Z
----
 # Drone Payloads
 
 A **drone payload** is the equipment a professional drone carries to do useful work, as distinct from the airframe that flies it. Far and away the most common payload is a camera, but the value of thinking in payloads is that it opens the door to every other kind of sensor a drone can lift. The airframe-and-payload distinction is introduced in [Uncrewed Aircraft](/topics/uncrewed-aircraft.md). [1]

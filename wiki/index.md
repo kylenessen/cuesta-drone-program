@@ -46,7 +46,7 @@ Operational craft serving both courses.
 
 ## Remote Sensing Foundations
 
-The physics and sensor layer under professional drone work. These carry `acs_area: general`.
+The physics and sensor layer under professional drone work.
 
 - [Uncrewed Aircraft](/topics/uncrewed-aircraft.md): what a drone is, the UAV and UAS terminology, and the airframe-and-payload framing.
 - [Digital Imaging](/topics/digital-imaging.md): how sensors turn light into numbers, color and demosaicing, RAW versus JPEG, and bit depth.

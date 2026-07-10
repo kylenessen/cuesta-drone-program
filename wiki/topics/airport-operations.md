@@ -1,12 +1,3 @@
----
-type: Topic
-title: Airport Operations
-description: Airport types, traffic patterns, runway markings, data sources, and the situational awareness a remote pilot needs when operating near airports.
-acs_area: operations
-tags: [charts]
-timestamp: 2026-07-02T17:00:00Z
----
-
 # Airport Operations
 
 **Airport Operations** covers what a remote pilot must understand about airports to operate safely in their vicinity: the types of airports, how manned traffic flows around them, what the markings and signage mean, and where airport data lives. Drones under Part 107 may operate near airports (in Class G, no authorization is needed even close to a nontowered field), so the FAA's emphasis is awareness and yielding rather than avoidance, and the [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md) tests this material heavily within its largest content area. [1](/sources/faa-s-acs-10b.md) [2](/sources/remote-pilot-study-guide.md)

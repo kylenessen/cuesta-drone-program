@@ -1,11 +1,3 @@
----
-type: Source Document
-title: AERO 100 Course Outline
-description: Approved topical outline and student learning outcomes for Cuesta's AERO 100 Basic UAV Operator course, the course this wiki's Part 107 content feeds.
-tags: []
-timestamp: 2026-07-02T17:00:00Z
----
-
 # AERO 100 Course Outline
 
 The **AERO 100 Course Outline** records the approved topical outline and student learning outcomes for AERO 100, Basic UAV Operator, Cuesta College's foundational drone course. Its first student learning outcome requires students to demonstrate mastery of FAA Part 107 knowledge topics by passing a written exam with a minimum 80 percent score, which is stricter than the FAA's own 70 percent passing standard. The approved outline lists nine content areas: maintenance and preflight inspection procedures, UAV flight operations, emergency procedures, human factors, aircraft performance, aviation weather, airport and off-airport operations, airspace and navigation, and regulations and references.

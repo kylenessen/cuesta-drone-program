@@ -1,13 +1,3 @@
----
-type: Topic
-title: Flight Proficiency and Practice Exercises
-description: The NIST Standard Test Methods for Small UAS, including the Open Test Lane and its scoring, plus practice progressions that build the stick skills the tests measure.
-tags: [field-operations]
-acs_area: general
-status: needs-review
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Flight Proficiency and Practice Exercises
 
 **Flight Proficiency and Practice Exercises** covers the standard way to measure small drone pilot skill and the drills that build it. The FAA Part 107 certificate tests aeronautical knowledge, not flying ability. The de facto standard for measuring the flying itself is the set of test methods developed at NIST, which reduce piloting to repeatable, scored tasks. AERO 100 uses these tests as its capstone, requiring completion of the NIST Level 2 open test lane within 25 minutes, so understanding what the tests measure and how to train for them matters for both instruction and assessment.

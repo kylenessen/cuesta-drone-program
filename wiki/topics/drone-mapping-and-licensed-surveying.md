@@ -1,14 +1,3 @@
----
-type: Topic
-title: Drone Mapping and Licensed Surveying
-description: The legal boundary between drone mapping deliverables and the licensed practice of land surveying, with California specifics under the Professional Land Surveyors' Act.
-tags: [mapping]
-acs_area: general
-certainty: mixed
-last_checked: 2026-07-09
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Drone Mapping and Licensed Surveying
 
 **Drone Mapping and Licensed Surveying** overlap in tools and outputs but are legally distinct activities, and the distinction carries real enforcement risk. Land surveying is a licensed profession regulated state by state. A Part 107 certificate authorizes flying for compensation. It says nothing about what services the resulting data may lawfully support. Several state boards have pursued drone operators for unlicensed surveying, so a professional mapper needs a working understanding of where the line sits, especially in their own state. Nothing here is legal advice. It is background for understanding a regulatory landscape that is still evolving.

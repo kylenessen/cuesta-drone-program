@@ -1,12 +1,3 @@
----
-type: Topic
-title: Night Operations
-description: The rules and equipment for flying small UAS at night and during civil twilight, routine since the 2021 rule change with training and anti-collision lighting.
-acs_area: operations
-tags: [night-operations]
-timestamp: 2026-07-02T17:00:00Z
----
-
 # Night Operations
 
 **Night Operations** under Part 107 became routine in April 2021, when the FAA replaced the old daylight-only rule and its waiver process with two conditions: the remote pilot in command must have current knowledge training covering night operations, and the aircraft must carry lighted anti-collision lighting visible for at least 3 statute miles with a flash rate sufficient to avoid collision. Night is defined as the time between the end of evening civil twilight and the beginning of morning civil twilight, as published in The Air Almanac. This topic was added to the ACS in 2021 and threads through several test areas, from operating rules to physiology. [1](/sources/ac-107-2a.md) [2](/sources/faa-s-acs-10b.md)

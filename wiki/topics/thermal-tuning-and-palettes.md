@@ -1,13 +1,3 @@
----
-type: Topic
-title: Thermal Tuning and Palettes
-description: Level and span tuning and palette selection, the display decisions that determine whether a thermal anomaly is visible, and why they change nothing about radiometric data.
-tags:
-  - remote-sensing
-  - thermography
-acs_area: general
-timestamp: 2026-07-10T18:00:00Z
----
 # Thermal Tuning and Palettes
 
 **Thermal Tuning and Palettes** are the display decisions of thermography. They determine whether an anomaly is visible on screen, and they change nothing about the underlying radiometric data. That separation between data and display is one of the first disciplines a Level 1 thermography course installs, because an untuned image hides real defects and a dramatic palette can manufacture apparent ones. The sensors producing the data are covered in [Thermal Imaging](/topics/thermal-imaging.md).

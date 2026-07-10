@@ -1,12 +1,3 @@
----
-type: Topic
-title: Digital Imaging
-description: "How digital camera sensors turn light into numbers: photosites, color and demosaicing, raw versus processed images, RAW versus JPEG, and bit depth."
-acs_area: general
-tags:
-  - remote-sensing
-timestamp: 2026-07-09T00:00:00Z
----
 # Digital Imaging
 
 **Digital imaging** is how a camera turns light into numbers, and understanding it is foundational for professional drone work. A student who grasps what a sensor actually records, and how much of a familiar photograph is the product of later processing, can reason about the full range of a camera's capabilities rather than treating the final picture as ground truth. This matters most when images are used as data rather than as pictures. [1]

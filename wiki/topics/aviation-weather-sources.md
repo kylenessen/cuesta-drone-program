@@ -1,11 +1,3 @@
----
-type: Topic
-title: Aviation Weather Sources
-description: The reports, forecasts, and stations remote pilots use for weather decisions, centered on decoding METARs and TAFs.
-acs_area: weather
-timestamp: 2026-07-02T17:00:00Z
----
-
 # Aviation Weather Sources
 
 **Aviation Weather Sources** are the official reports and forecasts a remote pilot consults to decide whether conditions permit a flight, chiefly the METAR surface observation and the TAF terminal forecast. The [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md) reliably includes raw METAR or TAF text to decode, so fluency in the coded format is a hard requirement, not background. The FAA's hub for all of it is the NWS Aviation Weather Center at aviationweather.gov, and the source of most observations is the automated station network (ASOS and AWOS) at airports. [1](/sources/remote-pilot-study-guide.md) [2](/sources/faa-s-acs-10b.md)

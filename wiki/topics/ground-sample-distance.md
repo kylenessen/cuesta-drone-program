@@ -1,12 +1,3 @@
----
-type: Topic
-title: Ground Sample Distance
-description: The definition, formula, and practical use of GSD, the ground footprint of a single pixel, and how it drives altitude choice, coverage, and flight time.
-tags: [mapping, remote-sensing]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # Ground Sample Distance
 
 **Ground Sample Distance** (GSD) is the distance on the ground between the centers of two adjacent pixels in an image, usually expressed in centimeters per pixel [1]. It is the single most quoted number in drone mapping because it summarizes what a dataset can and cannot show. A 3 cm GSD means each pixel covers a 3 cm by 3 cm patch of ground, and no amount of processing will recover features meaningfully smaller than that. GSD drives altitude selection, flight time, storage volume, and client expectations, so a mapping professional needs to compute it, choose it deliberately, and explain what it does not promise.

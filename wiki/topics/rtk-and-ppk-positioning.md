@@ -1,12 +1,3 @@
----
-type: Topic
-title: RTK and PPK Positioning
-description: How carrier-phase corrections from a base station deliver centimeter positioning, and how RTK, PPK, and network corrections differ in practice.
-tags: [mapping, field-operations]
-acs_area: general
-timestamp: 2026-07-09T18:00:00Z
----
-
 # RTK and PPK Positioning
 
 **RTK and PPK Positioning** are the two workflows that turn meter-level GNSS into centimeter-level GNSS. Both rest on the same idea. A stationary receiver at a known point, the base, observes the same satellites as a moving receiver, the rover, and the shared errors cancel between them. In drone mapping the rover is either the aircraft itself, producing accurately geotagged images, or a survey pole, producing accurately measured ground control points. The program's Emlid Reach RS4 base, RX2 rover, and RTK-capable Matrice 4 aircraft cover both roles.

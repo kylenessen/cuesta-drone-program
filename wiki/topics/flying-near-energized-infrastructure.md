@@ -1,12 +1,3 @@
----
-type: Topic
-title: Flying Near Energized Infrastructure
-description: Why energized conductors are a hostile environment for drones, covering magnetic compass interference, GPS multipath, minimum approach distances, wire strike geometry, and utility safety culture.
-tags: [field-operations, risk-management]
-acs_area: general
-timestamp: 2026-07-10T07:00:00Z
----
-
 # Flying Near Energized Infrastructure
 
 **Flying Near Energized Infrastructure** is the set of hazards and work practices that apply when a drone operates close to conductors, towers, and substation equipment that remain energized during the flight. It is the environment behind the inspection work described in [Infrastructure Inspection Operations](/topics/infrastructure-inspection-operations.md), and it is unusual among drone operating environments because it attacks the aircraft's sensing systems directly. The magnetic field around a loaded conductor can corrupt the compass, steel lattice structures block and reflect GPS signals, and the obstacles themselves, thin wires strung through open air, are among the hardest objects for either a camera or an obstacle sensor to see. Surrounding all of this is a utility safety culture with legally mandated briefing and clearance rules that a drone crew works inside, not around.

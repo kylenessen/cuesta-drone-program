@@ -1,11 +1,3 @@
----
-type: Topic
-title: Loading and Performance
-description: Weight, balance, center of gravity, and load factor for small unmanned aircraft, and how loading changes flight performance.
-acs_area: loading-performance
-timestamp: 2026-07-02T17:00:00Z
----
-
 # Loading and Performance
 
 **Loading and Performance** covers how what a small unmanned aircraft carries, and where it carries it, changes how the aircraft flies. It is the smallest content area on the [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md) at 7 to 11 percent of questions, but its concepts (center of gravity, load factor, and the use of performance data) generalize to every payload decision students will make with mapping cameras, thermal sensors, and delivery mechanisms. [1](/sources/faa-s-acs-10b.md) [2](/sources/remote-pilot-study-guide.md)

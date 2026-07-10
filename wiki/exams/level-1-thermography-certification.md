@@ -1,14 +1,3 @@
----
-type: Exam
-title: Level 1 Thermography Certification
-description: "The industry credential for thermal inspection work: the employer-based qualification model, course and exam format, CP-105 body of knowledge, costs and renewal, and career value."
-tags:
-  - remote-sensing
-  - thermography
-acs_area: general
-last_checked: 2026-07-10
-timestamp: 2026-07-10T18:00:00Z
----
 # Level 1 Thermography Certification
 
 **Level 1 Thermography Certification** is the credential that turns a drone pilot who owns a thermal camera into an inspector whose findings clients will accept. For utility, solar, and building inspection work it functions the way the [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md) functions for flying at all. No government body issues it. Certification comes from training organizations, chiefly the Infrared Training Center (ITC, associated with Teledyne FLIR) and the Infraspection Institute, following personnel qualification guidelines published by the American Society for Nondestructive Testing (ASNT). For Cuesta's inspection course the certification matters twice over, once as the employment credential graduates will pursue and once as the de facto syllabus for what a thermography unit must teach.

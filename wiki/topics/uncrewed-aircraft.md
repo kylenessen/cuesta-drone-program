@@ -1,12 +1,3 @@
----
-type: Topic
-title: Uncrewed Aircraft
-description: What a drone is, the terminology around UAV and UAS, the airframe-and-payload distinction, and the military-to-civilian history.
-acs_area: general
-tags:
-  - remote-sensing
-timestamp: 2026-07-09T00:00:00Z
----
 # Uncrewed Aircraft
 
 An **uncrewed aircraft**, commonly called a drone, is an aircraft that does not require a human pilot physically onboard. The pilot operates it remotely from a distance, or the aircraft follows a programmed route, while the person responsible stays on the ground. This simple definition is the anchor for an advanced applications course, because everything else, the airframe, the sensors it carries, and the work it performs, hangs off the idea of flight without a pilot in the cockpit. [1]
