@@ -28,6 +28,7 @@ These are two different jobs. RTK on the aircraft, as on the Matrice 4E with its
 - [Ground Control Points](/topics/ground-control-points.md) for what the survey rover measures.
 - [Mapping Accuracy](/topics/mapping-accuracy.md) for proving the result.
 - [Map Projections and Coordinate Systems](/topics/map-projections-and-coordinate-systems.md) for the coordinate framework corrections operate in.
+- [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md) for the mapping credential that tests this material.
 
 ## Citations
 

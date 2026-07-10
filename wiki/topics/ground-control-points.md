@@ -32,6 +32,7 @@ The deliverable from the field is a simple table, typically CSV, with point name
 - [Mapping Accuracy](/topics/mapping-accuracy.md) for how checkpoints turn into defensible accuracy claims.
 - [Map Projections and Coordinate Systems](/topics/map-projections-and-coordinate-systems.md) and [Vertical Datums and Geoid Models](/topics/vertical-datums-and-geoid-models.md) for the coordinate discipline the survey depends on.
 - [Structure from Motion](/topics/structure-from-motion.md) for how GCPs enter the reconstruction.
+- [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md) for the credential whose exam covers ground control practice.
 
 ## Citations
 

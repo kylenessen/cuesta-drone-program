@@ -29,6 +29,7 @@ Other recurring failures are close cousins. Mixing UTM zone 10 and zone 11 data 
 - [Vertical Datums and Geoid Models](/topics/vertical-datums-and-geoid-models.md) for the height half of the coordinate question.
 - [GNSS Fundamentals](/topics/gnss-fundamentals.md) for where the native coordinates come from.
 - [Ground Control Points](/topics/ground-control-points.md) for the survey workflow these systems anchor.
+- [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md) for the mapping credential that tests coordinate system fluency.
 
 ## Citations
 
