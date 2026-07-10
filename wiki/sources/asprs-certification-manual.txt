@@ -1,0 +1,1197 @@
+ASPRS CERTIFICATION
+AND RECERTIFICATION
+    GUIDELINES
+
+
+
+
+         1
+Table of Contents
+     Contact Information....................................................................................................................................................... 4
+     ASPRS Mapping Scientist vs. Technologist…what should I apply for? ........................................................................... 4
+                 “Scientist” Certifications.................................................................................................................................... 4
+                 “Technologist” Certifications............................................................................................................................. 4
+     History ............................................................................................................................................................................ 5
+     Code of Ethics of the American Society for Photogrammetry & Remote Sensing......................................................... 6
+     Purpose and Objectives ................................................................................................................................................. 8
+     Evaluation for Certification Committee Information ..................................................................................................... 9
+                 Vision Statement ............................................................................................................................................... 9
+                 Mission Statement ............................................................................................................................................ 9
+                 Niche Statement ................................................................................................................................................ 9
+     ASPRS Mapping Scientist vs. Technologist...what should I apply for? ......................................................................... 10
+     Professional Certification/Scientist Certifications ....................................................................................................... 10
+                 Certified Photogrammetrist ............................................................................................................................ 10
+                 Certified Mapping Scientist, Remote Sensing ................................................................................................. 10
+                 Certified Mapping Scientist, GIS/LIS ................................................................................................................ 11
+                 Certified Mapping Scientist, Lidar ................................................................................................................... 12
+                 Certified Mapping Scientist, UAS..................................................................................................................... 12
+     Educational Credits ...................................................................................................................................................... 13
+     Technologist Certifications .......................................................................................................................................... 13
+     Educational Credits ...................................................................................................................................................... 14
+                 Certified Photogrammetric Technologist (ASPRS) ........................................................................................... 14
+                 Certified Remote Sensing Technologist (ASPRS) ............................................................................................. 14
+                 Certified Lidar Technologist (ASPRS) ............................................................................................................... 15
+                 Certified UAS Technologist .............................................................................................................................. 15
+     Classification Chart for Photogrammetry and the Mapping Sciences ......................................................................... 15
+                 Classification chart for Photogrammetry ........................................................................................................ 15
+                 Classification chart for Mapping Scientists...................................................................................................... 18
+     Certified Professionals Database ................................................................................................................................. 19
+
+
+                                                                                             2
+Scientist Level Recertification Requirements .............................................................................................................. 19
+Scientist Level Recertification Guidelines .................................................................................................................... 20
+            Inactive/Retired Certified Professionals .......................................................................................................... 24
+            Educational credits, Technologists .................................................................................................................. 24
+            Technologist Recertification Requirements .................................................................................................... 24
+            Technologist Recertification Criteria ............................................................................................................... 24
+Costs............................................................................................................................................................................. 26
+*Note: Additional testing fees will be charged by the ASPRS computer-based testing provider Prometric .......... 26
+Preparing for the examination ..................................................................................................................................... 27
+            Workshop Topics: ............................................................................................................................................ 27
+            ASPRS suggests the following (or latest editions) of the following texts: ....................................................... 27
+            Administrative Procedures .............................................................................................................................. 27
+            Examination Proctoring: .................................................................................................................................. 28
+*Note: Additional testing fees will be charged by the ASPRS computer-based testing provider Prometric .......... 28
+            Examination Retake Policy .............................................................................................................................. 29
+Award of certification and recertification status ......................................................................................................... 30
+Seals and stamps .......................................................................................................................................................... 30
+Reservations................................................................................................................................................................. 31
+Certification Examination Matrices by Certification Discipline .................................................................................... 32
+
+
+
+
+                                                                                        3
+Contact Information
+If you have questions regarding ASPRS certification, please contact:
+Danielle Blanchard, Senior Certification Coordinator
+8550 United Plaza Blvd Suite 100, Baton Rouge, LA 70809
+applications@asprs.org - Ph# 225-408-4747 - Fax# 225-408-4422
+
+
+ASPRS Mapping Scientist vs. Technologist…what should I apply for?
+ASPRS offers multiple certifications at two different levels, Mapping Scientist and Technologist. These include
+specialty areas of Photogrammetry, Remote Sensing, GIS, Lidar, and UAS. The most common question asked to
+the ASPRS Certification committee is “what certification level is right for me, “Scientist” or “Technologist”?”.
+Please note that Scientist level candidates are required to have 6 years of active experience in the specialty
+category applied for and Technologist candidates are required to have 3 years of active experience in the
+specialty category applied for.
+
+“Scientist” Certifications
+(includes Certified Photogrammetrist) are appropriate for applicants whose work involves the exercise of
+professional judgment frequently based on knowledge acquired through higher leaning, generally of a non-routine
+character. The term implies one who has a broad knowledge of the geospatial sciences to a degree which supports
+the review and analysis of work being done, as well as a thorough understanding of the underlying theories,
+principles and systems supporting the work being performed. Additionally, said individual has the knowledge and
+ability to both plan and perform and/or direct all such operations in the category; this person is responsible for work
+performed by those under him/her. The review committee looks for a broad industry exposure, external to the
+employment realm, that gives validation and credibility to the activity, skills, knowledge, and mastery of the specific
+certification category being pursued. This is usually categorized as a combination of higher education, outside
+teaching, publication, and/or independent industry engagement related to the specific specialty certification being
+pursued. This can include the performance of research and development, conference presentations, professional
+society activity (ASPRS or other societies) workshops and specialty courses or the publication of articles related to
+the specialty area being considered.
+
+“Technologist” Certifications
+are appropriate for applicants whose work is primarily routine and of a technical nature yet demanding a high degree
+of skill. Such work is “pre-professional” when performed by a professional trainee who, having completed courses of
+specialized intellectual instruction and study, is seeking to attain professional status. Such work is “professional”
+when the applicant has advanced to a position of leadership in the performance of production related tasks, to
+include the supervision of others. The term implies that the applicant can perform all such operations in the category
+and this person may be responsible for work performed by those under him/her. Note: Regarding those applicants
+who have already attained other credentials (e.g. state licensed Land Surveyors or Engineers) either certification is
+suitable to demonstrate skills required to perform tasks in the specialty area.
+
+
+Applications will take approximately 8-10 weeks to be processed from start to finish.
+
+
+                                                           4
+History
+The Articles of Incorporation of the American Society for Photogrammetry and Remote Sensing state that it will
+exert its influence towards the betterment of standards and ethics.
+
+To this end, the Society’s Professional Activities Committee, after several years of careful study, developed a
+program for certification of photogrammetrists. This program was approved by the American Society of
+Photogrammetry (ASP) Board of Direction at its meeting in Washington, D.C. on March 13, 1975. On March 28,
+1991, the ASPRS Board of Directors approved a proposal made by the National Photogrammetrist Recognition
+Committee of the Professional Practice Division to modify the original program to include two new categories of
+certification: Mapping Scientist, Remote Sensing; and Mapping Scientist, GIS/LIS. The Board approved a
+recertification program that assures that certified persons keep up with the technology that is rapidly changing.
+On October 28, 1997, The Board approved a modification to the program adding a requirement of a written
+examination effective January 1, 1998.
+On January 1, 2013, the ASPRS professional and technologist certification programs each received accreditation
+from the Council of Engineering and Scientific Specialty Boards (CESB). CESB voted to approve accreditation for
+the professional Certified Photogrammetrist (CP), Certified Mapping Scientist/Remote Sensing (CMS/RS) and
+Certified Mapping Scientist/GIS-LIS (CMS/GISLIS) programs, along with three related technologist certification
+categories – Photogrammetric Technologist, Remote Sensing Technologist and GIS/LIS Technologist. During the
+review process leading to accreditation, CESB required ASPRS to make a few minor changes to the Programs,
+including: shifting the continuing education requirement from the previous proprietary points-based system to
+Professional Development Hours (PDH); increasing the PDH requirement from 75 hours to 100 hours for the
+professionals and 50 hours to 60 hours for the technologists; re- designating the “provisional” certifications,
+designed to assist students during their transition to professional status, in order to avoid using the term
+“certified;” and isolating any training related to the Program.
+
+
+
+
+                                                         5
+     There is a distinction between certification and licensure. Simply stated, ASPRS certification is official recognition
+     by one’s colleagues and peers that an individual has demonstrated professional integrity and competence in their
+     field. As such, the ASPRS voluntary certification program is considered “specialty certification." It is not a substitute
+     for licensure as, for example, a Land Surveyor. Licensing is a legal act on the part of states to protect the public
+     health, safety and welfare. It is a procedure by which various state and local governments require the licensing of
+     certain professions, practices, trades, etc. under formal statutes and ordinances to protect the well-being of its
+     citizens. Licensure may be required by your local state, county, etc. whether or not you secure certification.
+
+     The ASPRS program, as approved, is entirely voluntary. It applies equally to persons associated with the several
+     subdivisions of photogrammetry and the mapping sciences, which by Society definition includes aerial
+     photography, photogrammetric photographic interpretation, geographic information systems, remote sensing
+     systems, and land information systems. However, in accordance with the Society’s Code of Ethics, persons
+     certified should decline to undertake any work within, or related to the fields of photogrammetry and mapping
+     sciences that is outside their range of competence.
+
+
+     Code of Ethics of the American Society for Photogrammetry & Remote Sensing
+     Honesty justice and courtesy form a moral philosophy which associated with mutual interest among people should
+     be the principles on which ethics are founded.
+
+     Each person who is engaged in the use, development and improvement of the mapping sciences (Photogrammetry
+     Remote Sensing, Geographic Information Systems and related disciplines) should accept those principles as a set
+     of dynamic guides for conduct and a way of life rather than merely for passive observance. It is an inherent
+     obligation to apply oneself to one’s profession with all diligence and in so doing to be guided by this Code of Ethics.
+
+     Accordingly, each person in the mapping sciences profession shall have full regard for achieving excellence in the
+     practice of the profession and the essentiality of maintaining the highest standards of ethical conduct in
+     responsibilities and work for an employer, all clients, colleagues and associates and society at large and shall . . .
+
+1. Be guided in all professional activities by the highest standards and be a faithful trustee or agent in all matters for
+   each client or employer.
+2. At all times function in such a manner as will bring credit and dignity to the mapping sciences profession.
+3. Not compete unfairly with anyone who is engaged in the mapping sciences profession by:
+a. Advertising in a self-laudatory manner;
+b. Monetarily exploiting one’s own or another’s employment position;
+c.   Publicly criticizing other persons working in or having an interest in the mapping sciences;
+
+
+
+
+                                                                  6
+d. Exercising undue influence or pressure or soliciting favors through offering monetary inducements.
+4. Work to strengthen the profession of mapping sciences by:
+a. Personal effort directed toward improving personal skills and knowledge;
+b. Interchange of information and experience with other persons interested in and using a mapping science with
+   other professions and with students and the public;
+c.   Seeking to provide opportunities for professional development and advancement of persons working under his or
+     her supervision;
+d. Promoting the principle of appropriate compensation for work done by all people in their employ.
+5. Undertake only such assignments in the use of mapping sciences for which one is qualified by education, training,
+   and experience and employ or advise the employment of experts and specialists when and whenever client’s or
+   employer’s interests will be best served thereby.
+6. Give appropriate credit to other persons and/or firms for their professional contributions.
+7. Recognize the proprietary privacy legal and ethical interests and rights of others. This not only refers to the
+   adoption of these principles in the general conduct of business and professional activities but also as they relate
+   specifically to the appropriate and honest application of photogrammetry, remote sensing, geographic
+   information systems, and related geospatial technologies. Subscribers to this code shall not condone, promote,
+   advocate, or tolerate any organization’s or individual’s use of these technologies in a manner that knowingly
+   contributes to:
+a. deception through data alteration;
+b. circumvention of the law;
+c.   transgression of reasonable and legitimate expectation of privacy.
+
+     The ASPRS Certification Committee Program shall:
+1. Not discriminate among applicants as to age, sex, race, religion, national origin, disability, or marital status;
+2. Provide all applicants with complete information on the procedures governing application for and attainment of
+   certification;
+3. Have a formal policy for the periodic review of the application and evaluation procedures to assure that they are
+   fair and equitable;
+4. Provide competently proctored sites for any required testing that are readily accessible in all areas of the
+   geographic area served by the certification program at least once annually. Such testing sites and examinations
+   shall appropriately accommodate all disabled applicants who possess one or more of the disabilities defined by
+   United States of America laws and regulations;
+5. Promptly report evaluation results to applicants;
+6. Provide applicants who fail an evaluation information on the general areas of deficiency;
+7. Maintain the confidentiality of each person’s application documents, evaluation results, recertification
+   information, and
+                                                                 7
+    any other information on file unless authorized to release the information by the individual or if required by law;
+8. Prescribe, maintain, and publish procedures that certification candidates can use to appeal actions and decisions
+   of the Certifying Body pertaining to the candidate’s application and certification; and
+9. Not require any training offered by the Certifying Body as a prerequisite for certification.
+
+
+
+
+    Purpose and Objectives
+    A growing number of scientific and technical disciplines depend on photogrammetry and the mapping sciences
+    for reliable measurements and information. It is in the interest of those who provide photogrammetric and
+    mapping sciences services, as well as the user of these services, that such information and data be accurate and
+    dependable. The ASPRS Certification Program has as its purpose the establishment and maintenance of high
+    standards of ethical conduct and professional practice among photogrammetrists, mapping scientists,
+    technologists.
+
+    The primary objectives of the programs are:
+
+1. To identify and recognize those persons who, after careful appraisal by their peers, and after passing a written
+   examination, are considered to have met the requirements established by the Society for certification.
+
+2. To provide a basis for weighing the validity of allegations and complaints that involve practicing
+   photogrammetrists and mapping scientists, and for taking appropriate action in connection therewith.
+
+3. To encourage persons as yet not fully qualified to work towards certification as a goal of professional achievement.
+
+4. To encourage certified persons, through the recertification process, to continue their professional achievements
+   as rapid change in technology occurs.
+
+
+
+    The ASPRS Certification Program is voluntary and open to all qualified individuals, whether or not they are
+    members of the American Society for Photogrammetry and Remote Sensing.
+
+    The program is applicable to persons associated with one or more functional areas of photogrammetry and the
+    mapping sciences. Work at professional and technical levels in each of the areas is outlined herein
+
+
+
+
+                                                                8
+Evaluation for Certification Committee Information
+Vision Statement
+
+People are the most significant element in attaining the ASPRS vision. The Certification Program was established
+to promote personal development and ethical behavior within the Mapping Sciences profession. The Certification
+program will assure the public’s personal service of integrity when seeking services from the Mapping Sciences
+profession.
+
+Mission Statement
+
+To provide qualified individuals with recognition after completing established requirements for certification.
+
+Niche Statement
+
+The Committee will fill the following niches:
+    • Evaluate applicants for certification and recertification
+    • Provide information on the program to potential clients
+    • Continuously monitor the existing program to assure it serves the need
+    • Work towards receiving recognition by states for registration of Mapping Sciences professionals.
+
+
+The ECC organizes exam question review and new question writing on an annual basis.
+
+
+
+
+                                                           9
+   ASPRS Mapping Scientist vs. Technologist...what should I apply for?
+   ASPRS offers multiple certifications at two different levels, Mapping Scientist and Technologist. These include
+   specialty areas of Photogrammetry, Remote Sensing, GIS, Lidar, and UAS. The most common question asked to
+   the ASPRS Certification committee is “what certification level is right for me, “Scientist” or “Technologist”?”.
+
+Scientist Certifications (includes Certified Photogrammetrist) are appropriate for applicants whose work involves the
+    exercise of professional judgment frequently based on knowledge acquired through higher leaning, generally of a
+    non-routine character. The term implies one who has a broad knowledge of the geospatial sciences to a degree
+    which supports the review and analysis of work being done, as well as a thorough understanding of the
+    underlying theories, principles and systems supporting the work being performed. Additionally, said individual
+    has the knowledge and ability to both plan and perform and/or direct all such operations in the category; this
+    person is responsible for work performed by those under him/her. The review committee looks for a broad
+    industry exposure, external to the employment realm, that gives validation and credibility to the activity, skills,
+    knowledge, and mastery of the specific certification category being pursued. This is usually categorized as a
+    combination of higher education, outside teaching, publication, and/or independent industry engagement
+    related to the specific specialty certification being pursued. This can include the performance of research and
+    development, conference presentations, professional society activity (ASPRS or other societies) workshops and
+    specialty courses or the publication of articles related to the specialty area being considered.
+
+    Following are basic requirements for:
+
+
+   Certified Photogrammetrist
+    A professional who uses photogrammetric technology to extract measurements and make maps and interpret
+    data from images. The Photogrammetrist is responsible for all phases of mapping and other mensuration
+    requirements, which include planning and supervising survey activities for control, specifying photography or
+    other imagery requirements, managing projects for mapping or other mensuration requirements and
+    interpretation.
+
+1. Six years of experience in photogrammetry, three years of which were in a position of professional responsibility
+   demonstrating professional knowledge and competence.
+2. References from four persons who are holding, or who have held, responsible positions in photogrammetry and
+   have first-hand knowledge of the applicant’s professional and personal qualifications.
+3. Declaration of compliance with the Code of Ethics of the ASPRS.
+4. Successful completion of a written examination.
+
+
+
+   Certified Mapping Scientist, Remote Sensing
+                                                               10
+     A professional who specializes in analysis of images acquired from aircraft, satellites or ground bases, or platforms
+     using visual or computer-assisted technology; analysis is used by various specialized disciplines in the study of
+     natural resources, temporal changes, and for land use planning; or as a professional who specializes in analytical
+     techniques and sensor systems.
+1.   Three years of experience in photogrammetric and/or cartographic applications, all of which have been in a
+     position of responsibility that demonstrated knowledge and competence in planning and application.
+2.   Three additional years of specialized experience at a professional level in remote sensing and interpretation of
+     data from various imaging systems and/or design of remote sensing systems.
+3.   References from four persons who are holding or who have held responsible positions in the mapping sciences
+     and remote sensing and have first-hand knowledge of the applicant’s professional and personal qualifications.
+4.   Declaration of compliance with the Code of Ethics of the ASPRS.
+5.   Successful completion of a written examination.
+
+
+
+     Certified Mapping Scientist, GIS/LIS
+     The past ASPRS Certified Mapping Scientist GIS/LIS and Technologist GIS/LIS certifications have been replaced
+     with the GISCI GISP Certification.
+
+     [Des Plaines, IL – August 19, 2024] - The GIS Certification Institute (GISCI) is pleased to announce its new
+     partnership with the American Society for Photogrammetry and Remote Sensing (ASPRS), with ASPRS joining
+     GISCI’s Board of Directors. This strategic move represents a significant milestone in the ongoing efforts to advance
+     geospatial science, promote best practices, and support professional development within the industry.
+     “We are thrilled to have ASPRS join our board," said Jochen Albrecht, Chair of the GISCI Board. "ASPRS’s deep
+     knowledge and experience in remote sensing and photogrammetry will be instrumental in shaping the future of
+     geospatial certification and professional development."
+
+     As a new board member, ASPRS will contribute its extensive expertise in remote sensing and photogrammetry to
+     GISCI’s initiatives. This partnership will help bridge gaps between different sectors of the geospatial field, offering
+     a more comprehensive perspective on industry challenges and opportunities.
+     "The inclusion of ASPRS on the GISCI Board of Directors marks an exciting new chapter for both organizations,"
+     said Bandana Kar, President of ASPRS. "Our shared mission to elevate the geospatial profession and support its
+     practitioners align perfectly with GISCI’s goals. We look forward to working closely with GISCI to drive forward
+     initiatives that will benefit the entire geospatial community.”
+
+     The collaboration is expected to yield a range of benefits, including enhanced certification programs, joint
+     educational initiatives, and a unified approach to addressing key issues facing the geospatial industry. Both
+     organizations are committed to leveraging their combined strengths to advance the field and support professionals
+     across various geospatial disciplines.
+
+     About GISCI:
+     The GIS Certification Institute (GISCI) is a non-profit organization focused on providing a framework for the
+     certification and professional development of GIS practitioners. GISCI promotes high standards in the GIS
+     industry through its certification programs and educational initiatives. For more information, visit
+     https://www.gisci.org/.
+                                                                  11
+   About ASPRS:
+   The American Society for Photogrammetry and Remote Sensing (ASPRS) is a leading scientific association
+   dedicated to the advancement of photogrammetry, remote sensing, and geospatial information science. ASPRS
+   provides educational resources, promotes research, and supports the professional development of its members.
+   For more information, visit https://www.asprs.org/.
+
+   Press Inquiries:
+   Tony Spicci, GISP CGMP
+   Executive Director – GIS Certification Institute
+   Phone: 847.824.7768
+   Email: tspicci@gisci.org
+
+   Media Contact:
+   Rae Kelley
+   ASPRS Director of Publications
+   Phone: 225.408.4747
+   Email: rkelley@asprs.org
+   Read the GIS Certification Institute (GISCI) Memorandum of Understanding
+
+
+
+   Certified Mapping Scientist, Lidar
+   A professional involved in lidar systems design and/or systems application of data acquisition and computer
+   programs that allow for the utilization of spatially referenced lidar point clouds for solving user needs and analysis
+   requirements. They are responsible for the management and supervision leading to the integration of data needs
+   and the development of correspondence between and the utilization of various spatial systems of often-different
+   generic origins that are used to solve requirements.
+
+1. Three years of experience in mapping sciences or photogrammetry in a position of responsibility demonstrating
+   professional knowledge of and competence in mapping science and mapping procedures.
+2. Three additional years of professional experience in Lidar, during which professional knowledge and
+   competence in those systems were demonstrated.
+3. References from four persons who are holding, or who have held, responsible positions in the mapping sciences
+   and in lidar expertise and have first-hand knowledge of the applicant’s professional and personal
+   qualifications.
+4. Declaration of compliance with the Code of Ethics of the ASPRS.
+5. Successful completion of a written examination.
+
+
+
+   Certified Mapping Scientist, UAS
+   A professional who specializes in either a) the design, operation, and management of survey, mapping, and remote
+   sensing projects using Unmanned Autonomous/Aircraft Systems (UAS), including flight mission planning,
+                                                               12
+    adherence to regulatory constraints, system calibration, data acquisition specifications, ground control, operation
+    procedures, data processing, product generation, and quality control/quality assurance; b) analytical techniques
+    and methods for processing of UAS-acquired data; or c) UAS system design and research.
+
+1. Three years of experience in mapping sciences or photogrammetry in a position of responsibility demonstrating
+   professional knowledge of and competence in mapping science and mapping procedures.
+2. Three additional years of professional experience in UAS, during which professional knowledge and competence
+   in those systems were demonstrated.
+3. References from four persons who are holding, or who have held, responsible positions in the mapping sciences
+   and in UAS expertise and have first-hand knowledge of the applicant’s professional and personal qualifications.
+4. Declaration of compliance with the Code of Ethics of the ASPRS.
+5. Successful completion of a written examination.
+
+    Educational Credits
+
+    When computing the number of years of experience under basic requirements, credit may be taken, in lieu of
+    actual job experience, for degrees in engineering, or in the natural or physical sciences, on the following basis:
+
+    Type of Degree Years of Credit
+    Bachelor's     ½ year          Master's           ½ year           Doctorate ½year
+
+
+
+
+    Technologist Certifications
+    are appropriate for applicants whose work is primarily routine and of a technical nature yet demanding a high
+    degree of skill. Such work is “pre-professional” when performed by a professional trainee who, having
+    completed courses of specialized intellectual instruction and study, is seeking to attain professional status. Such
+    work is “professional” when the applicant has advanced to a position of leadership in the performance of
+    production related tasks, to include the supervision of others. The term implies that the applicant can perform
+    all such operations in the category and this person may be responsible for work performed by those under
+    him/her. Note: Regarding those applicants who have already attained other credentials (e.g. state licensed Land
+    Surveyors or Engineers) either certification is suitable to demonstrate skills required to perform tasks in the
+    specialty area.
+
+    Requirements:
+    These requirements apply for all Technologist categories:
+
+1. A total of three years experience, of which two are in the specialty category.
+
+2. Four references must be submitted from persons knowledgeable of the applicant's work experience and personal
+   conduct.
+
+3. Applicant must submit a non-refundable application fee. The Application includes a declaration of compliance
+   with the Code of Ethics of the ASPRS.
+
+4. The successful completion of a written examination following peer review and approval.
+                                                             13
+Educational Credits
+
+When computing the number of years of experience under basic requirements, credit may be taken, in lieu of
+actual job experience, for degrees in engineering, or in the natural or physical sciences, on the following basis:
+
+Type of Degree/ Years of Credit
+Bachelor's     ½ year           Master's          ½ year           Doctorate        ½ year
+
+
+
+Certified Photogrammetric Technologist (ASPRS)
+
+A Technologist who performs or supervises technical photogrammetric tasks to extract spatial data from
+photographic or digital imagery and other remotely-sensed data.
+
+Certified Remote Sensing Technologist (ASPRS)
+
+A Technologist who performs or supervises tasks to interpret, manipulate, extract, process and convert remotely
+sensed data from photographic or digital imagery and other remotely-sensed data.
+
+
+
+
+                                                            14
+      Certified Lidar Technologist (ASPRS)
+
+      A Technologist who performs routine Lidar collection support and first level data processing integrating
+      established plans and procedures.
+
+      Certified UAS Technologist
+
+      A Technologist who performs or supervises routine tasks to collect, process, and interpret data acquired with
+      UAS for use in surveying, mapping, and remote sensing applications.
+
+
+      Classification Chart for Photogrammetry and the Mapping Sciences
+      In the Classification Chart for Photogrammetry and the Mapping Sciences, several professional-level activities are
+      listed such as geographer, geologist, forester, and archaeologist in which it is intended to connote that
+      photogrammetry and/or mapping science is used in this particular activity in a professional manner by a
+      professional person. (The occupations mentioned are examples only and the list is not to be considered as
+      comprehensive). Practitioners in one of these disciplines may acquire professional competence in
+      photogrammetry and the mapping sciences and only when they possess this competence is their use of
+      photogrammetry and the mapping sciences to be construed as professional.
+
+      Classification chart for Photogrammetry
+
+     I. Education in Photogrammetry
+
+1.    Administration of instruction in Photogrammetry
+2.    Undergraduate teaching
+3.    Graduate teaching
+4.    Technical writing
+
+      Professional Level: Dean, department chair, professor, technical writer.
+
+      Technologist Level: Teaching assistant
+
+     II. Research and Development
+
+1. Materials: Photographic emulsions and bases, chemicals, drawing and reproduction materials.
+2. Instruments and equipment: Lenses, cameras, sensors, platforms, rectifiers, enlargers, printers, measuring and
+   plotting instruments, automation hardware, and calibration devices.
+3. Systems: Mapping systems, photographic and other image interpretation systems (development of an integrated
+   series of functions and techniques to produce a given result using photogrammetric principles.)
+4. Investigations and research: Operations, research, concept, determinations, cost-effectiveness studies,
+   techniques studies and investigations.
+                                                               15
+    Professional Level: Research chemist, research physicist, research engineer, technical writer, cartographer,
+    mathematician, electro-optical systems design engineer.
+
+    Technologist Level: Laboratory or shop assistant, test Technologist.
+
+III. Manufacturing
+
+1. Materials: Photographic emulsions and bases, chemicals, and drawing and reproduction materials.
+2. Instruments and equipment: Lenses, cameras, camera and other sensor platforms; rectifiers, enlargers, printer
+   sensor systems; viewing, measuring, and plotting instruments; automation hardware; software and calibration
+   devices.
+
+    Professional Level: Manufacturing engineer, quality control engineer, electro-optical systems engineer, physicist,
+    chemical engineer.
+
+    Technologist Level: Shop Technologist, drafter.
+
+IV. Photography (Includes aerial, terrestrial, underwater, space photography) and electronic imagery
+
+1. Technical planning: Flight or exposure station parameters; photography specifications; camera calibration.
+2. Procurement and inspection: Technical negotiations; technical administration of contracts; inspection and
+   acceptance.
+3. Photographic mission: Operation of camera-bearing vehicles; maintenance and operation of cameras; flight or
+   course navigation.
+4. Photographic processing: Development, inspection, and re-flight requirements.
+
+    Professional Level: Planning engineer, aerospace engineer, photographic scientist, photographic engineer.
+    Technologist Level: Drafter, inspector, photographer, laboratory Technologist.
+
+ V. Engineering Surveys for Location Design and Construction (Utilizing photogrammetric technology)
+
+1. Location and design data surveys: Control basic and supplemental (horizontal and vertical); culture and
+   topography profile and cross sections measurement and digitization of topography and other vital details.
+2. Construction survey; Location surveys and staking on the ground of the designed facilities and/or structure quantity
+   and measurement surveys; “as built” surveys; utility surveys; surface mines.
+3. Surveys for plans and plats: architectural (building sites); tax maps as constructed sites.
+
+    Professional Level: Engineer, survey engineer, geodetic surveyor.
+    Technologist Level: Stereoscopic instrument or plotter operator, operator of other photogrammetric equipment,
+    computations Technologist, drafter, field survey assistant (instrument tape rod).
+
+VI. Topographic and Planimetric Mapping
+
+1. Project planning: Control basic and supplemental (horizontal and vertical): Analog procedures, analytical methods,
+   instrumental methods; field measurement methods, global positioning systems
+
+                                                               16
+2. Map compilation: Orientation of plotting instruments, delineation of planimetry and contours; measurement of
+   spot elevations, profile and cross sections and other terrain data; identification and annotation of principal
+   topographic features and cultural details.
+
+3. Field edit and completion surveys
+
+     Professional Level: Planning engineer, topographic engineer, geodetic engineer, production engineer,
+     mathematician, cartographer.
+
+     Technologist Level: Stereoscopic instrument or plotter operator, operator of other photogrammetric equipment,
+     laboratory Technologist, computations Technologist, drafter, field survey assistant, computer operator.
+
+VII. Space Surveys
+
+1. Geodetic surveys: Figure of the earth and control extension from satellite triangulation, from ballistic camera
+   photography of earth satellites and from earth satellite-borne synoptic photography; documentation of results.
+2. Planetary surveys: Surveying and mapping of planets using data derived from space photography and space
+   probes; reporting and/or documenting data
+
+     Professional Level: Geodetic engineer, geodesist, space scientist, topographic engineer, mathematician, and
+     cartographer.
+     Technologist Level: Stereoscopic instrument or plotter operator or operator of other photogrammetric
+     equipment, laboratory Technologist, computations Technologist
+
+VIII. Special Applications
+
+1. Photographic maps: photographic maps with contours, digital orthophotos, photographic mosaics.
+2. Operations and maintenance: Surveillance, elimination of hazards, condition and inventory surveys, quantitative
+   measurements, and evaluation.
+3. Close-range photogrammetry: Architecture; biomedical applications including conventional and x-ray stereo-
+   photogrammetry, photogrammetric solution of biological problems, hydrography, structural engineering,
+   oceanography, geography, police work including crime detection, traffic and accident surveys
+4. Lasers and holography.
+
+     Professional Level: Cartographer, physicist, physician, dentist, archaeologist, geographer, oceanographer,
+     architect, engineer, hydrographer.
+
+     Technologist Level: Stereoscopic instrument or plotter operator of other photogrammetric equipment,
+     Technologist, drafter.
+
+
+
+
+                                                               17
+        Classification chart for Mapping Scientists
+
+       I. Remote Sensing and Interpretation
+
+1. Instrumentation selection and operational planning: Instrument-carrying vehicles; space platforms; radar and
+   thermal infrared sensors, scintillometers radio-meters magnetometers, multi- and special- sensor combinations,
+   viewing and scanning equipment, image enhancement and image data processing systems, operation and
+   maintenance of sensor systems, preparation of imagery for end use.
+2. Interpretation for general purposes and mapping: conventional mensuration and interpretation of photographic
+   and other imagery pattern recognition, reporting and documenting results.
+3. Interpretation for specific purposes and disciplines: geology, forestry, agriculture, land-use archaeology, water
+   resources, meteorology, mineral and aggregate resources, urban planning industrial development, transportation
+   facilities, volcanic and earthquake surveys and investigations, environmental and pollution surveys, reporting and
+   documenting results
+4. Military intelligence.
+
+        Professional Level: Cartographer, electro-optical systems engineer, geologist, forester, archaeologist, hydrologist,
+        planner, engineer, agronomist, soil scientist, materials engineer, resources scientist and engineer, earth scientist,
+        environmentalist analyst etc.
+
+        Technologist Level: Interpretation Technologist, laboratory Technologist, image analyst, drafter
+
+ II.    Lidar
+
+1.      Instrumentation knowledge and operational planning: airborne platforms, calibration, flight planning, training
+2.      Date management: preprocessing, postprocessing, archiving flight line mosaicking and tiling.
+3.      Point cloud classification: LAS Standard, filtering, automatic and manual editing.
+4.      Metadata development.
+
+        Professional Level: Project Management supervision, QA/QC responsibility, terrain analysis and point cloud filter
+        development. Metadata reporting with accuracy statement.
+
+
+
+
+                                                                   18
+     Technologist Level: Instrument operator, raw data archiving, data processing, flight line mosaicking and tiling,
+     filter application, manual editing, developing deliverables.
+
+III. UAS
+
+1.   Instrumentation knowledge and operational planning: airborne platforms, calibration, flight planning, training
+2.   Date management: preprocessing, postprocessing, archiving, flight line mosaicking and tiling.
+3.   Point cloud classification: standard filtering, automatic and manual editing.
+4.   Metadata development
+
+     Professional Level: Project Management, supervision, QA/QC responsibility, terrain analysis and point cloud filter
+     development. Metadata reporting with accuracy statement.
+
+     Technologist Level: Instrument operator, raw data archiving, data processing, flight line mosaicking and tiling,
+     filter application, manual editing, developing deliverables.
+
+
+     Certified Professionals Database
+     Access a searchable database of certified Geospatial professionals and Technologists.
+
+
+
+
+     Scientist Level Recertification Requirements
+     All ASPRS certified individuals are certified for a period of five years unless there is cause to remove the certification
+     for malpractice or violation of the Code of Ethics of ASPRS. The Society has a Recertification Program to assure
+     that a certified person has maintained or improved on the skill and knowledge that allowed for certification. The
+     Society will maintain an ACTIVE CERTIFICATION LIST that requires recertification every five years. Certified persons
+     will appear on the Active Certified list for as long as their certification is in force.
+
+     Recertification applicants are required to fill out the Recertification application to show the type of activity that
+     they have practiced and their professional involvement in the mapping sciences. They must also have four
+     references who have knowledge of the applicant’s professional and personal involvement in the last five years.
+     Each applicant must earn one hundred (100) PDHs based on the following criteria that will be reviewed by the
+     Evaluation for Certification Committee.
+
+
+
+
+                                                                   19
+Scientist Level Recertification Guidelines
+
+Recertification is based upon a “Continued Professional Development Qualification” rating system of PDH credit.
+Recertification applicants are required to fill out the Recertification Application to show the type and duration of
+activity that they have practiced and their professional involvement in the mapping sciences. They must also have
+four references who have knowledge of the applicant’s professional and personal involvement in the LAST FIVE
+(5) YEARS. Each applicant must have completed and documented 100 PDHs or PDH Credits based on the following
+criteria which will be evaluated by the Evaluation for Certification Committee: (see below for Technologist
+requirements)
+
+Click here to download Recertification PDH Tracking Spreadsheet
+
+
+
+                                                                                  Maximum
+                                                                                  Number
+                                                                                  of PDH
+                                                                                          Documentation
+    Evaluation Activity for Recertification         Criteria                      Allowed
+                                                                                          Requirement
+                                                                                  Within
+                                                                                  Last 5
+                                                                                  Years
+
+
+    Minimum Continuing Experience: Applicant
+                                                                                              Document
+    has been active in providing services within
+                                                    3 years of the past 5 years   50 PDH      Position(s)
+    their certified discipline or has been in the
+                                                    actively providing services   Credits     Description(s)
+    academic arena involved directly with those
+                                                                                              and dates
+    subjects.
+
+
+
+
+                                                           20
+Applicant has contributed and participated
+                                                 See items 1 – 10 listed    20 PDH      Document Titles
+in activities of service to the profession and
+                                                 below for PDH Credits      Credits     with Referencing
+community (see list below)
+
+
+                                                                                        Document time
+Published Papers and/or professional             See items 11-13 listed     20 PDH
+                                                                                        spent, titles with
+manuals (see list below)                         below for PDH credits      Credits
+                                                                                        full referencing
+
+                                                                                       Document
+Applicant has attended workshops/classes         1 PDH per hour attended    50 PDH
+                                                                                       Course, Titles,
+or instructed in directly related subjects       (0.1 CEU = 1 PDH)          (or 5 CEU)
+                                                                                       and Date
+
+Applicant has attended technical
+conferences and other professional               1 PDH per hour of                      Document
+meetings sponsored by ASPRS, ISPRS, SPIE,        technical session          40 PDH      Meeting Titles
+and other appropriate professional               attendance                             and Dates
+organizations.
+
+Applicant has actively served on ASPRS           5 PDH Credits per Year.
+                                                                            25 PDH      Document
+Committees. Officer, Division Chair, Region      See list below for PDH
+                                                                            Credits     Activity and Dates
+Officer, Chapter Officer, or related support.    Credits
+
+
+
+
+The following are the maximum allowable ASPRS PDH Credits
+for those activities that may be used for recertification
+(PDH credits during the past 5 years)
+
+                                                 Holding office [e.g.,
+                                                 committee chair, vice
+(1)                                                                         5
+                                                 chair, secretary, board
+                                                 trustee]
+
+(2)                                              Committee Member           3
+
+                                                 Meeting/Conference Chair
+(3)                                                                         10
+                                                 or Vice Chair
+
+
+                                                        21
+       Session Moderator at
+(4)                                 5
+       Technical Conference
+
+       Author or co-author of a
+       conference technical
+(5)                                 3
+       paper, poster session
+       paper or panel session
+
+       Adjunct teaching a formal
+       class in an academic
+       setting [when not
+(6)                                 10
+       applicant’s primary
+       occupation] (maximum of
+       5 PDH credits per year)
+
+       Workshop Instructor (2
+       PDH credits per course for
+(7)                                 12
+       a maximum of 4 credits
+       per year)
+
+       Examination Committee
+       Contributor (2 PDH credits
+(8)                                 10
+       per instance for a
+       maximum of 5 per year)
+
+       ASPRS Certification exam
+       proctor/panel (2 PDH
+(9)                                 8
+       credits per instance for a
+       maximum of 4 per year
+
+       Community/Career
+       extracurricular, i.e., pro
+       bono involvement
+       (geomatics-related), e.g.,
+(10)                                10
+       Public Agency (geospatial)
+       Advisory Board, Citizens
+       Advisory Group, (5 PDH
+       credits per activity)
+
+
+
+              22
+       Author/editor of published
+(11)                              15
+       geospatial-related book
+
+       Author (not prime) of one
+       or more chapters of a
+(12)                               5
+       published geospatial-
+       related book
+
+       Author/Co-author of a
+       peer-reviewed, published
+(13)                               20
+       paper (5 PDH credits per
+       paper)
+
+
+
+
+             23
+The application must be specific with clear documentation (activity and date[s]) so the Evaluation for Certification
+Committee can properly evaluate applicant's activities. The application and the references are the only criteria
+needed for recertification. (Applicant may be asked by the Committee to submit additional information or phone
+interview).
+
+
+Inactive/Retired Certified Professionals
+Certified Professionals who do not become recertified are automatically placed in either Inactive or Retired status.
+Individuals in either category are not permitted to use their seal to sign plans or otherwise indicate in any way
+that they are active Certified Professionals. An online searchable list of all active Certified Professionals in each
+category is maintained.
+
+NOTE: Individuals whose Certified status is Inactive or Retired for a period longer than one (1) year following Active
+status may apply for recertification provided that, in addition to the standard recertification criteria (outlined
+above), they take and pass the examination in their respective certification area.
+
+
+Educational credits, Technologists
+An Associate, or higher education degree can be counted as one-half year towards total time.
+
+
+Technologist Recertification Requirements
+To maintain active certification, all Certified Technologists must apply for recertification every three (3) years.
+
+
+Technologist Recertification Criteria
+Technologist Recertification is based upon the same PDH requirements as described in the Professional
+Recertification Guidelines, although the requirements are for the applicant’s professional and personal
+involvement in the LAST THREE (3) YEARS, and each applicant must have completed and documented sixty (60)
+PDHs or PDH Credits. For continuous work experience in the certified field, applicants can claim 30 PDH credits
+(10 per year).
+
+
+
+
+                                                             24
+Recertification applicants are required to fill out the Recertification Application to show the type and duration of
+activity that they have practiced and their professional involvement in the mapping sciences. They must also have
+Four References who have knowledge of the applicant’s professional and personal involvement in the LAST THREE
+(3) YEARS.
+
+The application must be specific with clear documentation (activity and date[s]) so the Evaluation for Certification
+Committee can properly evaluate applicant's activities. The application and the references are the only criteria
+needed for recertification. (Applicant may be asked by the Committee to submit additional information or phone
+interview).
+
+
+
+
+                                                           25
+Costs
+     ASPRS Certification Application Fees (all fees in US dollars)
+
+     Type of Application                                                  ASPRS Members        Non-Members
+
+     Initial Certification                                                $300                 $475
+
+     Recertification, Professional                                        $200                 $375
+
+     Initial Certification, Technologist                                  $200                 $375
+
+     Recertification, Technologist                                        $125                 $300
+
+
+
+
+*Note: Additional testing fees will be charged by the ASPRS computer-based testing provider Prometric.
+
+
+
+
+ (NOTE: The fees charged defray administrative costs of the Certification Program. Fees are not refundable in the
+event of non-certification.)
+
+Be prepared to furnish additional background information if requested by the Evaluation Committee.
+
+Upon notification of approval by the Evaluation Committee, you must take a written examination within six
+months of approval.
+
+
+
+
+                                                           26
+    Preparing for the examination
+    Matrices illustrating the mix of examination questions, by specialty area, have been prepared for applicant review.
+    Please note that workshops on preparation for certification are offered via webinar and during most ASPRS
+    Conferences.
+
+    The purpose of the workshop is to prepare individuals who are planning to sit for the ASPRS Certification exams.
+    The workshop begins by explaining the purpose and form of the exam. Key topical areas are identified which an
+    applicant should be aware of prior to taking the exam. Basic concepts and sample questions are reviewed to show
+    how these topics will be tested on the exam. Finally, the workshop identifies resources which examinees should
+    be aware of to utilize in their preparation for the examination.
+
+    Workshop Topics:
+
+•   Purpose of the exam
+•   Photogrammetry
+•   Remote Sensing
+•   Geographic Information Systems
+•   Lidar, UAS
+•   Other topical areas of importance in preparation for the exam
+
+    ASPRS suggests the following (or latest editions) of the following texts:
+
+•   The Manual of Photogrammetry, 6th edition, Chris McGlone, editor 2013
+•   Remote Sensing and Image Interpretation, 5th edition, Lillesand and Kiefer, 2015
+•   Elements of Photogrammetry: With Applications in GIS, Wolf and Dewitt, 1999
+•   The Manual of GIS, Marguerite Madden, editor, 2009
+•   Fundamentals of Remote Sensing and Airphoto Interpretation, 5th edition, Avery & Berlin, 1992
+•   Airborne Topographic Lidar Manual, Michael S. Renslow, editor, 2012
+•   Introduction to the Unmanned Aircraft Systems, Barnhart, Hottman, Marshall, Shappee, editors, 2012
+•   Introduction to UAV Systems (Aerospace Series) 4th edition, Fahlstrom and Gleason, 2012
+•   Glossary of the Mapping Sciences, ASPRS and ASCE
+
+
+
+    Administrative Procedures
+
+    The structure for administering the ASPRS Certification Program consists of two major elements:
+
+1. The Evaluation for Certification Committee, which reviews, then approves, or rejects all applications for
+   Certification or Recertification
+
+2. The ASPRS Governance Committee, which investigates allegations and complaints involving practicing
+   photogrammetrists, mapping scientists, and technologists and recommends appropriate action to the Board of
+   Directors.
+
+    The Society’s Professional Practice Division monitors and develops policy guidelines for the program. The Board
+    of Directors is the final authority on matters involving certification and professional conduct.
+
+                                                              27
+     Examination Proctoring:
+
+     All ASPRS Certification exams are provided in a secure computer-based testing environment through
+     Prometric. (https://www.prometric.com/)
+
+     This partnership:
+1.   Removes the need for candidates to coordinate proctors
+2.   Allows for examinations to be offered in a Covid-safe environment
+3.   Provides immediate test results to the candidate
+4.   Allows for “remote proctoring” for candidates who do not have a Prometric testing center near their
+     locations, to include international candidates. If utilizing the remote proctoring option:
+
+•    Applicants must:
+
+     Register in their full legal name (middle name not necessary) that matches government issued ID
+     Use a computer that is NOT work/government issued. Must use personal computer.
+     Arrange for a suitable examination site. A room of ample size, free of distractions.
+
+•    Proctors will:
+
+    Obtain picture identification of the examinee before the exam
+    Check that Candidates have only one bound reference, a hand-held calculator, a writing device, scratch
+     paper, and nothing else.
+    Ensure that the examination will last no longer than 2 hours for Certified Mapping Technologist exams
+     and no longer than 4 hours for Certified Mapping Scientist (including Certified Photogrammetrist)
+     exams. Please assure that this time period is honored with the exception for rest room breaks
+
+
+
+     *Note: Additional testing fees will be charged by the ASPRS computer-based testing provider Prometric.
+
+     Please be advised that there are two options to test with Prometric: testing at a Prometric testing facility or using
+     an online web-based proctor.
+     *Please note: the most reliable testing method is to go to a Prometric testing facility. If you chose an online web-
+     based proctor, there are significant requirements for your testing space and the computer you use to take the
+     examination. Prometric will provide detailed instructions and requirements regarding applicant responsibilities
+     prior to testing to fulfill the computer testing requirements. These additional requirements such as web
+     connections, personal web cam availability and testing environment may impact your ability to complete your
+     exam in a web-based proctor format. The applicant is assuming an additional risk by testing using the web-based
+     proctor format and therefore ASPRS strongly recommends taking examinations at a Prometric Testing Facility,
+     when possible, to ensure the best possible testing experience. If you test at home, you assume all responsibility
+     for internet connectivity and hardware requirements. Please also note that if you have any technical issues during
+     your examination, ASPRS will not be able to assist you and you will need to contact Prometric directly, per the
+     written instructions provided, as the ASPRS Office is unable to diagnosis exam errors. Finally, please be sure to
+     read all the instructions that are provided by Prometric if you decide to use the web-based proctor option.
+                                                                28
+   Examination Retake Policy
+
+1. Applicants who have been approved for an examination will be allowed to take said examination two (2)
+   times.
+2. Should an applicant fail their first attempt, they will be allowed to retake an exam within 6-months of the
+   date of taking the first exam
+1. Applicants may request an extension of the 6-month time period if there are extenuating circumstances
+   prohibiting the applicant from retesting within the 6-month time period.
+2. Applicants will be required to pay Prometric for the second testing appointment
+3. Should an applicant fail an exam a second time, they will be required to re-apply for the examination, to
+   include the resubmittal of all required fees
+4. Updated references are required to be submitted as part of the re-application process
+5. Applicants who have repeatedly failed an examination may be required to provide proof of additional
+   training or study prior to being approved for the retaking of an examination at the discretion of the
+   Evaluation for Certification Committee
+
+
+
+
+                                                          29
+    Applications for certification and recertification will, upon receipt at ASPRS Headquarters, be reviewed for
+    completeness. When the required references have submitted Confidential Reference Forms, they are combined
+    with the application. Applications found to be in order are sent to the Chair of the Evaluation Committee, whose
+    membership includes representation from each major functional area of photogrammetry and the mapping
+    sciences. The Committee will meet as required to take action on all bona fide applications.
+
+    Applicants for certification, and recertification will be notified of action by the Committee as soon as possible.
+
+
+    Award of certification and recertification status
+    Successful applicants for certification will be awarded an embossed certificate. Those certified by the Society may
+    display the certificate and use one (or more as appropriate) of the following designations on business stationery
+    and cards:
+
+•   Certified Photogrammetrist (ASPRS)
+•   Certified Mapping Scientist, Remote Sensing (ASPRS)
+•   Certified Mapping Scientist, Lidar (ASPRS)
+•   Certified Mapping Scientist, UAS (ASPRS)
+•   Certified Photogrammetric Technologist (ASPRS)
+•   Certified Remote Sensing Technologist (ASPRS)
+•   Certified Lidar Technologist (ASPRS)
+•   Certified UAS Technologist (ASPRS)
+
+    Successful applicants for recertification will continue to be listed on the Active Certified Roll and will be awarded a
+    certificate to show that the applicant has maintained skills in the technology.
+
+
+    Seals and stamps
+    A seal and/or rubber stamp, in standard or digital format, which contains the name, certification number and
+    expiration date may be ordered from ASPRS by email or surface mail. There is a nominal fee for each.
+
+    Certification and recertification are for individuals only. The designation of “Certified" may not be used in such a
+    manner as to indicate that a business firm or agency is certified as an entity.
+
+    The use of a seal or stamp is not authorized for those individuals whose status has become “Inactive” or
+    “Retired.”
+
+    Note: ASPRS certification seals and stamps can only be authorized by ASPRS and manufactured by ASPRS-approved
+    vendors. Unauthorized seal or stamp production is a violation of copyright law and the ASPRS Code of Ethics.
+
+
+
+
+                                                                 30
+Reservations
+The Society reserves the right to change or amend the requirements for certification and recertification, the
+educational credits, or the administrative fee structure for review and evaluation if deemed appropriate by the
+Board of Directors.
+
+The Society further reserves the right to revoke a certification or recertification if, in the opinion of the Board of
+Directors, the person concerned has violated or shown flagrant disregard for the Code of Ethics of the Society.
+
+Since the program is entirely voluntary, the Society assumes no responsibility for any loss or disadvantage, real or
+imagined, which may be alleged to have resulted from a disapproval of an application for certification,
+recertification, or revocation of the certificate once given.
+
+By submitting their application, the applicant acknowledges that the Society will apply the internal standards
+adopted by its Board of Directors in evaluating the applicant, and that it may reject any applicant who does not
+meet its minimum standards for certification or recertification. In consideration of ASPRS acceptance and
+processing of an application, the applicant agrees to waive all claims of liability or responsibility against ASPRS and
+to indemnify and hold harmless ASPRS, its directors, officers, committee members, employees, agents, and
+representatives against any and all such injury, damages, or claims made by or on behalf of any person,
+partnership, association, or corporation. Applicant further acknowledges that ASPRS, its directors, officers,
+committee members, employees, agents, or representatives are not liable to the applicant, or to any other person,
+partnership, association, or corporation, in any way for any injury, damages, or claims alleged to be based upon
+or arising out of the approval or disapproval or the issuance, withdrawal, or termination of any certification or
+recertification issued by ASPRS.
+
+
+
+
+                                                            31
+ Certification Examination Matrices by Certification Discipline
+ *Approximate percentages, actual values may vary.
+
+
+
+                                           Certified
+                                                            Certified   Certified
+                                           Mapping
+                        Certified                           Mapping     Mapping
+Focus Area                                 Scientist
+                        Photogrammetrist                    Scientist   Scientist
+                                           Remote
+                                                            Lidar       UAS
+                                           Sensing
+
+Earth Science           8%                 8%               8%          8%
+
+Mathematics             10%                10%              10%         10%
+
+Engineering/Surveying   8%                 8%               8%          8%
+
+Physics                 6%                 6%               6%          6%
+
+Professional/Ethical    7%                 7%               7%          7%
+
+Remote Sensing          5%                 41%              5%          5%
+
+GIS                     5%                 5%               5%          5%
+
+Photogrammetry          41%                5%               5%          5%
+
+Lidar                   5%                 5%               41%         5%
+
+UAS                     5%                 5%               5%          41%
+
+
+
+
+                                                       32
+                                     Certified      Certified
+                    Certified                                      Certified
+                                     Mapping        Mapping        Mapping
+Focus Area          Mapping          Technologist   Technologist   Technologist
+                    Technologist     Remote         Lidar          UAS
+                    Photogrammetry   Sensing
+Mathematics         6%               6%             6%             6%
+
+Earth Science       6%               6%             6%             6%
+
+Engineering/        6%               6%             6%             6%
+Surveying
+Physics             6%               6%             6%             6%
+
+Professional/Ethical 6%              6%             6%             6%
+
+Remote Sensing      0%               70%            0%             0%
+
+Photogrammetry      70%              0%             0%             0%
+
+GIS/LIS             0%               0%             0%             0%
+
+Lidar               0%               6%             70%            0%
+
+UAS                 0%               6%             0%             70%
+
+
+
+
+                                                         33
+
