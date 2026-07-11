@@ -42,3 +42,21 @@ The honest tension is cost. The recommended DJI training fleet buys six aircraft
 [3] AERO 110 course outline draft, equipment justification (curriculum-content/aero-110-cor-draft.md in this repository).
 [4] AERO 120 course outline draft, equipment justification (curriculum-content/aero-120-cor-draft.md in this repository).
 [5] Drone Nerds, Parrot ANAFI USA listing (price as of mid-2026). https://www.dronenerds.com/products/parrot-anafi-usa
+
+```tandem-comments
+{
+  "fleet-name": {
+    "anchor": {
+      "exact": "the actual inventory should be confirmed with Ron before it is quoted anywhere else"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "Please confirm with Ron: is the college-owned pair Matrice 4E/4T (most docs) or Mavic 3E/3T (April proposal email)? Every equipment spec page assumes 4E/4T. This should be settled before any public document quotes specs."
+      }
+    ]
+  }
+}
+```

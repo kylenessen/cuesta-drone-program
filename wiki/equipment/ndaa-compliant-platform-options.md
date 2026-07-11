@@ -80,3 +80,21 @@ Avoid: Anzu Raptor (discontinued, compliance doubtful) and any platform whose co
 [16] DroneDJ, Anzu Raptor drone production ends, February 17, 2026. https://dronedj.com/2026/02/17/anzu-raptor-drone-production-end/
 [17] DroneLife, Sony ends sales of Airpeak S1 drone line, November 2024. https://dronelife.com/2024/11/06/sony-ends-sales-of-airpeak-s1-drone-line/
 [18] Defense Innovation Unit, Blue UAS Cleared List (current list maintained at bluelist.dcma.mil). https://www.diu.mil/blue-uas-cleared-list
+
+```tandem-comments
+{
+  "skydio-timing": {
+    "anchor": {
+      "exact": "budget one Skydio X10 with the thermal sensor package"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "Two decisions gate this recommendation: (1) does the $80k need to be spent by a deadline, or can the Skydio buy wait for advisory-committee input? (2) which funding stream pays, since a DJI training fleet is only allowed on non-federal SWP money. The December memo left the budget-deadline question open with Ron."
+      }
+    ]
+  }
+}
+```

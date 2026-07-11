@@ -42,3 +42,21 @@ A useful classroom exercise is to walk one hypothetical graduate through the ful
 [8] DPR, Suggested Study Material Source List, Pest Control Aircraft Pilot Certificates (Manned and Unmanned), rev. 05/25. https://www.cdpr.ca.gov/wp-content/uploads/2025/05/pilot-1.pdf
 [9] County of San Luis Obispo, Restricted Materials Permit, Department of Agriculture/Weights and Measures. https://www.slocounty.ca.gov/departments/agriculture-weights-and-measures/services/restricted-materials-permit
 [10] County of San Luis Obispo, Pesticide Use, Department of Agriculture/Weights and Measures. https://www.slocounty.ca.gov/departments/agriculture-weights-and-measures/services/pesticide-use
+
+```tandem-comments
+{
+  "dpr-fees": {
+    "anchor": {
+      "exact": "the QAC application fee is $90, the QAL application fee is $180, and each examination costs $115"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "Fee figures were decoded from a headerless DPR fee-table PDF and corroborated by secondary sources; renewal fees and the Pest Control Business license fee were omitted as ambiguous. Verify against DPR directly before quoting to students."
+      }
+    ]
+  }
+}
+```

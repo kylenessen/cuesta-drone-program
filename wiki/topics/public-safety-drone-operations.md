@@ -49,3 +49,21 @@ For curriculum purposes NFPA 2400 is the natural spine of a dedicated public saf
 [6] NFPA, NFPA 2400, Standard for Small Unmanned Aircraft Systems (sUAS) Used for Public Safety Operations, 2024 edition. https://www.nfpa.org/product/nfpa-2400-standard/p2400code
 [7] NFPA, Small Unmanned Aircraft Systems Fact Sheet (NFPA 2400). https://content.nfpa.org/-/media/project/storefront/catalog/files/code-or-topic-fact-sheets/2400factsheet.pdf
 [8] Fire Engineering, What Does NFPA's Drone Standard Mean for Your Fire Department? https://www.fireengineering.com/fire-apparatus/nfpa-drone-standard/
+
+```tandem-comments
+{
+  "nfpa-year": {
+    "anchor": {
+      "exact": "first issued in 2019"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "The 2024 current edition is well confirmed; the 2019 first-edition year is consistent with an NFPA fact sheet but not stated outright on a single authoritative page. Low stakes, but verify if it lands in a course document."
+      }
+    ]
+  }
+}
+```

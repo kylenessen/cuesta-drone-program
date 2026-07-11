@@ -35,3 +35,21 @@ The example the developer reached for, flowers that look different under ultravi
 [4] Universe Optics, "UV Light in Forensics," on reflected ultraviolet imaging systems and their forensic uses. https://www.universeoptics.com/uv-light-in-forensics/
 [5] USDA Forest Service, "Visual Cues," on ultraviolet nectar guides and how bees perceive UV floral patterns. https://www.fs.usda.gov/wildflowers/pollinators/Plant_Strategies/visualcues.shtml
 [6] Koski, M.H., and Ashman, T.-L., "Dissecting pollinator responses to a ubiquitous ultraviolet floral pattern in the wild," Functional Ecology (2014). https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.12242
+
+```tandem-comments
+{
+  "solar-blind": {
+    "anchor": {
+      "exact": "roughly the 240 to 280 nanometer range"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "The solar-blind window figure was aggregated from search results, not a single primary spec sheet. It is consistent with ozone-absorption physics, but spot-check the exact nanometer range before quoting it in student-facing material."
+      }
+    ]
+  }
+}
+```

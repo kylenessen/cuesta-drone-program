@@ -520,3 +520,60 @@ The ASSIST Preview (content, assignments, course description, hours, objectives,
 9. **Continuing education:** This course is well suited for incumbent workers (utility, solar, home inspection). Should we plan for evening/weekend scheduling from the start?
 10. **Field Trips designation:** AERO 100 marked Field Trips No despite off-classroom flying. Should off-campus inspection sites follow that pattern or be declared as Field Trips?
 11. **Fullerton/Palomar comparison:** Ron referenced these programs. Worth reviewing their thermal/inspection offerings to ensure our course is competitive and complementary.
+
+```tandem-comments
+{
+  "cap-cat": {
+    "anchor": {
+      "exact": "limited by equipment and safety considerations for work near infrastructure"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "Same cap-versus-category question as AERO 110: 15 falls below the Lab-Small (20-30) range. Confirm cap or category."
+      }
+    ]
+  },
+  "field-trips": {
+    "anchor": {
+      "exact": "- **Field Trips:** No"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "Matched AERO 100 (No) despite the inspection field sites. Confirm whether CurriQunet wants Yes here."
+      }
+    ]
+  },
+  "de-hybrid": {
+    "anchor": {
+      "exact": "A hybrid format also suits incumbent utility workers taking the course around work schedules."
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "Drafted DE as blended following AERO 100. For this course a hybrid also fits incumbent PG&E/IBEW workers taking it around shifts. Confirm the shape, and whether to design the schedule around working students."
+      }
+    ]
+  },
+  "pubsafety": {
+    "anchor": {
+      "exact": "have moved out of this course to a separate future course"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "I removed public safety (SAR, fire, law enforcement) from this course per the current outline. Confirm that plan and where the future public safety course sits in the trunk toward the 16-unit threshold."
+      }
+    ]
+  }
+}
+```

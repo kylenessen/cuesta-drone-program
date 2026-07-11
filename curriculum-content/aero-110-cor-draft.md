@@ -543,3 +543,86 @@ The ASSIST Preview (content, assignments, course description, hours, objectives,
 10. **Cross-disciplinary buy-in:** Ron needs buy-in from the Geo department. Status of outreach to GEOG faculty (chairs contacted in the July 6 outreach round)?
 11. **Field Trips designation:** AERO 100 marked Field Trips No despite off-classroom flying. Should off-campus mapping and agricultural sites follow that pattern or be declared as Field Trips?
 12. **NEP collaboration:** The capstone includes an option for Morro Bay National Estuary Program collaboration. Worth mentioning in the proposal rationale?
+
+```tandem-comments
+{
+  "cap-cat": {
+    "anchor": {
+      "exact": "chosen cap of 15 falls below the 20-30 range of this category"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "Decision for you: the cap of 15 sits below the Lab-Small (20-30) category range. Either move the cap to 20 or pick a category whose range includes 15. AERO 100's 25 fit its category; these do not. Confirm with the curriculum office."
+      }
+    ]
+  },
+  "field-trips": {
+    "anchor": {
+      "exact": "- **Field Trips:** No"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "I matched AERO 100, which declared Field Trips No despite off-site flying. Your earlier draft said Yes. CurriQunet may expect Yes given the field mapping sites. Confirm which is correct."
+      }
+    ]
+  },
+  "units": {
+    "anchor": {
+      "exact": "Ron earlier floated 2.0 units"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "Kept at 3.0 to match AERO 100. If Ron still wants 2.0, the absorbed ag remote sensing unit is the first thing that would have to come back out. Your call before submission."
+      }
+    ]
+  },
+  "geog230": {
+    "anchor": {
+      "exact": "Discuss with Ron whether this should be a prerequisite instead"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "This drives the certificate math and course accessibility. If GEOG 230 becomes a prerequisite rather than an advisory, it also needs its own three-alignment content review (flagged below)."
+      }
+    ]
+  },
+  "de-hybrid": {
+    "anchor": {
+      "exact": "follows Ron's direction to include a hybrid option following the pattern of AERO 100. Proposed as Blended"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "I drafted the full DE section as blended (lecture online, labs face to face), flipping the earlier No to Yes because you said Ron wants a hybrid option like AERO 100. Confirm this is the shape he meant before it goes in."
+      }
+    ]
+  },
+  "ag-overlap": {
+    "anchor": {
+      "exact": "does not conflict with a separate ag course plan"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "Real conflict risk: this course now absorbs the ag remote sensing unit, but the July 2 notes have Ron working the ag angle separately with Aubrey. Confirm the absorbed unit does not collide with a dedicated ag course."
+      }
+    ]
+  }
+}
+```

@@ -95,3 +95,21 @@ Salary figures are aggregator bands compiled in January 2026, not verified payro
 [16] Zone 5 Technologies. https://www.zone5tech.com/
 [17] Crunchbase, WhiteFox Defense Technologies company profile. https://www.crunchbase.com/organization/whitefox-defense-technologies-inc
 [18] AgDroneJobs, "Agriculture Drone Pilot Salary: How Much Can You Really Make?" https://www.agdronejobs.com/blog/agriculture-drone-pilot-salary-how-much-can-you-really-make-
+
+```tandem-comments
+{
+  "salary-hedge": {
+    "anchor": {
+      "exact": "read as indicative bands rather than verified compensation"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "Heads up before reusing any of these numbers publicly: salary bands are job-board aggregator figures, not payroll data, and the internal advisory quotes on the PG&E page should be cleared before republishing. Treat as indicative."
+      }
+    ]
+  }
+}
+```

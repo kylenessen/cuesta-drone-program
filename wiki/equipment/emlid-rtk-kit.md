@@ -40,3 +40,21 @@ The course outline's RTK objectives map onto this kit directly: students set up 
 [6] Emlid Docs, DJI RTK drone and Reach RS4 / RS4 Pro base integration. https://docs.emlid.com/reachrs4/integration/dji-rtk/
 [7] Planning voice memo, drone program purchases and curriculum, December 11, 2025 (equipment-purchasing/Planning_Drone_Program_Purchases_and_Curriculum.md in this repository).
 [8] AERO 110 course outline draft, objectives and equipment justification (curriculum-content/aero-110-cor-draft.md in this repository).
+
+```tandem-comments
+{
+  "rx2-network": {
+    "anchor": {
+      "exact": "On remote sites without cell coverage this is a real operational constraint worth teaching explicitly"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "Worth your attention for site selection and curriculum: the RX2 rover is network-only, no radio. On remote sites you would need the RS4's Local NTRIP hotspot at close range or a cell signal. If you expect to teach in cell-dead areas, consider whether a radio-capable rover matters."
+      }
+    ]
+  }
+}
+```

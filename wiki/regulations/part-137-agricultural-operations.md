@@ -55,3 +55,34 @@ Three practical points follow for Cuesta's planning. First, the aircraft is regu
 [6] Ag Drone Initiative, Part 108 Digest for Agricultural Operators, 2025. https://agdroneinitiative.org/news/part-108-digest-for-agricultural-operators
 [7] Federal Register, Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations, NPRM, August 7, 2025. https://www.federalregister.gov/documents/2025/08/07/2025-14992/normalizing-unmanned-aircraft-systems-beyond-visual-line-of-sight-operations
 [8] DLA Piper, FAA's proposed Part 108 BVLOS Rule: Industry response and key concerns, October 2025. https://www.dlapiper.com/en-us/insights/publications/2025/10/faa-proposed-part-108-bvlos-rule
+
+```tandem-comments
+{
+  "college-exemption": {
+    "anchor": {
+      "exact": "with the applicant name matching the exemption holder exactly"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "Open question for the spray track: would the college itself hold the 44807 exemption and AAOC (and in whose name), or would a sub-55-pound platform sidestep the heavy-aircraft path for instruction? The insurance and ownership question from the proposal is still unresolved."
+      }
+    ]
+  },
+  "part108-impact": {
+    "anchor": {
+      "exact": "Flying a spray mission beyond visual line of sight would additionally require relief"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "Watch item: if the pending Part 108 final rule keeps agricultural dispensing in the certificated-operations tier, it would materially change what AERO 140 should teach. Worth tracking before the spray course is built out."
+      }
+    ]
+  }
+}
+```

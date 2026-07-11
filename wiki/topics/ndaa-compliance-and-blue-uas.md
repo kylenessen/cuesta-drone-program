@@ -44,3 +44,21 @@ The cost and capability gap versus DJI is real and worth stating plainly. A DJI 
 [8] Inspired Flight Technologies, IF800 Tomcat. https://www.inspiredflight.com/if800.php
 [9] Skydio X10. https://www.skydio.com/x10
 [10] Ron Overacker, "Costs and Drone for proposal," program proposal cost narrative, April 24, 2026 (communications/Costs and Drone for proposal.eml in this repository).
+
+```tandem-comments
+{
+  "fleet-funding": {
+    "anchor": {
+      "exact": "remain usable for instruction"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "Practical purchasing consequence: the AERO 100 DJI training fleet (Mini 3 / Air 3) can only be bought with SWP state money, not Perkins federal money. Confirm which stream funds the training fleet before the purchase order, since it decides whether a DJI fleet is even permissible."
+      }
+    ]
+  }
+}
+```

@@ -39,3 +39,21 @@ The plain-text, heavily abbreviated NOTAM format and the system behind it date t
 [6] FAA Newsroom, U.S. Transportation Secretary Sean P. Duffy Deploys Brand New Notice to Airmen System, 2025. https://www.faa.gov/newsroom/us-transportation-secretary-sean-p-duffy-deploys-brand-new-notice-airmen-system-provide
 [7] FlightGlobal, US FAA expects full transition to modernised NOTAM system in spring 2026, October 2025. https://www.flightglobal.com/ops-safety/2025/10/us-faa-expects-full-transition-to-modernised-notam-system-in-spring-2026/
 [8] General Aviation News, NOTAMs return to original name, February 12, 2025. https://generalaviationnews.com/2025/02/12/notams-return-to-original-name/
+
+```tandem-comments
+{
+  "notam-timeline": {
+    "anchor": {
+      "exact": "the FAA expects the full transition, retiring both the US NOTAM System and the Federal NOTAM System, by spring 2026"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "Time-sensitive: this was fetched July 2026 and the FAA transition was expected around now. Recheck and shift to past tense once the FAA confirms completion; the specific access URLs may change."
+      }
+    ]
+  }
+}
+```
