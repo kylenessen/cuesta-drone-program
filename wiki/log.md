@@ -2,6 +2,14 @@
 
 Newest first. One entry per change set: what changed and why.
 
+## 2026-07-11 (brainstorm research and sourcing)
+
+- Turned the July 2026 course-content brainstorm from a standalone citation into researched, externally sourced content across its six citing pages, since the source records teaching intent rather than evidence. Kept the brainstorm citation where it documents intent and added real sources (FAA, NASA, NWS, peer-reviewed and manufacturer documentation) for the factual claims that had leaned on it alone.
+- Resolved the three open questions the source flagged. UAV, UAS, and drone nomenclature is settled in [Uncrewed Aircraft](topics/uncrewed-aircraft.md) with FAA and statutory scope definitions and the sourced unmanned-to-uncrewed shift. The infra and ultra prefixes are resolved in [Electromagnetic Spectrum](topics/electromagnetic-spectrum.md) with Latin etymology (infra is below, ultra is beyond) and the Herschel and Ritter discovery history.
+- Created [Ultraviolet Imaging](topics/ultraviolet-imaging.md) from the flagged UV literature search: solar-blind corona-discharge inspection as the drone-specific application, plus forensic reflected-UV imaging and floral nectar-guide ecology, with snake UV patterning kept as an honest open example. Cross-linked both ways with the electromagnetic spectrum and drone payloads pages, listed in the source's Used By section and in [index.md](index.md).
+- Strengthened the imaging chain along the way: Bayer filter and demosaicing in [Digital Imaging](topics/digital-imaging.md), the chlorophyll and red-edge basis of NDVI in [Multispectral Imaging](topics/multispectral-imaging.md), LiDAR and the NWS radiosonde in [Drone Payloads](topics/drone-payloads.md), and a corrected satellite resolution range (Sentinel-2 at 10 m to commercial 30 cm) in [Remote Sensing Platforms](topics/remote-sensing-platforms.md).
+- Sourcing note: the solar-blind window figure (roughly 240 to 280 nm) is consistent with the ozone absorption physics but was aggregated from search results rather than a single primary spec sheet, so spot-check before quoting the exact numbers in public documents.
+
 ## 2026-07-10 (relative links)
 
 - Converted all 1,144 internal links across 96 files from OKF bundle-absolute paths (a leading `/`, resolving only when `wiki/` is the vault root) to relative paths. The wiki is now edited in Obsidian with the whole repository opened as the vault, so bundle-absolute links pointed at repo-level folders that do not exist and every link was dead. Relative links resolve regardless of whether the vault root is the repo or the `wiki/` folder, and they also render on GitHub. Verified that all 1,144 relative targets resolve to existing files.

@@ -54,6 +54,7 @@ The physics and sensor layer under professional drone work.
 - [Uncrewed Aircraft](topics/uncrewed-aircraft.md): what a drone is, the UAV and UAS terminology, and the airframe-and-payload framing.
 - [Digital Imaging](topics/digital-imaging.md): how sensors turn light into numbers, color and demosaicing, RAW versus JPEG, and bit depth.
 - [Electromagnetic Spectrum](topics/electromagnetic-spectrum.md): visible light as a narrow band, wavelength filters, and the infrared and ultraviolet regions.
+- [Ultraviolet Imaging](topics/ultraviolet-imaging.md): the band beyond violet, solar-blind corona inspection of power lines, and UV uses in forensics and floral ecology.
 - [Multispectral Imaging](topics/multispectral-imaging.md): NDVI, the red edge, and greenness measurement.
 - [Multispectral Field Practice](topics/multispectral-field-practice.md): calibration panels, band registration, and when multispectral beats RGB.
 - [Vegetation Indices](topics/vegetation-indices.md): NDRE and red edge, soil-adjusted indices, and the honest limits of index interpretation.
