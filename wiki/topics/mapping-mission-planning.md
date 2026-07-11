@@ -10,13 +10,13 @@ Pix4D recommends at least 75 percent front lap and 60 percent side lap for gener
 
 ## Altitude and ground sample distance
 
-[Ground Sample Distance](/topics/ground-sample-distance.md) (GSD) is the ground footprint of one pixel. It scales linearly with height above ground. Using the standard formula, GSD in centimeters per pixel equals sensor width (mm) times flight height (m) times 100, divided by focal length (mm) times image width (pixels) [2]. Double the altitude and the GSD doubles. The required GSD is usually the client's or the analysis's first fixed constraint, and it pins the altitude for a given camera. A DJI Matrice 4E wide camera, with its 20 MP four thirds sensor and mechanical shutter, reaches roughly 3 cm per pixel class GSD at typical survey altitudes near 120 m, and finer GSD requires flying proportionally lower [3].
+[Ground Sample Distance](ground-sample-distance.md) (GSD) is the ground footprint of one pixel. It scales linearly with height above ground. Using the standard formula, GSD in centimeters per pixel equals sensor width (mm) times flight height (m) times 100, divided by focal length (mm) times image width (pixels) [2]. Double the altitude and the GSD doubles. The required GSD is usually the client's or the analysis's first fixed constraint, and it pins the altitude for a given camera. A DJI Matrice 4E wide camera, with its 20 MP four thirds sensor and mechanical shutter, reaches roughly 3 cm per pixel class GSD at typical survey altitudes near 120 m, and finer GSD requires flying proportionally lower [3].
 
 ## Speed, capture rate, and motion blur
 
 Once altitude and front lap are set, the forward distance between photo centers is fixed. It equals the forward image footprint times one minus the front lap. Flight speed then determines how often the camera must fire. Speed divided into the photo spacing must not exceed what the camera can sustain. The binding constraints are the camera's minimum trigger interval and the rate at which images can be written to storage. The Matrice 4E, for example, supports a shooting interval as short as 0.5 seconds with its mechanical shutter, which is what allows it to map at higher speeds than cameras with 2 second intervals [3]. Fly faster than the camera can keep up and the mission silently loses front lap, which shows up later as reconstruction gaps.
 
-Speed also interacts with exposure through motion blur, covered fully in [Camera Exposure](/topics/camera-exposure.md). Blur distance on the ground is simply flight speed times exposure time. A drone at 10 m/s with a 1/100 s shutter smears each exposure across 10 cm of ground [4]. The working rule is to keep blur below about one GSD, and below half a GSD for high accuracy work [5]. Since low altitude means small GSD, low altitude flights need slower flight speeds, faster shutter speeds, or both. Mechanical shutters remove rolling shutter distortion but do not remove motion blur.
+Speed also interacts with exposure through motion blur, covered fully in [Camera Exposure](camera-exposure.md). Blur distance on the ground is simply flight speed times exposure time. A drone at 10 m/s with a 1/100 s shutter smears each exposure across 10 cm of ground [4]. The working rule is to keep blur below about one GSD, and below half a GSD for high accuracy work [5]. Since low altitude means small GSD, low altitude flights need slower flight speeds, faster shutter speeds, or both. Mechanical shutters remove rolling shutter distortion but do not remove motion blur.
 
 ## Terrain following
 
@@ -36,12 +36,12 @@ Part 107 requires the remote pilot or a visual observer to keep the unaided visu
 
 ## Related
 
-- [Ground Sample Distance](/topics/ground-sample-distance.md) for the resolution requirement that starts the plan.
-- [Camera Exposure](/topics/camera-exposure.md) for the motion blur limit on speed.
-- [Mission Planning Software](/topics/mission-planning-software.md) for the tools that execute these plans.
-- [Field Operations Best Practices](/topics/field-operations-best-practices.md) for flying the plan well on the day.
-- [Field Power Management](/topics/field-power-management.md) for covering the battery cycles the plan demands.
-- [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md) for the mapping credential that tests operational planning.
+- [Ground Sample Distance](ground-sample-distance.md) for the resolution requirement that starts the plan.
+- [Camera Exposure](camera-exposure.md) for the motion blur limit on speed.
+- [Mission Planning Software](mission-planning-software.md) for the tools that execute these plans.
+- [Field Operations Best Practices](field-operations-best-practices.md) for flying the plan well on the day.
+- [Field Power Management](field-power-management.md) for covering the battery cycles the plan demands.
+- [ASPRS Certified UAS Technologist](../exams/asprs-certified-uas-technologist.md) for the mapping credential that tests operational planning.
 
 ## Citations
 

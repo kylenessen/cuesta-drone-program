@@ -26,10 +26,10 @@ The working rule for general mapping is to fly within a few hours of solar noon 
 
 ## Related
 
-- [Camera Exposure](/topics/camera-exposure.md) for working with the light the window provides.
-- [Electromagnetic Spectrum](/topics/electromagnetic-spectrum.md) for the physics underneath reflectance.
-- [Multispectral Imaging](/topics/multispectral-imaging.md) for the reflectance products most sensitive to these effects.
-- [Orthomosaics](/topics/orthomosaics.md) for where lighting artifacts end up in the deliverable.
+- [Camera Exposure](camera-exposure.md) for working with the light the window provides.
+- [Electromagnetic Spectrum](electromagnetic-spectrum.md) for the physics underneath reflectance.
+- [Multispectral Imaging](multispectral-imaging.md) for the reflectance products most sensitive to these effects.
+- [Orthomosaics](orthomosaics.md) for where lighting artifacts end up in the deliverable.
 
 ## Citations
 

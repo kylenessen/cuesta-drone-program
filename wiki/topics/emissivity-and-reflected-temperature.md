@@ -1,6 +1,6 @@
 # Emissivity and Reflected Temperature
 
-**Emissivity and Reflected Temperature** are the two surface properties standing between the infrared radiation a camera detects and the true temperature of the surface emitting it. They are the classic interpretation traps of thermography and the core of the measurement science a Level 1 thermography course teaches. Every temperature reported from the sensors described in [Thermal Imaging](/topics/thermal-imaging.md) passes through them, and misjudging either one produces readings that are confidently, sometimes absurdly, wrong.
+**Emissivity and Reflected Temperature** are the two surface properties standing between the infrared radiation a camera detects and the true temperature of the surface emitting it. They are the classic interpretation traps of thermography and the core of the measurement science a Level 1 thermography course teaches. Every temperature reported from the sensors described in [Thermal Imaging](thermal-imaging.md) passes through them, and misjudging either one produces readings that are confidently, sometimes absurdly, wrong.
 
 ## Apparent versus true temperature
 
@@ -16,14 +16,14 @@ A low emissivity surface instead reflects the infrared environment around it, be
 
 ## Compensation in practice
 
-Radiometric software lets the operator set emissivity and reflected apparent temperature per image or per measurement, and thermographers on the ground sometimes add a patch of high emissivity material such as electrical tape to get a trustworthy reference reading on a metal surface [1]. From a drone the tape trick is unavailable, which pushes aerial work toward comparative judgments between identical components rather than absolute readings on low emissivity targets. Those comparative judgments are formalized in [Delta-T Severity Classification](/topics/delta-t-severity-classification.md), and setting the parameters defensibly is a core competency tested by the [Level 1 Thermography Certification](/exams/level-1-thermography-certification.md).
+Radiometric software lets the operator set emissivity and reflected apparent temperature per image or per measurement, and thermographers on the ground sometimes add a patch of high emissivity material such as electrical tape to get a trustworthy reference reading on a metal surface [1]. From a drone the tape trick is unavailable, which pushes aerial work toward comparative judgments between identical components rather than absolute readings on low emissivity targets. Those comparative judgments are formalized in [Delta-T Severity Classification](delta-t-severity-classification.md), and setting the parameters defensibly is a core competency tested by the [Level 1 Thermography Certification](../exams/level-1-thermography-certification.md).
 
 ## Related
 
-- [Thermal Imaging](/topics/thermal-imaging.md) for the sensors these corrections apply to.
-- [Delta-T Severity Classification](/topics/delta-t-severity-classification.md) for the comparative technique that sidesteps absolute measurement.
-- [Spot Size and Measurement Distance](/topics/spot-size-and-measurement-distance.md) for the other validity limit on a measurement.
-- [Level 1 Thermography Certification](/exams/level-1-thermography-certification.md) for the credential that tests this material.
+- [Thermal Imaging](thermal-imaging.md) for the sensors these corrections apply to.
+- [Delta-T Severity Classification](delta-t-severity-classification.md) for the comparative technique that sidesteps absolute measurement.
+- [Spot Size and Measurement Distance](spot-size-and-measurement-distance.md) for the other validity limit on a measurement.
+- [Level 1 Thermography Certification](../exams/level-1-thermography-certification.md) for the credential that tests this material.
 
 ## Citations
 

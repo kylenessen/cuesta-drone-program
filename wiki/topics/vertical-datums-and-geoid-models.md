@@ -24,10 +24,10 @@ NGS is replacing the entire framework. The modernized National Spatial Reference
 
 ## Related
 
-- [Map Projections and Coordinate Systems](/topics/map-projections-and-coordinate-systems.md) for the horizontal half of the coordinate question.
-- [GNSS Fundamentals](/topics/gnss-fundamentals.md) for why receivers natively measure ellipsoidal heights.
-- [RTK and PPK Positioning](/topics/rtk-and-ppk-positioning.md) for the workflows these datums flow through.
-- [Mapping Accuracy](/topics/mapping-accuracy.md) for datum confusion as the top cause of failed accuracy tests.
+- [Map Projections and Coordinate Systems](map-projections-and-coordinate-systems.md) for the horizontal half of the coordinate question.
+- [GNSS Fundamentals](gnss-fundamentals.md) for why receivers natively measure ellipsoidal heights.
+- [RTK and PPK Positioning](rtk-and-ppk-positioning.md) for the workflows these datums flow through.
+- [Mapping Accuracy](mapping-accuracy.md) for datum confusion as the top cause of failed accuracy tests.
 
 ## Citations
 

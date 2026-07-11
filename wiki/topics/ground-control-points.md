@@ -8,7 +8,7 @@ During bundle adjustment, the software refines camera positions, orientations, a
 
 ## Control points versus checkpoints
 
-A point used in the adjustment is a control point. A point withheld from the adjustment and compared against the finished model afterward is a checkpoint. The distinction matters because residuals on control points measure only how well the software honored its constraints, not how accurate the map is elsewhere. Checkpoints provide the honest test. The ASPRS Positional Accuracy Standards base formal accuracy assessment on independent checkpoints, with a minimum of 30 for a full assessment under Edition 2 [2]. Small projects rarely justify 30, but the principle scales down. Withhold at least a few surveyed points from control and report the model's error against them, as covered further in [Mapping Accuracy](/topics/mapping-accuracy.md).
+A point used in the adjustment is a control point. A point withheld from the adjustment and compared against the finished model afterward is a checkpoint. The distinction matters because residuals on control points measure only how well the software honored its constraints, not how accurate the map is elsewhere. Checkpoints provide the honest test. The ASPRS Positional Accuracy Standards base formal accuracy assessment on independent checkpoints, with a minimum of 30 for a full assessment under Edition 2 [2]. Small projects rarely justify 30, but the principle scales down. Withhold at least a few surveyed points from control and report the model's error against them, as covered further in [Mapping Accuracy](mapping-accuracy.md).
 
 ## Network design
 
@@ -28,11 +28,11 @@ The deliverable from the field is a simple table, typically CSV, with point name
 
 ## Related
 
-- [RTK and PPK Positioning](/topics/rtk-and-ppk-positioning.md) for the survey technology behind the rover.
-- [Mapping Accuracy](/topics/mapping-accuracy.md) for how checkpoints turn into defensible accuracy claims.
-- [Map Projections and Coordinate Systems](/topics/map-projections-and-coordinate-systems.md) and [Vertical Datums and Geoid Models](/topics/vertical-datums-and-geoid-models.md) for the coordinate discipline the survey depends on.
-- [Structure from Motion](/topics/structure-from-motion.md) for how GCPs enter the reconstruction.
-- [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md) for the credential whose exam covers ground control practice.
+- [RTK and PPK Positioning](rtk-and-ppk-positioning.md) for the survey technology behind the rover.
+- [Mapping Accuracy](mapping-accuracy.md) for how checkpoints turn into defensible accuracy claims.
+- [Map Projections and Coordinate Systems](map-projections-and-coordinate-systems.md) and [Vertical Datums and Geoid Models](vertical-datums-and-geoid-models.md) for the coordinate discipline the survey depends on.
+- [Structure from Motion](structure-from-motion.md) for how GCPs enter the reconstruction.
+- [ASPRS Certified UAS Technologist](../exams/asprs-certified-uas-technologist.md) for the credential whose exam covers ground control practice.
 
 ## Citations
 

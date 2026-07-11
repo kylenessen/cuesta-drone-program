@@ -8,4 +8,4 @@ Downloaded 2026-07-10 from NCAT's TOP training resources at https://ncatech.org/
 
 ## Used By
 
-- [AUVSI Trusted Operator Program](/exams/auvsi-trusted-operator-program.md)
+- [AUVSI Trusted Operator Program](../exams/auvsi-trusted-operator-program.md)

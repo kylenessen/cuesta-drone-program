@@ -12,14 +12,14 @@ A single pixel reading is not trustworthy, because optical imperfections and str
 
 ## Flying height and lens choice
 
-Altitude directly sets the smallest component that can be measured, and the pixel budget is small to begin with. A 640 x 512 thermal detector, the resolution of the DJI Matrice 4T payload, carries a tiny fraction of the pixels of the visual camera beside it [2]. A hot connector is often visible as an anomaly long before it is measurable, because detection only needs contrast while measurement needs pixels on target. Inspection flights are planned around the stricter standard, by descending, by choosing a longer lens, or by flagging the finding qualitatively and re-shooting closer. The reasoning parallels [Ground Sample Distance](/topics/ground-sample-distance.md) in mapping work, where altitude likewise trades coverage against the smallest thing the data can resolve.
+Altitude directly sets the smallest component that can be measured, and the pixel budget is small to begin with. A 640 x 512 thermal detector, the resolution of the DJI Matrice 4T payload, carries a tiny fraction of the pixels of the visual camera beside it [2]. A hot connector is often visible as an anomaly long before it is measurable, because detection only needs contrast while measurement needs pixels on target. Inspection flights are planned around the stricter standard, by descending, by choosing a longer lens, or by flagging the finding qualitatively and re-shooting closer. The reasoning parallels [Ground Sample Distance](ground-sample-distance.md) in mapping work, where altitude likewise trades coverage against the smallest thing the data can resolve.
 
 ## Related
 
-- [Thermal Imaging](/topics/thermal-imaging.md) for the sensors whose resolution sets the pixel budget.
-- [Ground Sample Distance](/topics/ground-sample-distance.md) for the same altitude-versus-detail logic in mapping.
-- [Delta-T Severity Classification](/topics/delta-t-severity-classification.md) for what a valid measurement feeds.
-- [Level 1 Thermography Certification](/exams/level-1-thermography-certification.md) for the credential that tests this material.
+- [Thermal Imaging](thermal-imaging.md) for the sensors whose resolution sets the pixel budget.
+- [Ground Sample Distance](ground-sample-distance.md) for the same altitude-versus-detail logic in mapping.
+- [Delta-T Severity Classification](delta-t-severity-classification.md) for what a valid measurement feeds.
+- [Level 1 Thermography Certification](../exams/level-1-thermography-certification.md) for the credential that tests this material.
 
 ## Citations
 

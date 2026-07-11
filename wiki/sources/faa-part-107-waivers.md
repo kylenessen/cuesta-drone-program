@@ -12,4 +12,4 @@ The text extraction keeps the main article content from the Part 107 Waivers hea
 
 ## Used By
 
-- [Certificate of Waiver](/regulations/certificate-of-waiver.md) cites this source for the current Aviation Safety Hub application process, 90-day FAA review target, request-for-information handling, and the current FAA framing of waiver safety explanations.
+- [Certificate of Waiver](../regulations/certificate-of-waiver.md) cites this source for the current Aviation Safety Hub application process, 90-day FAA review target, request-for-information handling, and the current FAA framing of waiver safety explanations.

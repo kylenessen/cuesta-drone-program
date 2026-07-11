@@ -16,21 +16,21 @@ The continuum stops being abstract the moment a grower asks whether to hire a dr
 
 Satellite imagery is the cheap, wide, hands-off baseline. Sentinel-2, the European public constellation, delivers multispectral imagery at ten-meter resolution on a roughly five-day revisit, free for any use including commercial, which makes it the default first look for regional and whole-farm monitoring [2]. Commercial constellations such as Planet's push resolution to around three meters with near-daily revisit for a subscription fee [3]. Satellite's strength is coverage and cadence with no field visit and no pilot, and its limit is resolution. Ten-meter pixels average whole vine rows or several plants together and cannot resolve an individual plant, a clogged emitter, or a narrow disease focus, and cloud cover can blank out the exact date a grower needed.
 
-A drone sits at the opposite corner. It delivers centimeter-scale resolution and, just as important, imagery on the grower's own schedule rather than an orbit's, which is what makes stand counts, leak detection, and tight within-block vigor mapping possible. The cost of that resolution is coverage. A drone maps a field or a block per outing, not a county, and mobilization dominates its economics, so cost per acre falls as the flown area grows but never approaches satellite's cost per acre over large ground. Crewed aircraft occupy the middle. A piloted plane with a mapping or multispectral sensor covers far more ground per day than a drone at resolution between drone and satellite, and for very large acreages it becomes cheaper per acre than a drone once mobilization is spread over enough ground, which is the crossover discussed in [Mission Cost Analysis](/topics/mission-cost-analysis.md).
+A drone sits at the opposite corner. It delivers centimeter-scale resolution and, just as important, imagery on the grower's own schedule rather than an orbit's, which is what makes stand counts, leak detection, and tight within-block vigor mapping possible. The cost of that resolution is coverage. A drone maps a field or a block per outing, not a county, and mobilization dominates its economics, so cost per acre falls as the flown area grows but never approaches satellite's cost per acre over large ground. Crewed aircraft occupy the middle. A piloted plane with a mapping or multispectral sensor covers far more ground per day than a drone at resolution between drone and satellite, and for very large acreages it becomes cheaper per acre than a drone once mobilization is spread over enough ground, which is the crossover discussed in [Mission Cost Analysis](mission-cost-analysis.md).
 
 The teaching conclusion is that the platforms are complements, not rivals. A common professional pattern uses free or cheap satellite imagery to watch a whole operation and flag which fields are changing, then sends a drone to the flagged fields for the high-resolution look that drives action. University extension guidance frames the same tradeoff, noting that drones offer the highest resolution and the most flexible timing among imagery sources for crop scouting, at the cost of covering less area per day than aircraft or satellites [4]. Naming the right tool for a grower's specific question, and being willing to say the free satellite subscription already answers it, is part of the professional's value.
 
 ## Related
 
-- [Uncrewed Aircraft](/topics/uncrewed-aircraft.md) defines the drone that sits at the low, close end of this continuum.
-- [Drone Payloads](/topics/drone-payloads.md) covers the sensors these platforms carry.
-- [Multispectral Imaging](/topics/multispectral-imaging.md) shows the kind of repeated, analytic measurement satellites excel at.
-- [Agricultural Drone Applications](/topics/agricultural-drone-applications.md) for the grower decisions this platform choice serves.
-- [Mission Cost Analysis](/topics/mission-cost-analysis.md) for the cost-per-acre crossover between drones, aircraft, and satellites.
+- [Uncrewed Aircraft](uncrewed-aircraft.md) defines the drone that sits at the low, close end of this continuum.
+- [Drone Payloads](drone-payloads.md) covers the sensors these platforms carry.
+- [Multispectral Imaging](multispectral-imaging.md) shows the kind of repeated, analytic measurement satellites excel at.
+- [Agricultural Drone Applications](agricultural-drone-applications.md) for the grower decisions this platform choice serves.
+- [Mission Cost Analysis](mission-cost-analysis.md) for the cost-per-acre crossover between drones, aircraft, and satellites.
 
 ## Citations
 
-[1] [Drone Course Content Brainstorm](/sources/drone-course-content-brainstorm.md), July 2026 course-content voice memo, section on aerial platforms in context.
+[1] [Drone Course Content Brainstorm](../sources/drone-course-content-brainstorm.md), July 2026 course-content voice memo, section on aerial platforms in context.
 [2] European Space Agency Copernicus, Sentinel-2 mission (ten-meter bands, five-day revisit, open data). https://sentinels.copernicus.eu/copernicus/sentinel-2
 [3] Planet Labs, PlanetScope technical documentation. https://docs.planet.com/data/planetary-variables/crop-biomass/techspec/
 [4] Iowa State University Extension, Crop Scouting with Aerial Imagery: Choosing the Right Source. https://crops.extension.iastate.edu/post/crop-scouting-aerial-imagery-choosing-right-source

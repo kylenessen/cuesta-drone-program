@@ -1,10 +1,10 @@
 # ASPRS Certification Manual
 
-The **ASPRS Certification Manual**, formally the ASPRS Certification and Recertification Guidelines, is the governing document for the certification program of the American Society for Photogrammetry and Remote Sensing. It defines every credential in the ASPRS family, the Scientist and Technologist tiers, the experience and reference requirements, the examination rules and content matrices, the fee schedule, and the recertification criteria. It is the evidence anchor for the [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md) exam page and for claims about the wider ASPRS certification family.
+The **ASPRS Certification Manual**, formally the ASPRS Certification and Recertification Guidelines, is the governing document for the certification program of the American Society for Photogrammetry and Remote Sensing. It defines every credential in the ASPRS family, the Scientist and Technologist tiers, the experience and reference requirements, the examination rules and content matrices, the fee schedule, and the recertification criteria. It is the evidence anchor for the [ASPRS Certified UAS Technologist](../exams/asprs-certified-uas-technologist.md) exam page and for claims about the wider ASPRS certification family.
 
 The manual also records two program facts that matter for curriculum framing. The ASPRS certification programs have been accredited by the Council of Engineering and Scientific Specialty Boards since January 2013, and the former GIS/LIS certifications were retired in favor of the GISCI GISP credential following a 2024 partnership between ASPRS and the GIS Certification Institute.
 
-Notably, this current revision contains no section on the Geospatial Intern Program and no intern rows in its fee table, both of which appeared in the 2019 revision preserved as [ASPRS Certification Manual (2019)](/sources/asprs-certification-manual-2019.md). That absence is itself evidence and drives several open questions on the intern pathway page.
+Notably, this current revision contains no section on the Geospatial Intern Program and no intern rows in its fee table, both of which appeared in the 2019 revision preserved as [ASPRS Certification Manual (2019)](asprs-certification-manual-2019.md). That absence is itself evidence and drives several open questions on the intern pathway page.
 
 ## Original Source
 
@@ -16,6 +16,6 @@ Machine-extracted text is preserved as `asprs-certification-manual.txt`. Extract
 
 ## Used By
 
-- [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md)
-- [ASPRS Geospatial Intern Program](/exams/asprs-geospatial-intern-program.md)
+- [ASPRS Certified UAS Technologist](../exams/asprs-certified-uas-technologist.md)
+- [ASPRS Geospatial Intern Program](../exams/asprs-geospatial-intern-program.md)
 - Mapping topic pages cite this document for what the certification exams cover.

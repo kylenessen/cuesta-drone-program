@@ -1,6 +1,6 @@
 # Remote Sensing and Image Interpretation Excerpts
 
-**Remote Sensing and Image Interpretation Excerpts** preserves the publicly downloadable sample material Wiley publishes for Remote Sensing and Image Interpretation, 7th edition, by Thomas Lillesand, Ralph W. Kiefer, and Jonathan Chipman (Wiley, 2015). The book is the standard remote sensing textbook on the ASPRS suggested reading list, and these excerpts are the evidence anchor for its contents on the [ASPRS Recommended Reading List](/analysis/asprs-recommended-reading-list.md) page. The book itself is under copyright and cannot be stored.
+**Remote Sensing and Image Interpretation Excerpts** preserves the publicly downloadable sample material Wiley publishes for Remote Sensing and Image Interpretation, 7th edition, by Thomas Lillesand, Ralph W. Kiefer, and Jonathan Chipman (Wiley, 2015). The book is the standard remote sensing textbook on the ASPRS suggested reading list, and these excerpts are the evidence anchor for its contents on the [ASPRS Recommended Reading List](../analysis/asprs-recommended-reading-list.md) page. The book itself is under copyright and cannot be stored.
 
 ## Original Sources
 
@@ -15,4 +15,4 @@ The table of contents text extraction is clean and complete, listing all eight c
 
 ## Used By
 
-- [ASPRS Recommended Reading List](/analysis/asprs-recommended-reading-list.md)
+- [ASPRS Recommended Reading List](../analysis/asprs-recommended-reading-list.md)

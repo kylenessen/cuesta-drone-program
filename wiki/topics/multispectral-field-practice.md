@@ -1,6 +1,6 @@
 # Multispectral Field Practice
 
-**Multispectral Field Practice** covers the working layer of multispectral drone surveys, the calibration and workflow steps that separate a decorative NDVI map from a measurement. The theory, NDVI, the red edge, and why healthy vegetation reflects strongly in the near infrared, is covered in [Multispectral Imaging](/topics/multispectral-imaging.md). This page assumes that background and deals with what happens in the field and in processing. The program currently has no multispectral hardware, so this content is taught conceptually against the same radiometric reasoning students practice with RGB and thermal sensors.
+**Multispectral Field Practice** covers the working layer of multispectral drone surveys, the calibration and workflow steps that separate a decorative NDVI map from a measurement. The theory, NDVI, the red edge, and why healthy vegetation reflects strongly in the near infrared, is covered in [Multispectral Imaging](multispectral-imaging.md). This page assumes that background and deals with what happens in the field and in processing. The program currently has no multispectral hardware, so this content is taught conceptually against the same radiometric reasoning students practice with RGB and thermal sensors.
 
 ## Why calibration is the whole game
 
@@ -26,12 +26,12 @@ The standard agricultural deliverables are reflectance orthomosaics per band, in
 
 ## Related
 
-- [Multispectral Imaging](/topics/multispectral-imaging.md) for the theory this practice implements.
-- [Vegetation Indices](/topics/vegetation-indices.md) for the indices this calibration makes trustworthy.
-- [Lighting and Sun Angle for Mapping](/topics/lighting-and-sun-angle-for-mapping.md) for the illumination effects calibration fights.
-- [Change Detection and Repeat Mapping](/topics/change-detection-and-repeat-mapping.md) for the multi-date comparability calibration buys.
-- [Agricultural Drone Applications](/topics/agricultural-drone-applications.md) and [Prescription Maps](/topics/prescription-maps.md) for the farm products this calibration underwrites.
-- [Drone Payloads](/topics/drone-payloads.md) for multispectral's place in the sensor taxonomy.
+- [Multispectral Imaging](multispectral-imaging.md) for the theory this practice implements.
+- [Vegetation Indices](vegetation-indices.md) for the indices this calibration makes trustworthy.
+- [Lighting and Sun Angle for Mapping](lighting-and-sun-angle-for-mapping.md) for the illumination effects calibration fights.
+- [Change Detection and Repeat Mapping](change-detection-and-repeat-mapping.md) for the multi-date comparability calibration buys.
+- [Agricultural Drone Applications](agricultural-drone-applications.md) and [Prescription Maps](prescription-maps.md) for the farm products this calibration underwrites.
+- [Drone Payloads](drone-payloads.md) for multispectral's place in the sensor taxonomy.
 
 ## Citations
 

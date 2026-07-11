@@ -10,4 +10,4 @@ The page no longer exists on the current ASPRS website (the URL returns a 404 af
 
 ## Used By
 
-- [ASPRS Geospatial Intern Program](/exams/asprs-geospatial-intern-program.md)
+- [ASPRS Geospatial Intern Program](../exams/asprs-geospatial-intern-program.md)

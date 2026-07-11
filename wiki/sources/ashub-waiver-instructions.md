@@ -12,4 +12,4 @@ Machine-extracted text is preserved as `ashub-waiver-instructions.txt`. Extracti
 
 ## Used By
 
-- [Certificate of Waiver](/regulations/certificate-of-waiver.md) cites this source for Aviation Safety Hub workflow details, supporting documentation, controlled airspace routing, and request-for-information responses.
+- [Certificate of Waiver](../regulations/certificate-of-waiver.md) cites this source for Aviation Safety Hub workflow details, supporting documentation, controlled airspace routing, and request-for-information responses.

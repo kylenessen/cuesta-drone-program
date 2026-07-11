@@ -12,11 +12,11 @@ Sometimes the orthomosaic is the whole product. Architects, planners, event orga
 
 ## Elevation and terrain products
 
-Photogrammetric processing produces a digital surface model of everything the camera sees, and with ground classification, a digital terrain model of bare earth where the ground is visible. Clients use these for drainage and grading studies, viewshed analysis, cut and fill estimation, and floodplain context. Contour lines derived from the terrain model are a common deliverable for site design. Buyers should understand that photogrammetric terrain models only represent ground the camera could see, a limitation covered in [Limits of Drone Mapping](/topics/limits-of-drone-mapping.md).
+Photogrammetric processing produces a digital surface model of everything the camera sees, and with ground classification, a digital terrain model of bare earth where the ground is visible. Clients use these for drainage and grading studies, viewshed analysis, cut and fill estimation, and floodplain context. Contour lines derived from the terrain model are a common deliverable for site design. Buyers should understand that photogrammetric terrain models only represent ground the camera could see, a limitation covered in [Limits of Drone Mapping](limits-of-drone-mapping.md).
 
 ## Change detection and monitoring over time
 
-Repeat flights over the same site turn maps into a time series. Clients include construction managers tracking earthwork, agencies monitoring erosion or coastal change, and restoration programs documenting vegetation recovery. The deliverable is a set of co-registered maps or elevation models plus an analysis of what changed. Doing this credibly is its own discipline, treated in [Change Detection and Repeat Mapping](/topics/change-detection-and-repeat-mapping.md).
+Repeat flights over the same site turn maps into a time series. Clients include construction managers tracking earthwork, agencies monitoring erosion or coastal change, and restoration programs documenting vegetation recovery. The deliverable is a set of co-registered maps or elevation models plus an analysis of what changed. Doing this credibly is its own discipline, treated in [Change Detection and Repeat Mapping](change-detection-and-repeat-mapping.md).
 
 ## Construction progress and stockpile volumes
 
@@ -28,19 +28,19 @@ Agencies and nonprofits use drone maps to document habitat condition, map invasi
 
 ## Agriculture overview
 
-Agricultural mapping uses RGB and multispectral sensors to produce plant health indices such as NDVI, stand counts, and drainage maps. The client is a grower or agronomist who uses the maps to target scouting, variable rate inputs, and replant decisions. University extension guidance notes that drones offer the highest resolution and most flexible timing among imagery sources for crop scouting, at the cost of covering less area per day than aircraft or satellites [5]. Agriculture rewards fast turnaround, since a stress map is only useful while there is still time to act on it. The agricultural work is deep enough to carry its own layer, and [Agricultural Drone Applications](/topics/agricultural-drone-applications.md) covers the use cases that pay, [Vegetation Indices](/topics/vegetation-indices.md) the index choices behind the maps, and [Prescription Maps](/topics/prescription-maps.md) the pipeline from map to machinery.
+Agricultural mapping uses RGB and multispectral sensors to produce plant health indices such as NDVI, stand counts, and drainage maps. The client is a grower or agronomist who uses the maps to target scouting, variable rate inputs, and replant decisions. University extension guidance notes that drones offer the highest resolution and most flexible timing among imagery sources for crop scouting, at the cost of covering less area per day than aircraft or satellites [5]. Agriculture rewards fast turnaround, since a stress map is only useful while there is still time to act on it. The agricultural work is deep enough to carry its own layer, and [Agricultural Drone Applications](agricultural-drone-applications.md) covers the use cases that pay, [Vegetation Indices](vegetation-indices.md) the index choices behind the maps, and [Prescription Maps](prescription-maps.md) the pipeline from map to machinery.
 
 ## Roof and site plans
 
-Inspection-adjacent mapping serves roofers, solar installers, and insurers. High overlap imagery of a single structure yields measurable roof models for material takeoffs and solar layout, and small-site orthomosaics support permit drawings and landscape plans. These jobs are small, fast, and often the entry point for new mapping businesses. Where any product touches property boundaries, the legal line described in [Drone Mapping and Licensed Surveying](/topics/drone-mapping-and-licensed-surveying.md) applies.
+Inspection-adjacent mapping serves roofers, solar installers, and insurers. High overlap imagery of a single structure yields measurable roof models for material takeoffs and solar layout, and small-site orthomosaics support permit drawings and landscape plans. These jobs are small, fast, and often the entry point for new mapping businesses. Where any product touches property boundaries, the legal line described in [Drone Mapping and Licensed Surveying](drone-mapping-and-licensed-surveying.md) applies.
 
 ## Related
 
-- [Orthomosaics](/topics/orthomosaics.md) and [Elevation Models](/topics/elevation-models.md) for the core products behind every application.
-- [Change Detection and Repeat Mapping](/topics/change-detection-and-repeat-mapping.md) for monitoring programs.
-- [Limits of Drone Mapping](/topics/limits-of-drone-mapping.md) for where these applications stop working.
-- [Mission Cost Analysis](/topics/mission-cost-analysis.md) for the economics underneath each product.
-- [Multispectral Imaging](/topics/multispectral-imaging.md) and [Agricultural Drone Applications](/topics/agricultural-drone-applications.md) for the agricultural sensing layer.
+- [Orthomosaics](orthomosaics.md) and [Elevation Models](elevation-models.md) for the core products behind every application.
+- [Change Detection and Repeat Mapping](change-detection-and-repeat-mapping.md) for monitoring programs.
+- [Limits of Drone Mapping](limits-of-drone-mapping.md) for where these applications stop working.
+- [Mission Cost Analysis](mission-cost-analysis.md) for the economics underneath each product.
+- [Multispectral Imaging](multispectral-imaging.md) and [Agricultural Drone Applications](agricultural-drone-applications.md) for the agricultural sensing layer.
 
 ## Citations
 

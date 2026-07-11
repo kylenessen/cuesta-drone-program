@@ -24,10 +24,10 @@ Public safety agencies fly under one of two frameworks. Under Part 107, the agen
 
 ## Related
 
-- [Thermal Imaging](/topics/thermal-imaging.md) for the sensor that anchors SAR and fire work.
-- [Infrastructure Inspection Operations](/topics/infrastructure-inspection-operations.md) for the neighboring skill set.
-- [Part 107](/regulations/part-107.md) and [Certificate of Waiver](/regulations/certificate-of-waiver.md) for the regulatory baseline these operations extend.
-- [Night Operations](/topics/night-operations.md) for the rules behind the productive SAR windows.
+- [Thermal Imaging](thermal-imaging.md) for the sensor that anchors SAR and fire work.
+- [Infrastructure Inspection Operations](infrastructure-inspection-operations.md) for the neighboring skill set.
+- [Part 107](../regulations/part-107.md) and [Certificate of Waiver](../regulations/certificate-of-waiver.md) for the regulatory baseline these operations extend.
+- [Night Operations](night-operations.md) for the rules behind the productive SAR windows.
 
 ## Citations
 

@@ -1,6 +1,6 @@
 # AUVSI Trusted Operator Program
 
-The **AUVSI Trusted Operator Program** (TOP) is a voluntary certification standard for drone pilots run by the Association for Uncrewed Vehicle Systems International. It exists to fill the gap the [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md) leaves open. Part 107 is a knowledge test with no flight assessment, so it proves someone may fly commercially, not that they can fly well. TOP layers a graded training standard and, at its upper levels, an in-person flight check on top of the FAA certificate [1] [3]. For Cuesta's curriculum the program matters less as a credential to award than as a syllabus to mine. Its training standard describes what a professional operator course should teach at each tier of operational risk, and its flight assessment describes what a defensible flight check looks like. The program's position is to make trusted operators whether AUVSI ever recognizes them or not, so this page documents the standard as raw material, with the organizational interface flagged separately as a program development option.
+The **AUVSI Trusted Operator Program** (TOP) is a voluntary certification standard for drone pilots run by the Association for Uncrewed Vehicle Systems International. It exists to fill the gap the [Part 107 Knowledge Test](part-107-knowledge-test.md) leaves open. Part 107 is a knowledge test with no flight assessment, so it proves someone may fly commercially, not that they can fly well. TOP layers a graded training standard and, at its upper levels, an in-person flight check on top of the FAA certificate [1] [3]. For Cuesta's curriculum the program matters less as a credential to award than as a syllabus to mine. Its training standard describes what a professional operator course should teach at each tier of operational risk, and its flight assessment describes what a defensible flight check looks like. The program's position is to make trusted operators whether AUVSI ever recognizes them or not, so this page documents the standard as raw material, with the organizational interface flagged separately as a program development option.
 
 ## The Levels
 
@@ -18,7 +18,7 @@ A community college syllabus from NCAT's partner network shows Level 2 taught as
 
 ## The Practical Flight Assessment
 
-Levels 2 and 3 require a Practical Flight Assessment, or PFA, delivered in person or, at some providers, remotely by video with instructor approval [4] [5]. Embry-Riddle's course pages give the most concrete picture of what the PFA involves. Flight standards follow ASTM F3266, the standard guide for training remote pilots, and the assessment apparatus is built to NIST standards, meaning the same bucket stand test lane infrastructure documented in [Flight Proficiency and Practice Exercises](/topics/flight-proficiency-and-practice-exercises.md) [6] [7]. Candidates fly a commercial off the shelf aircraft with a gimbaled RGB camera, must present a current remote pilot certificate and pilot logbook, and are warned that passing is not guaranteed [6] [7]. Certification at Level 2 additionally requires verification of training markers and a completed TOP compliance worksheet alongside the PFA itself [8], and the NCAT syllabus grades its terminal exercise as a check-ride style application of everything in the course [11].
+Levels 2 and 3 require a Practical Flight Assessment, or PFA, delivered in person or, at some providers, remotely by video with instructor approval [4] [5]. Embry-Riddle's course pages give the most concrete picture of what the PFA involves. Flight standards follow ASTM F3266, the standard guide for training remote pilots, and the assessment apparatus is built to NIST standards, meaning the same bucket stand test lane infrastructure documented in [Flight Proficiency and Practice Exercises](../topics/flight-proficiency-and-practice-exercises.md) [6] [7]. Candidates fly a commercial off the shelf aircraft with a gimbaled RGB camera, must present a current remote pilot certificate and pilot logbook, and are warned that passing is not guaranteed [6] [7]. Certification at Level 2 additionally requires verification of training markers and a completed TOP compliance worksheet alongside the PFA itself [8], and the NCAT syllabus grades its terminal exercise as a check-ride style application of everything in the course [11].
 
 For AERO 100 this is the central finding. The TOP flight assessment and the course's existing NIST test lane capstone are built on the same apparatus and the same measurement philosophy, so AERO 100 already contains the core of a TOP style PFA. What TOP adds around the lane is the check-ride framing, meaning the flight is one scored element inside a larger assessment that also covers a preflight risk assessment, documentation and logbook review, and ground control station and autonomous flight execution.
 
@@ -38,11 +38,11 @@ NCAT, the NSF funded National Center for Autonomous Technology, runs a mentor an
 
 ## Related
 
-- [Flight Proficiency and Practice Exercises](/topics/flight-proficiency-and-practice-exercises.md) for the NIST test lane apparatus the TOP flight assessment shares with AERO 100's capstone.
-- [Infrastructure Inspection Operations](/topics/infrastructure-inspection-operations.md) for the work Levels 2 and 3 credential, and the PG&E context for the provider question.
-- [Flying Near Energized Infrastructure](/topics/flying-near-energized-infrastructure.md) for the subject matter behind Level 3's electrical sector assessment.
-- [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md) for the FAA certificate every TOP level presumes.
-- [Level 1 Thermography Certification](/exams/level-1-thermography-certification.md) for the inspection credential with clearer market pull.
+- [Flight Proficiency and Practice Exercises](../topics/flight-proficiency-and-practice-exercises.md) for the NIST test lane apparatus the TOP flight assessment shares with AERO 100's capstone.
+- [Infrastructure Inspection Operations](../topics/infrastructure-inspection-operations.md) for the work Levels 2 and 3 credential, and the PG&E context for the provider question.
+- [Flying Near Energized Infrastructure](../topics/flying-near-energized-infrastructure.md) for the subject matter behind Level 3's electrical sector assessment.
+- [Part 107 Knowledge Test](part-107-knowledge-test.md) for the FAA certificate every TOP level presumes.
+- [Level 1 Thermography Certification](level-1-thermography-certification.md) for the inspection credential with clearer market pull.
 
 ## Citations
 
@@ -56,6 +56,6 @@ NCAT, the NSF funded National Center for Autonomous Technology, runs a mentor an
 [8] Consortiq, AUVSI TOP Level 2 Training. https://consortiq.com/drone-solutions-for-your-organization/auvsi-trusted-operator-program-training/auvsi-top-level-2-training
 [9] DARTdrones, DARTdrones Helps Bring Drone Pilots to the Top of the Market with AUVSI's Trusted Operator Program. https://www.dartdrones.com/blog/early-adopter-auvsi-trusted-operator-program/
 [10] NCAT, TOP Training. https://ncatech.org/top-training/
-[11] [NCAT TOP Level 2 Course Syllabus](/sources/ncat-top-level-2-syllabus.md), preserved in this wiki.
+[11] [NCAT TOP Level 2 Course Syllabus](../sources/ncat-top-level-2-syllabus.md), preserved in this wiki.
 [12] InnovateEnergy, Learn About AUVSI's Trusted Operator Program. https://innovateenergynow.com/resources/learn-about-auvsis-trusted-operator-program
 [13] Embry-Riddle Professional Education, TOP Remote Pilot Instructor Recertification Practical Flight Assessment (sUAS 4040RPIPFA). https://www.enrole.com/erau/jsp/course.jsp?categoryId=&courseId=SUAS-4040RPIPFA

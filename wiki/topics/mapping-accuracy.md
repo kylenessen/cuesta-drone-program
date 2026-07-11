@@ -4,7 +4,7 @@
 
 ## Horizontal versus vertical accuracy
 
-Horizontal accuracy describes error in easting and northing. Vertical accuracy describes error in elevation, and for photogrammetry it is reliably the weaker of the two. The reasons are structural. Height in a photogrammetric model comes from parallax between overlapping images, so vertical precision degrades with the base-to-height geometry of near-vertical photography. Errors in the self-calibrated camera model, especially focal length and radial distortion, project preferentially into the vertical, producing systematic doming or bowling of the surface. And the vertical result additionally rides on the datum chain described in [Vertical Datums and Geoid Models](/topics/vertical-datums-and-geoid-models.md), where a mishandled geoid shifts everything by tens of meters. A practical rule of thumb is to expect vertical RMSE two to three times the horizontal RMSE from the same flight, and to plan checkpoints accordingly.
+Horizontal accuracy describes error in easting and northing. Vertical accuracy describes error in elevation, and for photogrammetry it is reliably the weaker of the two. The reasons are structural. Height in a photogrammetric model comes from parallax between overlapping images, so vertical precision degrades with the base-to-height geometry of near-vertical photography. Errors in the self-calibrated camera model, especially focal length and radial distortion, project preferentially into the vertical, producing systematic doming or bowling of the surface. And the vertical result additionally rides on the datum chain described in [Vertical Datums and Geoid Models](vertical-datums-and-geoid-models.md), where a mishandled geoid shifts everything by tens of meters. A practical rule of thumb is to expect vertical RMSE two to three times the horizontal RMSE from the same flight, and to plan checkpoints accordingly.
 
 ## The ASPRS standards
 
@@ -16,7 +16,7 @@ RMSE is the square root of the mean of squared differences between coordinates m
 
 ## Validating with independent checkpoints
 
-The test points must not have participated in the adjustment. Checkpoints are surveyed with the same care as control, ideally with an RTK rover on fixed solutions as described in [Ground Control Points](/topics/ground-control-points.md), distributed evenly across the product and across the site's elevation range [2]. After processing, each checkpoint's map-derived coordinates are compared to its surveyed coordinates and the residuals feed the RMSE computation. Software-reported GCP residuals and the optimistic accuracy summaries in processing reports are not validation. They describe the fit of the adjustment to its own constraints. Only withheld checkpoints measure the product. For coursework-scale projects the full 30-checkpoint regime is impractical, but the logic holds at any scale. Even three to five withheld points expose gross errors and give an honest, if statistically weak, estimate.
+The test points must not have participated in the adjustment. Checkpoints are surveyed with the same care as control, ideally with an RTK rover on fixed solutions as described in [Ground Control Points](ground-control-points.md), distributed evenly across the product and across the site's elevation range [2]. After processing, each checkpoint's map-derived coordinates are compared to its surveyed coordinates and the residuals feed the RMSE computation. Software-reported GCP residuals and the optimistic accuracy summaries in processing reports are not validation. They describe the fit of the adjustment to its own constraints. Only withheld checkpoints measure the product. For coursework-scale projects the full 30-checkpoint regime is impractical, but the logic holds at any scale. Even three to five withheld points expose gross errors and give an honest, if statistically weak, estimate.
 
 ## Common causes of accuracy failure
 
@@ -24,11 +24,11 @@ Most failed accuracy tests trace to a short list. Datum confusion is first, an e
 
 ## Related
 
-- [Ground Control Points](/topics/ground-control-points.md) for the checkpoints that make claims testable.
-- [RTK and PPK Positioning](/topics/rtk-and-ppk-positioning.md) for the survey accuracy underneath the assessment.
-- [Vertical Datums and Geoid Models](/topics/vertical-datums-and-geoid-models.md) for the largest single failure mode.
-- [Ground Sample Distance](/topics/ground-sample-distance.md) for why resolution and accuracy are separate claims.
-- [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md) for the credential from the body that publishes these standards, and [ASPRS Geospatial Intern Program](/exams/asprs-geospatial-intern-program.md) for the student pathway into it.
+- [Ground Control Points](ground-control-points.md) for the checkpoints that make claims testable.
+- [RTK and PPK Positioning](rtk-and-ppk-positioning.md) for the survey accuracy underneath the assessment.
+- [Vertical Datums and Geoid Models](vertical-datums-and-geoid-models.md) for the largest single failure mode.
+- [Ground Sample Distance](ground-sample-distance.md) for why resolution and accuracy are separate claims.
+- [ASPRS Certified UAS Technologist](../exams/asprs-certified-uas-technologist.md) for the credential from the body that publishes these standards, and [ASPRS Geospatial Intern Program](../exams/asprs-geospatial-intern-program.md) for the student pathway into it.
 
 ## Citations
 

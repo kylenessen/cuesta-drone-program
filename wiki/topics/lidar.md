@@ -10,7 +10,7 @@ A single pulse can produce multiple returns. Part of the beam may reflect off a 
 
 ## Lidar versus photogrammetry
 
-Photogrammetry reconstructs geometry by matching the same textured surface across overlapping photos. That premise defines both its strengths and its failures. Over bare ground and hard surfaces with good texture, drone photogrammetry with RTK and ground control produces excellent, inexpensive results with true-color detail that lidar cannot match. Its known failure modes, developed in [Limits of Drone Mapping](/topics/limits-of-drone-mapping.md), are the cases where lidar earns its cost.
+Photogrammetry reconstructs geometry by matching the same textured surface across overlapping photos. That premise defines both its strengths and its failures. Over bare ground and hard surfaces with good texture, drone photogrammetry with RTK and ground control produces excellent, inexpensive results with true-color detail that lidar cannot match. Its known failure modes, developed in [Limits of Drone Mapping](limits-of-drone-mapping.md), are the cases where lidar earns its cost.
 
 Vegetation is the classic one. Photogrammetry can only model what the camera sees, so under closed canopy it reconstructs the top of the vegetation, not the ground. Lidar pulses exploit small canopy gaps, and enough last returns reach the ground to build a real terrain model under forest. Texture is the second. Uniform surfaces such as fresh asphalt, sand, snow, and water give image matching nothing to grip, while an active laser does not care about texture. Thin structures are the third. Wires, lattice towers, and railings defeat dense image matching but appear cleanly in lidar, which is one reason utilities value it for transmission corridors.
 
@@ -26,10 +26,10 @@ The honest decision rule is simple. If the deliverable is terrain under vegetati
 
 ## Related
 
-- [Drone Payloads](/topics/drone-payloads.md) for lidar as the canonical active sensor.
-- [Limits of Drone Mapping](/topics/limits-of-drone-mapping.md) for the photogrammetry failures that justify it.
-- [Elevation Models](/topics/elevation-models.md) for the terrain products both methods feed.
-- [RTK and PPK Positioning](/topics/rtk-and-ppk-positioning.md) for the trajectory accuracy lidar depends on.
+- [Drone Payloads](drone-payloads.md) for lidar as the canonical active sensor.
+- [Limits of Drone Mapping](limits-of-drone-mapping.md) for the photogrammetry failures that justify it.
+- [Elevation Models](elevation-models.md) for the terrain products both methods feed.
+- [RTK and PPK Positioning](rtk-and-ppk-positioning.md) for the trajectory accuracy lidar depends on.
 
 ## Citations
 

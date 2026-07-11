@@ -12,5 +12,5 @@ Machine-extracted text is preserved as `nssl-uas-sop.txt`. Extraction is readabl
 
 ## Used By
 
-- [Field Operations Best Practices](/topics/field-operations-best-practices.md) cites this source for crew minimums, personal protective equipment, crew safety equipment, and duty limits as an example of institutional SOP practice.
-- [Aviation Weather Sources](/topics/aviation-weather-sources.md) cites this source for the documented weather check as a preflight checklist item.
+- [Field Operations Best Practices](../topics/field-operations-best-practices.md) cites this source for crew minimums, personal protective equipment, crew safety equipment, and duty limits as an example of institutional SOP practice.
+- [Aviation Weather Sources](../topics/aviation-weather-sources.md) cites this source for the documented weather check as a preflight checklist item.

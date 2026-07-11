@@ -16,7 +16,7 @@ The ionosphere is the largest error source for single-frequency receivers. Free 
 
 ## Consumer versus survey-grade accuracy
 
-A GPS-enabled smartphone is typically accurate to within about a 4.9 meter radius under open sky, and worse near buildings and trees [4]. A drone's standalone onboard receiver performs in the same general class, a few meters horizontally, often worse vertically. Survey-grade equipment reaches a different regime entirely by using the carrier wave itself rather than the code, together with corrections from a nearby base station. The Emlid Reach RS4 specifies RTK accuracy of 7 millimeters plus 1 part per million horizontally and 14 millimeters plus 1 part per million vertically [5]. That is roughly a three order of magnitude difference between navigation and survey positioning. The techniques that make it possible are covered in [RTK and PPK Positioning](/topics/rtk-and-ppk-positioning.md).
+A GPS-enabled smartphone is typically accurate to within about a 4.9 meter radius under open sky, and worse near buildings and trees [4]. A drone's standalone onboard receiver performs in the same general class, a few meters horizontally, often worse vertically. Survey-grade equipment reaches a different regime entirely by using the carrier wave itself rather than the code, together with corrections from a nearby base station. The Emlid Reach RS4 specifies RTK accuracy of 7 millimeters plus 1 part per million horizontally and 14 millimeters plus 1 part per million vertically [5]. That is roughly a three order of magnitude difference between navigation and survey positioning. The techniques that make it possible are covered in [RTK and PPK Positioning](rtk-and-ppk-positioning.md).
 
 ## Why standalone drone GNSS gives meter-level maps
 
@@ -24,10 +24,10 @@ A photogrammetric map built only from a drone's standalone GNSS geotags can look
 
 ## Related
 
-- [RTK and PPK Positioning](/topics/rtk-and-ppk-positioning.md) for the correction techniques that reach centimeters.
-- [Ground Control Points](/topics/ground-control-points.md) for tying maps to the ground independently of the aircraft.
-- [Mapping Accuracy](/topics/mapping-accuracy.md) for how positioning quality is measured and reported.
-- [Vertical Datums and Geoid Models](/topics/vertical-datums-and-geoid-models.md) for what GNSS heights actually mean.
+- [RTK and PPK Positioning](rtk-and-ppk-positioning.md) for the correction techniques that reach centimeters.
+- [Ground Control Points](ground-control-points.md) for tying maps to the ground independently of the aircraft.
+- [Mapping Accuracy](mapping-accuracy.md) for how positioning quality is measured and reported.
+- [Vertical Datums and Geoid Models](vertical-datums-and-geoid-models.md) for what GNSS heights actually mean.
 
 ## Citations
 

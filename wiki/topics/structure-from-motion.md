@@ -30,17 +30,17 @@ The dense cloud is typically the first true deliverable of the pipeline, often c
 
 An SfM solve is internally consistent but needs external information to sit in the right place on Earth. The first source is the image geotags written by the drone's onboard GNSS. Standard consumer GNSS geotags are accurate to only a few meters, so a project referenced by geotags alone will have absolute accuracy in that same range even when relative accuracy is excellent [4]. RTK-equipped platforms with corrected geotags, such as a Matrice with an RTK module paired against a base like an Emlid unit, tighten this to centimeters [5].
 
-The second source is [Ground Control Points](/topics/ground-control-points.md), surveyed targets marked in the images. In Metashape the workflow is to import GCP coordinates into the Reference pane, place each marker on the photos where it appears, and set appropriate accuracy values for both markers and camera coordinates so the adjustment weights each observation correctly [2]. Agisoft recommends distinguishing control points, which constrain the solution, from check points, which are withheld and used only to measure residual error [3].
+The second source is [Ground Control Points](ground-control-points.md), surveyed targets marked in the images. In Metashape the workflow is to import GCP coordinates into the Reference pane, place each marker on the photos where it appears, and set appropriate accuracy values for both markers and camera coordinates so the adjustment weights each observation correctly [2]. Agisoft recommends distinguishing control points, which constrain the solution, from check points, which are withheld and used only to measure residual error [3].
 
 Adding control after alignment does not by itself change the geometry. The critical final step is camera optimization. Running Optimize Cameras re-executes the bundle adjustment with the control point observations included, refining camera poses and calibration against the ground truth [2]. Skipping optimization after marking GCPs is one of the most common beginner errors, since the markers will then report error values against a solution they never influenced.
 
 ## Related
 
-- [Orthomosaics](/topics/orthomosaics.md) and [Elevation Models](/topics/elevation-models.md) for the products built on this solve.
-- [Ground Control Points](/topics/ground-control-points.md) for the control that anchors the adjustment.
-- [Photogrammetry Software](/topics/photogrammetry-software.md) for the tools that implement the pipeline.
-- [Digital Imaging](/topics/digital-imaging.md) for the image data the pipeline consumes.
-- [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md) for the mapping credential this processing knowledge feeds.
+- [Orthomosaics](orthomosaics.md) and [Elevation Models](elevation-models.md) for the products built on this solve.
+- [Ground Control Points](ground-control-points.md) for the control that anchors the adjustment.
+- [Photogrammetry Software](photogrammetry-software.md) for the tools that implement the pipeline.
+- [Digital Imaging](digital-imaging.md) for the image data the pipeline consumes.
+- [ASPRS Certified UAS Technologist](../exams/asprs-certified-uas-technologist.md) for the mapping credential this processing knowledge feeds.
 
 ## Citations
 

@@ -34,10 +34,10 @@ The practical symptom is a beautiful orthomosaic that lands several meters off w
 
 ## Related
 
-- [Structure from Motion](/topics/structure-from-motion.md) for the reconstruction underneath the mosaic.
-- [Elevation Models](/topics/elevation-models.md) for the surface the rectification depends on.
-- [Ground Control Points](/topics/ground-control-points.md) and [RTK and PPK Positioning](/topics/rtk-and-ppk-positioning.md) for fixing absolute position.
-- [Lighting and Sun Angle for Mapping](/topics/lighting-and-sun-angle-for-mapping.md) for the lighting artifacts that end up in seams.
+- [Structure from Motion](structure-from-motion.md) for the reconstruction underneath the mosaic.
+- [Elevation Models](elevation-models.md) for the surface the rectification depends on.
+- [Ground Control Points](ground-control-points.md) and [RTK and PPK Positioning](rtk-and-ppk-positioning.md) for fixing absolute position.
+- [Lighting and Sun Angle for Mapping](lighting-and-sun-angle-for-mapping.md) for the lighting artifacts that end up in seams.
 
 ## Citations
 

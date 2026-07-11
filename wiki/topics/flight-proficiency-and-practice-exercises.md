@@ -32,16 +32,16 @@ Target centering drills close the progression by adding the camera task. The pil
 
 ## A check-ride around the lane
 
-The lane is also the apparatus behind the industry's main third party flight check. The [AUVSI Trusted Operator Program](/exams/auvsi-trusted-operator-program.md) requires an in-person Practical Flight Assessment at its upper levels, and Embry-Riddle delivers that assessment on apparatus built to NIST standards, with flight standards drawn from ASTM F3266, the standard guide for remote pilot training [5] [6]. AERO 100's NIST Level 2 capstone therefore already contains the flying half of a professional flight assessment, which is useful validation for the capstone choice.
+The lane is also the apparatus behind the industry's main third party flight check. The [AUVSI Trusted Operator Program](../exams/auvsi-trusted-operator-program.md) requires an in-person Practical Flight Assessment at its upper levels, and Embry-Riddle delivers that assessment on apparatus built to NIST standards, with flight standards drawn from ASTM F3266, the standard guide for remote pilot training [5] [6]. AERO 100's NIST Level 2 capstone therefore already contains the flying half of a professional flight assessment, which is useful validation for the capstone choice.
 
 What the Trusted Operator assessment adds around the lane is the check-ride framing, and that framing is worth borrowing as the capstone matures. In a TOP style assessment the scored flight is one element inside a larger evaluation. Candidates complete a preflight risk assessment of the site and aircraft on a written form, present a logbook and documentation for review, demonstrate ground control station operations, and execute an autonomous mission in addition to flying manual maneuvers [5]. Dressed this way, the capstone becomes a rehearsal for professional flight evaluation rather than a timed game: the student briefs the site, documents the aircraft, flies the lane for score, then hands the examiner a defensible paper trail. Each added element is cheap to run and directly mirrors what employers' flight programs and third party assessors actually check.
 
 ## Related
 
-- [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md) for the knowledge half of AERO 100's outcomes.
-- [AUVSI Trusted Operator Program](/exams/auvsi-trusted-operator-program.md) for the certification standard whose flight assessment shares this apparatus.
-- [Field Operations Best Practices](/topics/field-operations-best-practices.md) for the operational habits built on these stick skills.
-- [Camera Exposure](/topics/camera-exposure.md) for the exposure control the Level 2 lane tests.
+- [Part 107 Knowledge Test](../exams/part-107-knowledge-test.md) for the knowledge half of AERO 100's outcomes.
+- [AUVSI Trusted Operator Program](../exams/auvsi-trusted-operator-program.md) for the certification standard whose flight assessment shares this apparatus.
+- [Field Operations Best Practices](field-operations-best-practices.md) for the operational habits built on these stick skills.
+- [Camera Exposure](camera-exposure.md) for the exposure control the Level 2 lane tests.
 
 ## Citations
 

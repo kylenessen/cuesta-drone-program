@@ -18,7 +18,7 @@ Legacy data, lost markers, and opportunistic flights mean control is often incon
 
 ## Seasonal and radiometric differences
 
-Change detection compares appearance as well as geometry, and appearance changes for reasons that have nothing to do with the site. Sun angle differs between a June flight and a December flight, moving shadows and altering apparent texture. Vegetation phenology changes color and canopy volume seasonally, so a surface model of a shrub field can rise and fall with the seasons even when the ground is static. Wet versus dry soil changes tone. Programs that care about vegetation or landform trends should schedule flights at the same time of year, and ideally similar time of day, so that seasonal signal does not masquerade as change. Where the target is the ground surface itself, seasonal canopy differences argue for flying in the leaf-off or low growth season, or for lidar, as discussed in [Limits of Drone Mapping](/topics/limits-of-drone-mapping.md).
+Change detection compares appearance as well as geometry, and appearance changes for reasons that have nothing to do with the site. Sun angle differs between a June flight and a December flight, moving shadows and altering apparent texture. Vegetation phenology changes color and canopy volume seasonally, so a surface model of a shrub field can rise and fall with the seasons even when the ground is static. Wet versus dry soil changes tone. Programs that care about vegetation or landform trends should schedule flights at the same time of year, and ideally similar time of day, so that seasonal signal does not masquerade as change. Where the target is the ground surface itself, seasonal canopy differences argue for flying in the leaf-off or low growth season, or for lidar, as discussed in [Limits of Drone Mapping](limits-of-drone-mapping.md).
 
 ## The elevation differencing trap
 
@@ -30,11 +30,11 @@ A defensible repeat mapping program is designed before the first flight. Install
 
 ## Related
 
-- [Ground Control Points](/topics/ground-control-points.md) for the permanent control that anchors a program.
-- [Elevation Models](/topics/elevation-models.md) for the surfaces being differenced.
-- [Mapping Accuracy](/topics/mapping-accuracy.md) for the uncertainty math the thresholds rest on.
-- [Lighting and Sun Angle for Mapping](/topics/lighting-and-sun-angle-for-mapping.md) for the seasonal light consistency problem.
-- [Applications of Drone Mapping](/topics/applications-of-drone-mapping.md) for the monitoring programs this serves.
+- [Ground Control Points](ground-control-points.md) for the permanent control that anchors a program.
+- [Elevation Models](elevation-models.md) for the surfaces being differenced.
+- [Mapping Accuracy](mapping-accuracy.md) for the uncertainty math the thresholds rest on.
+- [Lighting and Sun Angle for Mapping](lighting-and-sun-angle-for-mapping.md) for the seasonal light consistency problem.
+- [Applications of Drone Mapping](applications-of-drone-mapping.md) for the monitoring programs this serves.
 
 ## Citations
 

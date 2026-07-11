@@ -24,9 +24,9 @@ For routine orthomosaic work, well-exposed JPEGs are usually sufficient, and mos
 
 ## Related
 
-- [Digital Imaging](/topics/digital-imaging.md) for sensor physics, demosaicing, and bit depth.
-- [Camera Exposure](/topics/camera-exposure.md) for using this hardware well in flight.
-- [Ground Sample Distance](/topics/ground-sample-distance.md) for how the camera geometry sets the pixel footprint.
+- [Digital Imaging](digital-imaging.md) for sensor physics, demosaicing, and bit depth.
+- [Camera Exposure](camera-exposure.md) for using this hardware well in flight.
+- [Ground Sample Distance](ground-sample-distance.md) for how the camera geometry sets the pixel footprint.
 
 ## Citations
 

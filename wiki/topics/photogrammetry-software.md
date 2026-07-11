@@ -30,11 +30,11 @@ For planning purposes, a typical student dataset of 200 to 500 images processed 
 
 ## Related
 
-- [Structure from Motion](/topics/structure-from-motion.md) for the pipeline these products implement.
-- [Orthomosaics](/topics/orthomosaics.md) and [Elevation Models](/topics/elevation-models.md) for the outputs.
-- [Mission Planning Software](/topics/mission-planning-software.md) for the capture side of the toolchain.
-- [Geospatial Data Management](/topics/geospatial-data-management.md) for handling what the software produces.
-- [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md) for the credential that tests data processing and product generation.
+- [Structure from Motion](structure-from-motion.md) for the pipeline these products implement.
+- [Orthomosaics](orthomosaics.md) and [Elevation Models](elevation-models.md) for the outputs.
+- [Mission Planning Software](mission-planning-software.md) for the capture side of the toolchain.
+- [Geospatial Data Management](geospatial-data-management.md) for handling what the software produces.
+- [ASPRS Certified UAS Technologist](../exams/asprs-certified-uas-technologist.md) for the credential that tests data processing and product generation.
 
 ## Citations
 

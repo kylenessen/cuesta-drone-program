@@ -16,11 +16,11 @@ If some resolution is good, more is not automatically better. Halving flight alt
 
 ## Vegetation and the case for lidar
 
-Photogrammetry maps the first surface the camera sees. Under canopy or dense brush, that surface is vegetation, not ground, and no amount of overlap fixes it. This is widely described as photogrammetry's most fundamental limitation for terrain work [2]. Lidar mitigates it because laser pulses pass through gaps in the canopy and return from the ground, allowing ground classification even under substantial cover, though lidar cannot penetrate solid foliage either and fails under truly closed, layered canopy [2] [3]. Published comparisons report photogrammetric terrain error several times larger than lidar error in vegetated areas [4]. For bare or sparsely vegetated sites, photogrammetry is usually the better value. For forested terrain, channel networks under riparian canopy, or brush covered slopes, the right answers are drone lidar, leaf-off timing, or conceding the ground surface entirely. The tradeoffs are developed in [Lidar](/topics/lidar.md).
+Photogrammetry maps the first surface the camera sees. Under canopy or dense brush, that surface is vegetation, not ground, and no amount of overlap fixes it. This is widely described as photogrammetry's most fundamental limitation for terrain work [2]. Lidar mitigates it because laser pulses pass through gaps in the canopy and return from the ground, allowing ground classification even under substantial cover, though lidar cannot penetrate solid foliage either and fails under truly closed, layered canopy [2] [3]. Published comparisons report photogrammetric terrain error several times larger than lidar error in vegetated areas [4]. For bare or sparsely vegetated sites, photogrammetry is usually the better value. For forested terrain, channel networks under riparian canopy, or brush covered slopes, the right answers are drone lidar, leaf-off timing, or conceding the ground surface entirely. The tradeoffs are developed in [Lidar](lidar.md).
 
 ## Accuracy ceilings
 
-Well executed drone photogrammetry with quality ground control routinely reaches a few centimeters horizontal and vertical, and the ASPRS Positional Accuracy Standards provide the framework for stating and testing such claims [5]. That is excellent for most mapping, but it is a ceiling, not a starting point. Vertical accuracy is typically worse than horizontal. Checkpoint statistics describe well-defined points on favorable surfaces, not every pixel. And accuracy claims without independent checkpoints are marketing. Applications that require millimeter-level certainty, or the legally authoritative positioning discussed in [Drone Mapping and Licensed Surveying](/topics/drone-mapping-and-licensed-surveying.md), are outside the tool's reach on both technical and legal grounds.
+Well executed drone photogrammetry with quality ground control routinely reaches a few centimeters horizontal and vertical, and the ASPRS Positional Accuracy Standards provide the framework for stating and testing such claims [5]. That is excellent for most mapping, but it is a ceiling, not a starting point. Vertical accuracy is typically worse than horizontal. Checkpoint statistics describe well-defined points on favorable surfaces, not every pixel. And accuracy claims without independent checkpoints are marketing. Applications that require millimeter-level certainty, or the legally authoritative positioning discussed in [Drone Mapping and Licensed Surveying](drone-mapping-and-licensed-surveying.md), are outside the tool's reach on both technical and legal grounds.
 
 ## Regulatory constraints as area limits
 
@@ -28,11 +28,11 @@ Under 14 CFR 107.31, the remote pilot or a supporting crew member must keep the 
 
 ## Related
 
-- [Lidar](/topics/lidar.md) for the active sensing alternative under vegetation.
-- [Mapping Accuracy](/topics/mapping-accuracy.md) for the framework behind accuracy ceilings.
-- [Remote Sensing Platforms](/topics/remote-sensing-platforms.md) for where drones sit against aircraft and satellites.
-- [Part 108 BVLOS Rulemaking](/regulations/part-108-bvlos-rulemaking.md) for the pending rule that could relax the line of sight limit.
-- [Mission Cost Analysis](/topics/mission-cost-analysis.md) for the economics of the crossover.
+- [Lidar](lidar.md) for the active sensing alternative under vegetation.
+- [Mapping Accuracy](mapping-accuracy.md) for the framework behind accuracy ceilings.
+- [Remote Sensing Platforms](remote-sensing-platforms.md) for where drones sit against aircraft and satellites.
+- [Part 108 BVLOS Rulemaking](../regulations/part-108-bvlos-rulemaking.md) for the pending rule that could relax the line of sight limit.
+- [Mission Cost Analysis](mission-cost-analysis.md) for the economics of the crossover.
 
 ## Citations
 

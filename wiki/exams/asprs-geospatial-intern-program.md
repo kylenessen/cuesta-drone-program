@@ -1,8 +1,8 @@
 # ASPRS Geospatial Intern Program
 
-The **ASPRS Geospatial Intern Program** is the student on-ramp to certification by the American Society for Photogrammetry and Remote Sensing (ASPRS), the professional society for photogrammetry, remote sensing, and the mapping sciences. Full ASPRS certifications, including the [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md), require years of professional experience that no student has. The intern program removes exactly that barrier. A student still enrolled applies with one faculty reference and a transcript, sits the same certification examination the professionals take, and on passing holds an intern designation from a certification program accredited by the Council of Engineering and Scientific Specialty Boards [1] [3]. The designation then matures into full certification once the graduate accumulates the required experience on the job, with no second examination.
+The **ASPRS Geospatial Intern Program** is the student on-ramp to certification by the American Society for Photogrammetry and Remote Sensing (ASPRS), the professional society for photogrammetry, remote sensing, and the mapping sciences. Full ASPRS certifications, including the [ASPRS Certified UAS Technologist](asprs-certified-uas-technologist.md), require years of professional experience that no student has. The intern program removes exactly that barrier. A student still enrolled applies with one faculty reference and a transcript, sits the same certification examination the professionals take, and on passing holds an intern designation from a certification program accredited by the Council of Engineering and Scientific Specialty Boards [1] [3]. The designation then matures into full certification once the graduate accumulates the required experience on the job, with no second examination.
 
-For Cuesta's drone program this is the mechanism that could let a graduating student leave with a national professional credential already in hand, earned against coursework from [AERO 100](/sources/aero-100-course-outline.md) and the mapping course. The program's written record has a significant gap, however. The current edition of the ASPRS certification guidelines no longer describes the intern program, so the mechanics below rest on the 2019 guidelines and an archived ASPRS application page, and several facts need confirmation directly from ASPRS before the pathway is promised to students [1] [2] [3].
+For Cuesta's drone program this is the mechanism that could let a graduating student leave with a national professional credential already in hand, earned against coursework from [AERO 100](../sources/aero-100-course-outline.md) and the mapping course. The program's written record has a significant gap, however. The current edition of the ASPRS certification guidelines no longer describes the intern program, so the mechanics below rest on the 2019 guidelines and an archived ASPRS application page, and several facts need confirmation directly from ASPRS before the pathway is promised to students [1] [2] [3].
 
 ## How the Program Works
 
@@ -14,7 +14,7 @@ The application goes to ASPRS Headquarters for peer review by the Evaluation for
 
 The intern sits the same examination as a full certification candidate for the chosen specialty. All ASPRS certification exams are computer-based tests administered through Prometric, taken either at a Prometric testing center or by remote proctoring, with results delivered immediately [1]. Technologist examinations run no longer than two hours, against four hours for the Scientist level [1]. Prometric charges its own testing fee on top of the ASPRS application fee [1].
 
-The published content matrix for the Certified UAS Technologist exam is roughly 70 percent UAS subject matter, with the remainder spread evenly across mathematics, earth science, engineering and surveying, physics, and professional and ethical practice at about 6 percent each [1]. That mix sits squarely on the knowledge a drone mapping curriculum teaches, from [Structure from Motion](/topics/structure-from-motion.md) and [Mapping Accuracy](/topics/mapping-accuracy.md) through [Part 107 Operating Rules](/regulations/part-107-operating-rules.md). An approved applicant who fails the first attempt may retake the exam once within six months, paying only the Prometric testing fee again. A second failure requires a full reapplication with fees and updated references [1].
+The published content matrix for the Certified UAS Technologist exam is roughly 70 percent UAS subject matter, with the remainder spread evenly across mathematics, earth science, engineering and surveying, physics, and professional and ethical practice at about 6 percent each [1]. That mix sits squarely on the knowledge a drone mapping curriculum teaches, from [Structure from Motion](../topics/structure-from-motion.md) and [Mapping Accuracy](../topics/mapping-accuracy.md) through [Part 107 Operating Rules](../regulations/part-107-operating-rules.md). An approved applicant who fails the first attempt may retake the exam once within six months, paying only the Prometric testing fee again. A second failure requires a full reapplication with fees and updated references [1].
 
 ## From Intern to Certified UAS Technologist
 
@@ -22,7 +22,7 @@ The intern designation is built to convert. A Technologist Intern has five years
 
 Educational credit shortens the experience clock. The current guidelines allow a degree to count for half a year of experience in the Technologist track, listing bachelor's, master's, and doctoral degrees [1]. A Department of Defense credentialing profile for an ASPRS technologist certification states that an associate or higher degree counts one half year toward total time, which would apply directly to a Cuesta associate degree, but the guidelines themselves do not name associate degrees, so this needs confirmation [7]. Under that reading, a graduate working in drone mapping could reach full Certified UAS Technologist roughly two and a half years into their first job, comfortably inside the five year window even with a slow start or a career detour.
 
-ASPRS certification is specialty recognition by professional peers, not a license. It does not substitute for state licensure where licensure applies, a distinction that matters in mapping work and is developed in [Drone Mapping and Licensed Surveying](/topics/drone-mapping-and-licensed-surveying.md) [1].
+ASPRS certification is specialty recognition by professional peers, not a license. It does not substitute for state licensure where licensure applies, a distinction that matters in mapping work and is developed in [Drone Mapping and Licensed Surveying](../topics/drone-mapping-and-licensed-surveying.md) [1].
 
 ## Fees
 
@@ -56,17 +56,17 @@ The following could not be confirmed from available sources and should be resolv
 
 ## Related
 
-- [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md) for the full credential this pathway leads to.
-- [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md) for the FAA credential students earn first, and [Level 1 Thermography Certification](/exams/level-1-thermography-certification.md) for the parallel inspection credential.
-- [Mapping Accuracy](/topics/mapping-accuracy.md) for the ASPRS accuracy standards students already work against in coursework.
-- [Drone Mapping and Licensed Surveying](/topics/drone-mapping-and-licensed-surveying.md) for the certification versus licensure boundary.
-- [Applications of Drone Mapping](/topics/applications-of-drone-mapping.md) for the work the credential is recognized in.
+- [ASPRS Certified UAS Technologist](asprs-certified-uas-technologist.md) for the full credential this pathway leads to.
+- [Part 107 Knowledge Test](part-107-knowledge-test.md) for the FAA credential students earn first, and [Level 1 Thermography Certification](level-1-thermography-certification.md) for the parallel inspection credential.
+- [Mapping Accuracy](../topics/mapping-accuracy.md) for the ASPRS accuracy standards students already work against in coursework.
+- [Drone Mapping and Licensed Surveying](../topics/drone-mapping-and-licensed-surveying.md) for the certification versus licensure boundary.
+- [Applications of Drone Mapping](../topics/applications-of-drone-mapping.md) for the work the credential is recognized in.
 
 ## Citations
 
-[1] [ASPRS Certification Manual](/sources/asprs-certification-manual.md), the current ASPRS Certification and Recertification Guidelines, preserved with original PDF.
-[2] [ASPRS Certification Manual (2019)](/sources/asprs-certification-manual-2019.md), revision of July 12, 2019, containing the Geospatial Intern Program section and intern fee table.
-[3] [ASPRS Intern Application Page](/sources/asprs-intern-application-page.md), the archived "How To Apply - Interns" page from the former ASPRS website.
+[1] [ASPRS Certification Manual](../sources/asprs-certification-manual.md), the current ASPRS Certification and Recertification Guidelines, preserved with original PDF.
+[2] [ASPRS Certification Manual (2019)](../sources/asprs-certification-manual-2019.md), revision of July 12, 2019, containing the Geospatial Intern Program section and intern fee table.
+[3] [ASPRS Intern Application Page](../sources/asprs-intern-application-page.md), the archived "How To Apply - Interns" page from the former ASPRS website.
 [4] USC GIS, GIS Certifications: Everything You Need To Know (March 5, 2026). https://gis.usc.edu/blog/professional-graduate-gis-certifications/
 [5] GoGeomatics, GIS Certification: ASPRS Certification. https://gogeomatics.ca/gis-certification-asprs-certification/
 [6] ASPRS, ASPRS Certification Program. https://www.asprs.org/certification
