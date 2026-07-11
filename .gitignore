@@ -7,5 +7,10 @@ basecamp.toml
 
 # Word lock files
 ~$*.docx
-/.obsidian
-/wiki/.obsidian
+
+# Obsidian: share config (theme, plugins, settings) across devices,
+# but ignore per-device UI state so it does not churn in commits.
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/cache
+**/.obsidian/*.log
