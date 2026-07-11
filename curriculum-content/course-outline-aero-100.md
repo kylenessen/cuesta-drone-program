@@ -21,6 +21,7 @@ The rules that make commercial drone flight legal, and the certificate that make
 - [Operations Over People](../wiki/regulations/operations-over-people.md): the four-category system governing flight over people and moving vehicles.
 - [Certificate of Waiver](../wiki/regulations/certificate-of-waiver.md): which rules can be waived and how, framed as awareness of what becomes possible beyond the defaults.
 - [Part 108 BVLOS Rulemaking](../wiki/regulations/part-108-bvlos-rulemaking.md): the pending beyond visual line of sight rule, covered briefly so students see where the industry is heading.
+- [Aeronautical Publications and References](../wiki/topics/aeronautical-publications-and-references.md): the reference shelf around the rules, from the CFR and advisory circulars to the Chart Supplement, UAS abbreviations, and the media that keep a certificated pilot current.
 
 ## Unit 3: Airspace and Navigation
 
@@ -29,6 +30,7 @@ The heaviest-weighted knowledge test area and a genuine field skill, knowing whe
 - [Airspace Classification](../wiki/topics/airspace-classification.md): classes A through G, special use airspace, and other designated areas.
 - [Sectional Chart](../wiki/topics/sectional-chart.md): reading the chart, the tested skill behind nearly every airspace question.
 - [Airspace Authorization](../wiki/topics/airspace-authorization.md): LAANC in practice, grid ceilings, DroneZone, and the day-of clearance workflow.
+- [Notices to Airmen (NOTAMs)](../wiki/topics/notams.md): the time-critical notices that close airspace on short notice, TFRs, and the preflight checking habit.
 - [Airport Operations](../wiki/topics/airport-operations.md): airport types, traffic patterns, markings, and where to find airport data.
 - [Radio Communications](../wiki/topics/radio-communications.md): CTAF, UNICOM, ATIS, and the phraseology remote pilots monitor near airports.
 
@@ -63,6 +65,7 @@ Keeping the aircraft airworthy and responding when things go wrong. Battery safe
 
 The proficiency half of the course, run as recurring field sessions throughout the term rather than a single block.
 
+- [UAV Flight Operations](../wiki/topics/uav-flight-operations.md): the anatomy of a single flight, from preflight programming through takeoff, in-flight control, sensor operation, approach, and landing.
 - [Flight Proficiency and Practice Exercises](../wiki/topics/flight-proficiency-and-practice-exercises.md): the NIST test lanes behind the AERO 100 flight test and the drills that build stick skills toward it.
 - [Field Operations Best Practices](../wiki/topics/field-operations-best-practices.md): checklists, attention discipline, go/no-go judgment, shared airspace, and the human side of field days.
 - [Night Operations](../wiki/topics/night-operations.md): the 2021 night rules, anti-collision lighting, and twilight definitions.

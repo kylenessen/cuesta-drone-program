@@ -1,0 +1,32 @@
+# UAV Flight Operations
+
+**UAV Flight Operations** covers the anatomy of a single drone flight, from preflight programming through takeoff, in-flight control, and landing. It is the flight lab core of AERO 100: the course's second content unit names takeoff, aircraft control, preflight programming, turns around a point, positioning, altitude control, sensor operation, airspeed control, approach, and landing as the skills students must perform, culminating in the NIST Level 2 open lane test described in [Flight Proficiency and Practice Exercises](flight-proficiency-and-practice-exercises.md). That page covers the drills and the measurement; this one covers the flight itself, phase by phase. [1](../sources/ac-107-2a.md)
+
+## Preflight Programming and Setup
+
+Modern small UAS push much of the flight into configuration done on the ground. Before launch the remote pilot verifies the aircraft has acquired enough GNSS satellites for position hold and has recorded an accurate home point, then confirms the settings the aircraft will act on without further permission: the return-to-home altitude, chosen to clear every obstacle between the work area and home rather than left at a factory default, the lost-link failsafe behavior, altitude and distance limits, and any geofence. Camera and gimbal settings belong in the same pass, since fixing them on the ground is easier than fixing them at altitude. For automated work, mission planning apps let the pilot program waypoint routes, orbits, and mapping grids that the aircraft flies autonomously; the remote pilot in command remains responsible for the flight throughout, must maintain visual line of sight, and must be able to take manual control at any moment, so a programmed mission changes the workload, not the accountability. This configuration check rides on top of the section 107.49 preflight inspection covered in [Maintenance and Inspection](maintenance-and-inspection.md). [1](../sources/ac-107-2a.md)
+
+## Takeoff and Climb
+
+A good launch site is level, free of debris the rotor wash will throw, clear of people, and open enough overhead for a straight climb. The disciplined habit is a hover check: lift off to a few feet, hold, and confirm the aircraft is stable, responds correctly to small control inputs in every axis, and shows normal battery voltage under load before committing to the mission. Very near the ground the aircraft rides on ground effect, the efficiency gain described under [Loading and Performance](loading-and-performance.md), so the hover check happens in slightly flattering conditions; performance out of ground effect is what the mission gets. The climb to working altitude should stay within the 400 feet AGL ceiling and the rest of the [Part 107 Operating Rules](../regulations/part-107-operating-rules.md), and the pilot's eyes should stay predominantly on the aircraft, not the screen. [1](../sources/ac-107-2a.md) [2](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/helicopter_flying_handbook)
+
+## Aircraft Control
+
+Multirotor control decomposes into four inputs: throttle for altitude, yaw for heading, and pitch and roll for horizontal translation. GPS position hold makes the aircraft stop and stay when the sticks are released, which is the default teaching mode, but students should also fly attitude modes where the aircraft drifts with the wind, both because GPS can be lost mid-flight, as covered in [Emergency Procedures](emergency-procedures.md), and because drift correction builds the fine control the NIST lane scores. The operational skills layered on these inputs are precise positioning against a target, altitude control held within a few feet, airspeed control appropriate to the task and the remaining battery, since speed and aggressive inputs both cut endurance, and coordinated maneuvers such as turns around a point, where yaw and translation combine to keep the camera on a fixed subject. Payload operation, panning, tilting, and zooming the sensor, comes second in priority: stabilize the aircraft first, then work the camera. Wind complicates all of it, and the drift-correction habits are covered with the rest of the wind material in [Weather Effects on Performance](weather-effects-on-performance.md). [3](https://www.nist.gov/el/intelligent-systems-division-73500/level-1-3-open-test-lane-and-scenarios)
+
+## Approach and Landing
+
+Landing begins with a deliberate approach: return along a path clear of obstacles and people, confirm the landing zone, and descend under control rather than dumping altitude. Fast vertical descents through the aircraft's own downwash can put a rotor into vortex ring state, the condition helicopter pilots call settling with power, in which the rotor loses effectiveness inside its recirculating wake; descending with some forward motion, and slowing the descent rate near the ground, keeps the rotors in clean air. The final feet reintroduce ground effect and its dust and debris, so the touchdown should be positive rather than tentative, followed by disarming the motors before anyone approaches the aircraft. Programmed return-to-home automates the approach but not the judgment: the pilot verifies the descent point is actually clear and takes over manually when it is not. The postflight inspection and logging that close the flight are covered in [Maintenance and Inspection](maintenance-and-inspection.md). [2](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/helicopter_flying_handbook)
+
+## Related
+
+- [Flight Proficiency and Practice Exercises](flight-proficiency-and-practice-exercises.md) covers the drills and the NIST test that measure these skills.
+- [Field Operations Best Practices](field-operations-best-practices.md) covers the checklists and crew discipline wrapped around the flight.
+- [Loading and Performance](loading-and-performance.md) covers the performance margins these phases spend.
+- [Emergency Procedures](emergency-procedures.md) covers what happens when a phase goes wrong.
+
+## Citations
+
+[1] [AC 107-2A](../sources/ac-107-2a.md), paragraph 5.11 and Appendix A, preflight familiarization, inspection, and actions for aircraft operation.
+[2] FAA, Helicopter Flying Handbook (FAA-H-8083-21B), Chapter 2, Aerodynamics of Flight, ground effect and vortex ring state. https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/helicopter_flying_handbook
+[3] NIST, Level 1-3 Open Test Lane and Scenarios. https://www.nist.gov/el/intelligent-systems-division-73500/level-1-3-open-test-lane-and-scenarios
