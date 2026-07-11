@@ -6,11 +6,11 @@ This page anchors the course outline as evidence inside the wiki so that analyse
 
 ## Original Source
 
-The outline content summarized here is maintained in the repository at `curriculum-content/aero-100-content-ideas.md` (section "Topics from Approved Course Outline" and "Student Learning Outcomes"), which transcribes the official AERO 100 Course Outline Report. The official report is preserved in the repository root as `AVMT 100 Course Outline Report.pdf`.
+The outline content summarized here is maintained in the repository at `curriculum-content/aero-100-content-ideas.md` (section "Topics from Approved Course Outline" and "Student Learning Outcomes"), which transcribes the official AERO 100 Course Outline Report. The official report is preserved in the repository root as `AVMT 100 Course Outline Report.pdf`, a CurriQunet "All Fields" export dated December 5, 2025. Its full extracted text is in this folder as `aero-100-course-outline.txt`.
 
 ## Extraction Quality
 
-No extraction was needed; the repository file is already text. This anchor page summarizes rather than duplicates it, so consult the repository file for exact wording.
+The extracted text covers the complete CurriQunet report, including sections the content-ideas transcription omits: the proposal rationale, budget and facilities implications, credits and hours (2 lecture and 3 lab hours in class weekly, 162 total student hours, 3 units), the five course objectives with evaluation methods, the four assignments, the approved distance education section (synchronous and asynchronous, blended definition, with suggested accessibility and contact language), course cap (25), and the textbook and materials list. The extraction is machine-generated from the PDF, so line breaks fall mid-sentence and page headers and URLs from CurriQunet are interleaved, but the content is complete and legible. Consult it when drafting CurriQunet proposals for the other courses, since it shows every field the form expects.
 
 ## Used By
 

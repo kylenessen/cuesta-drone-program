@@ -1,0 +1,1644 @@
+12/5/25, 3:35 PM
+
+All Fields
+
+All Fields
+
+New Course Proposal: AERO 100 - BASIC UAV OPERATOR
+
+Co-Contributor
+
+Please visit the Cuesta CurrIQunet Meta Help Page for help, instructions, and tutorials:
+
+https://www.cuesta.edu/meta/docs/Help_Documents.pdf
+Contributor
+
+Open the Form Properties to select co-contributors and assign permissions.
+
+Basic Course Information
+
+Overview
+
+Is this a common course? No
+Banner Course Number
+
+Discipline AERO
+Course Number 100
+
+Full Course Title BASIC UAV OPERATOR
+
+Abbreviate Title Basic UAV
+Proposal Rationale
+
+This course is designed to meet the need for remote unmanned aerial vehicle operators in the district.  The FAA 
+
+requires pilots utilizing small unmanned aerial vehicles to have an FAA Airman Certificate pursuant 14 CFR Part 
+107.  Unmanned Aerial Vehicle technology is a growing industry as San Luis Obispo County is emerging as a 
+
+leader in the design and manufacture of these aircraft.  As this technology gains acceptance, there is anticipation 
+of increased usage in existing college programs to include survey/ civil engineering, real-estate and construction, 
+
+criminal justice, agriculture, transportation and logistics, fire technology, as well as aviation maintenance 
+
+programs.  This course is a foundational course as part of a broader integration of remote applications
+Catalog Description
+
+Prepares students to meet the Federal Aviation Administration requirements for certification to operate 
+Unmanned Aircraft Vehicles under 55 pounds for commercial operations pursuant  to 14 CFR 107.  Emphasizes 
+
+the safe, legal, and ethical aspects of UAV operations in civil, public, and commercial settings.  Includes special 
+
+emphasis on capabilities and limitations of optical payloads and sensors, flight operation planning, and safety.  
+Prepares students to safely operate UAV through all phases of flight to National Institute of Standards and 
+
+Technology Level 2 Open Area Maneuvering remote pilot proficiency standards.
+Schedule Description
+
+Prepares students to meet the Federal Aviation Administration requirements for certification to operate 
+
+Unmanned Aircraft Vehicles under 55 pounds for commercial operations pursuant  to 14 CFR 107.  Emphasizes 
+the safe, legal, and ethical aspects of UAV operations in civil, public, and commercial settings.  Includes special 
+
+emphasis on capabilities and limitations of optical payloads and sensors, flight operation planning, and safety.  
+Prepares students to safely operate UAV through all phases of flight to National Institute of Standards and 
+
+Technology Level 2 Open Area Maneuvering remote pilot proficiency standards.
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+1/22
+
+12/5/25, 3:35 PM
+
+Implications
+
+Budget No
+Justification
+
+Facilities Yes
+Justification
+
+All Fields
+
+Flight operations may be conducted outside the normal classroom, include open areas where flight operations 
+
+can be safely conducted.
+Equipment Yes
+
+Justification
+Will require small UAV's for practical application.
+
+Staffing Yes
+
+Justification
+14 CFR Part 107 Drone Operators are needed to safely oversee student flight operations.
+
+Similar Course No
+
+Justification
+Assignments ARE College Level Yes
+
+ESL/Basic Skills Course No
+Distance Education No
+
+Correspondence Education No
+
+Component of Program
+
+Credits and Hours
+
+Course Type D - Credit - Degree Applicable
+Course has variable hours No
+
+Hours
+
+Min Lecture Hours - in class 2.000
+Min Lab Hours - in class 3.000
+
+Min Activity Hours - in class
+Min Work Experience
+
+TBA Hours per term
+
+Min Lecture Hours - out of class
+Min Lab Hours - out of class
+
+Min Additional Instructor Contact Hours Per Week
+Min Work Experience
+
+Max Hours
+
+Max Lecture Hours - in class
+Max Lab Hours - in class
+
+Max Activity Hours - in class
+
+Max Work Experience
+Max Lecture Hours - out of class
+
+Max Lab Hours - out of class
+Max Additional Instructor Contact Hours Per Week
+
+Max Work Experience
+
+Total Student Hours and Credit
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+2/22
+
+12/5/25, 3:35 PM
+
+All Fields
+
+Hours/Week Hours/Term
+
+Lecture Hours - in class
+
+Lecture Hours - out of class
+
+Lab Hours - in class
+
+Lab Hours - out of class
+
+Activity Hours - in class
+
+Activity Hours - out of class
+
+Work Experience Hours
+
+TBA Hours per term
+
+Total Student Hours per term
+
+Hours per unit Divisor
+
+Units of Credit
+
+Grading Method
+
+Letter Grade Only
+
+Repeatability
+
+2.00
+
+4.00
+
+3.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+36.00
+
+72.00
+
+54.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+162.00
+
+54
+
+3.00
+
+For repeatability information, please consult the college catalog
+Is this course repeatable? No
+
+Number of times this course can be repeated for credit
+
+Justification of Repeatability
+
+Cross-Listed Courses
+
+This Course Is Cross-Listed No
+This course is part of the following cross listing
+
+Minimum Qualifications
+
+Minimum Qualifications
+
+1.  Minimum Qualification Aeronautics
+
+Condition
+
+Comments
+
+Methods of Instruction
+
+Lab Yes
+Lecture Yes
+
+Activity No
+
+Distance Education Yes
+Correspondence Education No
+
+Work Experience No
+Directed Study No
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+3/22
+
+ 
+All Fields
+
+12/5/25, 3:35 PM
+
+Field Trips No
+
+Field Experience No
+Tutor Non-credit No
+
+DE Synchronous Yes
+DE Asynchronous Yes
+
+Lecture/Lab Yes
+
+Student Learning Outcomes
+
+If this course is not part of a program of study, click here to map these SLOs directly to ILOs. Yes
+
+Outcome
+
+1.  Outcome Text
+
+Demonstrate mastery of FAA Part 107 small unmanned aerial vehicle knowledge topics, including 
+
+airspace, aviation weather, aircraft loading, emergency procedures, crew resource management, 
+aeronautical decision-making, and airport operations, by passing a written exam on these topics with 
+
+a minimum passing score of 80 percent.
+
+Institution Outcome Map
+
+CLO(ILO) to SLO Map Top ILO Grouping(Delta)
+
+a. Recognize, assess, and demonstrate the skills and behaviors that promote academic and
+professional development
+
+CLO(ILO) to SLO Map Top ILO Grouping(Delta)
+
+a. Draw conclusions based on the scientific method, computations or experimental and
+observational evidence.
+
+2.  Outcome Text
+
+Safely maneuver a small unmanned aerial vehicle through an open test lane using the National 
+
+Institute of Standards and Technology Level 2 standard course within the NIST-prescribed time limit 
+
+(25 minutes).
+Institution Outcome Map
+
+CLO(ILO) to SLO Map Top ILO Grouping(Delta)
+a. Recognize, assess, and demonstrate the skills and behaviors that promote academic and
+
+professional development
+
+CLO(ILO) to SLO Map Top ILO Grouping(Delta)
+c. Demonstrate the professional skills necessary for successful employment
+
+Objectives
+
+Objectives
+
+If an Objective cannot be deleted, make sure a Content-Review found in the Content Validation Page is not using
+
+that objective.
+
+1.  Objective
+
+Perform preflight inspection to identify maintenance deficiencies that adversely affect aircraft 
+
+performance.
+Methods of Evaluation
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+4/22
+
+12/5/25, 3:35 PM
+
+All Fields
+
+Class Performance(s)
+
+Quizzes/Exams
+Performance Exams
+
+Other No
+Other Methods
+
+2.  Objective
+
+Calculate the performance of UAV to include weight and balance, takeoff and climb, endurance, and 
+aerodynamic effects based on actual and forecast aviation weather.
+
+Methods of Evaluation
+
+Class Performance(s)
+
+Quizzes/Exams
+
+Performance Exams
+
+Other No
+
+Other Methods
+
+3.  Objective
+
+Implement appropriate decision making and judgment to mitigate risk based on human factor 
+
+considerations.
+Methods of Evaluation
+
+Field Work
+
+Performance Exams
+
+Other No
+
+Other Methods
+
+4.  Objective
+
+Demonstrate knowledge of regulations, airport operations procedures, aviation weather, radio 
+
+communication procedures, emergency procedures, airspace, and navigation to FAA Part 107 
+standards.
+
+Methods of Evaluation
+
+Quizzes/Exams
+
+Essay Exams
+
+Performance Exams
+
+Other No
+
+Other Methods
+
+5.  Objective
+
+Perform a flight of an unmanned aerial vehicle to the  "Open Lane Level II NIST Standard Test 
+
+Methods for small Unmanned Aircraft Systems (sUAS). The U.S. National Institute of Standards and 
+Technology (NIST) quantitatively evaluates various system capabilities and remote pilot proficiency.
+
+Methods of Evaluation
+
+Performance Exams
+
+Other No
+
+Other Methods
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+5/22
+
+12/5/25, 3:35 PM
+
+Topics and Scope
+
+Detailed Topical Outline
+Add topics individually, one at a time.
+
+All Fields
+
+1.  Topic
+
+Maintenance and Preflight Inspection Procedures
+
+Regulatory Requirements for Maintenance
+
+Preflight Inspection
+Postflight Inspection
+
+Manufacturer Inspection Intervals
+Battery Maintenance
+
+Flight and Maintenance Logs
+
+Maintenance, Repair, and Replacement of Components
+
+Objectives
+
+Perform preflight inspection to identify maintenance deficiencies that adversely affect
+
+aircraft performance.
+Perform a flight of an unmanned aerial vehicle to the "Open Lane Level II NIST Standard
+
+Test Methods for small Unmanned Aircraft Systems (sUAS). The U.S. National Institute of
+Standards and Technology (NIST) quantitatively evaluates various system capabilities and
+
+remote pilot proficiency.
+
+2.  Topic
+
+UAV Flight Operations
+
+Takeoff
+Aircraft Control
+
+Preflight Programming
+
+Turns around a point
+Aircraft Positioning
+
+Altitude Control
+Sensor Zoom/Pan/Tilt
+
+Airspeed Control
+
+Approach
+Landing
+
+Objectives
+
+Perform a flight of an unmanned aerial vehicle to the "Open Lane Level II NIST Standard
+
+Test Methods for small Unmanned Aircraft Systems (sUAS). The U.S. National Institute of
+
+Standards and Technology (NIST) quantitatively evaluates various system capabilities and
+remote pilot proficiency.
+
+3.  Topic
+
+Emergency Procedures
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+6/22
+
+12/5/25, 3:35 PM
+
+All Fields
+
+Contingency Planning
+
+Ground Emergencies
+Inflight Emergencies
+
+Emergency Communications
+
+Objectives
+
+Demonstrate knowledge of regulations, airport operations procedures, aviation weather,
+
+radio communication procedures, emergency procedures, airspace, and navigation to FAA
+Part 107 standards.
+
+4.  Topic
+
+Human Factors
+
+Health and Environmental Factors
+
+Decision Making and Judgment
+Risk Management and Aeronautical Decision Making
+
+Objectives
+
+Implement appropriate decision making and judgment to mitigate risk based on human
+factor considerations.
+
+5.  Topic
+
+Aircraft Performance
+
+Weight and Balance Calculations
+
+Density Altitude
+Takeoff and Climb Performance
+
+Endurance
+Landing Distance
+
+Aerodynamics
+
+Ground Effect
+
+Objectives
+
+Calculate the performance of UAV to include weight and balance, takeoff and climb,
+endurance, and aerodynamic effects based on actual and forecast aviation weather.
+
+6.  Topic
+
+Aviation Weather Theory, Sources, and Effects on Performance
+
+Fronts, Stability, Clouds, and Thunderstorms
+
+Fog
+
+Structural Icing and Frost
+Weather Sources for Aviation Operations
+
+The AWC Home Page (NWS Aviation Weather Center)
+Practical Sources for the Remote Pilot
+
+Automated Weather Reporting Stations
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+7/22
+
+ 
+12/5/25, 3:35 PM
+
+All Fields
+
+Objectives
+
+Calculate the performance of UAV to include weight and balance, takeoff and climb,
+endurance, and aerodynamic effects based on actual and forecast aviation weather.
+
+Demonstrate knowledge of regulations, airport operations procedures, aviation weather,
+radio communication procedures, emergency procedures, airspace, and navigation to FAA
+
+Part 107 standards.
+
+7.  Topic
+
+Airport and Off-Airport Operations
+
+Operations at Non-Tower Airports
+Operations at Airports with Control Towers
+
+Off-Airport Operations
+
+Flying at Night
+
+Objectives
+
+Demonstrate knowledge of regulations, airport operations procedures, aviation weather,
+
+radio communication procedures, emergency procedures, airspace, and navigation to FAA
+Part 107 standards.
+
+8.  Topic
+
+Airspace and Navigation
+
+Aeronautical Charts
+
+Knowing Where You Can Fly
+Geographical Coordinates
+
+Chart Reading
+Airspace
+
+Correcting for Wind Drift
+
+Special Use Airspace
+
+Objectives
+
+Demonstrate knowledge of regulations, airport operations procedures, aviation weather,
+radio communication procedures, emergency procedures, airspace, and navigation to FAA
+
+Part 107 standards.
+
+9.  Topic
+
+Regulations, Procedures, and Other Aeronautical References
+
+UAS Terms and Abbreviations
+
+Types of UAV, Components and Uses of UAV
+Government Regulations and Other Procedures Publications
+
+FAA Chart Supplements
+Advisory Circulars
+
+Notices to Airmen
+
+Aviation Media
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+8/22
+
+12/5/25, 3:35 PM
+
+All Fields
+
+Objectives
+
+Demonstrate knowledge of regulations, airport operations procedures, aviation weather,
+radio communication procedures, emergency procedures, airspace, and navigation to FAA
+
+Part 107 standards.
+
+Assignments
+
+Add assignments individually, one at a time. Include a minimum of two Critical Thinking examples, and a
+
+minimum of two Independent Work examples.
+
+1.  Assignment Type
+
+Assignment
+Perform preflight calculations to determine if flight can be safely conducted based on aircraft 
+
+performance, knowledge of aviation weather, forecast products, and airspace.
+
+Course Objective
+
+Calculate the performance of UAV to include weight and balance, takeoff and climb,
+
+endurance, and aerodynamic effects based on actual and forecast aviation weather.
+
+Implement appropriate decision making and judgment to mitigate risk based on human
+factor considerations.
+
+Demonstrate knowledge of regulations, airport operations procedures, aviation weather,
+radio communication procedures, emergency procedures, airspace, and navigation to FAA
+
+Part 107 standards.
+
+2.  Assignment Type
+Assignment
+
+Perform small unmanned aerial vehicle flight to the standard test methods found in NIST sUAS open 
+lane Level II standards by maneuvering a sUAS over selected targets in specific sequence and land 
+
+aircraft safely.
+
+Course Objective
+
+Perform a flight of an unmanned aerial vehicle to the "Open Lane Level II NIST Standard
+
+Test Methods for small Unmanned Aircraft Systems (sUAS). The U.S. National Institute of
+Standards and Technology (NIST) quantitatively evaluates various system capabilities and
+
+remote pilot proficiency.
+
+3.  Assignment Type
+Assignment
+
+Based on knowledge of the weather, approved aviation weather forecast sources, and mission 
+requirements, determine if flight can be safely conducted near an airport with an operating control 
+
+tower.
+
+Course Objective
+
+Demonstrate knowledge of regulations, airport operations procedures, aviation weather,
+
+radio communication procedures, emergency procedures, airspace, and navigation to FAA
+
+Part 107 standards.
+
+4.  Assignment Type
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+9/22
+
+12/5/25, 3:35 PM
+
+All Fields
+
+Assignment
+
+Perform a technical preflight inspection of aircraft in accordance with the manufacturer's 
+recommendations, determine if safe for flight, and calculate expected in-flight endurance.
+
+Course Objective
+
+Perform preflight inspection to identify maintenance deficiencies that adversely affect
+
+aircraft performance.
+
+Calculate the performance of UAV to include weight and balance, takeoff and climb,
+endurance, and aerodynamic effects based on actual and forecast aviation weather.
+
+Implement appropriate decision making and judgment to mitigate risk based on human
+factor considerations.
+
+Methods of Evaluation
+
+Evaluation Method
+Please select all items listed except "Other" (select "Other" only if needed).
+
+Field Work
+
+Class Performance(s)
+Quizzes/Exams
+
+Essay Exams
+Performance Exams
+
+Other No
+
+Other Methods
+
+Course Cap
+
+Course Cap 25
+Face to face 25
+
+DE modality 25
+
+Course Category 9 - Lab - Small (20-30)
+  Chosen Cap is within the selected range of the definition
+
+Assignments
+Select at least one assignment that aligns with the course category selected.
+
+Perform a technical preflight inspection of aircraft in accordance with the manufacturer's
+
+recommendations, determine if safe for flight, and calculate expected in-flight endurance.
+AssignmentType
+
+Perform small unmanned aerial vehicle flight to the standard test methods found in NIST sUAS open
+lane Level II standards by maneuvering a sUAS over selected targets in specific sequence and land
+
+aircraft safely.
+
+AssignmentType
+
+Methods of Evaluation
+
+Select at least one method of evaluation that aligns with the course category selected.
+
+Performance Exams
+Field Work
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+10/22
+
+12/5/25, 3:35 PM
+
+All Fields
+
+Class Performance(s)
+
+If you have additional alignment in objectives or another area in your COR then explain this in the following
+box
+
+Library
+
+Typical library usages for students in this course are
+
+Access to computers for obtaining real-time weather for preflight calculations and internet access for aircraft 
+
+performance capabilities and limitations.
+Library currently has necessary resources for students to complete course assignments. Yes
+
+Text, Reading, and Materials
+
+Textbook
+
+1.  Author David Ison
+
+Title The Complete Remote Pilot
+Edition 3rd
+
+City Newcastle, Washington
+
+Publisher Aviation Supplies & Academies, Inc.
+Year of Publication 2025
+
+Rationale for Textbooks Older than 5 Years
+
+OER
+
+Manual
+
+1.  Author DJI
+
+Title Mavic Drone Manua
+
+Pub Date 2025
+Publisher DJI
+
+Periodical
+
+Software
+
+Other
+
+1.  Description
+
+Access to online aviation weather services provided by the National Weather Service - Aviation 
+
+Weather Center.
+
+Requisites & Advisories
+
+This course has requisites. No
+
+Requisites
+Any requisites which are used in the Content Review section below must be removed before removing the
+
+requisite in this section.
+
+Content Review
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+11/22
+
+12/5/25, 3:35 PM
+
+All Fields
+
+For all course prerequisites, corequisites, and advisories, you will need to demonstrate that the content of the
+
+proposed course as reflected in the course outline clearly builds upon and requires the content of the
+prerequisite, corequisite, or advisory. To demonstrate this requirement, for each prerequisite, corequisite, or
+
+advisory designated, identify at least three Assignments, Objectives, SLOs, and/or other skills that students will
+learn in the prerequisite/corequisite/advisory that is essential to the successful completion of the proposed
+
+course, and align it with the Assignment/Objective/SLOs/other skill in the proposed course that builds upon that
+
+knowledge.
+Query output
+
+Cuesta General Education
+
+General Education Categories (effective 2025)
+
+To propose adding a course to one of the eight G.E. Areas, please review the Area Rubric definitions, objectives,
+
+and/or core competencies that the course may satisfy. Click on Help link for documents for individual G.E. Areas
+to complete and upload to the Attached Files section of this proposal.
+
+General Education Categories and Requirements (ended 2025)
+
+General Education Learning Outcomes
+Please select the General Education Learning Outcome(s) that this course supports:
+
+Through this program, students will acquire the ability to :
+
+Graduation Requirements (ended 2025)
+
+Transfer General Education
+
+General Education
+
+Distance Education
+
+Modality Limit
+See Current Caps Policy for details of proposing different DE Modality Limits than Face-to-face Modality Limits:
+
+AP 4023 Establishment and Modification of Course Caps.
+
+Modality specific terms will be used when a course has been approved in Distance Education mode. Since a face-to-
+
+face (f2f) modality (even excluding enrollment maximum differences because of room space) may be lower than the
+Course Cap (if the DE modality is higher) and a face-to-face modality may not be an Enrollment Maximum since
+
+these are dependent on classrooms, it is possible to have a f2f number that is neither a course cap nor enrollment
+
+max. Therefore, "Face-to-Face Modality Limit" and "DE Modality Limit" will be the terms used when distinguishing
+between modality limits. Once the course has been approved in DE mode the CurricUNET will automatically add
+
+the following categories on the COR to be populated after course cap approvals.
+Course Cap 25
+
+Face to face 25
+
+Face to face override
+DE modality 25
+
+DE modality override
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+12/22
+
+12/5/25, 3:35 PM
+
+All Fields
+
+Distance Education Course Definition
+
+Check the box(es) that apply for the appropriate definition for this course.
+
+Blended (BL): A combination of face-to-face and distance education with less than 51% of the hours of
+
+instruction provided through distance education.
+
+Accessibility
+
+Both the Faculty designing or revising a DE course and the District have an obligation to ensure all course
+
+materials have "built in" accommodation for students with disabilities-- i.e. closed or open captioning,
+descriptive narration and/or interface design/content layout, which is accessible to "industry standard" assistive
+
+computer technology in common use by persons with disabilities. (Section 55200) Describe how the DE course
+design accommodates students with disabilities. Web pages must conform to the standards for accessibility as
+
+specified in Section 508 of the Rehabilitation Act (http://www.access-board.gov/sec508/guide/1194.22.htm).
+
+There are several ways to check web pages for compliance with these standards. Cuesta College policies and
+resources are available at http://academic.cuesta.edu/acasupp/DSPS/curbcut/index.htm.
+
+Describe how the DE course design and any built-in accommodation to course materials accommodate students
+
+with disabilities; see Curriculum Handbook for Title V requirements
+
+Use Suggested Language Yes
+
+Create My Own Response No
+Enter own language/description
+
+Check the boxes of the types of accessibility that will be used in this course
+
+Content within the shell is accessible
+Pdf files are accessible
+
+Videos will be captioned
+Handouts will be formatted for a screen reader
+
+Images will have ALT tags and descriptions
+
+Regular and Effective Contact
+Any portion of a course conducted through distance education shall include regular effective contact between
+
+instructor and students, through group or individual meetings, orientation and review sessions, supplemental
+seminar or study sessions, field trips, library workshops, telephone contact, correspondence, voice mail, e-mail,
+
+or other activities (55204-a). Describe how regular and effective contact among instructor and students will be
+
+facilitated. Effective contact between instructor and students is based on timeliness of delivery (response to an
+emailed student question is usually within two working days), accuracy of the subject matter, and provision in a
+
+manner and medium appropriate to the significance of the message and the abilities of the student. Describe
+
+specific synchronous and asynchronous modes.
+Use Suggested Language Yes
+
+Create My Own Response No
+Enter own language/description
+
+Instructor-to-student Contact
+
+Online threaded discussion forums with appropriate instructor feedback
+Daily No
+
+Weekly Yes
+Bi-weekly No
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+13/22
+
+12/5/25, 3:35 PM
+
+Other No
+
+All Fields
+
+Description of Other Instructor-to-Student Contact
+Email
+
+Daily No
+Weekly Yes
+
+Bi-weekly No
+
+Other No
+Description of Other Instructor-to-Student Contact
+
+Messaging to individual students
+Daily No
+
+Weekly Yes
+
+Bi-weekly No
+Other No
+
+Description of Other Instructor-to-Student Contact
+
+Constructive and timely feedback on student work
+Daily No
+
+Weekly Yes
+Bi-weekly No
+
+Other No
+
+Description of Other Instructor-to-Student Contact
+Office hours (asynchronous or synchronous)- in person or electronic
+
+Daily No
+Weekly Yes
+
+Bi-weekly No
+
+Other No
+Description of Other Instructor-to-Student Contact
+
+Created materials (written, recorded, broadcast, etc.) that, combined with other course materials,
+creates the “virtual equivalent” of face-to-face class
+
+Daily No
+
+Weekly Yes
+Bi-weekly No
+
+Other No
+
+Description of Other Instructor-to-Student Contact
+Facilitating student to student contact
+
+Daily No
+Weekly Yes
+
+Bi-weekly No
+
+Other No
+Description of Other Instructor-to-Student Contact
+
+Student-to-student Contact
+
+Email
+
+Daily No
+
+Weekly No
+Bi-weekly No
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+14/22
+
+12/5/25, 3:35 PM
+
+Other No
+
+All Fields
+
+Description of Other Student-to-Student Contact
+Online threaded discussion forums
+
+Daily No
+Weekly Yes
+
+Bi-weekly No
+
+Other No
+Description of Other Student-to-Student Contact
+
+Adaptations of Methods, Materials, and Delivery of Instruction
+DE Instructors Help Sheet: The DE course design must adapt the learning environment present in a traditional
+
+course. Describe both the adaptation of the method of instruction and the communication and computing
+
+technologies used to deliver the instruction. If the delivery system is not an industry standard, such as Moodle,
+provide some detail in describing its features and their function. Also describe any special software or
+
+technology students will have to purchase and if the technology will be provided in any campus labs. Indicate if
+
+the text and materials of the traditional class are being supplemented or replaced.
+Use Suggested Language Yes
+
+Create My Own Response No
+Enter own language/description
+
+Adaptations of Assignments and Activities
+
+Describe how assignments and activities will be disseminated. If the Course Outline of record indicates that the
+course requires critical thinking, special presentations, or activities, describe how they will be incorporated.
+
+Select how Assignments and Activities will be adapted
+
+Cuesta College LMS formatting used
+
+Assignments uploaded into the Cuesta College LMS
+Students will "talk" to each other via discussion boards
+
+Web-specific links used
+Required text reading
+
+Class presentations using software
+
+Other No
+Other Assignments
+
+Adaptations to Methods of Evaluation
+
+Describe how the instructor will appropriately verify that students have met the course objectives, including if
+proctored exams will be required and if so, how they will be administered. Specifically describe any special
+
+software or process used in the adaptation. Specifically describe any special software or process used in the
+adaptation.
+
+This might include:
+
+proctored exams
+timed-online or password-protected testing environments
+
+comparing submitted papers with sample writing assignments or discussion posts
+
+use of plagiarism detection software (such as TurnItIn.com)
+face-to-face demonstrations of knowledge or skill
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+15/22
+
+12/5/25, 3:35 PM
+
+All Fields
+
+Use Suggested Language Yes
+
+Create My Own Response No
+Enter own language/description
+
+Method of Evaluation DE
+Select how Methods of Evaluation will be adapted and indicate if plagiarism will be evaluated
+
+Assignments uploaded or typed into the Cuesta College LMS
+
+Plagiarism Evaluation Yes
+Student interaction via discussion boards
+
+Plagiarism Evaluation Yes
+Timed-online or password-protected testing environments
+
+Plagiarism Evaluation Yes
+
+Face-to-face demonstrations of knowledge or skill
+Plagiarism Evaluation Yes
+
+Other No
+
+Plagiarism Evaluation
+Student Authentication
+
+View the student authentication PowerPoint presentation: http://www.3cmediasolutions.org/privid/9183?
+key=c8edd9a986ea954be6cf0ea456f3e99bc977737a Select the method(s) used to authenticate students in this
+
+course
+
+Teach course in Cuesta College’s current LMS Yes
+Require monitored exams with Student ID No
+
+Use plagiarism detection software Yes
+Provide clear examples of appropriate and inappropriate behavior regarding academic honesty Yes
+
+Require written acceptance of appropriate academic honesty policies by students Yes
+
+Practice regular and effective instructor-student contact Yes
+Provide multiple opportunities for authentic assessment No
+
+Employ multiple assessment strategies to maintain active student engagement Yes
+Other No
+
+Description of other
+
+Correspondence Education
+
+Instruction Materials
+
+All materials will be due to the CE Program by the CE deadline. All instructional materials must be in print form
+except for nonprint requirements specified below. Instructional materials will be reviewed, approved,
+
+copied/purchased, and delivered to the correctional facility prior to the start of the semester. All course materials
+
+will be ADA compliant.
+
+The correctional facility will review all materials delivered to incarcerated students to ensure compliance with
+
+CDCR Title 15 criteria (no communication that does not directly relate to the subject and content of the course,
+no personal communication, no personal stories, and strictly no mention of topics related to sex, violence, legal
+
+matters, law enforcement, which again is not specifically and directly part of the course). All submitted research
+articles, topical papers, and materials needed for students to complete course requirements will be selected by
+
+the instructor with those content requirements in mind.
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+16/22
+
+12/5/25, 3:35 PM
+
+All Fields
+
+Incarcerated students may not have access to computers and internet resources. All readings for research
+projects will be supplied in the instructional materials packet. This may include but is not limited to passages
+
+from the textbook, journal articles, or other printed materials. Expectations for students to follow a specific
+writing format style (MLA, APA, Chicago, etc.) will be clearly communicated on the assignment or syllabus.
+
+Course materials and assignments will attempt to replicate the engagement and thought processes that occur
+during instructor-led discussions in the face-to-face and distance education modalities.
+
+Materials that can be delivered to your students for correspondence instruction include:
+
+Course Syllabus- The syllabus serves as the comprehensive guide for the student to complete the course
+independently. It shall provide clear indications of all course requirements, including but not limited to:
+
+the CE communication process (including Correspondence Form)
+
+guidance for course pacing and workflow
+required readings
+
+assignment expectations
+
+Course Textbook/Required Readings — The textbook name, edition, and availability will be confirmed by
+
+the institution's CE program staff.
+
+Print Handout Materials — Typical supplemental handout materials may include, but are not limited to:
+
+Slide presentations (printed)
+
+Instructional resources from the textbook publisher — downloaded from an authorized website.
+Research articles related to the course — downloaded from an authorized website
+
+Optional:
+
+Nonprint Materials — All nonprint materials will be ADA compliant (e.g. videos will be close-captioned).
+
+Optional:
+
+Assignments
+A description of each assignment for the entire term will be clearly indicated on the syllabus and the instructional
+
+materials packet. Students may be required to sign an honor statement.
+
+Course Quiz/Exam/Assessment Proctoring Requirements (select one option)
+Regular Effective Contact
+
+Education Code requires that correspondence education ensures substantive faculty-student interaction.
+
+Per proposed Title 5 regulations: "Both modalities [Distance Education and Correspondence] require faculty to play
+
+a proactive role in the development and progress of learning through substantive feedback and the development of
+responsive assignments and course materials...."
+
+Instructor communication will attempt to replicate the engagement and thought processes that occur during
+instructor-led discussions in the face-to-face and distance education modalities. Substantive faculty-student
+
+interaction is provided through:
+
+the syllabus
+
+course instructional materials
+assignments
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+17/22
+
+12/5/25, 3:35 PM
+
+All Fields
+
+quizzes/exams/assessments
+
+constructive and timely feedback on student work
+Correspondence Form (individual or to the class)
+
+Substantive faculty-student interaction is defined as a minimum of nine (9) different contacts using the elements
+above.
+
+Optional
+
+Materials Fee
+
+is a material fee recommended for this course? No
+
+Attached Files
+
+Please visit the Cuesta CurrIQunet Meta Help Page for help, instructions, and tutorials:
+
+https://www.cuesta.edu/meta/docs/Help_Documents.pdf
+Attached File
+
+ASSIST
+
+Please visit the Cuesta CurrIQunet Meta Help Page for help, instructions, and tutorials:
+https://www.cuesta.edu/meta/docs/Help_Documents.pdf
+
+Queue for Assist No
+
+Last Request From Queue 10/29/2025
+
+Last Direct Request
+
+ASSIST Preview
+
+Please visit the Cuesta CurrIQunet Meta Help Page for help, instructions, and tutorials:
+
+https://www.cuesta.edu/meta/docs/Help_Documents.pdf
+
+Prefix AERO
+
+Course Number 100
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+18/22
+
+12/5/25, 3:35 PM
+
+Content
+
+All Fields
+
+1.  Maintenance and Preflight Inspection Procedures
+
+Regulatory Requirements for Maintenance
+
+Preflight Inspection
+Postflight Inspection
+
+Manufacturer Inspection Intervals
+
+Battery Maintenance
+Flight and Maintenance Logs
+
+Maintenance, Repair, and Replacement of Components
+(Obj 1, 5)
+
+2.  UAV Flight Operations
+
+Takeoff
+Aircraft Control
+
+Preflight Programming
+
+Turns around a point
+Aircraft Positioning
+
+Altitude Control
+Sensor Zoom/Pan/Tilt
+
+Airspeed Control
+
+Approach
+Landing
+
+(Obj 5)
+3.  Emergency Procedures
+
+Contingency Planning
+
+Ground Emergencies
+Inflight Emergencies
+
+Emergency Communications
+(Obj 4)
+
+4.  Human Factors
+
+Health and Environmental Factors
+Decision Making and Judgment
+
+Risk Management and Aeronautical Decision Making
+
+(Obj 3)
+
+5.  Aircraft Performance
+
+Weight and Balance Calculations
+Density Altitude
+
+Takeoff and Climb Performance
+
+Endurance
+Landing Distance
+
+Aerodynamics
+Ground Effect
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+19/22
+
+12/5/25, 3:35 PM
+
+All Fields
+
+(Obj 2)
+
+6.  Aviation Weather Theory, Sources, and Effects on Performance
+
+Fronts, Stability, Clouds, and Thunderstorms
+
+Fog
+Structural Icing and Frost
+
+Weather Sources for Aviation Operations
+
+The AWC Home Page (NWS Aviation Weather Center)
+Practical Sources for the Remote Pilot
+
+Automated Weather Reporting Stations
+
+(Obj 2, 4)
+
+7.  Airport and Off-Airport Operations
+
+Operations at Non-Tower Airports
+Operations at Airports with Control Towers
+
+Off-Airport Operations
+
+Flying at Night
+(Obj 4)
+
+8.  Airspace and Navigation
+
+Aeronautical Charts
+
+Knowing Where You Can Fly
+
+Geographical Coordinates
+Chart Reading
+
+Airspace
+Correcting for Wind Drift
+
+Special Use Airspace
+
+(Obj 4)
+
+9.  Regulations, Procedures, and Other Aeronautical References
+
+UAS Terms and Abbreviations
+Types of UAV, Components and Uses of UAV
+
+Government Regulations and Other Procedures Publications
+
+FAA Chart Supplements
+Advisory Circulars
+
+Notices to Airmen
+
+Aviation Media
+(Obj 4)
+
+Lab Content
+Lab content embedded in course content.
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+20/22
+
+12/5/25, 3:35 PM
+
+Assignments
+
+All Fields
+
+Critical Thinking Assignments (minimum 2 examples):
+Perform preflight calculations to determine if flight can be safely conducted based on aircraft
+
+performance, knowledge of aviation weather, forecast products, and airspace.
+
+(Obj 2, 3, 4)
+
+Independent Work (minimum 2 examples):
+
+Perform small unmanned aerial vehicle flight to the standard test methods found in NIST sUAS open
+lane Level II standards by maneuvering a sUAS over selected targets in specific sequence and land
+
+aircraft safely.
+(Obj 5)
+
+Critical Thinking Assignments (minimum 2 examples):
+
+Based on knowledge of the weather, approved aviation weather forecast sources, and mission
+requirements, determine if flight can be safely conducted near an airport with an operating control
+
+tower.
+
+(Obj 4)
+
+Independent Work (minimum 2 examples):
+
+Perform a technical preflight inspection of aircraft in accordance with the manufacturer's
+recommendations, determine if safe for flight, and calculate expected in-flight endurance.
+
+(Obj 1, 2, 3)
+
+Course Description
+Prepares students to meet the Federal Aviation Administration requirements for certification to operate
+
+Unmanned Aircraft Vehicles under 55 pounds for commercial operations pursuant to 14 CFR 107. Emphasizes
+the safe, legal, and ethical aspects of UAV operations in civil, public, and commercial settings. Includes special
+
+emphasis on capabilities and limitations of optical payloads and sensors, flight operation planning, and
+
+safety. Prepares students to safely operate UAV through all phases of flight to National Institute of Standards
+and Technology Level 2 Open Area Maneuvering remote pilot proficiency standards.
+
+Lecture Hours
+36.00
+
+Lab Hours
+
+54.00
+
+Outline Approval Date
+
+Outline Effective Date
+
+Prerequisites
+None
+
+Corequisites
+None
+
+Advisories
+
+None
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+21/22
+
+12/5/25, 3:35 PM
+
+Objectives
+
+All Fields
+
+1.  Perform a flight of an unmanned aerial vehicle to the "Open Lane Level II NIST Standard Test Methods
+for small Unmanned Aircraft Systems (sUAS). The U.S. National Institute of Standards and Technology
+
+(NIST) quantitatively evaluates various system capabilities and remote pilot proficiency.
+
+2.  Demonstrate knowledge of regulations, airport operations procedures, aviation weather, radio
+
+communication procedures, emergency procedures, airspace, and navigation to FAA Part 107 standards.
+
+3.  Implement appropriate decision making and judgment to mitigate risk based on human factor
+
+considerations.
+
+4.  Calculate the performance of UAV to include weight and balance, takeoff and climb, endurance, and
+
+aerodynamic effects based on actual and forecast aviation weather.
+
+5.  Perform preflight inspection to identify maintenance deficiencies that adversely affect aircraft
+
+performance.
+
+Instruction Methods
+
+Lab, Lecture, Distance Education, DE Synchronous, DE Asynchronous, Lecture/Lab
+
+Evaluation Methods
+
+Performance Exams
+
+Quizzes/Exams
+Field Work
+
+Essay Exams
+
+Class Performance(s)
+
+Other Texts
+
+Textbooks:
+David Ison The Complete Remote Pilot (3rd/e). Aviation Supplies & Academies, Inc., Newcastle, Washington,
+
+(2025).
+
+Manuals:
+Mavic Drone Manua, DJI, DJI, 2025
+
+Other:
+Access to online aviation weather services provided by the National Weather Service - Aviation Weather
+
+Center.
+
+https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4
+
+22/22
+
+
