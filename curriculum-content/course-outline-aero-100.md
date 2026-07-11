@@ -70,6 +70,8 @@ The proficiency half of the course, run as recurring field sessions throughout t
 - [Field Operations Best Practices](../wiki/topics/field-operations-best-practices.md): checklists, attention discipline, go/no-go judgment, shared airspace, and the human side of field days.
 - [Night Operations](../wiki/topics/night-operations.md): the 2021 night rules, anti-collision lighting, and twilight definitions.
 
+Lab activity designs backing these field sessions live in the wiki's activities family: [NIST Open Lane Practice Sessions](../wiki/activities/nist-open-lane-practice.md), [Precision Maneuvering Drills](../wiki/activities/precision-maneuvering-drills.md), [Dynamic Reaction Course](../wiki/activities/dynamic-reaction-course.md), [Battery Charging and Field Power Lab](../wiki/activities/battery-charging-and-field-power-lab.md), and [Preflight Inspection and Go/No-Go Briefing](../wiki/activities/preflight-and-go-no-go-briefing.md). The airspace unit's [Sectional Chart Scavenger Hunt](../wiki/activities/sectional-chart-scavenger-hunt.md) rounds out the set.
+
 ## Unit 9: Where This Leads
 
 A closing preview of the operational applications the advanced courses explore in depth.
