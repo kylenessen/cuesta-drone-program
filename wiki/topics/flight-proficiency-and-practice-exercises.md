@@ -49,6 +49,7 @@ What the Trusted Operator assessment adds around the lane is the check-ride fram
 - [NIST Open Lane Practice Sessions](../activities/nist-open-lane-practice.md) for the recurring lab session built around the lane.
 - [Precision Maneuvering Drills](../activities/precision-maneuvering-drills.md) for the drill progression as a runnable lab activity.
 - [Dynamic Reaction Course](../activities/dynamic-reaction-course.md) for the randomized-target course design.
+- [UAV Flight Operations](uav-flight-operations.md) walks the flight phase by phase that these drills polish.
 
 ## Citations
 

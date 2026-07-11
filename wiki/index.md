@@ -34,18 +34,32 @@ The knowledge base behind Cuesta College's drone program curriculum. It covers t
 - [Emergency Procedures](topics/emergency-procedures.md): battery fires, lost link, flyaways, and GPS loss.
 - [Aeronautical Decision-Making](topics/aeronautical-decision-making.md): hazardous attitudes, risk assessment, and CRM.
 - [Remote Pilot Physiology](topics/remote-pilot-physiology.md): impairment, fatigue, dehydration, vision, and night effects.
-- [Maintenance and Inspection](topics/maintenance-and-inspection.md): maintenance practice, preflight inspection, and records.
+- [Maintenance and Inspection](topics/maintenance-and-inspection.md): maintenance practice, preflight and postflight inspection, and records.
 - [Night Operations](topics/night-operations.md): the 2021 night rules, anti-collision lighting, and twilight definitions.
+- [Notices to Airmen (NOTAMs)](topics/notams.md): NOTAM types, TFRs, how remote pilots check them, and the FAA's NOTAM system modernization.
+- [Aeronautical Publications and References](topics/aeronautical-publications-and-references.md): the CFR, AIM, advisory circulars, Chart Supplement, UAS abbreviations, and staying current.
 
 ## Flight Skills and Field Operations
 
 Operational craft serving both courses.
 
+- [UAV Flight Operations](topics/uav-flight-operations.md): the anatomy of a flight from preflight programming through takeoff, control, approach, and landing.
 - [Flight Proficiency and Practice Exercises](topics/flight-proficiency-and-practice-exercises.md): the NIST test lanes behind AERO 100's flight test, and the drills that build stick skills.
 - [Battery Fundamentals and Safety](topics/battery-fundamentals-and-safety.md): volts, amps, and watts, LiPo hazards, charging, storage, and transport rules.
 - [Field Operations Best Practices](topics/field-operations-best-practices.md): checklists, attention discipline, go/no-go judgment, shared airspace, in-field image checks, and the human side of field days from health to public interaction.
 - [Field Power Management](topics/field-power-management.md): batteries, charging hubs, generators, and power stations on a mapping day.
 - [Drone Radio Links and Interference](topics/drone-radio-links-and-interference.md): the C2 and video links, the 2.4 GHz band, interference near towers and lines, and lost-link failsafes.
+
+## Lab Activities
+
+Runnable lab activity designs built on the topic pages, drafted for AERO 100 and adaptable beyond it.
+
+- [NIST Open Lane Practice Sessions](activities/nist-open-lane-practice.md): the recurring lane lab behind the flight capstone, from the $250 omni bucket build to scored Level 2 trials.
+- [Precision Maneuvering Drills](activities/precision-maneuvering-drills.md): hover holds, positioning, turns around a point, figure eights, and nose-in work as a runnable drill station.
+- [Dynamic Reaction Course](activities/dynamic-reaction-course.md): randomized light-pod targets under time pressure, the reaction training build with scoring and crew variations.
+- [Battery Charging and Field Power Lab](activities/battery-charging-and-field-power-lab.md): pack inspection, the charge curve observed live, and the power-station arithmetic that keeps a fleet flying.
+- [Preflight Inspection and Go/No-Go Briefing](activities/preflight-and-go-no-go-briefing.md): weather briefing, airspace check, seeded-fault inspection, and a defended go/no-go decision.
+- [Sectional Chart Scavenger Hunt](activities/sectional-chart-scavenger-hunt.md): a timed find, decode, and defend game on the local sectional for the airspace unit.
 
 ## Remote Sensing Foundations
 
@@ -113,11 +127,24 @@ The physics and sensor layer under professional drone work.
 - [Flying Near Energized Infrastructure](topics/flying-near-energized-infrastructure.md): compass interference, GPS multipath, minimum approach distances, wire strike, and utility safety culture.
 - [Public Safety Drone Operations](topics/public-safety-drone-operations.md): SAR, fire support, DFR programs, and incident command.
 
+## Equipment
+
+The program's fleet and support gear, secured, proposed, and researched.
+
+- [Equipment Overview](equipment/equipment-overview.md): the program fleet at a glance, secured and proposed, mapped to courses with the NDAA question framed honestly.
+- [DJI Matrice 4E](equipment/dji-matrice-4e.md): the mapping aircraft, its mechanical shutter and RTK specs, and its software ecosystem for the mapping course.
+- [DJI Matrice 4T](equipment/dji-matrice-4t.md): the thermal and zoom inspection aircraft for the inspection course and its PG&E alignment.
+- [Training Fleet](equipment/training-fleet.md): Mini 3 and Air 3 trainers for AERO 100 and the logistics of running a six-drone lab.
+- [Emlid RTK Kit](equipment/emlid-rtk-kit.md): the Reach RS4 base and RX2 rover, correction workflows, and the Emlid-over-Trimble reasoning.
+- [Field Power and Charging](equipment/field-power-and-charging.md): the power station, solar, and parallel charging kit, with the memo's watt-hour math checked.
+- [NDAA-Compliant Platform Options](equipment/ndaa-compliant-platform-options.md): the researched mid-2026 non-Chinese platform landscape with honest fit assessments and a purchase tier.
+
 ## Analyses
 
 - [Part 107 Coverage of the AERO 100 Outline](analysis/part-107-coverage-of-aero-100.md): gap analysis between the test and the approved course outline.
 - [ASPRS Recommended Reading List](analysis/asprs-recommended-reading-list.md): the nine exam preparation texts with current editions, availability, and per-text relevance for mining course ideas.
 - [PG&E Drone Program and Training Pipeline](analysis/pge-drone-program-and-training-pipeline.md): partnership intelligence on PG&E's pilot qualification ladder, the IBEW 1245 training model, and articulation precedent for the utility inspection course.
+- [Drone Employment and Labor Market](analysis/drone-employment-and-labor-market.md): sector-by-sector employment models, salary bands, and the San Luis Obispo employer landscape behind the program's course structure.
 
 ## Sources
 

@@ -23,6 +23,7 @@ The chart's location language is latitude and longitude. Parallels of latitude c
 - [Notices to Airmen (NOTAMs)](notams.md) carries the changes too recent for the chart.
 - [Map Projections and Coordinate Systems](map-projections-and-coordinate-systems.md) continues geographic coordinates into mapping work.
 - [UAG Sample Questions](../sources/uag-sample-questions.md) shows the chart-excerpt question format.
+- [Sectional Chart Scavenger Hunt](../activities/sectional-chart-scavenger-hunt.md) turns chart reading into a timed lab game.
 
 ## Citations
 

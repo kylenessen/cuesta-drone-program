@@ -16,6 +16,8 @@ Crew Resource Management (CRM) applies team communication to the flight: the rem
 
 - [Emergency Procedures](emergency-procedures.md) is ADM applied to contingencies.
 - [Weather Effects on Performance](weather-effects-on-performance.md) supplies the environmental half of the risk assessment.
+- [Preflight Inspection and Go/No-Go Briefing](../activities/preflight-and-go-no-go-briefing.md) grades the go/no-go decision as a lab exercise.
+- [Dynamic Reaction Course](../activities/dynamic-reaction-course.md) trains divided attention and decision speed on the sticks.
 
 ## Citations
 

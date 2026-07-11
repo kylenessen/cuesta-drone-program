@@ -41,6 +41,7 @@ Clients in utility, solar, and building inspection expect thermal findings from 
 - [Agricultural Drone Applications](agricultural-drone-applications.md) for canopy-temperature water-stress and irrigation work.
 - [Orthomosaics](orthomosaics.md) for the mapping workflow thermal mosaics inherit.
 - [Drone Payloads](drone-payloads.md) for thermal's place in the payload taxonomy.
+- [DJI Matrice 4T](../equipment/dji-matrice-4t.md) documents the program's thermal inspection aircraft.
 
 ## Citations
 

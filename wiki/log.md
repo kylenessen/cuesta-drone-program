@@ -2,6 +2,43 @@
 
 Newest first. One entry per change set: what changed and why.
 
+## 2026-07-11 (public safety, mission planning, Part 108, and NDAA top-ups)
+
+- Deepened [Public Safety Drone Operations](topics/public-safety-drone-operations.md) with NFPA 2400 (2024 edition, program criteria, RPIC and visual observer job performance requirements, maintenance chapter) as the anchor for a future dedicated public safety course, plus teaching detail from the thermal inspection curriculum's public safety unit: SAR detection tradeoffs, rekindle monitoring, night crew practice, and ICS documentation.
+- Added the Morro Bay NEP preflight planning assignment to [Mapping Mission Planning](topics/mapping-mission-planning.md) as a documented justify-every-decision teaching pattern for real-client missions, cited to the repository's NEP collaboration lab document.
+- Topped up [Part 108 BVLOS Rulemaking](regulations/part-108-bvlos-rulemaking.md) with the NPRM's airworthiness acceptance, safety management system, and TSA Level 3 security threat assessment elements.
+- Added the Perkins versus Strong Workforce Program funding nuance to [NDAA Compliance and Blue UAS](topics/ndaa-compliance-and-blue-uas.md): Perkins is federal and bound by the American Security Drone Act, SWP is state money and not legally bound, yet the program buys compliant for new purchases as strategy because the employers it feeds have mandated compliant fleets.
+- Sourcing note: NFPA 2400's chapter detail comes from NFPA's fact sheet and trade coverage rather than the paywalled standard, and the 2019 first-edition year is consistent but not confirmed by a single authoritative page.
+
+## 2026-07-11 (employment and labor market)
+
+- Promoted the January 2026 job market study into [Drone Employment and Labor Market](analysis/drone-employment-and-labor-market.md): seven sectors' employment models and salary bands, the 62 percent self-employment finding, and the San Luis Obispo employer roster, with load-bearing figures spot-checked July 2026 and one correction (PG&E autonomous staffing is about 12 pilots including 3 remote operators, not 12 plus 3).
+- Added current partnership contacts (Janet Hankai and Harvey Ryan of PG&E Aerial Field Operations) and scale figures (180-drone fleet, autonomous staffing) to [PG&E Drone Program and Training Pipeline](analysis/pge-drone-program-and-training-pipeline.md), sourced to the April 2026 internal proposal responses and 2024 Latitude Media reporting.
+- Folded two employment nuances into [Applications of Drone Mapping](topics/applications-of-drone-mapping.md): the insurance adjuster-license boundary on claims assessment and mining and quarry volumetrics as a paid specialization path.
+- Caveat carried on the pages: salary bands are job-board aggregator figures, not payroll data, and the internal advisory quotes should not be republished without clearance.
+
+## 2026-07-11 (equipment family)
+
+- Created the `equipment/` page family (seven pages): [Equipment Overview](equipment/equipment-overview.md) plus pages for the [DJI Matrice 4E](equipment/dji-matrice-4e.md), [DJI Matrice 4T](equipment/dji-matrice-4t.md), [Training Fleet](equipment/training-fleet.md), [Emlid RTK Kit](equipment/emlid-rtk-kit.md), [Field Power and Charging](equipment/field-power-and-charging.md), and [NDAA-Compliant Platform Options](equipment/ndaa-compliant-platform-options.md), sourced from the December 2025 equipment memo, the planning voice memo, the April 2026 proposal cost narrative, the two software research PDFs, the COR drafts, and mid-2026 web research on manufacturer spec pages and industry press.
+- Resolved the memo's open action item: Emlid publishes official RS4-to-DJI RTK integration documentation (Emlid Caster or Local NTRIP into Pilot 2's Custom Network RTK), and the RX2 rover is network-only with no LoRa radio, so it cannot take radio corrections from the RS4 on sites without internet.
+- Documented the mid-2026 compliant platform landscape with a recommendation tier (Skydio X10 as the first purchase candidate, Inspired Flight partnership before purchase, ANAFI USA as budget option pending an end-of-life check) and recorded the Anzu Raptor nuance: DJI-licensed, Malaysia-made, not NDAA compliant by most readings, production ended February 2026.
+- Flagged a source discrepancy for Ron: program documents consistently say Matrice 4E and 4T, but the April 2026 proposal email describes the college-owned aircraft as Mavic 3E and 3T. Inventory should be confirmed before public documents quote either.
+- Prices are hedged as approximate as of mid-2026 throughout.
+
+## 2026-07-11 (COR coverage audit)
+
+- Audited the wiki bullet by bullet against the approved AERO 100 Course Outline of Record (full extraction now preserved at [AERO 100 Course Outline](sources/aero-100-course-outline.md)); every topic and sub-bullet now maps to a page or section, recorded in a new mapping table in [Part 107 Coverage of the AERO 100 Outline](analysis/part-107-coverage-of-aero-100.md).
+- New pages: [Notices to Airmen (NOTAMs)](topics/notams.md) (types, TFRs, the checking workflow, and NOTAM system modernization), [Aeronautical Publications and References](topics/aeronautical-publications-and-references.md) (CFR, AIM, advisory circulars, Chart Supplement, UAS abbreviations, aviation media), and [UAV Flight Operations](topics/uav-flight-operations.md) (the flight phase by phase from preflight programming to landing).
+- Gap-filling sections on existing pages: postflight inspection and manufacturer intervals (maintenance), takeoff, climb, endurance, and landing performance plus ground effect and multirotor aerodynamics (loading and performance), structural icing and frost plus wind drift correction (weather effects), geographical coordinates (sectional chart), off-airport operations (airport operations), and contingency planning with emergency communications (emergency procedures).
+- Sourcing note: the NOTAM modernization timeline was fetched July 2026 and should be rechecked once the FAA completes the transition; the Chart Supplement's regional volume count follows the Remote Pilot Study Guide and is worth a spot-check before student-facing use.
+
+## 2026-07-11 (AERO 100 content ideas and activities family)
+
+- Incorporated the AERO 100 content ideas document into the wiki. Most of it was already covered, so the additions are the gaps: charging heat discipline and the fire-video teaching note on [Battery Fundamentals and Safety](topics/battery-fundamentals-and-safety.md), training-fleet charging logistics on [Field Power Management](topics/field-power-management.md), the rule history teaching angle on [Remote Identification](regulations/remote-identification.md), and a dynamic reaction training section on [Flight Proficiency and Practice Exercises](topics/flight-proficiency-and-practice-exercises.md).
+- Resolved the NIST level-label review flag on the flight proficiency page: the approved course outline fixes the standard as the Open Test Lane Level 2 course within the NIST-prescribed 25 minutes, and the required text (Ison, The Complete Remote Pilot, 3rd edition, 2025) is now recorded, both cited to the course outline source.
+- Created the `activities/` page family: six lab activity designs ([NIST Open Lane Practice Sessions](activities/nist-open-lane-practice.md), [Precision Maneuvering Drills](activities/precision-maneuvering-drills.md), [Dynamic Reaction Course](activities/dynamic-reaction-course.md), [Battery Charging and Field Power Lab](activities/battery-charging-and-field-power-lab.md), [Preflight Inspection and Go/No-Go Briefing](activities/preflight-and-go-no-go-briefing.md), and [Sectional Chart Scavenger Hunt](activities/sectional-chart-scavenger-hunt.md)), each with equipment, setup, execution, progressions, and assessment, cross-linked to the topic pages they exercise. Recorded the family in [schema.md](schema.md) alongside the new equipment family.
+- Verification notes: NIST apparatus and scoring checked against NIST pages and the AOPA build article, BlazePod kit pricing verified 2026-07-11, DJI battery and EcoFlow specs checked against vendor pages.
+
 ## 2026-07-11 (brainstorm research and sourcing)
 
 - Turned the July 2026 course-content brainstorm from a standalone citation into researched, externally sourced content across its six citing pages, since the source records teaching intent rather than evidence. Kept the brainstorm citation where it documents intent and added real sources (FAA, NASA, NWS, peer-reviewed and manufacturer documentation) for the factual claims that had leaned on it alone.

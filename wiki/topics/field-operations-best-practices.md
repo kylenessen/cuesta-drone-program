@@ -63,6 +63,7 @@ Some encounters do not defuse. Homeowners are occasionally combative, and drones
 - [Infrastructure Inspection Operations](infrastructure-inspection-operations.md) for the utility inspection sector whose field realities this page draws on.
 - [Remote Pilot Physiology](remote-pilot-physiology.md) for the human factors behind hydration, fatigue, and heat.
 - [Airspace Authorization](airspace-authorization.md) for the clearance workflow that precedes the field day.
+- [Preflight Inspection and Go/No-Go Briefing](../activities/preflight-and-go-no-go-briefing.md) grades checklist discipline as a lab exercise.
 
 ## Citations
 

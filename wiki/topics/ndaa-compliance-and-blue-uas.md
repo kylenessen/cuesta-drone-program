@@ -29,6 +29,8 @@ The cost and capability gap versus DJI is real and worth stating plainly. A DJI 
 - [Uncrewed Aircraft](uncrewed-aircraft.md) for the airframe-and-payload framing these platforms share.
 - [Mission Planning Software](mission-planning-software.md) for why planner support beyond DJI matters.
 - [Applications of Drone Mapping](applications-of-drone-mapping.md) for the federally funded work these rules gate.
+- [NDAA-Compliant Platform Options](../equipment/ndaa-compliant-platform-options.md) surveys the compliant platforms against the program's needs.
+- [Equipment Overview](../equipment/equipment-overview.md) shows where the compliance question sits in the program fleet.
 
 ## Citations
 

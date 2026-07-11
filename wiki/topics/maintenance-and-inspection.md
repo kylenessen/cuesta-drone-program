@@ -21,6 +21,8 @@ The flight is not over when the aircraft lands. A postflight inspection closes t
 - [Part 107 Operating Rules](../regulations/part-107-operating-rules.md) contains the underlying safe-condition and preflight requirements.
 - [Loading and Performance](loading-and-performance.md) covers verifying the aircraft against its load before flight.
 - [UAV Flight Operations](uav-flight-operations.md) covers the flight between the two inspections.
+- [Preflight Inspection and Go/No-Go Briefing](../activities/preflight-and-go-no-go-briefing.md) turns the inspection into a graded, seeded-fault exercise.
+- [Battery Charging and Field Power Lab](../activities/battery-charging-and-field-power-lab.md) exercises pack inspection and charging discipline.
 
 ## Citations
 

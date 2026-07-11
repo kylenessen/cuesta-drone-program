@@ -41,6 +41,7 @@ FAA and DOT rules for airline passengers are strict and specific. Spare lithium-
 - [Emergency Procedures](emergency-procedures.md) for battery fire response in flight operations.
 - [Maintenance and Inspection](maintenance-and-inspection.md) for battery care within the broader maintenance program.
 - [Battery Charging and Field Power Lab](../activities/battery-charging-and-field-power-lab.md) for the lab activity that turns this material into hands-on practice.
+- [Training Fleet](../equipment/training-fleet.md) documents the packs and chargers this discipline protects.
 
 ## Citations
 

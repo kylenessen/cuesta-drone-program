@@ -26,6 +26,7 @@ Mature programs centralize this work. PG&E runs an in-house communications cente
 - [Radio Communications](radio-communications.md) includes the ATIS broadcast that repackages this data at towered airports.
 - [Field Operations Best Practices](field-operations-best-practices.md) puts the morning briefing inside the whole field day.
 - [Remote Pilot Physiology](remote-pilot-physiology.md) covers the pilot condition assessed alongside the weather.
+- [Preflight Inspection and Go/No-Go Briefing](../activities/preflight-and-go-no-go-briefing.md) grades the briefing workflow as a lab exercise.
 
 ## Citations
 

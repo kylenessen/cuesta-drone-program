@@ -8,7 +8,7 @@ This wiki is the durable knowledge base behind Cuesta College's drone program cu
 
 ## Page Families
 
-Topic pages cover durable aeronautical knowledge subjects, usually one teachable unit of content. Regulation pages cover regulatory instruments, rule areas, or FAA programs. Exam pages cover tests, certifications, and licenses the program prepares students for. Source pages preserve evidence anchors for original artifacts. Analysis pages keep promoted answers that connect wiki knowledge to curriculum decisions.
+Topic pages cover durable aeronautical knowledge subjects, usually one teachable unit of content. Regulation pages cover regulatory instruments, rule areas, or FAA programs. Exam pages cover tests, certifications, and licenses the program prepares students for. Source pages preserve evidence anchors for original artifacts. Analysis pages keep promoted answers that connect wiki knowledge to curriculum decisions. Activity pages describe durable lab activity designs, the hands-on exercises course sections can adopt, each covering what it teaches, the equipment, setup, execution, progressions, and assessment, linked to the topic pages it exercises. Equipment pages document the program's aircraft, positioning, and support equipment, both what is owned or proposed and the researched alternatives, so purchasing and course design can cite the same record.
 
 Use cross-cutting themes in prose and links rather than hidden metadata. Common themes include night operations, risk management, batteries, charts, remote sensing, mapping, field operations, and thermography.
 
@@ -17,5 +17,7 @@ Use cross-cutting themes in prose and links rather than hidden metadata. Common 
 - `exams/` holds pages about the tests, certifications, and licenses the program prepares students for, from the Part 107 knowledge test to industry credentials.
 - `regulations/` holds pages about rules, rule areas, and FAA regulatory programs.
 - `topics/` holds subject-matter pages, the teachable units of aeronautical knowledge.
+- `activities/` holds lab activity designs, the runnable hands-on exercises built on the topic pages.
+- `equipment/` holds pages on the program's aircraft, positioning, and support equipment, owned, proposed, and researched alternatives.
 - `analysis/` holds promoted analyses connecting the wiki to curriculum work.
 - `sources/` holds original artifacts, their extracted text when useful, and one source page per artifact.

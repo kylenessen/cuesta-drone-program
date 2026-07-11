@@ -66,7 +66,7 @@ The approved COR's nine topics and every sub-bullet under them were audited agai
 | Correcting for wind drift | Weather Effects on Performance, wind drift paragraphs in Wind, Stability, and Local Effects |
 | **9. Regulations, Procedures, and Other Aeronautical References** | [Aeronautical Publications and References](../topics/aeronautical-publications-and-references.md) |
 | UAS terms and abbreviations | Aeronautical Publications and References, UAS Terms and Abbreviations section, with [Uncrewed Aircraft](../topics/uncrewed-aircraft.md) |
-| Types of UAV, components and uses of UAV | Uncrewed Aircraft with [Drone Payloads](../topics/drone-payloads.md) and [Remote Sensing Platforms](../topics/remote-sensing-platforms.md); see caveat below |
+| Types of UAV, components and uses of UAV | Uncrewed Aircraft, Types, Components, and Uses section, with [Drone Payloads](../topics/drone-payloads.md) and [Remote Sensing Platforms](../topics/remote-sensing-platforms.md) |
 | Government regulations and other procedures publications | Aeronautical Publications and References with [Part 107](../regulations/part-107.md) |
 | FAA chart supplements | Aeronautical Publications and References, The Chart Supplement section |
 | Advisory circulars | Aeronautical Publications and References, Advisory Circulars section |
@@ -75,7 +75,7 @@ The approved COR's nine topics and every sub-bullet under them were audited agai
 
 ## Caveats
 
-The ACS weighting percentages describe the FAA test, not necessarily the best pedagogical order. In the COR mapping, the thinnest cell is types of UAV, components, and uses: [Uncrewed Aircraft](../topics/uncrewed-aircraft.md) carries the definition, terminology, and airframe-and-payload framing, but a survey of airframe types (multirotor, fixed-wing, hybrid VTOL) and core components (motors, ESCs, flight controller, GNSS, links) belongs on that page and should be confirmed there as it is expanded. The pending [Part 108 BVLOS Rulemaking](../regulations/part-108-bvlos-rulemaking.md) could eventually change the tested material; the ACS in force should be rechecked each time the course is revised, and the NOTAM page's access details should be rechecked after the FAA completes its NOTAM system transition in 2026.
+The ACS weighting percentages describe the FAA test, not necessarily the best pedagogical order. The types of UAV cell, formerly the thinnest mapping, is now carried by the Types, Components, and Uses section of [Uncrewed Aircraft](../topics/uncrewed-aircraft.md), which surveys airframe types (multirotor, fixed-wing, hybrid VTOL, single-rotor) and core components against the Remote Pilot Study Guide. The pending [Part 108 BVLOS Rulemaking](../regulations/part-108-bvlos-rulemaking.md) could eventually change the tested material; the ACS in force should be rechecked each time the course is revised, and the NOTAM page's access details should be rechecked after the FAA completes its NOTAM system transition in 2026.
 
 ## Citations
 

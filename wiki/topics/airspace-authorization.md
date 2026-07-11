@@ -38,6 +38,7 @@ San Luis Obispo County Regional Airport (SBP) sits about three miles south of do
 - [Mapping Mission Planning](mapping-mission-planning.md) is where authorization checks enter the professional workflow.
 - [Field Operations Best Practices](field-operations-best-practices.md) covers the rest of the field day the clearance workflow opens.
 - [Aviation Weather Sources](aviation-weather-sources.md) covers the weather briefing delivered alongside the clearance.
+- [Preflight Inspection and Go/No-Go Briefing](../activities/preflight-and-go-no-go-briefing.md) exercises the authorization check inside a graded preflight.
 
 ## Citations
 
