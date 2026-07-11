@@ -30,8 +30,14 @@ The recurring lesson across all of these is that agriculture is a time-sensitive
 
 The local market this content serves is the San Luis Obispo and Santa Barbara county mix of high-value perennials and row crops, above all wine grapes. Viticulture is a natural fit for drone remote sensing because vines are a high-value crop grown on variable ground where within-block vigor differences matter to fruit quality, and both multispectral vigor mapping and thermal water-status mapping are active in research and practice on exactly these crops [7] [8]. That said, a drone is not automatically the right platform for every field. Whether a grower should hire a drone, subscribe to satellite imagery, or hire a crewed aircraft is a real cost and resolution decision, worked through in [Remote Sensing Platforms](remote-sensing-platforms.md) and [Mission Cost Analysis](mission-cost-analysis.md). The professional's credibility comes partly from being willing to tell a grower when the cheaper satellite subscription answers their question just as well.
 
+## The regulatory line between monitoring and spraying
+
+Everything above is imaging work, and imaging needs nothing beyond [Part 107](../regulations/part-107.md). The moment a drone dispenses something rather than photographing it, the legal footing changes completely, which matters because the natural next sale after a prescription map is the spray job that executes it. Spraying or spreading from a drone triggers the federal agricultural aviation rule covered in [Part 137 Agricultural Operations](../regulations/part-137-agricultural-operations.md), including an exemption process for the heavy aircraft involved, and in this state it also triggers the applicator licensing, pilot certificates, and county permitting covered in [California Pesticide Licensing](../regulations/california-pesticide-licensing.md). The program splits along the same line: the crop monitoring track stops at the map, while the proposed spray track (AERO 140) takes on the full regulatory stack.
+
 ## Related
 
+- [Part 137 Agricultural Operations](../regulations/part-137-agricultural-operations.md) for the federal rules that gate spraying and spreading.
+- [California Pesticide Licensing](../regulations/california-pesticide-licensing.md) for the state and county layers a spray operator must clear.
 - [Vegetation Indices](vegetation-indices.md) for the index choices behind scouting and nutrient maps.
 - [Multispectral Field Practice](multispectral-field-practice.md) for the calibration these products depend on.
 - [Thermal Imaging](thermal-imaging.md) for the canopy-temperature measurement behind irrigation and water-stress work.

@@ -2,6 +2,13 @@
 
 Newest first. One entry per change set: what changed and why.
 
+## 2026-07-11 (agricultural regulation)
+
+- Added [Part 137 Agricultural Operations](regulations/part-137-agricultural-operations.md) covering the federal legal stack for drone spraying: Part 137, the 107.36 hazmat prohibition that keeps spraying out of Part 107, 49 U.S.C. 44807 exemptions (authority extended to September 30, 2033), the streamlined agricultural aircraft operator certificate, the 137.19(e) knowledge and skill areas, exemption growth and enforcement, and Part 108 NPRM status as of mid 2026. Researched to support the proposed spray track Ron is developing.
+- Added [California Pesticide Licensing](regulations/california-pesticide-licensing.md) covering the state and county layers: DPR's QAC and QAL credentials, the Unmanned Pest Control Aircraft Pilot Certificate with its apprentice and journeyman levels, county agricultural commissioner registration, restricted materials permits, and notices of intent, ending in a full federal, state, and county stacking walkthrough.
+- Added a regulatory-context section to [Agricultural Drone Applications](topics/agricultural-drone-applications.md) marking the Part 107 versus Part 137 line between imaging and dispensing, with Related links to both new pages.
+- Sourcing notes: DPR fee figures were decoded from a headerless fee table PDF and corroborated by secondary sources, but renewal fees were omitted as ambiguous; the third-class medical claim for over 55 pound operations rests on the UC ANR guide and is attributed as such; the notice-of-intent lead time is stated without a number pending a primary source.
+
 ## 2026-07-11 (public safety, mission planning, Part 108, and NDAA top-ups)
 
 - Deepened [Public Safety Drone Operations](topics/public-safety-drone-operations.md) with NFPA 2400 (2024 edition, program criteria, RPIC and visual observer job performance requirements, maintenance chapter) as the anchor for a future dedicated public safety course, plus teaching detail from the thermal inspection curriculum's public safety unit: SAR detection tradeoffs, rekindle monitoring, night crew practice, and ICS documentation.

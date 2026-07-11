@@ -20,6 +20,8 @@ The knowledge base behind Cuesta College's drone program curriculum. It covers t
 - [Remote Identification](regulations/remote-identification.md): Part 89 broadcast requirements, modules, and FRIAs.
 - [Drone Registration](regulations/drone-registration.md): Part 48 registration, fees, marking, and thresholds.
 - [Part 108 BVLOS Rulemaking](regulations/part-108-bvlos-rulemaking.md): the pending beyond visual line of sight rule, tracked for curriculum impact.
+- [Part 137 Agricultural Operations](regulations/part-137-agricultural-operations.md): the federal spray rule, the 44807 exemption path, and the streamlined UAS certificate.
+- [California Pesticide Licensing](regulations/california-pesticide-licensing.md): DPR applicator credentials, the unmanned pilot certificate, and the county permit layer.
 
 ## Aeronautical Knowledge Topics
 
