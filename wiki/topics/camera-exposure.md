@@ -24,10 +24,10 @@ Cap the auto ISO if the camera allows it, since noise past roughly ISO 800 on sm
 
 ## Related
 
-- [Cameras for Drone Mapping](/topics/cameras-for-drone-mapping.md) for the hardware side of image quality.
-- [Ground Sample Distance](/topics/ground-sample-distance.md) for the pixel footprint that motion blur is measured against.
-- [Lighting and Sun Angle for Mapping](/topics/lighting-and-sun-angle-for-mapping.md) for the light the exposure has to work with.
-- [Digital Imaging](/topics/digital-imaging.md) for how the sensor turns light into numbers in the first place.
+- [Cameras for Drone Mapping](cameras-for-drone-mapping.md) for the hardware side of image quality.
+- [Ground Sample Distance](ground-sample-distance.md) for the pixel footprint that motion blur is measured against.
+- [Lighting and Sun Angle for Mapping](lighting-and-sun-angle-for-mapping.md) for the light the exposure has to work with.
+- [Digital Imaging](digital-imaging.md) for how the sensor turns light into numbers in the first place.
 
 ## Citations
 

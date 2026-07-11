@@ -32,10 +32,10 @@ Point clouds are delivered in LAS, the open binary format specified by ASPRS for
 
 ## Related
 
-- [Structure from Motion](/topics/structure-from-motion.md) for the point cloud these surfaces come from.
-- [Orthomosaics](/topics/orthomosaics.md) for the companion 2D product.
-- [Mapping Accuracy](/topics/mapping-accuracy.md) for the vertical accuracy that governs contour intervals.
-- [Vertical Datums and Geoid Models](/topics/vertical-datums-and-geoid-models.md) for what the elevations are measured against.
+- [Structure from Motion](structure-from-motion.md) for the point cloud these surfaces come from.
+- [Orthomosaics](orthomosaics.md) for the companion 2D product.
+- [Mapping Accuracy](mapping-accuracy.md) for the vertical accuracy that governs contour intervals.
+- [Vertical Datums and Geoid Models](vertical-datums-and-geoid-models.md) for what the elevations are measured against.
 
 ## Citations
 

@@ -1,6 +1,6 @@
 # Thermal Tuning and Palettes
 
-**Thermal Tuning and Palettes** are the display decisions of thermography. They determine whether an anomaly is visible on screen, and they change nothing about the underlying radiometric data. That separation between data and display is one of the first disciplines a Level 1 thermography course installs, because an untuned image hides real defects and a dramatic palette can manufacture apparent ones. The sensors producing the data are covered in [Thermal Imaging](/topics/thermal-imaging.md).
+**Thermal Tuning and Palettes** are the display decisions of thermography. They determine whether an anomaly is visible on screen, and they change nothing about the underlying radiometric data. That separation between data and display is one of the first disciplines a Level 1 thermography course installs, because an untuned image hides real defects and a dramatic palette can manufacture apparent ones. The sensors producing the data are covered in [Thermal Imaging](thermal-imaging.md).
 
 ## Level and span
 
@@ -14,9 +14,9 @@ A palette maps the displayed window onto colors and, like tuning, changes nothin
 
 ## Related
 
-- [Thermal Imaging](/topics/thermal-imaging.md) for the radiometric data these decisions display.
-- [Delta-T Severity Classification](/topics/delta-t-severity-classification.md) for the interpretation the tuned image feeds.
-- [Level 1 Thermography Certification](/exams/level-1-thermography-certification.md) for the credential that tests this material.
+- [Thermal Imaging](thermal-imaging.md) for the radiometric data these decisions display.
+- [Delta-T Severity Classification](delta-t-severity-classification.md) for the interpretation the tuned image feeds.
+- [Level 1 Thermography Certification](../exams/level-1-thermography-certification.md) for the credential that tests this material.
 
 ## Citations
 

@@ -1,6 +1,6 @@
 # Delta-T Severity Classification
 
-**Delta-T Severity Classification** is the interpretation discipline of quantitative thermography. A thermal finding on electrical equipment is reported as a delta-T, the temperature rise of the anomaly above a defined reference, and graded into severity tiers that drive repair priority. It is where the measurement science of [Emissivity and Reflected Temperature](/topics/emissivity-and-reflected-temperature.md) and [Spot Size and Measurement Distance](/topics/spot-size-and-measurement-distance.md) pays off, and it is the skill that separates a certified inspection report from a picture of a hot spot.
+**Delta-T Severity Classification** is the interpretation discipline of quantitative thermography. A thermal finding on electrical equipment is reported as a delta-T, the temperature rise of the anomaly above a defined reference, and graded into severity tiers that drive repair priority. It is where the measurement science of [Emissivity and Reflected Temperature](emissivity-and-reflected-temperature.md) and [Spot Size and Measurement Distance](spot-size-and-measurement-distance.md) pays off, and it is the skill that separates a certified inspection report from a picture of a hot spot.
 
 ## Qualitative versus quantitative thermography
 
@@ -29,10 +29,10 @@ Timing follows the same logic. Electrical inspection wants the circuit working h
 
 ## Related
 
-- [Emissivity and Reflected Temperature](/topics/emissivity-and-reflected-temperature.md) and [Spot Size and Measurement Distance](/topics/spot-size-and-measurement-distance.md) for what makes the underlying measurement valid.
-- [Infrastructure Inspection Operations](/topics/infrastructure-inspection-operations.md) for the utility inspection work this discipline serves.
-- [Thermal Imaging](/topics/thermal-imaging.md) for the sensor layer.
-- [Level 1 Thermography Certification](/exams/level-1-thermography-certification.md) for the credential that tests this material.
+- [Emissivity and Reflected Temperature](emissivity-and-reflected-temperature.md) and [Spot Size and Measurement Distance](spot-size-and-measurement-distance.md) for what makes the underlying measurement valid.
+- [Infrastructure Inspection Operations](infrastructure-inspection-operations.md) for the utility inspection work this discipline serves.
+- [Thermal Imaging](thermal-imaging.md) for the sensor layer.
+- [Level 1 Thermography Certification](../exams/level-1-thermography-certification.md) for the credential that tests this material.
 
 ## Citations
 

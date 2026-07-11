@@ -12,7 +12,7 @@ The extraction keeps the full article body from the headline through the closing
 
 ## Used By
 
-- [Field Operations Best Practices](/topics/field-operations-best-practices.md) cites this source for the physical realities of utility field work, the Garmin inReach issue, and the customer contact and hostile customer procedures.
-- [Aviation Weather Sources](/topics/aviation-weather-sources.md) cites this source for Flight Core's centralized weather briefings.
-- [Airspace Authorization](/topics/airspace-authorization.md) cites this source for Flight Core's flight clearance role.
-- [Infrastructure Inspection Operations](/topics/infrastructure-inspection-operations.md) cites this source for program scale and structure.
+- [Field Operations Best Practices](../topics/field-operations-best-practices.md) cites this source for the physical realities of utility field work, the Garmin inReach issue, and the customer contact and hostile customer procedures.
+- [Aviation Weather Sources](../topics/aviation-weather-sources.md) cites this source for Flight Core's centralized weather briefings.
+- [Airspace Authorization](../topics/airspace-authorization.md) cites this source for Flight Core's flight clearance role.
+- [Infrastructure Inspection Operations](../topics/infrastructure-inspection-operations.md) cites this source for program scale and structure.

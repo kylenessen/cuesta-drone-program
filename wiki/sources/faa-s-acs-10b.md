@@ -1,6 +1,6 @@
 # FAA-S-ACS-10B
 
-**FAA-S-ACS-10B** is the Remote Pilot, Small Unmanned Aircraft Systems Airman Certification Standards, the FAA document that defines exactly what the [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md) evaluates. It organizes the tested material into five Areas of Operation (Regulations, Airspace Classification and Operating Requirements, Weather, Loading and Performance, and Operations), each broken into Tasks with coded knowledge elements. Effective April 6, 2021, this revision added the knowledge elements for night operations, operations over people, and Remote Identification introduced by the 2021 rule changes.
+**FAA-S-ACS-10B** is the Remote Pilot, Small Unmanned Aircraft Systems Airman Certification Standards, the FAA document that defines exactly what the [Part 107 Knowledge Test](../exams/part-107-knowledge-test.md) evaluates. It organizes the tested material into five Areas of Operation (Regulations, Airspace Classification and Operating Requirements, Weather, Loading and Performance, and Operations), each broken into Tasks with coded knowledge elements. Effective April 6, 2021, this revision added the knowledge elements for night operations, operations over people, and Remote Identification introduced by the 2021 rule changes.
 
 The ACS is the single most important document for curriculum design against the Part 107 test, because failed exam questions are reported to the applicant as ACS codes. Course coverage can be audited directly against its knowledge elements.
 
@@ -14,5 +14,5 @@ Machine-extracted text is preserved as `faa-s-acs-10b.txt`. Extraction is comple
 
 ## Used By
 
-- [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md)
+- [Part 107 Knowledge Test](../exams/part-107-knowledge-test.md)
 - Topic and regulation pages across the wiki cite this document for what the test covers.

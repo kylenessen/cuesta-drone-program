@@ -26,11 +26,11 @@ A fine GSD is often mistaken for an accurate map. They are different properties.
 
 ## Related
 
-- [Cameras for Drone Mapping](/topics/cameras-for-drone-mapping.md) for the camera geometry behind the formula.
-- [Camera Exposure](/topics/camera-exposure.md) for the motion blur limit that GSD sets.
-- [Mapping Mission Planning](/topics/mapping-mission-planning.md) for turning a required GSD into a flyable plan.
-- [Mapping Accuracy](/topics/mapping-accuracy.md) for the positional accuracy that GSD does not promise.
-- [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md) for the mapping credential that tests flight planning knowledge like this.
+- [Cameras for Drone Mapping](cameras-for-drone-mapping.md) for the camera geometry behind the formula.
+- [Camera Exposure](camera-exposure.md) for the motion blur limit that GSD sets.
+- [Mapping Mission Planning](mapping-mission-planning.md) for turning a required GSD into a flyable plan.
+- [Mapping Accuracy](mapping-accuracy.md) for the positional accuracy that GSD does not promise.
+- [ASPRS Certified UAS Technologist](../exams/asprs-certified-uas-technologist.md) for the mapping credential that tests flight planning knowledge like this.
 
 ## Citations
 

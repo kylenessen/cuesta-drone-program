@@ -32,8 +32,8 @@ Field charging fails at the small stuff. Carry the correct high-wattage USB-C po
 
 ## Related
 
-- [Battery Fundamentals and Safety](/topics/battery-fundamentals-and-safety.md) for the chemistry and charge behavior behind these logistics.
-- [Field Operations Best Practices](/topics/field-operations-best-practices.md) for the rest of the field craft.
+- [Battery Fundamentals and Safety](battery-fundamentals-and-safety.md) for the chemistry and charge behavior behind these logistics.
+- [Field Operations Best Practices](field-operations-best-practices.md) for the rest of the field craft.
 
 ## Citations
 

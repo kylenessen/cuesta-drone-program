@@ -32,9 +32,9 @@ Six criteria separate these tools in practice. First, terrain following quality,
 
 ## Related
 
-- [Mapping Mission Planning](/topics/mapping-mission-planning.md) for the parameters these tools implement.
-- [NDAA Compliance and Blue UAS](/topics/ndaa-compliance-and-blue-uas.md) for why platform breadth beyond DJI matters.
-- [Photogrammetry Software](/topics/photogrammetry-software.md) for the processing side of the pipeline.
+- [Mapping Mission Planning](mapping-mission-planning.md) for the parameters these tools implement.
+- [NDAA Compliance and Blue UAS](ndaa-compliance-and-blue-uas.md) for why platform breadth beyond DJI matters.
+- [Photogrammetry Software](photogrammetry-software.md) for the processing side of the pipeline.
 
 ## Citations
 

@@ -12,4 +12,4 @@ Machine-extracted text is preserved as `govinfo-14-cfr-107-205.txt`. Extraction 
 
 ## Used By
 
-- [Certificate of Waiver](/regulations/certificate-of-waiver.md) cites this source for the waivable-rule list and its exceptions.
+- [Certificate of Waiver](../regulations/certificate-of-waiver.md) cites this source for the waivable-rule list and its exceptions.

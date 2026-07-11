@@ -1,6 +1,6 @@
 # UAG Sample Questions
 
-The **UAG Sample Questions** document is the FAA's published set of example questions for the Unmanned Aircraft General, Small (UAG) knowledge test, the test taken for initial Part 107 certification. It shows the multiple-choice format, the phrasing style, the use of testing-supplement figures (sectional chart excerpts and airport diagrams), and the level of difficulty applicants face on the [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md).
+The **UAG Sample Questions** document is the FAA's published set of example questions for the Unmanned Aircraft General, Small (UAG) knowledge test, the test taken for initial Part 107 certification. It shows the multiple-choice format, the phrasing style, the use of testing-supplement figures (sectional chart excerpts and airport diagrams), and the level of difficulty applicants face on the [Part 107 Knowledge Test](../exams/part-107-knowledge-test.md).
 
 For course development the value is calibration: quiz and exam items written for the course can match this style, and the referenced figures indicate which chart-reading skills deserve classroom practice time.
 
@@ -14,5 +14,5 @@ Machine-extracted text is preserved as `uag-sample-questions.txt`. Question text
 
 ## Used By
 
-- [Part 107 Knowledge Test](/exams/part-107-knowledge-test.md)
-- [Sectional Chart](/topics/sectional-chart.md)
+- [Part 107 Knowledge Test](../exams/part-107-knowledge-test.md)
+- [Sectional Chart](../topics/sectional-chart.md)

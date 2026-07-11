@@ -4,7 +4,7 @@
 
 ## NDVI
 
-NDVI, the Normalized Difference Vegetation Index, uses the contrast between near-infrared and red reflectance to gauge photosynthetic activity, often described simply as greenness. Healthy, actively photosynthesizing vegetation reflects strongly in the near-infrared and absorbs red light, and the index normalizes that difference into a single value. Because it depends on precise reflectance measurements, NDVI needs the raw sensor values discussed in [Digital Imaging](/topics/digital-imaging.md) rather than a processed JPEG. The near-infrared region it relies on is introduced in [Electromagnetic Spectrum](/topics/electromagnetic-spectrum.md). [1]
+NDVI, the Normalized Difference Vegetation Index, uses the contrast between near-infrared and red reflectance to gauge photosynthetic activity, often described simply as greenness. Healthy, actively photosynthesizing vegetation reflects strongly in the near-infrared and absorbs red light, and the index normalizes that difference into a single value. Because it depends on precise reflectance measurements, NDVI needs the raw sensor values discussed in [Digital Imaging](digital-imaging.md) rather than a processed JPEG. The near-infrared region it relies on is introduced in [Electromagnetic Spectrum](electromagnetic-spectrum.md). [1]
 
 ## The Red Edge
 
@@ -12,17 +12,17 @@ Between red and near-infrared, vegetation reflectance rises sharply, a transitio
 
 ## Beyond Agriculture
 
-NDVI and agriculture are the largest branch of this work, but greenness is something people care about well beyond farming, and the same measurement supports environmental and land monitoring more broadly. A practical teaching point is that analytic multispectral images look flat and boring when first opened, because their information sits across a wide range of values that must be stretched appropriately to be interpreted. That ties directly back to bit depth and raw values in [Digital Imaging](/topics/digital-imaging.md). [1]
+NDVI and agriculture are the largest branch of this work, but greenness is something people care about well beyond farming, and the same measurement supports environmental and land monitoring more broadly. A practical teaching point is that analytic multispectral images look flat and boring when first opened, because their information sits across a wide range of values that must be stretched appropriately to be interpreted. That ties directly back to bit depth and raw values in [Digital Imaging](digital-imaging.md). [1]
 
 ## Related
 
-- [Vegetation Indices](/topics/vegetation-indices.md) extends NDVI into NDRE, soil-adjusted indices, and the limits of index interpretation.
-- [Electromagnetic Spectrum](/topics/electromagnetic-spectrum.md) covers the infrared region NDVI depends on.
-- [Digital Imaging](/topics/digital-imaging.md) explains why analytic images need raw values and careful stretching.
-- [Multispectral Field Practice](/topics/multispectral-field-practice.md) covers the calibration that makes indices comparable across dates.
-- [Agricultural Drone Applications](/topics/agricultural-drone-applications.md) covers the farm use cases this measurement anchors.
-- [Drone Payloads](/topics/drone-payloads.md) covers the camera and sensor payloads that capture these bands.
+- [Vegetation Indices](vegetation-indices.md) extends NDVI into NDRE, soil-adjusted indices, and the limits of index interpretation.
+- [Electromagnetic Spectrum](electromagnetic-spectrum.md) covers the infrared region NDVI depends on.
+- [Digital Imaging](digital-imaging.md) explains why analytic images need raw values and careful stretching.
+- [Multispectral Field Practice](multispectral-field-practice.md) covers the calibration that makes indices comparable across dates.
+- [Agricultural Drone Applications](agricultural-drone-applications.md) covers the farm use cases this measurement anchors.
+- [Drone Payloads](drone-payloads.md) covers the camera and sensor payloads that capture these bands.
 
 ## Citations
 
-[1] [Drone Course Content Brainstorm](/sources/drone-course-content-brainstorm.md), July 2026 course-content voice memo, sections on infrared and NDVI.
+[1] [Drone Course Content Brainstorm](../sources/drone-course-content-brainstorm.md), July 2026 course-content voice memo, sections on infrared and NDVI.

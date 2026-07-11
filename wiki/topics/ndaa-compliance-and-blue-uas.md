@@ -24,9 +24,9 @@ The cost and capability gap versus DJI is real and worth stating plainly. A DJI 
 
 ## Related
 
-- [Uncrewed Aircraft](/topics/uncrewed-aircraft.md) for the airframe-and-payload framing these platforms share.
-- [Mission Planning Software](/topics/mission-planning-software.md) for why planner support beyond DJI matters.
-- [Applications of Drone Mapping](/topics/applications-of-drone-mapping.md) for the federally funded work these rules gate.
+- [Uncrewed Aircraft](uncrewed-aircraft.md) for the airframe-and-payload framing these platforms share.
+- [Mission Planning Software](mission-planning-software.md) for why planner support beyond DJI matters.
+- [Applications of Drone Mapping](applications-of-drone-mapping.md) for the federally funded work these rules gate.
 
 ## Citations
 

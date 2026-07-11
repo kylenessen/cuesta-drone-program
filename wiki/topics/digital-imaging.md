@@ -8,7 +8,7 @@ A digital sensor is a surface divided into a grid of tiny cells. When light stri
 
 ## Color and Demosaicing
 
-Color comes from filtering the light before it reaches the cells, so that some cells see only red light, others only green, and others only blue. Each cell still records a single brightness value, now for one color. An algorithm then reconstructs a full-color image by combining neighboring cells, a step known as demosaicing. The consequence is that a color photograph is already an interpretation, built up from single-color brightness readings by software. The filtering that selects which wavelengths reach the cells is covered in [Electromagnetic Spectrum](/topics/electromagnetic-spectrum.md). [1]
+Color comes from filtering the light before it reaches the cells, so that some cells see only red light, others only green, and others only blue. Each cell still records a single brightness value, now for one color. An algorithm then reconstructs a full-color image by combining neighboring cells, a step known as demosaicing. The consequence is that a color photograph is already an interpretation, built up from single-color brightness readings by software. The filtering that selects which wavelengths reach the cells is covered in [Electromagnetic Spectrum](electromagnetic-spectrum.md). [1]
 
 ## Raw Values and Processing
 
@@ -16,7 +16,7 @@ The image a sensor produces before processing looks flat, subtle, and unimpressi
 
 ## RAW versus JPEG
 
-A RAW file preserves the unprocessed values straight from the sensor. JPEG is a lossy format that discards information to shrink the file, collapsing detail in exchange for smaller size. For casual photography JPEG is the right choice. A reference snapshot only needs to be seen, not measured, and there is no reason to fill storage with raw values. For professional work the calculus flips. Shooting RAW preserves the most latitude to edit and the highest quality for images that will be sold or published. A RAW file can always be converted to JPEG later, but a JPEG can never be unbaked back into raw values. When images are used as data, for observation and measurement rather than viewing, RAW is essential because it stays as close as possible to what the sensor truly saw. Calculating a vegetation index such as NDVI, covered in [Multispectral Imaging](/topics/multispectral-imaging.md), depends on having those raw values. [1]
+A RAW file preserves the unprocessed values straight from the sensor. JPEG is a lossy format that discards information to shrink the file, collapsing detail in exchange for smaller size. For casual photography JPEG is the right choice. A reference snapshot only needs to be seen, not measured, and there is no reason to fill storage with raw values. For professional work the calculus flips. Shooting RAW preserves the most latitude to edit and the highest quality for images that will be sold or published. A RAW file can always be converted to JPEG later, but a JPEG can never be unbaked back into raw values. When images are used as data, for observation and measurement rather than viewing, RAW is essential because it stays as close as possible to what the sensor truly saw. Calculating a vegetation index such as NDVI, covered in [Multispectral Imaging](multispectral-imaging.md), depends on having those raw values. [1]
 
 ## Bit Depth
 
@@ -24,9 +24,9 @@ Bit depth is the number of distinct values a pixel can take, and it sets the pre
 
 ## Related
 
-- [Electromagnetic Spectrum](/topics/electromagnetic-spectrum.md) explains the filtering that lets a sensor capture specific wavelengths.
-- [Multispectral Imaging](/topics/multispectral-imaging.md) shows why analytic images need raw values and careful stretching.
+- [Electromagnetic Spectrum](electromagnetic-spectrum.md) explains the filtering that lets a sensor capture specific wavelengths.
+- [Multispectral Imaging](multispectral-imaging.md) shows why analytic images need raw values and careful stretching.
 
 ## Citations
 
-[1] [Drone Course Content Brainstorm](/sources/drone-course-content-brainstorm.md), July 2026 course-content voice memo, sections on understanding light and sensors, RAW versus JPEG, and bit depth.
+[1] [Drone Course Content Brainstorm](../sources/drone-course-content-brainstorm.md), July 2026 course-content voice memo, sections on understanding light and sensors, RAW versus JPEG, and bit depth.

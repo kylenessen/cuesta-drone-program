@@ -34,10 +34,10 @@ FAA and DOT rules for airline passengers are strict and specific. Spare lithium-
 
 ## Related
 
-- [Field Power Management](/topics/field-power-management.md) for charging logistics on a mapping day.
-- [Field Operations Best Practices](/topics/field-operations-best-practices.md) for keeping packs cool and cycling in the field.
-- [Emergency Procedures](/topics/emergency-procedures.md) for battery fire response in flight operations.
-- [Maintenance and Inspection](/topics/maintenance-and-inspection.md) for battery care within the broader maintenance program.
+- [Field Power Management](field-power-management.md) for charging logistics on a mapping day.
+- [Field Operations Best Practices](field-operations-best-practices.md) for keeping packs cool and cycling in the field.
+- [Emergency Procedures](emergency-procedures.md) for battery fire response in flight operations.
+- [Maintenance and Inspection](maintenance-and-inspection.md) for battery care within the broader maintenance program.
 
 ## Citations
 

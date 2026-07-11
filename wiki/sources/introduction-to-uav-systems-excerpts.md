@@ -1,6 +1,6 @@
 # Introduction to UAV Systems Excerpts
 
-**Introduction to UAV Systems Excerpts** preserves the publicly downloadable sample material Wiley publishes for Introduction to UAV Systems, 5th edition, by Paul Gerin Fahlstrom, Thomas James Gleason, and Mohammad H. Sadraey (Wiley Aerospace Series, 2022). The book is one of the two UAS texts on the ASPRS suggested reading list, and these excerpts are the evidence anchor for its contents on the [ASPRS Recommended Reading List](/analysis/asprs-recommended-reading-list.md) page. The book itself is under copyright and cannot be stored.
+**Introduction to UAV Systems Excerpts** preserves the publicly downloadable sample material Wiley publishes for Introduction to UAV Systems, 5th edition, by Paul Gerin Fahlstrom, Thomas James Gleason, and Mohammad H. Sadraey (Wiley Aerospace Series, 2022). The book is one of the two UAS texts on the ASPRS suggested reading list, and these excerpts are the evidence anchor for its contents on the [ASPRS Recommended Reading List](../analysis/asprs-recommended-reading-list.md) page. The book itself is under copyright and cannot be stored.
 
 ## Original Sources
 
@@ -15,4 +15,4 @@ The table of contents extraction is complete down to the numbered subsection lev
 
 ## Used By
 
-- [ASPRS Recommended Reading List](/analysis/asprs-recommended-reading-list.md)
+- [ASPRS Recommended Reading List](../analysis/asprs-recommended-reading-list.md)

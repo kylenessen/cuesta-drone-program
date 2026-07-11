@@ -4,7 +4,7 @@
 
 ## Code versus carrier phase
 
-Standard navigation receivers measure the pseudorandom code modulated onto the GNSS signal. Code measurements are unambiguous but coarse, and they support the few-meter accuracy described in [GNSS Fundamentals](/topics/gnss-fundamentals.md). Survey receivers additionally measure the phase of the carrier wave itself. The GPS L1 carrier has a wavelength of about 19 centimeters, and phase can be tracked to a small fraction of that, so the measurement is precise at the millimeter level. The catch is ambiguity. The receiver knows the fractional phase but not the whole number of carrier cycles between it and the satellite. Solving for those integer ambiguities is the central problem of carrier-phase positioning [1].
+Standard navigation receivers measure the pseudorandom code modulated onto the GNSS signal. Code measurements are unambiguous but coarse, and they support the few-meter accuracy described in [GNSS Fundamentals](gnss-fundamentals.md). Survey receivers additionally measure the phase of the carrier wave itself. The GPS L1 carrier has a wavelength of about 19 centimeters, and phase can be tracked to a small fraction of that, so the measurement is precise at the millimeter level. The catch is ambiguity. The receiver knows the fractional phase but not the whole number of carrier cycles between it and the satellite. Solving for those integer ambiguities is the central problem of carrier-phase positioning [1].
 
 ## Fix versus float
 
@@ -20,15 +20,15 @@ RTK, real-time kinematic, applies the corrections during the survey. The rover n
 
 ## RTK on the drone versus RTK on the rover
 
-These are two different jobs. RTK on the aircraft, as on the Matrice 4E with its 1 centimeter plus 1 ppm horizontal RTK positioning spec, writes accurate camera positions into each image's metadata [6]. That constrains the photogrammetric bundle adjustment from above and can deliver strong absolute accuracy with few or no ground control points. RTK on a survey rover, the Reach RX2 on a pole, measures coordinates of points on the ground. Those points become ground control to constrain the adjustment, or independent checkpoints to test it. Even with a reliable RTK drone, checkpoints measured with a rover remain the only defensible way to prove the accuracy of a deliverable, a topic developed in [Ground Control Points](/topics/ground-control-points.md) and [Mapping Accuracy](/topics/mapping-accuracy.md).
+These are two different jobs. RTK on the aircraft, as on the Matrice 4E with its 1 centimeter plus 1 ppm horizontal RTK positioning spec, writes accurate camera positions into each image's metadata [6]. That constrains the photogrammetric bundle adjustment from above and can deliver strong absolute accuracy with few or no ground control points. RTK on a survey rover, the Reach RX2 on a pole, measures coordinates of points on the ground. Those points become ground control to constrain the adjustment, or independent checkpoints to test it. Even with a reliable RTK drone, checkpoints measured with a rover remain the only defensible way to prove the accuracy of a deliverable, a topic developed in [Ground Control Points](ground-control-points.md) and [Mapping Accuracy](mapping-accuracy.md).
 
 ## Related
 
-- [GNSS Fundamentals](/topics/gnss-fundamentals.md) for the positioning basics these techniques build on.
-- [Ground Control Points](/topics/ground-control-points.md) for what the survey rover measures.
-- [Mapping Accuracy](/topics/mapping-accuracy.md) for proving the result.
-- [Map Projections and Coordinate Systems](/topics/map-projections-and-coordinate-systems.md) for the coordinate framework corrections operate in.
-- [ASPRS Certified UAS Technologist](/exams/asprs-certified-uas-technologist.md) for the mapping credential that tests this material.
+- [GNSS Fundamentals](gnss-fundamentals.md) for the positioning basics these techniques build on.
+- [Ground Control Points](ground-control-points.md) for what the survey rover measures.
+- [Mapping Accuracy](mapping-accuracy.md) for proving the result.
+- [Map Projections and Coordinate Systems](map-projections-and-coordinate-systems.md) for the coordinate framework corrections operate in.
+- [ASPRS Certified UAS Technologist](../exams/asprs-certified-uas-technologist.md) for the mapping credential that tests this material.
 
 ## Citations
 

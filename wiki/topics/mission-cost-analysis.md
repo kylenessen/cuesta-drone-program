@@ -28,10 +28,10 @@ Drones earned a reputation as the low cost disruptor, and often they are, but no
 
 ## Related
 
-- [Applications of Drone Mapping](/topics/applications-of-drone-mapping.md) for the products being priced.
-- [Limits of Drone Mapping](/topics/limits-of-drone-mapping.md) for the jobs to decline.
-- [Drone Mapping and Licensed Surveying](/topics/drone-mapping-and-licensed-surveying.md) for the liability boundary in deliverable language.
-- [Field Power Management](/topics/field-power-management.md) and [Field Operations Best Practices](/topics/field-operations-best-practices.md) for the field time being estimated.
+- [Applications of Drone Mapping](applications-of-drone-mapping.md) for the products being priced.
+- [Limits of Drone Mapping](limits-of-drone-mapping.md) for the jobs to decline.
+- [Drone Mapping and Licensed Surveying](drone-mapping-and-licensed-surveying.md) for the liability boundary in deliverable language.
+- [Field Power Management](field-power-management.md) and [Field Operations Best Practices](field-operations-best-practices.md) for the field time being estimated.
 
 ## Citations
 

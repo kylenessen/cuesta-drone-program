@@ -14,11 +14,11 @@ Thermal sensitivity is quantified as NETD, noise equivalent temperature differen
 
 ## Measurement science
 
-Turning radiometric data into defensible temperatures is its own body of knowledge, taught as the core of a Level 1 thermography course and spread across this wiki as teachable units. [Emissivity and Reflected Temperature](/topics/emissivity-and-reflected-temperature.md) covers why the camera's reading is only an apparent temperature and how surface properties corrupt it. [Spot Size and Measurement Distance](/topics/spot-size-and-measurement-distance.md) covers the pixel geometry that limits measurement range and ties it to flying height. [Thermal Tuning and Palettes](/topics/thermal-tuning-and-palettes.md) covers the display decisions that determine whether an anomaly is visible at all. [Delta-T Severity Classification](/topics/delta-t-severity-classification.md) covers how validated measurements become graded findings on electrical and solar equipment.
+Turning radiometric data into defensible temperatures is its own body of knowledge, taught as the core of a Level 1 thermography course and spread across this wiki as teachable units. [Emissivity and Reflected Temperature](emissivity-and-reflected-temperature.md) covers why the camera's reading is only an apparent temperature and how surface properties corrupt it. [Spot Size and Measurement Distance](spot-size-and-measurement-distance.md) covers the pixel geometry that limits measurement range and ties it to flying height. [Thermal Tuning and Palettes](thermal-tuning-and-palettes.md) covers the display decisions that determine whether an anomaly is visible at all. [Delta-T Severity Classification](delta-t-severity-classification.md) covers how validated measurements become graded findings on electrical and solar equipment.
 
 ## Environmental effects
 
-The environment routinely dominates the measurement. Solar loading heats surfaces unevenly through the day, so a sun-warmed panel or roof can mask or mimic a defect. Wind convectively cools hot spots and can shrink a genuine electrical anomaly below detection. Time of day is a core planning variable. Building envelope work favors early morning or after sunset, when solar effects have faded and interior to exterior temperature differences drive the image. Search and rescue benefits from night or early morning, when the background has cooled and a warm body stands out. Light rain, fog, and high humidity attenuate LWIR and degrade both detection and measurement. How timing interacts with electrical load and solar irradiance is covered in [Delta-T Severity Classification](/topics/delta-t-severity-classification.md).
+The environment routinely dominates the measurement. Solar loading heats surfaces unevenly through the day, so a sun-warmed panel or roof can mask or mimic a defect. Wind convectively cools hot spots and can shrink a genuine electrical anomaly below detection. Time of day is a core planning variable. Building envelope work favors early morning or after sunset, when solar effects have faded and interior to exterior temperature differences drive the image. Search and rescue benefits from night or early morning, when the background has cooled and a warm body stands out. Light rain, fog, and high humidity attenuate LWIR and degrade both detection and measurement. How timing interacts with electrical load and solar irradiance is covered in [Delta-T Severity Classification](delta-t-severity-classification.md).
 
 ## Applications
 
@@ -30,17 +30,17 @@ Thermal images can be mapped like any other imagery, and thermal orthomosaics ar
 
 ## Certification
 
-Clients in utility, solar, and building inspection expect thermal findings from certified thermographers. The industry credential is Level 1 thermographer certification, offered in a drone-specific form as Level 1 sUAS Thermography by the Infrared Training Center (ITC) and other providers, developed in line with the American Society for Nondestructive Testing's personnel qualification guidelines [2]. The certification landscape, course costs, and career value are covered in [Level 1 Thermography Certification](/exams/level-1-thermography-certification.md).
+Clients in utility, solar, and building inspection expect thermal findings from certified thermographers. The industry credential is Level 1 thermographer certification, offered in a drone-specific form as Level 1 sUAS Thermography by the Infrared Training Center (ITC) and other providers, developed in line with the American Society for Nondestructive Testing's personnel qualification guidelines [2]. The certification landscape, course costs, and career value are covered in [Level 1 Thermography Certification](../exams/level-1-thermography-certification.md).
 
 ## Related
 
-- [Emissivity and Reflected Temperature](/topics/emissivity-and-reflected-temperature.md), [Spot Size and Measurement Distance](/topics/spot-size-and-measurement-distance.md), [Thermal Tuning and Palettes](/topics/thermal-tuning-and-palettes.md), and [Delta-T Severity Classification](/topics/delta-t-severity-classification.md) for the measurement science and craft.
-- [Level 1 Thermography Certification](/exams/level-1-thermography-certification.md) for the credential pathway this knowledge feeds.
-- [Electromagnetic Spectrum](/topics/electromagnetic-spectrum.md) for where LWIR sits among the bands.
-- [Infrastructure Inspection Operations](/topics/infrastructure-inspection-operations.md) and [Public Safety Drone Operations](/topics/public-safety-drone-operations.md) for the work this sensing supports.
-- [Agricultural Drone Applications](/topics/agricultural-drone-applications.md) for canopy-temperature water-stress and irrigation work.
-- [Orthomosaics](/topics/orthomosaics.md) for the mapping workflow thermal mosaics inherit.
-- [Drone Payloads](/topics/drone-payloads.md) for thermal's place in the payload taxonomy.
+- [Emissivity and Reflected Temperature](emissivity-and-reflected-temperature.md), [Spot Size and Measurement Distance](spot-size-and-measurement-distance.md), [Thermal Tuning and Palettes](thermal-tuning-and-palettes.md), and [Delta-T Severity Classification](delta-t-severity-classification.md) for the measurement science and craft.
+- [Level 1 Thermography Certification](../exams/level-1-thermography-certification.md) for the credential pathway this knowledge feeds.
+- [Electromagnetic Spectrum](electromagnetic-spectrum.md) for where LWIR sits among the bands.
+- [Infrastructure Inspection Operations](infrastructure-inspection-operations.md) and [Public Safety Drone Operations](public-safety-drone-operations.md) for the work this sensing supports.
+- [Agricultural Drone Applications](agricultural-drone-applications.md) for canopy-temperature water-stress and irrigation work.
+- [Orthomosaics](orthomosaics.md) for the mapping workflow thermal mosaics inherit.
+- [Drone Payloads](drone-payloads.md) for thermal's place in the payload taxonomy.
 
 ## Citations
 
