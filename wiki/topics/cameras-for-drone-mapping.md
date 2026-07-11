@@ -27,6 +27,7 @@ For routine orthomosaic work, well-exposed JPEGs are usually sufficient, and mos
 - [Digital Imaging](digital-imaging.md) for sensor physics, demosaicing, and bit depth.
 - [Camera Exposure](camera-exposure.md) for using this hardware well in flight.
 - [Ground Sample Distance](ground-sample-distance.md) for how the camera geometry sets the pixel footprint.
+- [DJI Matrice 4E](../equipment/dji-matrice-4e.md) is the program's mapping camera platform, specs and ecosystem.
 
 ## Citations
 

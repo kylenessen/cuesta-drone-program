@@ -29,6 +29,7 @@ These are two different jobs. RTK on the aircraft, as on the Matrice 4E with its
 - [Mapping Accuracy](mapping-accuracy.md) for proving the result.
 - [Map Projections and Coordinate Systems](map-projections-and-coordinate-systems.md) for the coordinate framework corrections operate in.
 - [ASPRS Certified UAS Technologist](../exams/asprs-certified-uas-technologist.md) for the mapping credential that tests this material.
+- [Emlid RTK Kit](../equipment/emlid-rtk-kit.md) documents the program's base and rover hardware and correction workflows.
 
 ## Citations
 

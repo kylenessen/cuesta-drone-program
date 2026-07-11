@@ -16,6 +16,8 @@ The Blue UAS Cleared List began at the Defense Innovation Unit as a catalog of s
 
 Federal agencies are bound directly. Contractors and grant recipients are bound whenever federal dollars pay for the drone work. That last part is what reaches local practice. The Morro Bay National Estuary Program, part of the EPA funded National Estuary Program [6], cannot pay contractors who fly DJI aircraft when the money is federal. A mapping contractor in San Luis Obispo County who only owns DJI equipment is simply ineligible for that work. Several states have gone further on their own. Florida requires government agencies to buy only from an approved manufacturer list maintained by its Department of Management Services, which excludes DJI and Autel and grounded existing fleets in 2023 [7]. Purely private commercial work under Part 107 remains unrestricted, for now.
 
+The funding-source distinction runs straight through this program's own purchasing, as laid out in the program's April 2026 cost planning correspondence [10]. Perkins funds are federal money awarded under the Strengthening Career and Technical Education for the 21st Century Act, so the American Security Drone Act binds them directly: Perkins-funded drone purchases must be NDAA compliant, and DJI and Autel are ineligible under that stream. Strong Workforce Program funds come from the California state budget, not a federal grant, so the ASDA imposes no legal mandate on them, which is why the college's existing DJI Mavic 3E and 3T, bought with prior SWP money, remain usable for instruction. The program nonetheless plans NDAA compliant platforms for all new purchases regardless of funding source. That is strategy rather than obligation: the utilities, public safety agencies, and government employers in its primary hiring sectors, PG&E and Cal OES among them, have mandated or are actively transitioning to compliant fleets, and training students on aircraft their future employers cannot fly would disadvantage graduates. Buying compliant also keeps every purchase eligible under every funding stream as the regulatory environment continues to tighten [10].
+
 ## The compliant platform landscape
 
 The Cleared List changes often, so verify current membership at the official site before quoting it [5]. As of mid 2026 the list includes over fifty platforms from more than thirty manufacturers. Names relevant to mapping work include Skydio (X10D), Inspired Flight (IF800 Tomcat and IF1200A), Freefly Systems (Astro and Alta X Blue), Wingtra (WingtraOne Gen II and WingtraRAY fixed wing mapping aircraft), Parrot (ANAFI USA GOV/MIL), Ascent AeroSystems, Vantage Robotics, and Teal [8]. Inspired Flight is headquartered in San Luis Obispo, which makes it a natural local industry connection for this program.
@@ -27,6 +29,8 @@ The cost and capability gap versus DJI is real and worth stating plainly. A DJI 
 - [Uncrewed Aircraft](uncrewed-aircraft.md) for the airframe-and-payload framing these platforms share.
 - [Mission Planning Software](mission-planning-software.md) for why planner support beyond DJI matters.
 - [Applications of Drone Mapping](applications-of-drone-mapping.md) for the federally funded work these rules gate.
+- [NDAA-Compliant Platform Options](../equipment/ndaa-compliant-platform-options.md) surveys the compliant platforms against the program's needs.
+- [Equipment Overview](../equipment/equipment-overview.md) shows where the compliance question sits in the program fleet.
 
 ## Citations
 
@@ -39,3 +43,22 @@ The cost and capability gap versus DJI is real and worth stating plainly. A DJI 
 [7] Florida Department of Management Services, Approved Drone Manufacturers. https://www.dms.myflorida.com/business_operations/state_purchasing/approved_drone_manufacturers
 [8] Inspired Flight Technologies, IF800 Tomcat. https://www.inspiredflight.com/if800.php
 [9] Skydio X10. https://www.skydio.com/x10
+[10] Ron Overacker, "Costs and Drone for proposal," program proposal cost narrative, April 24, 2026 (communications/Costs and Drone for proposal.eml in this repository).
+
+```tandem-comments
+{
+  "fleet-funding": {
+    "anchor": {
+      "exact": "remain usable for instruction"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "Practical purchasing consequence: the AERO 100 DJI training fleet (Mini 3 / Air 3) can only be bought with SWP state money, not Perkins federal money. Confirm which stream funds the training fleet before the purchase order, since it decides whether a DJI fleet is even permissible."
+      }
+    ]
+  }
+}
+```

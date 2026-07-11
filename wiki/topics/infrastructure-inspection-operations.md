@@ -72,6 +72,7 @@ The closest thing this sector has to a training standard is the [AUVSI Trusted O
 - [Public Safety Drone Operations](public-safety-drone-operations.md) for the neighboring employment sector.
 - [Field Operations Best Practices](field-operations-best-practices.md) for the operational discipline inspection inherits.
 - [Drone Radio Links and Interference](drone-radio-links-and-interference.md) for what strong transmitters do to the aircraft's control link.
+- [DJI Matrice 4T](../equipment/dji-matrice-4t.md) documents the program's inspection aircraft and its PG&E alignment.
 
 ## Citations
 

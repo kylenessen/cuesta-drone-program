@@ -26,6 +26,7 @@ Other recurring failures are close cousins. Mixing UTM zone 10 and zone 11 data 
 
 ## Related
 
+- [Sectional Chart](sectional-chart.md) for latitude and longitude as the aeronautical chart and knowledge test use them.
 - [Vertical Datums and Geoid Models](vertical-datums-and-geoid-models.md) for the height half of the coordinate question.
 - [GNSS Fundamentals](gnss-fundamentals.md) for where the native coordinates come from.
 - [Ground Control Points](ground-control-points.md) for the survey workflow these systems anchor.

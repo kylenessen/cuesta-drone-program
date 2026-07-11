@@ -12,12 +12,17 @@ A remote pilot near an airport should monitor the field's frequency to build a p
 
 Test items include runway holding position markings (four yellow lines, two solid and two dashed, where the solid side means hold), runway and taxiway signage, and airport lighting such as the rotating beacon, runway edge lights, and visual glideslope indicators, all of which help a remote pilot interpret what manned aircraft are doing, especially at night. Security Identification Display Areas (SIDA) are portions of an airport where unescorted access requires security clearance, relevant to commercial pilots hired for on-airport work. Wildlife is a shared hazard: bird strikes are reportable through the FAA's wildlife strike program, and drone operations should avoid concentrating birds toward runways. [1](../sources/faa-s-acs-10b.md) [2](../sources/remote-pilot-study-guide.md)
 
-Airport data lives in two places: the [Sectional Chart](sectional-chart.md) for location, elevation, airspace, and primary frequencies, and the Chart Supplement for the full directory entry including hours, all frequencies, and remarks. Exam questions probe which document answers which question. [1](../sources/faa-s-acs-10b.md)
+Airport data lives in three places: the [Sectional Chart](sectional-chart.md) for location, elevation, airspace, and primary frequencies, the Chart Supplement, covered in [Aeronautical Publications and References](aeronautical-publications-and-references.md), for the full directory entry including hours, all frequencies, and remarks, and [NOTAMs](notams.md) for the changes too recent for either, such as closed runways and construction. Exam questions probe which document answers which question. [1](../sources/faa-s-acs-10b.md)
+
+## Off-Airport Operations
+
+Most Part 107 work happens nowhere near an airport, and the AERO 100 outline names off-airport operations as its own subject because the absence of aviation infrastructure shifts the whole burden onto the remote pilot. There is no tower, no ATIS, and no published traffic pattern, so the section 107.49 assessment of the operating environment does the work: local weather from the nearest representative reporting station, airspace confirmed on the chart or in an app, people and property on the surface, and ground hazards such as towers, wires, trees, and terrain that the site itself presents. The pilot also selects the launch and recovery site, which an airport would otherwise provide: a clear, level area with line of sight over the work area, away from bystanders and roads. Two non-FAA layers come with off-airport sites: permission to stand where the crew stands, since the FAA regulates the air but landowners and local ordinances govern takeoff and landing locations, and the awareness that low-altitude manned traffic (agricultural aircraft, helicopters, military training routes) can appear anywhere, so the see-and-yield duty never lapses. These field judgments are developed further in [Field Operations Best Practices](field-operations-best-practices.md). [2](../sources/remote-pilot-study-guide.md) [1](../sources/faa-s-acs-10b.md)
 
 ## Related
 
-- [Night Operations](night-operations.md) covers lighting interpretation after dark.
+- [Night Operations](night-operations.md) covers lighting interpretation after dark and the rules for flying at night.
 - [Airspace Classification](airspace-classification.md) determines which airports carry authorization requirements.
+- [Field Operations Best Practices](field-operations-best-practices.md) extends off-airport judgment into full field-day procedure.
 
 ## Citations
 

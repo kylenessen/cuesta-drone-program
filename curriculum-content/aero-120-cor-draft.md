@@ -1,7 +1,6 @@
-# New Course Proposal: AERO 120 - THERMAL IMAGING AND APPLIED INSPECTION
+# New Course Proposal: AERO 120 - DRONE INFRASTRUCTURE INSPECTION
 
-Working draft for CurriQunet submission. Modeled on the AERO 100 Course Outline Report.
-Course number is a placeholder pending Ron's input.
+Working draft for CurriQunet submission, structured to match the approved AERO 100 All Fields report section by section. Course number and title are placeholders pending Ron's input. Updated July 2026 to reflect the current course design: inspection-focused with thermal fundamentals as core content, planned around the PG&E and IBEW 1245 partnership, with ITC Level 1 thermography exam preparation planned as a second phase. Public safety operations have moved to a separate future course.
 
 ---
 
@@ -19,37 +18,38 @@ Contributor: [TBD - Ron to assign in CurriQunet]
 - **Banner Course Number:** [TBD]
 - **Discipline:** AERO
 - **Course Number:** 120 [TBD - confirm with Ron]
-- **Full Course Title:** THERMAL IMAGING AND APPLIED INSPECTION
-- **Abbreviate Title:** Thermal Inspect
+- **Full Course Title:** DRONE INFRASTRUCTURE INSPECTION
+- **Abbreviate Title:** Drone Inspection
 
 ### Proposal Rationale
 
-Thermal imaging and visual inspection from drones serve two major employment sectors: infrastructure inspection and public safety operations. California's utility inspection requirements (General Orders 95 and 165) create ongoing demand for drone-equipped thermal inspectors, while fire departments, law enforcement, and search and rescue teams increasingly integrate thermal drones into their operations. PG&E represents the single largest local employer of drone operators, with 80+ pilots deployed daily and over 300,000 inspections completed in 2024. Entry-level inspection positions pay $22--48/hour, with experienced inspectors earning $65,000--85,000 annually. This course builds on AERO 100 to teach infrared theory, thermal camera operation, high-zoom visual inspection techniques, image interpretation, and professional reporting workflows applicable across both sectors. The course uses the DJI Matrice 4T, a dual-payload drone carrying both a thermal sensor and a high-zoom visual camera, which aligns with PG&E's equipment standards. The course also prepares students for Level 1 thermography certification, an industry credential that significantly enhances employment prospects. The combination of Part 107 certification (from AERO 100) and thermography certification positions graduates competitively for utility inspection roles. San Luis Obispo County's utility infrastructure, fire risk, and active public safety agencies provide immediate employment context for graduates.
+Drone-based infrastructure inspection is among the largest and most stable employment sectors for commercial UAS operators. California utility inspection mandates under CPUC General Orders 95 and 165 create ongoing demand for drone-equipped inspectors, and PG&E operates one of the largest utility drone inspection programs in the world, with roughly 80 pilots in the field on a typical day and more than 300,000 pole and tower inspections completed by drone in 2024. This course is planned in partnership with PG&E and IBEW Local 1245. The union's in-house drone operator training assumed entrants who already held Part 107 certificates but lacked hands-on experience and utility protocol; this course delivers exactly that layer on top of AERO 100, teaching the precision manual flight, thermal interpretation, and asset knowledge that distinguish inspection from mapping work. Thermal fundamentals are core content, aligned with the Level 1 thermography certification body of knowledge, an industry credential that significantly enhances employment prospects; full exam preparation is planned as a second phase once the utility partnership is established. The course uses the DJI Matrice 4T, a dual-payload drone carrying both a thermal sensor and a high-zoom visual camera, consistent with utility equipment standards. The combination of Part 107 certification (from AERO 100) and thermography preparation positions graduates competitively for utility inspection roles, and California's credit for prior learning framework offers a pathway for incumbent utility workers to enter the program with credit for employer training.
 
 ### Catalog Description
 
-Prepares students to conduct professional drone-based thermal imaging and visual inspection operations. Covers infrared theory, thermal camera operation, high-zoom visual inspection techniques, data interpretation, and inspection workflows for infrastructure and public safety applications. Students learn to identify thermal anomalies in electrical systems, building envelopes, and solar installations, and to apply thermal and visual imaging to search and rescue and fire assessment operations. Emphasizes professional reporting, safety protocols for operations near energized equipment and emergency scenes, and integration with incident command structures. Course content aligns with Level 1 thermography certification requirements.
+Prepares students to conduct professional drone-based infrastructure inspection using thermal and high-zoom visual imaging. Covers infrared theory, thermal camera operation and tuning, thermal image interpretation and Delta-T severity classification, precision manual flight near energized infrastructure, and professional inspection reporting. Students learn to identify and classify thermal anomalies in electrical systems, solar installations, and building envelopes, and to operate safely near energized equipment under California utility inspection requirements. Emphasizes the equipment, compliance, and reporting standards of utility inspection work. Course content aligns with Level 1 thermography certification requirements.
 
 ### Schedule Description
 
-Prepares students to conduct professional drone-based thermal imaging and visual inspection operations. Covers infrared theory, thermal camera operation, high-zoom visual inspection techniques, data interpretation, and inspection workflows for infrastructure and public safety applications. Students learn to identify thermal anomalies in electrical systems, building envelopes, and solar installations, and to apply thermal and visual imaging to search and rescue and fire assessment operations. Emphasizes professional reporting, safety protocols for operations near energized equipment and emergency scenes, and integration with incident command structures. Course content aligns with Level 1 thermography certification requirements.
+Prepares students to conduct professional drone-based infrastructure inspection using thermal and high-zoom visual imaging. Covers infrared theory, thermal camera operation and tuning, thermal image interpretation and Delta-T severity classification, precision manual flight near energized infrastructure, and professional inspection reporting. Students learn to identify and classify thermal anomalies in electrical systems, solar installations, and building envelopes, and to operate safely near energized equipment under California utility inspection requirements. Emphasizes the equipment, compliance, and reporting standards of utility inspection work. Course content aligns with Level 1 thermography certification requirements.
 
 ### Implications
 
 - **Budget:** Yes
   - **Justification:** Requires thermal calibration targets, controlled heat sources for training scenarios, and thermal analysis software. The DJI Matrice 4T with thermal and zoom payloads is already secured through separate funding. Equipment investment for this course is substantially lower than for mapping, since the primary drone is in hand and software requirements are less demanding than photogrammetry processing. [DISCUSS: funding from SWF money via Lexie for remaining items]
 - **Facilities:** Yes
-  - **Justification:** Requires access to buildings and infrastructure for inspection exercises. Campus buildings could serve as initial training sites for building envelope assessment. Cal Poly and the California Men's Colony both have solar installations that may be open to hosting student flights. Night operations for SAR exercises require suitable outdoor areas with controlled access. Indoor space for thermal physics demonstrations.
+  - **Justification:** Requires access to buildings and infrastructure for inspection exercises. Campus buildings could serve as initial training sites for building envelope assessment. Cal Poly and the California Men's Colony both have solar installations that may be open to hosting student flights. Open areas with structures suitable for precision flight proficiency drills. Indoor space for thermal physics demonstrations. [DISCUSS: PG&E partnership may open access to de-energized training structures or utility training facilities]
 - **Equipment:** Yes
-  - **Justification:** Requires DJI Matrice 4T with thermal and high-zoom payloads (secured through separate funding; aligns with PG&E equipment standards), thermal calibration targets, heat sources for training, and laptop with thermal analysis software.
+  - **Justification:** Requires DJI Matrice 4T with thermal and high-zoom payloads (secured through separate funding; consistent with utility equipment standards), thermal calibration targets, heat sources for training, and laptop with thermal analysis software.
 - **Staffing:** Yes
-  - **Justification:** Instructor must hold FAA Part 107 certification and have professional experience in thermal imaging and inspection operations. Level 1 thermography certification preferred. [DISCUSS: public safety module may benefit from guest instructors from fire/law enforcement]
+  - **Justification:** Instructor must hold FAA Part 107 certification and have professional experience in thermal imaging and inspection operations. Level 1 thermography certification preferred. [DISCUSS: PG&E or IBEW 1245 guest instruction for utility craft topics]
 - **Similar Course:** No
 - **Assignments ARE College Level:** Yes
 - **ESL/Basic Skills Course:** No
-- **Distance Education:** No [DISCUSS: field and night operation components likely preclude DE]
+- **Distance Education:** Yes
+  - **Justification:** Proposed as Blended (BL): lecture content (infrared theory, measurement science, severity classification, industry and compliance context) is well suited to online delivery, while flight proficiency work, live inspection exercises, and hands-on thermal labs remain face to face. [DISCUSS: follows Ron's direction to include a hybrid option following the pattern of AERO 100. A hybrid format also suits incumbent utility workers taking the course around work schedules.]
 - **Correspondence Education:** No
-- **Component of Program:** [TBD - AERO certificate track per Ron's plan; also relevant to public safety continuing education]
+- **Component of Program:** [TBD - AERO certificate track per Ron's plan; program needs 16 units to qualify for financial aid]
 
 ---
 
@@ -58,22 +58,30 @@ Prepares students to conduct professional drone-based thermal imaging and visual
 - **Course Type:** D - Credit - Degree Applicable
 - **Course has variable hours:** No
 
-### Hours
+### Total Student Hours and Credit
 
-| | Hours/Week | Hours/Term |
-|---|---|---|
-| **Lecture Hours - in class** | 2.00 | 36.00 |
-| **Lecture Hours - out of class** | 4.00 | 72.00 |
-| **Lab Hours - in class** | 3.00 | 54.00 |
-| **Lab Hours - out of class** | 0.00 | 0.00 |
-
-[DISCUSS: Structured as 3.0 units matching AERO 100 (2 hr lecture + 3 hr lab). The curriculum has substantial theory content (IR physics, thermography principles) that justifies lecture time, plus hands-on inspection and public safety exercises for lab. Ron may want a different unit count.]
+|                                  | Hours/Week | Hours/Term |
+| -------------------------------- | ---------- | ---------- |
+| **Lecture Hours - in class**     | 2.00       | 36.00      |
+| **Lecture Hours - out of class** | 4.00       | 72.00      |
+| **Lab Hours - in class**         | 3.00       | 54.00      |
+| **Lab Hours - out of class**     | 0.00       | 0.00       |
 
 - **Total Student Hours per term:** 162.00
 - **Hours per unit Divisor:** 54
 - **Units of Credit:** 3.00
-- **Grading Method:** Letter Grade Only
+
+[DISCUSS: Structured as 3.0 units matching AERO 100 exactly (2 hours lecture plus 3 hours lab weekly). The curriculum has substantial theory content (infrared physics, measurement science, severity classification) that justifies lecture time, plus precision flight and inspection exercises for lab. Ron may want a different unit count.]
+
+### Grading Method
+
+- Letter Grade Only
+
+### Repeatability
+
 - **Is this course repeatable?** No
+- **Number of times this course can be repeated for credit:** N/A
+- **Justification of Repeatability:** N/A
 
 ---
 
@@ -81,15 +89,11 @@ Prepares students to conduct professional drone-based thermal imaging and visual
 
 - **This Course Is Cross-Listed:** No
 
-[DISCUSS: Ron mentioned needing buy-in from Public Safety. Could portions of this course cross-list with a fire technology or criminal justice number? The public safety modules (SAR, fire assessment, law enforcement support) would be relevant to those programs.]
-
 ---
 
 ## Minimum Qualifications
 
 1. **Minimum Qualification:** Aeronautics
-
-[DISCUSS: If public safety content is significant, may need to confirm minimum quals cover that domain, or plan for guest instruction from qualified public safety personnel.]
 
 ---
 
@@ -98,26 +102,33 @@ Prepares students to conduct professional drone-based thermal imaging and visual
 - **Lab:** Yes
 - **Lecture:** Yes
 - **Activity:** No
-- **Distance Education:** [TBD]
+- **Distance Education:** Yes
 - **Correspondence Education:** No
 - **Work Experience:** No
 - **Directed Study:** No
-- **Field Trips:** Yes [inspection sites, fire training facilities]
-- **Field Experience:** Yes
+- **Field Trips:** No
+- **Field Experience:** No
+- **Tutor Non-credit:** No
+- **DE Synchronous:** Yes
+- **DE Asynchronous:** Yes
 - **Lecture/Lab:** Yes
+
+[DISCUSS: AERO 100 marked Field Trips and Field Experience No and handled off-classroom flight sites through the Facilities justification. Matching that pattern here, but confirm whether off-campus inspection sites (solar installations, utility training structures) should instead be declared as Field Trips.]
 
 ---
 
 ## Student Learning Outcomes
 
+**If this course is not part of a program of study, click here to map these SLOs directly to ILOs:** Yes
+
 1. **Outcome Text**
-   Conduct a drone-based thermal inspection of an infrastructure asset (building envelope, solar installation, or simulated electrical system), correctly identifying thermal anomalies and producing a professional inspection report with appropriate imagery, measurements, and recommendations.
+   Conduct a drone-based thermal and high-zoom visual inspection of an infrastructure asset, correctly distinguishing true thermal anomalies from emissivity and reflection artifacts, classifying findings using Delta-T severity criteria, and producing a professional inspection report with paired thermal and visual imagery, measurements, and recommendations.
    - **Institution Outcome Map**
      - CLO(ILO) to SLO Map Top ILO Grouping(Delta): a. Recognize, assess, and demonstrate the skills and behaviors that promote academic and professional development
-     - CLO(ILO) to SLO Map Top ILO Grouping(Delta): b. Draw conclusions based on the scientific method, computations or experimental and observational evidence.
+     - CLO(ILO) to SLO Map Top ILO Grouping(Delta): a. Draw conclusions based on the scientific method, computations or experimental and observational evidence.
 
 2. **Outcome Text**
-   Apply thermal imaging techniques to a simulated public safety scenario (search and rescue or fire assessment), demonstrating proper search patterns, thermal interpretation, safety protocols, and incident command integration.
+   Safely execute a precision inspection flight profile around a structure, maintaining prescribed standoff distances and position tolerances while capturing thermal and high-zoom imagery that meets spot size and framing requirements for valid measurement.
    - **Institution Outcome Map**
      - CLO(ILO) to SLO Map Top ILO Grouping(Delta): a. Recognize, assess, and demonstrate the skills and behaviors that promote academic and professional development
      - CLO(ILO) to SLO Map Top ILO Grouping(Delta): c. Demonstrate the professional skills necessary for successful employment
@@ -126,23 +137,29 @@ Prepares students to conduct professional drone-based thermal imaging and visual
 
 ## Objectives
 
-1. **Objective:** Explain infrared theory including the electromagnetic spectrum, heat transfer mechanisms, and the effects of emissivity, reflectance, and environmental factors on thermal image quality.
+1. **Objective:** Explain infrared theory including longwave infrared physics, heat transfer mechanisms, emissivity and reflected temperature, spot size and measurement distance limits, and environmental effects on measurement validity, consistent with the Level 1 thermography body of knowledge.
    - **Methods of Evaluation:** Quizzes/Exams, Essay Exams
+   - **Other:** No
 
-2. **Objective:** Configure thermal camera settings including range, level, and color palette selection for different inspection scenarios.
+2. **Objective:** Configure thermal camera settings including level and span, palette selection, and radiometric data capture appropriate to different inspection scenarios.
    - **Methods of Evaluation:** Class Performance(s), Performance Exams
+   - **Other:** No
 
-3. **Objective:** Interpret thermal imagery to distinguish actual anomalies from environmental artifacts, quantify findings using measurement tools, and classify anomalies by priority.
+3. **Objective:** Interpret thermal imagery to distinguish true anomalies from emissivity and reflection artifacts, quantify findings using Delta-T measurements over reference, and classify anomalies using severity tiers.
    - **Methods of Evaluation:** Quizzes/Exams, Class Performance(s), Performance Exams
+   - **Other:** No
 
-4. **Objective:** Plan and execute thermal inspection missions for infrastructure assets while maintaining safe distances from hazards and following utility regulations.
+4. **Objective:** Demonstrate precision manual flight control for inspection tasks, including position holds, orbits, and camera framing at inspection tolerances, while managing compass and GPS interference, radio link degradation, and lost-link contingencies near structures.
    - **Methods of Evaluation:** Performance Exams, Field Work
+   - **Other:** No
 
-5. **Objective:** Apply thermal imaging techniques to search and rescue, fire assessment, and law enforcement support operations, integrating with incident command structures.
+5. **Objective:** Plan and execute inspection missions of infrastructure assets in compliance with California utility inspection regulations and safety protocols for operations near energized equipment, including minimum approach distances and go/no-go judgment.
    - **Methods of Evaluation:** Performance Exams, Field Work
+   - **Other:** No
 
-6. **Objective:** Produce professional inspection reports with appropriate thermal and visible image pairing, annotations, findings, and recommendations for different client types.
+6. **Objective:** Produce professional inspection reports pairing thermal and high-zoom visual imagery with annotations, severity classifications, and recommendations appropriate to utility and commercial clients.
    - **Methods of Evaluation:** Class Performance(s), Essay Exams
+   - **Other:** No
 
 ---
 
@@ -150,52 +167,52 @@ Prepares students to conduct professional drone-based thermal imaging and visual
 
 ### Detailed Topical Outline
 
-1. **Topic:** Infrared Theory and Thermal Physics
-   - Electromagnetic spectrum and infrared radiation wavebands
-   - Heat transfer: conduction, convection, radiation
-   - Emissivity, reflectance, and transmittance
-   - Environmental factors: ambient temperature, solar loading, wind, humidity
-   - **Objectives:** (Obj 1)
+1. **Topic:** The Drone Inspection Industry
+   - Zoom and thermal inspection roles in utility asset management
+   - California utility inspection mandates (CPUC General Orders 95 and 165)
+   - Utility drone program structure: the PG&E model and training pipeline
+   - The IBEW 1245 training precedent and credit for prior learning pathways
+   - Regional employment landscape: tower, turbine, bridge, and solar work
+   - **Objectives:** (Obj 5, 6)
 
-2. **Topic:** Thermal Camera Operation
-   - Detector types: cooled versus uncooled
-   - Range and level settings: auto versus manual adjustment
-   - Color palettes for different applications
-   - DJI Matrice 4T thermal payload operations
-   - Image and video capture, radiometric data preservation
-   - **Objectives:** (Obj 2)
+2. **Topic:** Thermal Imaging Foundations
+   - Longwave infrared physics and the electromagnetic spectrum
+   - Microbolometer detectors and radiometric data
+   - Emissivity, reflectance, and reflected apparent temperature
+   - Spot size, IFOV, and the 3 x 3 pixel measurement rule
+   - Measurement distance and flying height effects on validity
+   - Level and span tuning, palette selection, data versus display discipline
+   - **Objectives:** (Obj 1, 2)
 
-3. **Topic:** Thermal Image Interpretation
-   - Normal thermal patterns for common systems and structures
-   - Anomaly classification: overheating, thermal bridging, moisture, air infiltration
-   - Delta-T measurements and significance thresholds
-   - Reflection artifacts and environmental effects
-   - Measurement techniques and documentation
+3. **Topic:** Thermal Image Interpretation and Severity Classification
+   - Normal thermal patterns for common assets and structures
+   - Distinguishing anomalies from emissivity and reflection artifacts
+   - Delta-T measurement over reference components
+   - NETA-style severity tiers and classification criteria
+   - Inspection conditions that make comparisons honest: load, wind, solar loading
+   - Measurement documentation and defensible inspection calls
    - **Objectives:** (Obj 3)
 
-4. **Topic:** Infrastructure Inspection Applications
-   - Electrical infrastructure: power lines, substations, connections
-   - Solar panel assessment: hot spots, cell failures, bypass diode failures
-   - Building envelope: thermal bridging, insulation deficiency, air infiltration
-   - Flat roof moisture detection
-   - California utility regulations (GO 95, GO 165)
-   - Safety protocols near energized equipment
-   - **Objectives:** (Obj 3, 4)
+4. **Topic:** Flying Near Infrastructure
+   - Compass interference and GPS multipath near steel and conductors
+   - Minimum approach distances, wire strike hazards, and utility safety culture
+   - Command and control and video link interference, lost-link failsafes
+   - Precision manual flight drills at inspection tolerances
+   - Field operations best practices: checklists, attention discipline, go/no-go judgment
+   - **Objectives:** (Obj 4, 5)
 
-5. **Topic:** Public Safety Applications
-   - Search and rescue: human thermal signatures, search patterns, environmental factors
-   - Fire scene assessment: hotspot identification, perimeter mapping, rekindle monitoring
-   - Law enforcement support: tactical applications, legal considerations, privacy
-   - Night operations: low-light flight procedures, crew resource management
-   - Incident command integration: ICS structure, communication protocols
-   - **Objectives:** (Obj 5)
+5. **Topic:** Inspection Platforms and Compliance
+   - Dual thermal and high-zoom payload configuration
+   - DJI Matrice 4T thermal payload operations
+   - NDAA compliance, the Blue UAS Cleared List, and platform origin in utility and government work
+   - **Objectives:** (Obj 2, 5)
 
-6. **Topic:** Professional Reporting and Documentation
-   - Report structure for different client types
-   - Thermal and visible image pairing and annotation
+6. **Topic:** Professional Reporting and Certification Pathways
+   - Report structure for utility and commercial clients
+   - Thermal and visual image pairing and annotation
    - Inspection data management and archival
-   - Public safety incident documentation
-   - **Objectives:** (Obj 6)
+   - Level 1 thermography certification: providers, format, and career value
+   - **Objectives:** (Obj 1, 6)
 
 **Lab Content:** Lab content embedded in course content.
 
@@ -203,54 +220,77 @@ Prepares students to conduct professional drone-based thermal imaging and visual
 
 ## Assignments
 
+Add assignments individually, one at a time. Include a minimum of two Critical Thinking examples, and a minimum of two Independent Work examples.
+
 1. **Assignment Type:** Assignment
-   Configure thermal camera for multiple inspection scenarios (building assessment, solar panel, nighttime SAR) and document appropriate settings, demonstrating understanding of how environmental conditions affect configuration choices.
-   - **Course Objective:** (Obj 1, 2)
+   Given a set of radiometric thermal images of infrastructure assets, distinguish true anomalies from emissivity and reflection artifacts, classify findings by Delta-T severity criteria, and justify each classification in writing.
+   - **Course Objective:** (Obj 1, 3)
 
 2. **Assignment Type:** Assignment
-   Conduct a thermal inspection of a campus building or solar installation, identify and classify thermal anomalies, and produce a professional inspection report with supporting imagery and recommendations.
-   - **Course Objective:** (Obj 3, 4, 6)
+   Configure the thermal payload for multiple inspection scenarios (electrical equipment under load, solar array, building envelope), document settings and environmental conditions, and explain how those conditions affect measurement validity.
+   - **Course Objective:** (Obj 1, 2)
 
 3. **Assignment Type:** Assignment
-   Participate in a simulated search and rescue exercise using thermal imaging, demonstrating proper search patterns, thermal interpretation, and coordination with ground teams under incident command.
-   - **Course Objective:** (Obj 5)
+   Complete a series of precision flight proficiency exercises simulating inspection flight profiles, holding position and framing targets within prescribed tolerances and standoff distances.
+   - **Course Objective:** (Obj 4)
 
-4. **Assignment Type:** Assignment (Capstone)
-   Complete an independent thermal inspection project in either infrastructure or public safety context, including planning, execution, interpretation, and professional report delivery.
+4. **Assignment Type:** Assignment
+   Conduct a thermal and high-zoom visual inspection of a campus building or solar installation, identify and classify thermal anomalies, and produce a professional inspection report with paired imagery and recommendations.
+   - **Course Objective:** (Obj 3, 5, 6)
+
+5. **Assignment Type:** Assignment (Capstone)
+   Complete an independent inspection project including planning, safety and compliance assessment, precision flight execution, thermal interpretation, severity classification, and professional report delivery.
    - **Course Objective:** (Obj 1, 2, 3, 4, 5, 6)
 
 **Critical Thinking Assignments (minimum 2 examples):**
-- Given thermal imagery of an infrastructure asset, distinguish actual anomalies from environmental artifacts and reflections, justify classifications, and prioritize findings based on severity and safety implications. (Obj 1, 3, 4)
-- Evaluate weather, lighting, and environmental conditions for a proposed inspection, determine whether conditions are appropriate for reliable thermal data collection, and recommend adjustments to timing or technique if needed. (Obj 1, 2, 4)
+
+- Given thermal imagery of an infrastructure asset, distinguish true anomalies from emissivity and reflection artifacts, justify classifications using Delta-T criteria, and prioritize findings based on severity and safety implications. (Obj 1, 3)
+- Evaluate load, weather, and environmental conditions for a proposed inspection, determine whether conditions permit reliable thermal measurement, and recommend adjustments to timing or technique if needed. (Obj 1, 2, 5)
 
 **Independent Work (minimum 2 examples):**
-- Conduct a building envelope thermal assessment independently, producing a professional report with anomaly identification, classification, and recommendations. (Obj 2, 3, 4, 6)
-- Plan and execute a nighttime thermal search exercise, documenting search methodology, findings, and lessons learned. (Obj 2, 5)
+
+- Conduct a building envelope or solar installation thermal assessment independently, producing a professional report with anomaly identification, severity classification, and recommendations. (Obj 2, 3, 5, 6)
+- Complete a self-directed precision flight proficiency series, documenting performance against inspection tolerances across successive practice sessions. (Obj 4)
 
 ---
 
 ## Methods of Evaluation
+
+**Evaluation Method** (select all items listed except "Other"; select "Other" only if needed)
 
 - Field Work
 - Class Performance(s)
 - Quizzes/Exams
 - Essay Exams
 - Performance Exams
+- **Other:** No
 
 ---
 
 ## Course Cap
 
-- **Course Cap:** 15 [DISCUSS: limited by equipment and safety considerations, especially for night operations and work near infrastructure]
+- **Course Cap:** 15 [DISCUSS: limited by equipment and safety considerations for work near infrastructure]
 - **Face to face:** 15
-- **Course Category:** 9 - Lab - Small (20-30)
+- **DE modality:** 15
+- **Course Category:** 9 - Lab - Small (20-30) [DISCUSS: chosen cap of 15 falls below the 20-30 range of this category; confirm correct category or cap with curriculum office]
+
+**Assignments** (select at least one assignment that aligns with the course category selected):
+
+- Conduct a thermal and high-zoom visual inspection of a campus building or solar installation, identify and classify thermal anomalies, and produce a professional inspection report with paired imagery and recommendations.
+- Complete a series of precision flight proficiency exercises simulating inspection flight profiles, holding position and framing targets within prescribed tolerances and standoff distances.
+
+**Methods of Evaluation** (select at least one method of evaluation that aligns with the course category selected):
+
+- Performance Exams
+- Field Work
+- Class Performance(s)
 
 ---
 
 ## Library
 
 **Typical library usages for students in this course are:**
-Access to computers for thermal image analysis, research on infrared theory, thermography standards, and inspection methodologies. Access to California utility regulatory documents (GO 95, GO 165).
+Access to computers for thermal image analysis and research on infrared theory, thermography standards, and inspection methodologies. Access to California utility regulatory documents (CPUC General Orders 95 and 165).
 
 **Library currently has necessary resources for students to complete course assignments:** [TBD]
 
@@ -259,53 +299,189 @@ Access to computers for thermal image analysis, research on infrared theory, the
 ## Text, Reading, and Materials
 
 ### Textbook
-[TBD - possible options include Infraspection Institute course materials or ITC Level 1 coursebook, but these are typically bundled with certification programs rather than sold separately]
+
+[TBD - possible options include Infraspection Institute course materials or the ITC Level 1 coursebook, but these are typically bundled with certification programs rather than sold separately. Selection connects to the phase-two decision about full ITC Level 1 exam preparation.]
+
+- **Rationale for Textbooks Older than 5 Years:** [TBD]
+
+### OER
+
+[TBD]
 
 ### Manual
+
 1. **Author:** DJI
    **Title:** DJI Matrice 4T User Manual
    **Publisher:** DJI
 
+### Periodical
+
+None
+
 ### Software
+
 1. DJI Pilot 2 (drone operations)
 2. DJI Thermal Analysis Tool (image analysis)
 3. FLIR Thermal Studio (advanced analysis, recommended)
 
 ### Other
+
 1. California Public Utilities Commission General Order 95 and General Order 165 (regulatory reference documents)
-2. NFPA standards relevant to drone operations at fire scenes
 
 ---
 
-## Requisites and Advisories
+## Requisites & Advisories
 
 - **This course has requisites:** Yes
 
 ### Requisites
+
 1. **Prerequisite:** AERO 100 - Basic UAV Operator (or equivalent Part 107 certification with demonstrated flight proficiency)
 
 ### Advisories
+
 None
 
-[NOTE: Unlike the mapping course, this course does not require GIS background. The prerequisite chain is simpler: AERO 100 feeds directly into AERO 120.]
+[NOTE: Unlike the mapping course, this course does not require GIS background. The prerequisite chain is simple: AERO 100 feeds directly into AERO 120.]
+
+---
+
+## Content Review
+
+For the AERO 100 prerequisite, at least three skills students learn in the prerequisite that are essential to this course, aligned with the objective in this course that builds on each:
+
+1. **Prerequisite skill (AERO 100 Objective):** Perform a flight of an unmanned aerial vehicle to the Open Lane Level II NIST Standard Test Methods for small Unmanned Aircraft Systems.
+   **Builds to (AERO 120 Objective 4):** Demonstrate precision manual flight control for inspection tasks at inspection tolerances. Inspection flying revisits the NIST maneuvering skills at substantially tighter position and framing tolerances, close to structures, where the AERO 100 proficiency baseline is the safety floor.
+
+2. **Prerequisite skill (AERO 100 Objective):** Implement appropriate decision making and judgment to mitigate risk based on human factor considerations.
+   **Builds to (AERO 120 Objective 5):** Go/no-go judgment and safety protocols near energized equipment extend AERO 100 risk management into an environment with compass interference, wire strike hazards, and minimum approach distance requirements.
+
+3. **Prerequisite skill (AERO 100 Objective):** Demonstrate knowledge of regulations, airport operations procedures, aviation weather, radio communication procedures, emergency procedures, airspace, and navigation to FAA Part 107 standards.
+   **Builds to (AERO 120 Objective 5):** Inspection mission planning layers California utility inspection regulations and site-specific safety requirements on top of the Part 107 regulatory, airspace, and weather knowledge from AERO 100.
+
+4. **Prerequisite skill (AERO 100 Objective):** Perform preflight inspection to identify maintenance deficiencies that adversely affect aircraft performance.
+   **Builds to (AERO 120 Objectives 4 and 5):** Emergency procedures and equipment readiness from AERO 100 underpin lost-link contingency management and field operations discipline near infrastructure, where equipment failure consequences are severe.
 
 ---
 
 ## Cuesta General Education
 
-[TBD]
+None proposed. [TBD - confirm no GE area applies]
 
 ---
 
 ## Transfer General Education
 
-[TBD]
+None proposed. [TBD]
 
 ---
 
 ## Distance Education
 
-[TBD - this course involves night operations, field work near infrastructure, and simulated emergency scenarios; DE is likely not appropriate]
+[DISCUSS: This section follows Ron's direction to include a hybrid option following the pattern of AERO 100. Proposed as Blended: the 36 lecture hours move online (synchronous or asynchronous), while the 54 lab hours (precision flight proficiency, live inspection exercises, hands-on thermal labs) remain face to face. That places 40 percent of instructional hours in DE, within the Blended definition's under-51-percent limit. A hybrid format also serves incumbent utility workers taking the course around work schedules.]
+
+### Modality Limit
+
+- **Course Cap:** 15
+- **Face to face:** 15
+- **Face to face override:** [blank]
+- **DE modality:** 15
+- **DE modality override:** [blank]
+
+### Distance Education Course Definition
+
+- **Blended (BL):** A combination of face-to-face and distance education with less than 51% of the hours of instruction provided through distance education. **[Checked]**
+
+### Accessibility
+
+Describe how the DE course design and any built-in accommodation to course materials accommodate students with disabilities; see Curriculum Handbook for Title V requirements.
+
+- **Use Suggested Language:** Yes
+- **Create My Own Response:** No
+
+Types of accessibility that will be used in this course:
+
+- Content within the shell is accessible
+- Pdf files are accessible
+- Videos will be captioned
+- Handouts will be formatted for a screen reader
+- Images will have ALT tags and descriptions
+
+### Regular and Effective Contact
+
+- **Use Suggested Language:** Yes
+- **Create My Own Response:** No
+
+**Instructor-to-student Contact**
+
+| Contact method | Daily | Weekly | Bi-weekly | Other |
+| --- | --- | --- | --- | --- |
+| Online threaded discussion forums with appropriate instructor feedback | No | Yes | No | No |
+| Email | No | Yes | No | No |
+| Messaging to individual students | No | Yes | No | No |
+| Constructive and timely feedback on student work | No | Yes | No | No |
+| Office hours (asynchronous or synchronous), in person or electronic | No | Yes | No | No |
+| Created materials (written, recorded, broadcast, etc.) that, combined with other course materials, creates the "virtual equivalent" of face-to-face class | No | Yes | No | No |
+| Facilitating student to student contact | No | Yes | No | No |
+
+**Student-to-student Contact**
+
+| Contact method | Daily | Weekly | Bi-weekly | Other |
+| --- | --- | --- | --- | --- |
+| Email | No | No | No | No |
+| Online threaded discussion forums | No | Yes | No | No |
+
+### Adaptations of Methods, Materials, and Delivery of Instruction
+
+- **Use Suggested Language:** Yes
+- **Create My Own Response:** No
+
+### Adaptations of Assignments and Activities
+
+Select how Assignments and Activities will be adapted:
+
+- Cuesta College LMS formatting used
+- Assignments uploaded into the Cuesta College LMS
+- Students will "talk" to each other via discussion boards
+- Web-specific links used
+- Required text reading
+- Class presentations using software
+- **Other:** No
+
+### Adaptations to Methods of Evaluation
+
+- **Use Suggested Language:** Yes
+- **Create My Own Response:** No
+
+### Method of Evaluation DE
+
+Select how Methods of Evaluation will be adapted and indicate if plagiarism will be evaluated:
+
+- Assignments uploaded or typed into the Cuesta College LMS - **Plagiarism Evaluation:** Yes
+- Student interaction via discussion boards - **Plagiarism Evaluation:** Yes
+- Timed-online or password-protected testing environments - **Plagiarism Evaluation:** Yes
+- Face-to-face demonstrations of knowledge or skill - **Plagiarism Evaluation:** Yes
+- **Other:** No
+
+### Student Authentication
+
+Select the method(s) used to authenticate students in this course:
+
+- **Teach course in Cuesta College's current LMS:** Yes
+- **Require monitored exams with Student ID:** No
+- **Use plagiarism detection software:** Yes
+- **Provide clear examples of appropriate and inappropriate behavior regarding academic honesty:** Yes
+- **Require written acceptance of appropriate academic honesty policies by students:** Yes
+- **Practice regular and effective instructor-student contact:** Yes
+- **Provide multiple opportunities for authentic assessment:** No
+- **Employ multiple assessment strategies to maintain active student engagement:** Yes
+- **Other:** No
+
+---
+
+## Correspondence Education
+
+Not applicable. Correspondence Education is not proposed for this course.
 
 ---
 
@@ -315,39 +491,89 @@ None
 
 ---
 
-## Certification Pathway
+## Attached Files
 
-[NOTE: This section is not part of the COR template but is important context for Ron.]
-
-This course covers content aligned with Level 1 thermography certification requirements from Infraspection Institute and the Infrared Training Center. Students completing this course are prepared to pursue external certification. The combination of Part 107 and thermography certification positions graduates competitively for utility inspection employment.
+[TBD - none at this time]
 
 ---
 
-## Partnership Opportunities
+## ASSIST
 
-[NOTE: Also not part of the COR template but relevant to Ron's need for cross-discipline buy-in.]
+- **Queue for Assist:** [TBD]
 
-- **PG&E:** Curriculum review, equipment standards, hiring pipeline
-- **CAL FIRE / SLO County Fire:** Public safety module input, exercise scenarios, continuing education for existing personnel
-- **Local solar installers:** Training site access, employment connections
-- **Insurance industry:** Documentation requirements, seasonal employment
-- **Continuing education market:** Firefighters, law enforcement, home inspectors, utility workers seeking thermal drone skills. Evening and weekend scheduling should be considered.
+The ASSIST Preview (content, assignments, course description, hours, objectives, methods) is generated automatically by CurriQunet from the fields above.
 
 ---
 
 ## Notes for Meeting with Ron
 
 ### Open Questions
-1. **Course number:** Is AERO 120 the right number? Does Ron have a numbering scheme in mind for the sequence?
-2. **Public safety scope:** The curriculum currently combines infrastructure inspection and public safety in one course. Ron mentioned public safety as potentially its own class. Should this remain combined, or split into two separate courses (inspection-focused and public safety-focused)?
-3. **Certificate tracks:** Ron wants to bundle with existing coursework. How does this course fit the certificate structure? Possible tracks:
-   - UAS Inspection Certificate: AERO 100 + AERO 120
-   - UAS Mapping Certificate: AERO 100 + GEOG 230 + AERO 110
-   - Full UAS Certificate: AERO 100 + AERO 110 + AERO 120 (+ GEOG 230?)
-4. **Cross-discipline buy-in:** Ron needs buy-in from Public Safety, Fire Tech. The public safety modules could serve as a recruitment tool. How should we approach those departments?
-5. **Equipment overlap:** The Matrice 4T (thermal) and Matrice 4E (mapping) serve different courses. Need to confirm which drones are already in possession and what additional purchases to request.
-6. **Night operations:** SAR exercises require nighttime flight. Are there logistical or insurance considerations for night lab activities?
-7. **Partnership development:** PG&E and SLO County Fire are ideal partners. Has Ron made initial contact? These relationships could help with buy-in and eventual job placement.
-8. **Continuing education:** Ron mentioned high school dual enrollment for AERO 100. This course is well suited for continuing education for working professionals (firefighters, inspectors). Should we plan for evening/weekend scheduling from the start?
-9. **Errata deadline:** Same as AERO 110, need to know the actual submission date.
-10. **Fullerton/Palomar comparison:** Ron referenced these programs. Worth reviewing their thermal/inspection offerings to ensure our course is competitive and complementary.
+
+1. **Course number and title:** Are AERO 120 and "Drone Infrastructure Inspection" right? Both are placeholders pending Ron's input.
+2. **Units:** Structured as 3.0 units matching AERO 100 (2 lecture + 3 lab weekly, 162 total hours). Confirm.
+3. **DE/hybrid:** Distance Education is now drafted as Yes, Blended (lecture online, labs face to face), following Ron's hybrid direction and the AERO 100 DE section. Confirm this is the intended shape, and whether the hybrid schedule should be designed around incumbent utility workers.
+4. **Thermography phase two:** Thermal fundamentals are core content now; full ITC Level 1 exam preparation is planned as a second phase once the utility partnership is established. Should the COR anticipate that now (textbook, hours) or wait for a later revision? Textbook choice depends on this.
+5. **PG&E and IBEW 1245 partnership:** The course is planned around this partnership. Status of contact, advisory committee participation, and curriculum review? The realistic articulation shape is recognition (PG&E accepting the course as satisfying its entry training layer, on the PowerPathway affinity model) plus credit for prior learning in the other direction for incumbent workers.
+6. **Public safety course:** Public safety operations (SAR, fire assessment, law enforcement support) have moved out of this course to a separate future course. Confirm that plan and its place in the trunk structure.
+7. **Certificate tracks:** How does this course fit the trunk structure and the 16-unit financial aid threshold?
+8. **Training site access:** Campus buildings and nearby solar installations are candidates for inspection exercises. Can the PG&E partnership open access to de-energized training structures?
+9. **Continuing education:** This course is well suited for incumbent workers (utility, solar, home inspection). Should we plan for evening/weekend scheduling from the start?
+10. **Field Trips designation:** AERO 100 marked Field Trips No despite off-classroom flying. Should off-campus inspection sites follow that pattern or be declared as Field Trips?
+11. **Fullerton/Palomar comparison:** Ron referenced these programs. Worth reviewing their thermal/inspection offerings to ensure our course is competitive and complementary.
+
+```tandem-comments
+{
+  "cap-cat": {
+    "anchor": {
+      "exact": "limited by equipment and safety considerations for work near infrastructure"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "Same cap-versus-category question as AERO 110: 15 falls below the Lab-Small (20-30) range. Confirm cap or category."
+      }
+    ]
+  },
+  "field-trips": {
+    "anchor": {
+      "exact": "- **Field Trips:** No"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "Matched AERO 100 (No) despite the inspection field sites. Confirm whether CurriQunet wants Yes here."
+      }
+    ]
+  },
+  "de-hybrid": {
+    "anchor": {
+      "exact": "A hybrid format also suits incumbent utility workers taking the course around work schedules."
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "Drafted DE as blended following AERO 100. For this course a hybrid also fits incumbent PG&E/IBEW workers taking it around shifts. Confirm the shape, and whether to design the schedule around working students."
+      }
+    ]
+  },
+  "pubsafety": {
+    "anchor": {
+      "exact": "have moved out of this course to a separate future course"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "I removed public safety (SAR, fire, law enforcement) from this course per the current outline. Confirm that plan and where the future public safety course sits in the trunk toward the 16-unit threshold."
+      }
+    ]
+  }
+}
+```

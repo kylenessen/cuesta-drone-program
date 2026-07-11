@@ -43,6 +43,7 @@ NCAT, the NSF funded National Center for Autonomous Technology, runs a mentor an
 - [Flying Near Energized Infrastructure](../topics/flying-near-energized-infrastructure.md) for the subject matter behind Level 3's electrical sector assessment.
 - [Part 107 Knowledge Test](part-107-knowledge-test.md) for the FAA certificate every TOP level presumes.
 - [Level 1 Thermography Certification](level-1-thermography-certification.md) for the inspection credential with clearer market pull.
+- [NIST Open Lane Practice Sessions](../activities/nist-open-lane-practice.md) is the recurring lab built on the same test lanes.
 
 ## Citations
 

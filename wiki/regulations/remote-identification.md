@@ -12,6 +12,12 @@ FRIAs matter directly to the Cuesta program: community-based organizations and e
 
 Remote ID also gates some operations: sustained flight over open-air assemblies under [Operations Over People](operations-over-people.md) requires standard Remote ID compliance. [2](../sources/ac-107-2a.md)
 
+## How the rule evolved, and how to teach it
+
+Remote ID is recent enough that its history still works as living memory, and the course treats it that way: as context on how the regulatory landscape matured rather than as a compliance task students must perform. The FAA's December 2019 proposed rule would have required most drones to transmit identification over the internet to subscription-based network service providers. Roughly 53,000 public comments, many objecting to the cost, coverage gaps, and privacy implications of a network mandate, led the FAA to drop the network requirement entirely; the final rule published in January 2021 requires only direct radio broadcast from the aircraft, receivable by anyone in range with a suitable app. [5](https://www.federalregister.gov/documents/2021/01/15/2020-28948/remote-identification-of-unmanned-aircraft) The rule then phased in over two years. Manufacturers had to produce compliant aircraft from September 16, 2022, operators had to comply from September 16, 2023, and the FAA exercised enforcement discretion until March 16, 2024 for pilots who could not obtain scarce broadcast modules in time. [3](https://www.faa.gov/uas/getting_started/remote_id) [6](https://www.auvsi.org/news/auvsi-statement-on-faa-extending-remote-id-enforcement/)
+
+For students entering the field now, compliance is mostly invisible. The current DJI aircraft the program flies ship with standard Remote ID built in and broadcast without any pilot action, which is why the wiki and course outline frame this unit as historical perspective, a "back when this was contested" story with a clear arc from proposal to pushback to workable rule. [4](../sources/aero-100-course-outline.md) The durable teaching points are the exceptions and consequences: an older aircraft in a club or agency fleet still needs a strap-on module and inherits the module's visual line of sight limit, the FRIA carve-out is what keeps unequipped aircraft legal at fields like the SLO Flyers site, and because the broadcast includes the control station's location, anyone nearby with a phone can walk to the pilot, which is worth knowing before the first curious or unhappy member of the public does exactly that.
+
 ## Related
 
 - [Drone Registration](drone-registration.md) is the registration system Remote ID serial numbers attach to.
@@ -23,3 +29,5 @@ Remote ID also gates some operations: sustained flight over open-air assemblies 
 [2] [AC 107-2A](../sources/ac-107-2a.md), section 5.17.
 [3] [UAS Remote Identification](https://www.faa.gov/uas/getting_started/remote_id), FAA, accessed 2026-07-02.
 [4] [AERO 100 Course Outline](../sources/aero-100-course-outline.md) and associated planning notes (AERO 110 draft) recording the SLO Flyers field FRIA designation.
+[5] [Remote Identification of Unmanned Aircraft, Final Rule (86 FR 4390)](https://www.federalregister.gov/documents/2021/01/15/2020-28948/remote-identification-of-unmanned-aircraft), Federal Register, January 15, 2021.
+[6] [AUVSI Statement on FAA Extending Remote ID Enforcement](https://www.auvsi.org/news/auvsi-statement-on-faa-extending-remote-id-enforcement/), AUVSI, accessed 2026-07-11.

@@ -8,7 +8,7 @@ The platforms differ mainly in how high and how far they carry a sensor, which s
 
 ## Trading Resolution for Coverage
 
-A satellite carries a camera that is, in spirit, the same instrument as a drone's, differing in details like sensor size, pixel count, and lens. By placing that camera far away in space, a satellite trades resolution for coverage. It cannot read a license plate, but commercially available imagery at roughly ten-foot resolution can record the average light reflected from each small plot of land. A single such measurement may sound unremarkable, yet the same observation repeated across an enormous area, and then repeated again over time, is what makes satellite remote sensing powerful. The recurring theme across platforms is that repeated observation is where the value lies. [1]
+A satellite carries a camera that is, in spirit, the same instrument as a drone's, differing in details like sensor size, pixel count, and lens. By placing that camera far away in space, a satellite trades resolution for coverage. The brainstorm's mental figure of roughly ten-foot, or three-meter, imagery is a fair description of the mid-tier commercial market, and free public imagery like Sentinel-2 sits coarser still at ten meters [2]. The very finest commercial optical satellites now resolve closer to thirty centimeters, so "cannot read a license plate" remains true while the exact number keeps improving [5]. What does not change is the logic: each pixel records the average light reflected from a small plot of ground, and a single such measurement may sound unremarkable, yet the same observation repeated across an enormous area, and then repeated again over time, is what makes satellite remote sensing powerful. The recurring theme across platforms is that repeated observation is where the value lies. [1]
 
 ## Choosing a platform for agriculture
 
@@ -34,3 +34,4 @@ The teaching conclusion is that the platforms are complements, not rivals. A com
 [2] European Space Agency Copernicus, Sentinel-2 mission (ten-meter bands, five-day revisit, open data). https://sentinels.copernicus.eu/copernicus/sentinel-2
 [3] Planet Labs, PlanetScope technical documentation. https://docs.planet.com/data/planetary-variables/crop-biomass/techspec/
 [4] Iowa State University Extension, Crop Scouting with Aerial Imagery: Choosing the Right Source. https://crops.extension.iastate.edu/post/crop-scouting-aerial-imagery-choosing-right-source
+[5] Maxar/Vantor WorldView, high-resolution optical satellite imagery product information (30 cm native resolution). https://vantor.com/product/worldview

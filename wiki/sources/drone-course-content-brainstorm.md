@@ -15,6 +15,7 @@ The summary portion is a faithful reorganization of the transcript into themes a
 - [Uncrewed Aircraft](../topics/uncrewed-aircraft.md) for the definition of a drone, the airframe-and-payload framing, and the military-to-civilian history.
 - [Digital Imaging](../topics/digital-imaging.md) for how sensors work, color and demosaicing, RAW versus JPEG, and bit depth.
 - [Electromagnetic Spectrum](../topics/electromagnetic-spectrum.md) for visible light as a narrow band, filters, and the infrared and ultraviolet regions.
+- [Ultraviolet Imaging](../topics/ultraviolet-imaging.md) for the flagged literature search on ultraviolet imaging applications, developed into corona inspection, forensics, and floral ecology.
 - [Multispectral Imaging](../topics/multispectral-imaging.md) for NDVI, the red edge, and vegetation analysis.
 - [Drone Payloads](../topics/drone-payloads.md) for passive versus active sensors and the payload taxonomy.
 - [Remote Sensing Platforms](../topics/remote-sensing-platforms.md) for the platform continuum and the resolution-versus-coverage tradeoff.

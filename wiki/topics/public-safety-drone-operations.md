@@ -4,11 +4,11 @@
 
 ## Search and rescue
 
-Thermal imaging is the SAR workhorse. A person's body heat contrasts with terrain that has cooled after sunset, which is why night and early morning are the productive windows, and why midday searches over sun-heated rock and brush are frustrating. Sun-warmed surfaces produce endless warm clutter, and solar loading is the single biggest limiter on daytime thermal search. Crews fly systematic patterns, parallel sweeps over open ground and terrain-following lines along drainages and trails, at altitudes low enough that a human subtends enough thermal pixels to detect. The zoom camera then confirms what thermal flags, since a warm blob might be a deer, a rock, or the missing person. Drone teams integrate with ground searchers under the incident's search plan rather than free-flying.
+Thermal imaging is the SAR workhorse. A person's body heat contrasts with terrain that has cooled after sunset, which is why night and early morning are the productive windows, and why midday searches over sun-heated rock and brush are frustrating. Sun-warmed surfaces produce endless warm clutter, and solar loading is the single biggest limiter on daytime thermal search. Crews fly systematic patterns, parallel sweeps over open ground and terrain-following lines along drainages and trails, at altitudes low enough that a human subtends enough thermal pixels to detect. Altitude and speed trade directly against detection probability: flying higher or faster covers ground sooner but shrinks the subject's thermal footprint and the sensor's dwell time on any one spot, so search pattern design is a deliberate balance rather than a default mapping grid [5]. Terrain and vegetation complicate the picture further, since canopy masks body heat and a subject in a gully may only be visible from directly overhead. The zoom camera then confirms what thermal flags, since a warm blob might be a deer, a rock, or the missing person. Specialized scenarios add their own considerations, from water rescue, where immersion strips body heat quickly and narrows the useful window, to vehicle accident scenes, where thermal can reveal a recently occupied car or an ejected occupant [5]. Drone teams integrate with ground searchers under the incident's search plan rather than free-flying.
 
 ## Fire operations
 
-Fire agencies use drones for size-up, mapping, and hotspot work. On wildland incidents, thermal flights see through smoke that blinds visual cameras, letting crews map fire perimeter and intensity when nothing else can. After containment, thermal hotspot surveys find residual heat along the line during mop-up. On structure fires, an overhead thermal view helps command track fire spread and roof integrity. Mapping skills transfer directly here. Rapid orthomosaics of a fire scene or damaged area support damage assessment and documentation, which is a direct crossover from the photogrammetry core of this program.
+Fire agencies use drones for size-up, mapping, and hotspot work. On wildland incidents, thermal flights see through smoke that blinds visual cameras, letting crews map fire perimeter and intensity when nothing else can. After containment, thermal hotspot surveys find residual heat along the line during mop-up, and rekindle monitoring continues in the days after a fire is declared out, since hidden heat in root systems, duff, and structural voids can reignite [5]. On structure fires, an overhead thermal view helps command track fire spread, assess ventilation effectiveness, and watch roof integrity, and after knockdown it finds hidden fire behind walls and ceilings that a walkthrough misses. The same overhead perspective serves firefighter safety directly, monitoring crew heat exposure, checking that escape routes remain open, and flagging structural integrity indicators before a collapse [5]. Mapping skills transfer directly here. Rapid orthomosaics of a fire scene or damaged area support damage assessment, post-fire investigation, and documentation, which is a direct crossover from the photogrammetry core of this program.
 
 ## Law enforcement and DFR
 
@@ -16,11 +16,21 @@ Law enforcement uses drones for overwatch during high-risk operations, crash and
 
 ## Incident command integration
 
-Drones on an incident operate inside the Incident Command System, not alongside it. The drone team is a resource assigned by the incident commander or air operations, flies missions that answer specific tactical questions, and deconflicts with manned aircraft such as helicopters and air tankers. An uncoordinated drone over a fire grounds the manned aircraft, and public messaging campaigns exist precisely because hobbyist incursions have halted air attack. The professional habit is simple. No one flies an incident without being assigned to it.
+Drones on an incident operate inside the Incident Command System, not alongside it. The drone team is a resource assigned by the incident commander or air operations, flies missions that answer specific tactical questions, and deconflicts with manned aircraft such as helicopters and air tankers. An uncoordinated drone over a fire grounds the manned aircraft, and public messaging campaigns exist precisely because hobbyist incursions have halted air attack. Working inside ICS also means working its communication protocols, reporting what the camera sees in terms command can act on, and documenting each mission so the flight becomes part of the incident record, since public safety flights routinely end up in after-action reviews, investigations, and court [5]. The professional habit is simple. No one flies an incident without being assigned to it.
+
+## Night operations as crew work
+
+Much of this work happens in the dark, because that is when thermal search is productive and when many incidents run. Night flying on scene is a crew discipline rather than a solo skill. Low light procedures slow everything down: launch and recovery sites are checked and lit before dark, obstacles like wires and trees are scouted while they can still be seen, and navigation leans on instruments and the thermal picture rather than the pilot's night vision. Crew resource management carries the mission, with the remote pilot heads-down on the screens while a visual observer maintains sight of the aircraft's strobe and calls traffic and hazards. The observer role has real limitations at night, since an observer can track the strobe but cannot judge distance or see unlit obstacles well, and crews train to those limits rather than assume them away [5]. The regulatory side of night flight, including the anti-collision lighting requirement, is covered in [Night Operations](night-operations.md).
 
 ## Regulatory frames
 
 Public safety agencies fly under one of two frameworks. Under Part 107, the agency's pilots hold remote pilot certificates and follow the standard small UAS rules, which suits routine work but constrains BVLOS and night-scene complexity without waivers [1]. Alternatively, a government agency can fly as a public aircraft operation under a Certificate of Waiver or Authorization (COA), which lets the agency self-certify aircraft and pilots and receive standing authorizations tailored to its jurisdiction [1] [2]. Many agencies maintain both, using Part 107 for training and routine flights and the COA for emergency authorities. Over active incidents, the FAA commonly issues temporary flight restrictions under 14 CFR 91.137, which prohibit nonparticipating aircraft, including drones, from the area. Aircraft supporting the emergency response under the direction of the official in charge may operate inside the TFR [3], and agencies can request rapid Special Governmental Interest authorizations for emergency operations [2].
+
+## NFPA 2400, the program standard
+
+The consensus standard behind all of this is NFPA 2400, Standard for Small Unmanned Aircraft Systems (sUAS) Used for Public Safety Operations, first issued in 2019 and currently in its 2024 edition [6]. Developed with support from NIST and ANSI, it gives fire departments, law enforcement agencies, and other public safety entities a uniform framework for standing up and running a drone program [7]. Its three core chapters map onto the three things a program needs. Chapter 4 covers organizational deployment: before implementing a program, an agency must adopt written policies addressing overall program management, operational procedures, personnel qualifications and training, safety, and care and maintenance of the aircraft and equipment, and it must assess deployments against mission objectives, risk, and available resources [7]. Chapter 5 defines professional qualifications as minimum job performance requirements (JPRs), written so they can be evaluated and tested, for the remote pilot in command and the visual observer [8]. The RPIC plans the operation, performs the preflight risk assessment and equipment inspection, makes the go or no-go decision, maintains line of sight, flies the mission, and returns the equipment to a mission-ready state, while the visual observer keeps eyes on the aircraft and briefs the RPIC, with no other duties on scene [8]. Chapter 6 requires a maintenance program that names who is authorized to perform each type of maintenance, what qualifications they need, and what only the manufacturer may do, with procedures for routine cleaning, decontamination, maintenance driven by the operating environment, storage, and recordkeeping [7].
+
+For curriculum purposes NFPA 2400 is the natural spine of a dedicated public safety drone course. Its JPRs are written to be assessed, which is exactly what course assessments need, and agencies increasingly build their programs, policies, and hiring expectations around the standard. The program's thermal inspection course already carries a public safety unit that rehearses thermal search, fire scene assessment, night crew work, and ICS integration [5]; a future dedicated public safety course that teaches those skills inside the NFPA 2400 program framework, from program criteria to maintenance records, would graduate students who arrive speaking the language their department's policies are written in.
 
 ## Related
 
@@ -35,3 +45,25 @@ Public safety agencies fly under one of two frameworks. Under Part 107, the agen
 [2] FAA, Public Safety Toolkit. https://www.faa.gov/uas/public_safety_gov/public_safety_toolkit
 [3] 14 CFR 91.137, Temporary flight restrictions in the vicinity of disaster/hazard areas. https://www.law.cornell.edu/cfr/text/14/91.137
 [4] UAV Coach, Drone as a First Responder: A Complete Guide. https://uavcoach.com/drone-as-first-responder/
+[5] Thermal inspection course curriculum, Unit 5: Public Safety Applications (curriculum-content/thermal-inspection-course-curriculum.typ in this repository).
+[6] NFPA, NFPA 2400, Standard for Small Unmanned Aircraft Systems (sUAS) Used for Public Safety Operations, 2024 edition. https://www.nfpa.org/product/nfpa-2400-standard/p2400code
+[7] NFPA, Small Unmanned Aircraft Systems Fact Sheet (NFPA 2400). https://content.nfpa.org/-/media/project/storefront/catalog/files/code-or-topic-fact-sheets/2400factsheet.pdf
+[8] Fire Engineering, What Does NFPA's Drone Standard Mean for Your Fire Department? https://www.fireengineering.com/fire-apparatus/nfpa-drone-standard/
+
+```tandem-comments
+{
+  "nfpa-year": {
+    "anchor": {
+      "exact": "first issued in 2019"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Claude",
+        "ts": "2026-07-11T00:00:00Z",
+        "text": "The 2024 current edition is well confirmed; the 2019 first-edition year is consistent with an NFPA fact sheet but not stated outright on a single authoritative page. Low stakes, but verify if it lands in a course document."
+      }
+    ]
+  }
+}
+```
