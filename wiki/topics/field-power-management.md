@@ -12,6 +12,8 @@ The core technique is to keep the charger working the whole time the aircraft is
 
 A practical rotation with four batteries looks like this. Battery one flies while two, three, and four sit in the hub. When battery one lands, it goes into the hub and the fullest pack comes out and flies. Repeat all day. The math that governs the day is simple. If the aircraft consumes a battery every 30 minutes but the charger needs 75 to 90 minutes to return one, the fleet slowly drains, and the deficit determines either how many extra charged packs to bring or how many chargers to run in parallel. Two hubs on two power sources doubles throughput and is common on production crews.
 
+The same rotation logic scales down to a training fleet of consumer aircraft, where it becomes a teachable lab in its own right. The charging hubs that ship with DJI Fly More kits charge their three batteries sequentially, one after another, while inexpensive third party parallel chargers fill every slot at once, which multiplies throughput the same way a second hub does on a production crew. Since a consumer pack stores far less energy than an enterprise pack, 18.1 Wh for a Mini 3 battery and 62.6 Wh for an Air 3 battery [6] [7], a single 1,024 Wh portable power station [8] returns a dozen or more Air 3 batteries, or several dozen Mini 3 batteries, after inverter losses, enough to keep a five or six aircraft training fleet flying through a three hour lab. The [Battery Charging and Field Power Lab](../activities/battery-charging-and-field-power-lab.md) activity runs students through exactly this arithmetic and rotation.
+
 ## Power sources and the wattage math
 
 Every option gets measured against the charger's draw. One 100 W hub plus a controller and tablet topping off is a continuous load in the neighborhood of 150 W. Two hubs push toward 250 to 300 W. Conversion losses in inverters and power supplies typically eat another 10 to 15 percent, so size sources generously.
@@ -34,6 +36,7 @@ Field charging fails at the small stuff. Carry the correct high-wattage USB-C po
 
 - [Battery Fundamentals and Safety](battery-fundamentals-and-safety.md) for the chemistry and charge behavior behind these logistics.
 - [Field Operations Best Practices](field-operations-best-practices.md) for the rest of the field craft.
+- [Battery Charging and Field Power Lab](../activities/battery-charging-and-field-power-lab.md) for the lab activity built on this material at training-fleet scale.
 
 ## Citations
 
@@ -42,3 +45,6 @@ Field charging fails at the small stuff. Carry the correct high-wattage USB-C po
 [3] DJI Matrice 4 Series FAQ. https://enterprise.dji.com/matrice-4-series/faq
 [4] Honda EU2200i Inverter Generator. https://powerequipment.honda.com/generators/models/eu2200i
 [5] U.S. Consumer Product Safety Commission, What to Know About Generators and Carbon Monoxide. https://www.cpsc.gov/s3fs-public/468-WhattoKnowGenerators_2022.pdf
+[6] DJI Support, Intelligent Flight Battery Technical Specifications (Mini series). https://repair.dji.com/help/content?customId=en-us03400006564&spaceId=34&re=US&lang=en
+[7] DJI Air 3 Specifications. https://www.dji.com/air-3/specs
+[8] EcoFlow DELTA 3 Portable Power Station. https://us.ecoflow.com/products/delta-3-portable-power-station

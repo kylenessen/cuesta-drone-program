@@ -4,7 +4,7 @@
 
 ## Chemistry and why it burns
 
-Lithium cells store energy by shuttling lithium ions between electrodes through a flammable organic electrolyte. There is no water in the system and the materials themselves supply fuel once a cell is breached or driven outside its voltage and temperature limits. Hobby-style LiPo packs use soft pouch cells with no rigid case, which makes them light but easy to damage. Enterprise drone batteries such as the DJI Matrice 4 series pack use lithium-ion cells inside a managed, hard-cased assembly [1], which reduces but does not eliminate the risk. Any swollen, punctured, dented, or crash-damaged pack should be retired, discharged, and taken to a battery recycling point, never charged again.
+Lithium cells store energy by shuttling lithium ions between electrodes through a flammable organic electrolyte. There is no water in the system and the materials themselves supply fuel once a cell is breached or driven outside its voltage and temperature limits. Hobby-style LiPo packs use soft pouch cells with no rigid case, which makes them light but easy to damage. Enterprise drone batteries such as the DJI Matrice 4 series pack use lithium-ion cells inside a managed, hard-cased assembly [1], which reduces but does not eliminate the risk. Any swollen, punctured, dented, or crash-damaged pack should be retired, discharged, and taken to a battery recycling point, never charged again. For teaching, no description of thermal runaway lands like footage of it. A short video of a pouch cell venting and igniting makes the hazard concrete before the first battery is ever handled, and it earns the inspection discipline the rest of this page asks for.
 
 ## Volts, amps, watts, and capacity
 
@@ -15,6 +15,8 @@ A C rating expresses charge or discharge rate as a multiple of capacity. A 1C ra
 ## Charging safely
 
 Charge on a non-flammable surface such as concrete, tile, or a metal tray, away from anything that can burn. Never leave charging batteries unattended, and inspect every pack for swelling, dents, or damaged wiring before plugging it in. A LiPo-rated fire containment bag or an ammo can adds a layer of protection for hobby packs. Know what your extinguisher can and cannot do. FAA testing found that a lithium-ion battery fire can be knocked down with a standard extinguisher and then must be cooled with large amounts of water to stop the cells from reigniting, while a Class D extinguisher is appropriate only for lithium-metal fires [4]. For a small pack, the practical plan is to move it somewhere it can burn out safely, then cool it with water, rather than trying to smother it.
+
+Heat deserves the same respect as visible damage. A battery that just landed is warm from discharge, and a battery left in direct sun can climb past its limits without being used at all. Lithium-ion charging is specified only within a narrow temperature window, roughly 5 to 45 C for the chemistry in general [8] and 5 to 40 C for DJI packs specifically [1], and charging hot accelerates the same degradation that heat causes in storage. So the rule in the field is to let packs cool in the shade before they go on a charger, and to keep the whole charging station, along with controllers and tablets, out of direct sun, where dark cases soak up heat fast enough to throttle or shut equipment down mid-lab. On a summer field day, thermal planning is part of power planning.
 
 ## The nonlinear charge curve
 
@@ -38,6 +40,7 @@ FAA and DOT rules for airline passengers are strict and specific. Spare lithium-
 - [Field Operations Best Practices](field-operations-best-practices.md) for keeping packs cool and cycling in the field.
 - [Emergency Procedures](emergency-procedures.md) for battery fire response in flight operations.
 - [Maintenance and Inspection](maintenance-and-inspection.md) for battery care within the broader maintenance program.
+- [Battery Charging and Field Power Lab](../activities/battery-charging-and-field-power-lab.md) for the lab activity that turns this material into hands-on practice.
 
 ## Citations
 
