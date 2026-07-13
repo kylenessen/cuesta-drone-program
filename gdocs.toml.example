@@ -1,0 +1,25 @@
+# Copy to gdocs.toml and fill in. gdocs.toml is gitignored.
+
+[oauth]
+# From Google Cloud Console: create a project, enable the Google Drive API,
+# then create an OAuth client ID of type "Desktop app".
+client_id = ""
+client_secret = ""
+redirect_uri = "http://127.0.0.1:8123/callback"
+
+[drive]
+# Optional Drive folder ID to create review docs in (from the folder URL).
+folder_id = ""
+# "anyone" shares each doc as anyone-with-the-link-can-comment on first push.
+# "none" leaves the doc private; use the share command or reviewers below.
+share = "anyone"
+# Reviewers granted comment access by email on first push.
+# reviewers = ["ron@example.edu"]
+
+[review]
+# Courses included by --all.
+courses = [
+  "curriculum-content/course-outline-aero-100.md",
+  "curriculum-content/course-outline-aero-110-mapping.md",
+  "curriculum-content/course-outline-aero-120-inspection.md",
+]

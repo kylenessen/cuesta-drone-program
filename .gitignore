@@ -14,3 +14,10 @@ basecamp.toml
 **/.obsidian/workspace-mobile.json
 **/.obsidian/cache
 **/.obsidian/*.log
+
+# Google Docs review integration state and local config
+.gdocs/
+gdocs.toml
+
+# Compiled review documents
+build/
