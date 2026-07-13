@@ -21,3 +21,6 @@ gdocs.toml
 
 # Compiled review documents
 build/
+
+# Python bytecode
+__pycache__/
