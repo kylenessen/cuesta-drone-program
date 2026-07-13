@@ -147,6 +147,7 @@ The program's fleet and support gear, secured, proposed, and researched.
 - [ASPRS Recommended Reading List](analysis/asprs-recommended-reading-list.md): the nine exam preparation texts with current editions, availability, and per-text relevance for mining course ideas.
 - [PG&E Drone Program and Training Pipeline](analysis/pge-drone-program-and-training-pipeline.md): partnership intelligence on PG&E's pilot qualification ladder, the IBEW 1245 training model, and articulation precedent for the utility inspection course.
 - [Drone Employment and Labor Market](analysis/drone-employment-and-labor-market.md): sector-by-sector employment models, salary bands, and the San Luis Obispo employer landscape behind the program's course structure.
+- [NDAA-Compliant Drone Manufacturer Landscape](analysis/ndaa-compliant-drone-manufacturer-landscape.md): the July 2026 company-level survey of compliant multirotor makers, the market shakeout, the San Luis Obispo cluster, and what it implies for purchases and advisory recruitment.
 
 ## Sources
 
