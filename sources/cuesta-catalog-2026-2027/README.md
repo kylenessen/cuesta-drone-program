@@ -1,0 +1,17 @@
+# Cuesta College 2026-2027 Catalog (Structured Extract)
+
+This folder contains a searchable, structured extraction of the Cuesta College 2026-2027 course catalog. The source document is the PDF "2026-2027 -- July 2026 Addendum - 2026-07-13_162522.pdf" (523 pages, July 2026 Addendum edition). The conversion was performed on 2026-07-13 using MinerU v3.4.0 (pipeline backend, text extraction method) on the two sections most relevant to curriculum work: Courses of Instruction (catalog pages 332-493) and Associate Degree & Certificate Programs (catalog pages 140-331). A parser script then turned the converted markdown into the files here. Catalog pages 1-139 (general college information) and 494 onward (faculty and administration) were not converted.
+
+## Contents
+
+The `courses/` directory holds one markdown file per discipline prefix (aero.md, geol.md, and so on), 88 prefixes in total covering 1,006 courses. Each entry preserves the catalog's own wording for the course code, title, units, weekly hours, credit status, grading method, prerequisites, corequisites, advisories, enrollment limitations, description, and transferability. The file `courses/_unparsed.md` collects section-level notes and front matter that did not belong to a specific course, such as the common course numbering notices.
+
+The file `courses.json` is a machine-readable array of all 1,006 courses with fields for code, prefix, number, title, units (numeric), units_raw, hours, prereqs, coreqs, advisories, limitation, transfer, and description.
+
+The `programs/` directory holds one markdown file per academic area covering all 206 degrees and certificates. Each program lists its name, credential type (Associate in Arts, Associate in Science, the transfer variants of each, Certificate of Achievement, Certificate of Specialization, Certificate of Completion, or Certificate of Competency), total units, catalog description, learning outcomes, and required course lists. Programs were grouped into area files by the dominant course prefix in their requirements, since the catalog itself lists programs in one flat alphabetical sequence.
+
+## Conversion notes and known gaps
+
+The PDF's two-column layout confused the text layer in a few dozen places. About 35 course entries came out of MinerU with missing units or truncated titles, and two program course tables were dropped entirely. These were repaired automatically by cross-referencing a `pdftotext -layout` rendering of the same pages, so the data here reflects the printed catalog.
+
+A few caveats remain. GEOL 193 and KINA 261 show no unit value because none is printed in the PDF's extractable text. A handful of prerequisite lines are truncated in the catalog itself, for example GEOL 231 reads "Prerequisites: GEOL 230 or" followed by a corequisite line, which appears to be a layout artifact in the source document. Catalog typos such as "LIVESTOCK FEEDING ANDNUTRITION" were preserved rather than corrected. Course descriptions were unwrapped from the PDF's hard line breaks into single paragraphs, which can occasionally join two words that were hyphenated across lines. In the programs files, eight programs state their totals only in prose or in ways the parser could not reduce to a number, so their "Total units" line is omitted. Where the catalog printed no explicit total, the value was derived by summing the unit counts of the required course groups.
