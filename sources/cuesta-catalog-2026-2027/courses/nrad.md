@@ -1,4 +1,4 @@
-# Nursing Registered Assoc. Deg. (NRAD)
+# Nursing Assistant (NRAD)
 
 Source: Cuesta College 2026-2027 Catalog (July 2026 Addendum), Courses of Instruction.
 

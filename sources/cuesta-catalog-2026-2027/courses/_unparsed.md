@@ -164,7 +164,7 @@ Beginning Fall 2025:
 
 Please see Statistics (STAT) for this course and its support course, STAT 147S (formerly MATH 147S)
 
-## Nursing Registered Assoc. Deg.
+## Nursing Assistant
 
 ## NRAD 4E NCLEX PREPARATION 0.50
 

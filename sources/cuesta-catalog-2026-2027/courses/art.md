@@ -1,4 +1,4 @@
-# Please see Art History (ARTH) for these courses. (ART)
+# Art (ART)
 
 Source: Cuesta College 2026-2027 Catalog (July 2026 Addendum), Courses of Instruction.
 
