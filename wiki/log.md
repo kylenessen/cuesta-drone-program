@@ -2,6 +2,11 @@
 
 Newest first. One entry per change set: what changed and why.
 
+## 2026-07-13 (NDAA manufacturer landscape)
+
+- Added [NDAA-Compliant Drone Manufacturer Landscape](analysis/ndaa-compliant-drone-manufacturer-landscape.md), a July 2026 company-level survey of NDAA-compliant multirotor makers researched for two decisions: which manufacturers deserve purchase quotes and who could fill the advisory committee's manufacturer seat. Key findings: the market is consolidating (Ascent to Robinson, Edge Autonomy to Redwire, Zone 5 to Kongsberg) and shaking out (Watts 2024, Guardian Agriculture 2025, Anzu 2026); Skyfish and Vision Aerial are credible mid-budget challengers; Hylio is effectively the only NDAA spray platform; and Inspired Flight is the only commercial multirotor manufacturer in San Luis Obispo County, with the county's other UAS firms (Zone 5, Edge Autonomy) being defense contractors relevant as employers rather than equipment vendors.
+- Refreshed [NDAA-Compliant Platform Options](equipment/ndaa-compliant-platform-options.md) from the same research: added Skyfish Osprey, Vision Aerial SwitchBlade and Vector, and Hylio spray aircraft sections, noted Ascent's Robinson ownership and the Watts and Guardian shutdowns, added Harris Aerial and Easy Aerial to the adjacent list, and sharpened the recommendation tiers (Osprey quote alongside the X10, Vector as the hands-on hexacopter alternative).
+- Sourcing note: prices are dealer and press figures as of July 2026, mostly quote-based; Vision Aerial compliance is manufacturer attestation rather than Blue listing and is flagged as such.
 ## 2026-07-11 (agricultural regulation)
 
 - Added [Part 137 Agricultural Operations](regulations/part-137-agricultural-operations.md) covering the federal legal stack for drone spraying: Part 137, the 107.36 hazmat prohibition that keeps spraying out of Part 107, 49 U.S.C. 44807 exemptions (authority extended to September 30, 2033), the streamlined agricultural aircraft operator certificate, the 137.19(e) knowledge and skill areas, exemption growth and enforcement, and Part 108 NPRM status as of mid 2026. Researched to support the proposed spray track Ron is developing.
