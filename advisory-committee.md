@@ -10,9 +10,9 @@ Kevin Cooper (Resolute Associates)
 - Potential collaborator for the Cuesta program.
 - Website: https://resoluteassoc.com/
 
-Inspired Flight Technologies (San Luis Obispo)
+Sierra Martin (Inspired Flight Technologies)
 
-- Local NDAA-compliant drone manufacturer, roughly 39 employees. Target for advisory committee recruitment (issue #10). Kyle recalls a woman there whose name needed tracking down.
-- Candidate from public rosters: Emily Vumeyer, Software Lead (technical program manager). She is the only woman listed on the company's public business development team page. Not confirmed as the person Kyle met.
-- Other named contacts if she is not the one, or for a recommendation: Adam Bilmes (Director of Sales and Marketing), Keith Gerhardt (Director of Sales), Rick Stollmeyer (CEO, Mindbody founder, board chairman).
-- Sources: https://theorg.com/org/inspired-flight/teams/business-development-team and https://www.inspiredflight.com/about
+- Flight Operations Coordinator and Project Manager at Inspired Flight, the local NDAA-compliant drone manufacturer in San Luis Obispo. Confirmed by Kyle as the contact for advisory committee recruitment (issue #10).
+- Cal Poly research background across marine sciences, natural resources, and computer science. Prior drone work includes permitting and pilot training for marine science and agriculture applications. Strong fit for the program's mapping and natural resources angle.
+- LinkedIn: https://www.linkedin.com/in/sierra-martin-116156140/
+- Backup contacts at the company for a recommendation if needed: Adam Bilmes (Director of Sales and Marketing), Keith Gerhardt (Director of Sales), Rick Stollmeyer (CEO, Mindbody founder, board chairman).
