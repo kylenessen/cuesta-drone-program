@@ -13,7 +13,7 @@ This memo updates the certificate structure from the draft program approval form
 
 ## Courses
 
-The program requires only three new full courses beyond the approved AERO 100, plus one independent study course built on the college's standard template. Course numbers are placeholders.
+The program proposes three new full courses beyond the approved AERO 100, plus one independent study course built on the college's standard template. Course numbers are placeholders.
 
 | Course | Title | Units | Status |
 | --- | --- | --- | --- |
@@ -23,9 +23,9 @@ The program requires only three new full courses beyond the approved AERO 100, p
 | AERO 130 | Agricultural Spray Operations | 3.0 | Not started |
 | AERO 247 | Independent Studies: UAS | 0.5 to 2.0 | Proposed |
 
-AERO 110 now absorbs the multispectral and agricultural remote sensing content that was previously planned as a separate course, which is why the earlier AERO 130 (Multispectral Imaging and Crop Monitoring) no longer appears and the spray course takes its number.
+AERO 110 now absorbs the multispectral and agricultural remote sensing content that was previously planned as a separate course, which is why the earlier AERO 130 (Multispectral Imaging and Crop Monitoring) no longer appears and the spray course takes its number. The justification is that many of the concepts overlap, except for working with multispectral data, which could be useful across other disciplines. 
 
-AERO 120 focuses on energy sector needs, which are distinct enough from mapping to warrant their own course. Inspection work rewards a different skillset than mapping: precision manual flight close to energized equipment rather than automated grid flights, thermal image interpretation and severity classification rather than photogrammetric processing, and knowledge of the assets being inspected. The course covers infrared theory, thermal camera operation and tuning, Delta-T severity classification, and the professional reporting standards that California utility inspection work requires, and its content aligns with Level 1 thermography certification. The course is also the anchor for the developing partnership with PG&E and IBEW 1245, the region's dominant energy employer, with the long-term goal of articulating Cuesta coursework into their drone pilot training pipeline.
+AERO 120 focuses on energy sector needs, which are distinct enough from mapping to warrant their own course. The course is also the anchor for the developing partnership with PG&E and IBEW 1245, the region's dominant energy employer, with the long-term goal of articulating Cuesta coursework into their drone pilot training pipeline.
 
 AERO 247 follows Cuesta's existing independent study pattern (047/147/247). A student contracts with an instructor for a mentored real-world drone project with a defined deliverable. It gives the program a standing mechanism for putting students on community projects and gives students a portfolio piece beyond their certificate. It also allows for a flexible mechanism to reach the 16 unit minimum for financial aid.
 
@@ -56,25 +56,23 @@ The comprehensive credential, structured to clear the 16 unit federal financial 
 
 The booster menu is a container of one unit AERO courses that grows over time. At launch it needs only AERO 247, which requires no scheduled section. Future additions could include the one unit public safety introductions and a BVLOS/Part 108 course when the regulatory picture matures.
 
-The support pool draws entirely from existing courses: the five GIS courses (GEOG/GEOL 230, GEOL 231, 232, 233, 234), AGPS 242 Plant Science, AGPS 250 Viticulture, ART 249A and 249B Digital Photography, FTVE 225B Single Camera TV Production, GEOG 201 Physical Geography, and potentially ENGR 201 Plane Surveying. Full course details, including divisions and leadership, are in the appendix. GEOG 201 is worth watching: it satisfies the Cal-GETC Area 5A physical science requirement and teaches earth systems through maps, remote sensing, GIS, and GPS, so it could serve UAS students as a GE course that speaks the program's language. How it best fits, whether as a pool member, a recommended GE pairing, or something more structural, is a question to clarify with Bret Clark.
+The support pool draws entirely from existing courses: the five GIS courses (GEOG/GEOL 230, GEOL 231, 232, 233, 234), AGPS 242 Plant Science, AGPS 250 Viticulture, ART 249A and 249B Digital Photography, FTVE 225B Single Camera TV Production, GEOG 201 Physical Geography, and potentially ENGR 201 Plane Surveying. Full course details, including divisions and leadership, are in the appendix. 
 
 ## Open items
 
-1. Confirmation that 16.0 units satisfies the federal financial aid floor for the Certificate of Achievement.
-2. AERO 247 mechanics: confirm the 247 template is straightforward in the AERO prefix and how independent study supervision is compensated.
-3. Whether BUS 248 Small Business Management is worth adding to the support pool, given that most drone operators end up self-employed. It would add a fifth division relationship.
+1. Confirm this new structure will meet the financial aid requirements. 
+2. AERO 247: can we include independent study? 
+3. Is BUS 248 Small Business Management is worth adding to the support pool, given that most drone operators end up self-employed. It would add a fifth division relationship.
 4. Course numbering: AERO 110, 120, 130, and 247 are placeholders.
 
 ## Questions for Bret Clark
 
 Much of this structure overlaps with the Earth, Engineering, and Physical Sciences division, so these questions route to Bret Clark.
 
-1. What is the actual scheduling and staffing status of the GIS course stack (GEOL 230, 231, 232, 233, 234)? Which courses are currently running?
-2. Should GEOG/GEOL 230 be an advisory or a prerequisite for AERO 110? It is currently drafted as an advisory.
-3. Is the stacking pathway between the UAS certificates and the GIS Certificate of Achievement agreeable, with GEOG/GEOL 230 listed as a required course in UAS Mapping?
-4. Could AERO 110 be cross-listed with a GEOG or GEOL number?
-5. Where does the GEOG prefix live administratively, and how might GEOG 201 Physical Geography best fit the program?
-6. Would he introduce the UAS program to the engineering faculty regarding ENGR 201 Plane Surveying, framed as drone coursework adding value for students headed into surveying careers?
+1. What is the current status of GIS courses at Cuesta? I did not see any offered in Fall. 
+2. Does this proposed certificate structure align well existing certificates in his division? The goal is to feed enrollment to each other. 
+3. What is the status of ENGR 201? Can he make a connection for us to interact with those instructors? 
+4. Does GEOG 201 compliment any of these certificates and should it be included as an elective? 
 
 ## Appendix: Support pool course details
 
@@ -149,3 +147,90 @@ Continues the study of digital photography as a fine art. Presents intermediate 
 3.0 units. Advisory: completion of or concurrent enrollment in FTVE 223. Letter grade only. Transfers CSU (C-ID FTVE 130). Division: Languages and Communication. Chair: Beth Ann Dumas. Dean: Aubrey Kuan Roderick.
 
 Provides an introduction to the theory, terminology, and operation of single camera video production including composition, editing techniques, camera operation, portable lighting, video recording, audio control, basic editing, and graphics; includes the aesthetics and fundamentals of scripting, producing, and directing on location, postproduction, and exhibition/distribution.
+
+```tandem-comments
+// Schema: { "<id>": { anchor:{exact,prefix,suffix,pos?}, status:open|resolved, thread:[{author,ts,text}] } }
+// Anchor = quote from the prose. To locate: search for "exact", disambiguate via prefix/suffix.
+{
+  "2b8c": {
+    "anchor": {
+      "exact": "The justification is that many of the concepts overlap, except for working with multispectral data, which could be useful across other disciplines. ",
+      "pos": 1501,
+      "prefix": "e takes its number. ",
+      "suffix": "\n\nAERO 120 focuses o"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Kyle",
+        "ts": "2026-07-14T00:29:41.042Z",
+        "text": "A bit awkward, please help smooth out."
+      }
+    ]
+  },
+  "91a0": {
+    "anchor": {
+      "exact": "A Mapping completer leaves with the gateway course of the college's GIS Certificate of Achievement already done. Videography students take courses that serve the Photography certificate and the Film, Television, and Electronic Media transfer degree. ",
+      "pos": 3097,
+      "prefix": "'s own credentials. ",
+      "suffix": "The certificates cre"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Kyle",
+        "ts": "2026-07-14T00:30:53.823Z",
+        "text": "This sounds like it warrants its own table."
+      }
+    ]
+  },
+  "e075": {
+    "anchor": {
+      "exact": "The support pool draws entirely from existing courses:",
+      "pos": 4174,
+      "prefix": "y picture matures.\n\n",
+      "suffix": " the five GIS course"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Kyle",
+        "ts": "2026-07-14T00:32:54.094Z",
+        "text": "This definitely needs to be a table. Maybe we can replace the appendix with this table. You can drop the chair and dean columns. Transfer units should be a checkmark, Prereq should include the code only. units of course. Division would be good as well."
+      }
+    ]
+  },
+  "f3ba": {
+    "anchor": {
+      "exact": "## Open items\n\n1. Confirm this new structure will meet the financial aid requirements. \n2. AERO 247: can we include independent study? \n3. Is BUS 248 Small Business Management is worth adding to the support pool, given that most drone operators end up self-employed. It would add a fifth division relationship.\n4. Course numbering: AERO 110, 120, 130, and 247 are placeholders.\n\n## Questions for Bret Clark\n\nMuch of this structure overlaps with the Earth, Engineering, and Physical Sciences division, so these questions route to Bret Clark.\n\n1. What is the current status of GIS courses at Cuesta? I did not see any offered in Fall. \n2. Does this proposed certificate structure align well existing certificates in his division? The goal is to feed enrollment to each other. \n3. What is the status of ENGR 201? Can he make a connection for us to interact with those instructors? \n4. Does GEOG 201 compliment any of these certificates and should it be included as an elective? \n",
+      "pos": 4567,
+      "prefix": " in the appendix. \n\n",
+      "suffix": "\n## Appendix: Suppor"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Kyle",
+        "ts": "2026-07-14T00:38:30.760Z",
+        "text": "Please proof read and sanity check me"
+      }
+    ]
+  },
+  "58a5": {
+    "anchor": {
+      "exact": "Appendix: Support pool course details",
+      "pos": 5547,
+      "prefix": "s an elective? \n\n## ",
+      "suffix": "\n\n### GEOG/GEOL 230:"
+    },
+    "status": "open",
+    "thread": [
+      {
+        "author": "Kyle",
+        "ts": "2026-07-14T00:38:44.499Z",
+        "text": "This whole section needs to go after the table is generated"
+      }
+    ]
+  }
+}
+```
