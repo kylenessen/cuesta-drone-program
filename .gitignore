@@ -14,3 +14,5 @@ basecamp.toml
 **/.obsidian/workspace-mobile.json
 **/.obsidian/cache
 **/.obsidian/*.log
+
+/.obsidian/app.json
