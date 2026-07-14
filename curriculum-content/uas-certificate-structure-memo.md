@@ -5,7 +5,7 @@ Date: July 13, 2026
 Status: Working proposal for discussion
 
 > [!note] Editing workflow
-> This file is the editable source of truth. The shared copy lives in Google Drive ("Cuesta - UAS drone program" folder) as "UAS Certificate Structure - Revised Proposal (July 2026) v2". After editing here, ask Claude to republish to Drive.
+> This file is the editable source of truth. The shared copy lives in Google Drive ("Cuesta - UAS drone program" folder) as ["UAS Certificate Structure - Revised Proposal (July 2026)"](https://docs.google.com/document/d/1R8rLyZAduiNqP8cLlLczxC4MzOcZtpvyqaxhM5ExXcI/edit), published July 13, 2026. After editing here, ask Claude to republish to Drive.
 
 ## Summary
 
@@ -68,20 +68,20 @@ The booster menu is a container of one unit AERO courses that grows over time. A
 
 The support pool draws entirely from existing courses.
 
-| Course        | Title                                          | Units | Prereq          | Transfers | Division                                            |
-| ------------- | ---------------------------------------------- | ----- | --------------- | --------- | --------------------------------------------------- |
-| GEOG/GEOL 230 | Introduction to Geographic Information Systems | 3.0   | None            | ✓         | Earth, Engineering, and Physical Sciences           |
-| GEOL 231      | Advanced Geographic Information Systems        | 3.0   | GEOL 230        | ✓         | Earth, Engineering, and Physical Sciences           |
-| GEOL 232      | Web Applications in GIS                        | 3.0   | GEOL 230        | ✓         | Earth, Engineering, and Physical Sciences           |
-| GEOL 233      | Data Acquisition and Management in GIS         | 3.0   | GEOL 230        | ✓         | Earth, Engineering, and Physical Sciences           |
-| GEOL 234      | Introduction to Remote Sensing                 | 3.0   | GEOL 230        | ✓         | Earth, Engineering, and Physical Sciences           |
-| GEOG 201      | Physical Geography                             | 3.0   | None            | ✓         | Earth, Engineering, and Physical Sciences (confirm) |
-| ENGR 201      | Plane Surveying                                | 3.0   | MATH 229 or 231 | ✓         | Earth, Engineering, and Physical Sciences           |
-| AGPS 242      | Introduction to Plant Science                  | 3.0   | None            | ✓         | Agriculture                                         |
-| AGPS 250      | Introduction to Viticulture                    | 3.0   | None            | ✓         | Agriculture                                         |
-| ART 249A      | Digital Photography I                          | 3.0   | None            | ✓         | Fine Arts                                           |
-| ART 249B      | Digital Photography II                         | 3.0   | ART 249A        | ✓         | Fine Arts                                           |
-| FTVE 225B     | Single Camera TV Production and Editing        | 3.0   | None            | ✓         | Languages and Communication                         |
+| Course | Title | Units | Prereq | Division |
+| ------------- | ---------------------------------------------- | ----- | --------------- | --------------------------------------------------- |
+| GEOG/GEOL 230 | Introduction to Geographic Information Systems | 3.0 | None | Earth, Engineering, and Physical Sciences |
+| GEOL 231 | Advanced Geographic Information Systems | 3.0 | GEOL 230 | Earth, Engineering, and Physical Sciences |
+| GEOL 232 | Web Applications in GIS | 3.0 | GEOL 230 | Earth, Engineering, and Physical Sciences |
+| GEOL 233 | Data Acquisition and Management in GIS | 3.0 | GEOL 230 | Earth, Engineering, and Physical Sciences |
+| GEOL 234 | Introduction to Remote Sensing | 3.0 | GEOL 230 | Earth, Engineering, and Physical Sciences |
+| GEOG 201 | Physical Geography | 3.0 | None | Earth, Engineering, and Physical Sciences (confirm) |
+| ENGR 201 | Plane Surveying | 3.0 | MATH 229 or 231 | Earth, Engineering, and Physical Sciences |
+| AGPS 242 | Introduction to Plant Science | 3.0 | None | Agriculture |
+| AGPS 250 | Introduction to Viticulture | 3.0 | None | Agriculture |
+| ART 249A | Digital Photography I | 3.0 | None | Fine Arts |
+| ART 249B | Digital Photography II | 3.0 | ART 249A | Fine Arts |
+| FTVE 225B | Single Camera TV Production and Editing | 3.0 | None | Languages and Communication |
 
 All courses transfer to CSU, and several also transfer to UC. GEOG 201 additionally satisfies the Cal-GETC Area 5A physical science general education requirement, so it can serve UAS students as a GE course that speaks the program's language. ENGR 201 is tentative pending its trigonometry prerequisite, and FTVE 225B carries an advisory of completion or concurrent enrollment in FTVE 223.
 
@@ -215,12 +215,17 @@ Much of this structure overlaps with the Earth, Engineering, and Physical Scienc
       "exact": "Transfers",
       "pos": 0
     },
-    "status": "open",
+    "status": "resolved",
     "thread": [
       {
         "author": "Kyle",
         "ts": "2026-07-14T00:47:57.922Z",
         "text": "We can drop this column if all meet it."
+      },
+      {
+        "author": "Claude",
+        "ts": "2026-07-14T00:00:00Z",
+        "text": "Dropped the Transfers column. The paragraph below the table still notes that all courses transfer to CSU and several to UC."
       }
     ]
   },
@@ -231,12 +236,17 @@ Much of this structure overlaps with the Earth, Engineering, and Physical Scienc
       "prefix": "rogram\" folder) as \"",
       "suffix": "\". After editing her"
     },
-    "status": "open",
+    "status": "resolved",
     "thread": [
       {
         "author": "Kyle",
         "ts": "2026-07-14T00:48:57.068Z",
         "text": "I deleted this file so we need to create a new one."
+      },
+      {
+        "author": "Claude",
+        "ts": "2026-07-14T00:00:00Z",
+        "text": "Republished to Drive as \"UAS Certificate Structure - Revised Proposal (July 2026)\" and updated this callout with a link to the new doc."
       }
     ]
   }
