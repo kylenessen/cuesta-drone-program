@@ -151,6 +151,7 @@ The program's fleet and support gear, secured, proposed, and researched.
 - [Drone Employment and Labor Market](analysis/drone-employment-and-labor-market.md): sector-by-sector employment models, salary bands, and the San Luis Obispo employer landscape behind the program's course structure.
 - [NDAA-Compliant Drone Manufacturer Landscape](analysis/ndaa-compliant-drone-manufacturer-landscape.md): the July 2026 company-level survey of compliant multirotor makers, the market shakeout, the San Luis Obispo cluster, and what it implies for purchases and advisory recruitment.
 - [NIST Flight Proficiency Programs](analysis/nist-flight-proficiency-programs.md): the existing programs that run NIST test lanes as a graded flying credential, from APSA's BPERP and the proctor pipeline to CSU and Carroll Community College, plus the Clemson benchmark data behind the AERO 100 capstone.
+- [Flight Proficiency Assessment Models](analysis/flight-proficiency-assessment-models.md): the option space for what the capstone should reward, timed self-scoring versus the competence-based checkride (Canada, UK) versus tolerance-based scoring, for a capstone built on careful control rather than speed.
 
 ## Sources
 
