@@ -1,0 +1,136 @@
+BM Aether 4 - The 4 inch unibody FPV drone frame
+MakerWorld model page by designer "Dr. J. Ma"
+URL: https://makerworld.com/en/models/541413-bm-aether-4-the-4-inch-unibody-fpv-drone-frame
+Released 2024-07-14. Page text captured 2026-07-15 via in-app browser. Site chrome,
+print-profile UI, and unrelated comments stripped. Comment threads relevant to build
+evidence are preserved at the end.
+
+---
+
+PRINT PROFILES (designer-published)
+Frame V1.1 (rated 4.9, 348 ratings), Travel Box, GPS Holder, TPU Antenna mount.
+
+BILL OF MATERIALS (designer's listed parts)
+- M2x2.5x10 SHSS machine screws, M2x2.5x5 SHSS machine screws
+- M2 x 6.6 damping balljoint x 4 (for AIO flight controllers)
+- BetaFPV Pavo 20 VTX chassis x 1 (required only to mount a DJI O3 or similar VTX)
+- M3 x 12 nylon screw + M3 nylon nut (optional)
+- 5V 2007 fan, RPM>10000 (optional, hot weather)
+- DJI O3 Air Unit x 1, or other VTX the chassis supports
+- AIO fly controller x 1: 25.5x25.5mm
+- Motor 1404 2800kv x 4: motor size 1404 - 2004, 9mm or 12mm bolt pattern
+- Prop Gemfan 4023 x 4 or similar
+- Battery Bosi LiPo 4S 850mAh x 1
+- GPS Cyclone 1018 x 1: 18mm GPS
+- Suggested filament: PPS-CF (Bambu listing shown on page)
+
+DESCRIPTION (designer's text, lightly condensed)
+
+This is the Aether 4, a fully 3D-printed unibody FPV frame for 4/4.5 inch drones,
+inspired by nature and biomimetic design.
+
+What is it good at:
+- No frame assembly required. Unibody design, printed in one piece.
+- Rigid yet lightweight, strong but still under 40 grams.
+- True X layout, good pitch authority. Not a DC nor squashed X.
+- No prop in view (DJI O3 wide-angle mode).
+- Low-cost. One roll of filament prints up to 20 copies.
+- Aerodynamic design. Efficient and low cruising throttle.
+- Sub 250g with 10min+ air time.
+- Modification and accessories available. Customization: choose your own print
+  settings, materials, or modify the model.
+
+Data you may want to know:
+- FC and ESC: 20 x 20mm stack OR 25.5 x 25.5mm AIO
+- Motors: 9 x 9mm pitch OR 12 x 12mm pitch
+- Prop: maximum 4.5 inch
+- VTX: any VTX the Pavo 20 chassis supports (DJI O3, Caddx Vista, RunCam Link)
+- Motor pitch: ~185mm x 185mm, X layout
+- Sweep angle: 28 deg
+- Frame weight: ~40g @ 2 walls
+
+Setup examples:
+
+Sub250 Setup (designer's setup): TOW ~250g. Motor Darwin 1504 kv2300 or HLG 1404
+kv2800. Prop GemFan 4525-3 (4.5 inch) or GemFan 4024-2 (4 inch). Battery Boshi LiPO
+P7 850mAh 4S, ~93g. Cruising time ~12 min. Freestyle time ~6 min.
+
+FreeStyle Setup: frame printed with 3 walls. Motor 2006 kv1900 or 2204 kv1800. Prop
+GemFan 4525-3 (4.5 inch). Battery 6S 850mAh-1300mAh.
+
+Long Range Setup: motor 1404 KV2800. Prop GemFan 4525-3 (4.5 inch) or 4 inch low
+pitch 2-blade props. Battery 4S 3000mAh 18650 Li-ion. Cruising time >30min.
+
+HOW TO PRINT (designer's guidance)
+
+The O3 unit and VTX sit inside the BetaFPV Pavo 20 VTX chassis which is NOT provided
+in the print file; purchase one to complete a video-equipped drone.
+
+- The frame is designed to print without infill; infill adds little to no strength.
+- The frame is optimized for the placement and rotation in the print file.
+- The supports in the print file are painted and necessary for better edges and
+  surface finish.
+
+Other suggestions:
+- Printing with PLA is just fine.
+- Rigid filaments are preferred over flexible ones. Carbon-reinforced filament
+  offers even greater advantages.
+- For extreme uses such as heavy freestyle or racing, a high-temperature filament is
+  essential to prevent the motor becoming loose due to heat building up under the
+  motor.
+- This frame is sensitive to vibrations. Ensure motors and props are well balanced
+  dynamically.
+
+FLIGHT CONTROLLER SETUP (Betaflight 4.5+)
+
+The frame works well on default Betaflight tuning. If vibrations or jello appear,
+check motor and prop balance first. For low-frequency wobble or warm motors, the
+designer recommends starting with lower D gains and heavier gyro and D-term filters
+(specific CLI values published on the page).
+
+Make sure the motor screws are tightened before flight; plastic can bounce screws
+out after a flight. Or use screw locker (glue). Avoid high load which heats up the
+plastic under the motor; it will cause loose screws and vibrations. This is the key
+to a clean flight. The designer shows a vibration analysis where loose motor screws
+after a heavy-load flight made the next flight noisier until retightened.
+
+ACCESSORIES (in the print profiles)
+Antenna support, screwless multi-functional dovetail slot, GPS holder with dovetail
+slot (available for two GPS sizes), GoPro camera mount, 2007 cooling fan mount for
+O3, travel box.
+
+DESIGN NOTES (designer's story, condensed)
+
+The designer wanted a 4-inch sub-250g drone and found only similar-looking carbon
+fiber frames. 3D printing allows biomimetic one-piece structures without molds.
+The frame is lighter than comparable carbon frames because carbon builds need
+screws, CNC parts, and pillars to form 3D structure. The design lowers the
+propellers and raises the camera so props stay out of view while keeping a regular
+X layout. Adjustments were made to increase rigidity and match the resonance
+frequency of carbon frames.
+
+License: effective October 14, 2024, the model is MakerWorld-exclusive under a
+Standard Digital License. Download and use per license terms; sharing the model or
+derivatives on other platforms is prohibited. Commercial production requires
+contacting the designer for authorization. Models downloaded before that date retain
+their original CC-BY license.
+
+Original design published in Onshape (link on page), exportable to any format.
+
+RELEVANT BUILD COMMENTS
+
+@Wheezy (2024-10): Build with JHEMCU GHF405 40A AIO, RCinpower 1404 2750kv motors,
+Caddx Vista, SpeedyBee ELRS nano, Gemfan 4023 tri-blade props, CNHL 4S 850mAh.
+Ditched metal PLA for a stronger PLA+ in bright orange. "It flies pretty well for
+what it is. It's definitely not a frame you can bang around and crash into things,
+it handles little knocks and stuff fine but will break in a decent crash." Suggests
+slightly larger motors (1604, 1806, or 2004) or staying low KV on 1404s "because
+they really aren't rated for 4 inch props, they work, but they can get hot if you
+start pushing them too much." Battery note: 850mAh Gaoneng packs took about 20g off
+versus the CNHL listed.
+
+@Keresztes (2024-12): Printed with 0.4mm nozzle in Bambu PETG-CF, no infill, 3
+walls. Built with BetaFPV AIO 25A FC, BetaFPV 1404 4500KV motors, Diatone Mamba M22
+GPS, Rush Tank Mini VTX, Foxeer Cat 2 camera, TBS Crossfire. "Flies great with stock
+Betaflight PIDs. I was worried the frame wouldn't be stiff enough but was pleasantly
+surprised." Weight without battery: 143.2g.
