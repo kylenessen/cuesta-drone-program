@@ -28,6 +28,7 @@ The apparatus scores itself: features legibly captured convert directly to point
 
 ## Related
 
+- [NIST Open Test Lane](../exams/nist-open-test-lane.md) for the full specification of the test method this session flies.
 - [Flight Proficiency and Practice Exercises](../topics/flight-proficiency-and-practice-exercises.md) for the test methods' background and the skills progression behind this session.
 - [Precision Maneuvering Drills](precision-maneuvering-drills.md) for the parallel drill station that feeds the lane.
 - [Dynamic Reaction Course](dynamic-reaction-course.md) for the unscripted follow-on once the lane is mastered.

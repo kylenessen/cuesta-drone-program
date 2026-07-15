@@ -9,6 +9,8 @@ The knowledge base behind Cuesta College's drone program curriculum. It covers t
 - [ASPRS Certified UAS Technologist](exams/asprs-certified-uas-technologist.md): the professional mapping credential, its exam matrix, the wider ASPRS certification family, and the curriculum mapping.
 - [ASPRS Geospatial Intern Program](exams/asprs-geospatial-intern-program.md): the student pathway into ASPRS certification, its application mechanics, conversion timeline, and open questions for the ASPRS call.
 - [AUVSI Trusted Operator Program](exams/auvsi-trusted-operator-program.md): the voluntary flight competency standard, its levels and flight assessment, honest recognition notes, and the training provider pathway question.
+- [NIST Open Test Lane](exams/nist-open-test-lane.md): the self-scoring bucket-target flight test behind AERO 100's Level 2 capstone, its apparatus, five flight paths, levels, scoring, and the weight-class choice it leaves open.
+- [Basic Proficiency Evaluation for Remote Pilots](exams/basic-proficiency-evaluation-for-remote-pilots.md): the compact three-stand NIST credential test, APSA's certificate stacked on Part 107, the Clemson benchmark data, and the capstone design choice it raises.
 
 ## Regulations
 
