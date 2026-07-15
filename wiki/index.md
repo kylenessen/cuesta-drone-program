@@ -53,6 +53,7 @@ Operational craft serving both courses.
 - [Field Operations Best Practices](topics/field-operations-best-practices.md): checklists, attention discipline, go/no-go judgment, shared airspace, in-field image checks, and the human side of field days from health to public interaction.
 - [Field Power Management](topics/field-power-management.md): batteries, charging hubs, generators, and power stations on a mapping day.
 - [Drone Radio Links and Interference](topics/drone-radio-links-and-interference.md): the C2 and video links, the 2.4 GHz band, interference near towers and lines, and lost-link failsafes.
+- [Flight Controller Firmware](topics/flight-controller-firmware.md): Betaflight, iNav, ArduPilot, and PX4, what enables GPS hold, return-to-home, and waypoints, the ground stations, and how firmware pairs with hardware.
 
 ## Lab Activities
 
@@ -139,6 +140,7 @@ The program's fleet and support gear, secured, proposed, and researched.
 - [DJI Matrice 4E](equipment/dji-matrice-4e.md): the mapping aircraft, its mechanical shutter and RTK specs, and its software ecosystem for the mapping course.
 - [DJI Matrice 4T](equipment/dji-matrice-4t.md): the thermal and zoom inspection aircraft for the inspection course and its PG&E alignment.
 - [Training Fleet](equipment/training-fleet.md): Mini 3 and Air 3 trainers for AERO 100 and the logistics of running a six-drone lab.
+- [AERO 100 Student-Built Drone](equipment/aero-100-student-built-drone.md): the proposed build-your-own GPS quad pivot, its budget tiers and parts, kit-versus-scratch, the weight-class decision, and ownership models.
 - [Emlid RTK Kit](equipment/emlid-rtk-kit.md): the Reach RS4 base and RX2 rover, correction workflows, and the Emlid-over-Trimble reasoning.
 - [Field Power and Charging](equipment/field-power-and-charging.md): the power station, solar, and parallel charging kit, with the memo's watt-hour math checked.
 - [NDAA-Compliant Platform Options](equipment/ndaa-compliant-platform-options.md): the researched mid-2026 non-Chinese platform landscape with honest fit assessments and a purchase tier.

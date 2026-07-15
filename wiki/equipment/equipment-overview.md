@@ -18,7 +18,7 @@ Still open are photogrammetry and flight planning software licenses (estimated i
 
 ## Equipment by course
 
-AERO 100, the basic operator course, uses the consumer [training fleet](training-fleet.md). Small, inexpensive, self-contained aircraft with screen-equipped controllers let three to six drones fly concurrently under one instructor while limiting the cost of a student crash [1]. The enterprise aircraft can appear as demonstrations of where the career path leads.
+AERO 100, the basic operator course, uses the consumer [training fleet](training-fleet.md). Small, inexpensive, self-contained aircraft with screen-equipped controllers let three to six drones fly concurrently under one instructor while limiting the cost of a student crash [1]. The enterprise aircraft can appear as demonstrations of where the career path leads. A proposed pivot would have AERO 100 students build their own GPS quadcopters instead of, or alongside, flying the consumer fleet; that researched option, with its budget tiers and parts, is on [AERO 100 Student-Built Drone](aero-100-student-built-drone.md).
 
 AERO 110, drone mapping and photogrammetry, is built around the [Matrice 4E](dji-matrice-4e.md) with the [Emlid RTK kit](emlid-rtk-kit.md) supplying the base station, survey rover, and ground control workflow, plus photogrammetry software and processing hardware [3]. AERO 120, thermal imaging and applied inspection, is built around the [Matrice 4T](dji-matrice-4t.md) with thermal calibration targets and heat sources rather than heavy new aircraft spending [4].
 

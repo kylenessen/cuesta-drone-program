@@ -2,6 +2,14 @@
 
 Newest first. One entry per change set: what changed and why.
 
+## 2026-07-15 (drone-build research: firmware and student build)
+
+- Captured the build-side research from the AERO 100 pivot discussion that had until now only lived in chat. Added [Flight Controller Firmware](topics/flight-controller-firmware.md), durable technical knowledge on the four small-multirotor firmware families (Betaflight for manual FPV, iNav for GPS hold/RTH/waypoints on cheap hardware, ArduPilot and PX4 as the commercial autopilot stacks), the ground control stations (Mission Planner, QGroundControl, iNav Configurator), and how firmware pairs with hardware (Pixhawk runs ArduPilot/PX4 only; the Matek H743 reflashes across iNav/ArduPilot/Betaflight, making it the teaching board).
+- Added [AERO 100 Student-Built Drone](equipment/aero-100-student-built-drone.md), the researched build proposal: three budget tiers with current parts and prices (sub-250g iNav GPS quad ~$180-280 built on a SpeedyBee F405 with a ~$10-20 GPS module; a Matek H743 ArduPilot build ~$350-550; the turnkey Holybro PX4 X500 v2 kit ~$533), reference builds (Flywoo Explorer LR4, the Mayfly V2.0 scratch build), the kit-versus-scratch tradeoff, the weight-class decision, ownership models (Cuesta fleet vs students buy and keep), and safety.
+- Per Kyle's direction, recorded the weight class as a curriculum lever rather than a hard limit: staying sub-250g keeps the aircraft unregistered and Remote-ID-exempt, while going to 250g or more deliberately pulls registration and Remote ID into the course as hands-on compliance content. Cross-linked to the regulations pages and the weight note on the Open Test Lane page.
+- Wired both pages into the index (firmware under Flight Skills and Field Operations, the build under Equipment) and linked the build from [Equipment Overview](equipment/equipment-overview.md) so it sits in the equipment family alongside the DJI training fleet it would supplement or replace.
+- Sourcing note: the build is a researched proposal from July 2026 program planning, not a documented purchase, and is labeled as such; the currently planned AERO 100 fleet remains the consumer DJI training fleet. Component prices are retailer listings hedged as approximate for mid-2026, and the Flywoo/Mayfly references establish the class rather than prescribe a final bill of materials.
+
 ## 2026-07-15 (flight assessment models for the capstone)
 
 - Added [Flight Proficiency Assessment Models](analysis/flight-proficiency-assessment-models.md) in response to Kyle's reflection that the capstone "driver's test" is undecided and that his instinct is to reward careful, competent control rather than time-trial speed or athleticism. The page lays out three assessment families rather than prescribing one: timed self-scoring (the NIST lane), the competence-based checkride, and tolerance-based scoring.
