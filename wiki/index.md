@@ -9,6 +9,8 @@ The knowledge base behind Cuesta College's drone program curriculum. It covers t
 - [ASPRS Certified UAS Technologist](exams/asprs-certified-uas-technologist.md): the professional mapping credential, its exam matrix, the wider ASPRS certification family, and the curriculum mapping.
 - [ASPRS Geospatial Intern Program](exams/asprs-geospatial-intern-program.md): the student pathway into ASPRS certification, its application mechanics, conversion timeline, and open questions for the ASPRS call.
 - [AUVSI Trusted Operator Program](exams/auvsi-trusted-operator-program.md): the voluntary flight competency standard, its levels and flight assessment, honest recognition notes, and the training provider pathway question.
+- [NIST Open Test Lane](exams/nist-open-test-lane.md): the self-scoring bucket-target flight test behind AERO 100's Level 2 capstone, its apparatus, five flight paths, levels, scoring, and the weight-class choice it leaves open.
+- [Basic Proficiency Evaluation for Remote Pilots](exams/basic-proficiency-evaluation-for-remote-pilots.md): the compact three-stand NIST credential test, APSA's certificate stacked on Part 107, the Clemson benchmark data, and the capstone design choice it raises.
 
 ## Regulations
 
@@ -148,6 +150,8 @@ The program's fleet and support gear, secured, proposed, and researched.
 - [PG&E Drone Program and Training Pipeline](analysis/pge-drone-program-and-training-pipeline.md): partnership intelligence on PG&E's pilot qualification ladder, the IBEW 1245 training model, and articulation precedent for the utility inspection course.
 - [Drone Employment and Labor Market](analysis/drone-employment-and-labor-market.md): sector-by-sector employment models, salary bands, and the San Luis Obispo employer landscape behind the program's course structure.
 - [NDAA-Compliant Drone Manufacturer Landscape](analysis/ndaa-compliant-drone-manufacturer-landscape.md): the July 2026 company-level survey of compliant multirotor makers, the market shakeout, the San Luis Obispo cluster, and what it implies for purchases and advisory recruitment.
+- [NIST Flight Proficiency Programs](analysis/nist-flight-proficiency-programs.md): the existing programs that run NIST test lanes as a graded flying credential, from APSA's BPERP and the proctor pipeline to CSU and Carroll Community College, plus the Clemson benchmark data behind the AERO 100 capstone.
+- [Flight Proficiency Assessment Models](analysis/flight-proficiency-assessment-models.md): the option space for what the capstone should reward, timed self-scoring versus the competence-based checkride (Canada, UK) versus tolerance-based scoring, for a capstone built on careful control rather than speed.
 
 ## Sources
 
