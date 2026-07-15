@@ -141,6 +141,7 @@ The program's fleet and support gear, secured, proposed, and researched.
 - [DJI Matrice 4T](equipment/dji-matrice-4t.md): the thermal and zoom inspection aircraft for the inspection course and its PG&E alignment.
 - [Training Fleet](equipment/training-fleet.md): Mini 3 and Air 3 trainers for AERO 100 and the logistics of running a six-drone lab.
 - [AERO 100 Student-Built Drone](equipment/aero-100-student-built-drone.md): the proposed build-your-own GPS quad pivot, now specced as ArduPilot on FPV-class hardware with the printed Aether 4 as candidate airframe, with the reference bill of materials, crash economics, training progression, and the instructor prototype path.
+- [Flame Wheel Budget Build](equipment/flame-wheel-budget-build.md): the researched $150-class F330/F450 alternative built from airplane motors, $5 speed controllers, and a wing flight controller verified to run stable ArduCopter, with the exposed-wiring teaching case, sizing against the Phantom ceiling, video system pricing, and the payload capstone.
 - [Emlid RTK Kit](equipment/emlid-rtk-kit.md): the Reach RS4 base and RX2 rover, correction workflows, and the Emlid-over-Trimble reasoning.
 - [Field Power and Charging](equipment/field-power-and-charging.md): the power station, solar, and parallel charging kit, with the memo's watt-hour math checked.
 - [NDAA-Compliant Platform Options](equipment/ndaa-compliant-platform-options.md): the researched mid-2026 non-Chinese platform landscape with honest fit assessments and a purchase tier.
@@ -172,3 +173,4 @@ The program's fleet and support gear, secured, proposed, and researched.
 - [NSSL UAS Standard Operating Procedure](sources/nssl-uas-sop.md): a complete public institutional drone SOP, the model for crew, weather, and safety procedures.
 - [NCAT TOP Level 2 Course Syllabus](sources/ncat-top-level-2-syllabus.md): a partner college's three credit syllabus for teaching Trusted Operator Level 2, evidence for the provider pathway.
 - [BM Aether 4 MakerWorld Listing](sources/makerworld-aether-4-frame.md): the printed-airframe candidate's model page, with specs, print guidance, license terms, and builder evidence.
+- [Hoarder Sam $150 Autonomous Drone Video](sources/hoarder-sam-150-autonomous-drone.md): the October 2025 build video behind the Flame Wheel budget path, with the creator's parts list, prices, and full transcript.

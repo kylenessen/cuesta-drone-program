@@ -12,4 +12,5 @@ The parts list is transcribed from the video description and the creator's linke
 
 ## Used By
 
-- [AERO 100 Student-Built Drone](../equipment/aero-100-student-built-drone.md) cites this source for the F450 budget-build alternative, its parts list and prices, the airplane-ESC wiring pedagogy, and the payload-drop capstone idea.
+- [Flame Wheel Budget Build](../equipment/flame-wheel-budget-build.md) cites this source for the build's parts list and prices, its design philosophy, the airplane-ESC wiring pedagogy, and the payload-drop capstone idea.
+- [AERO 100 Student-Built Drone](../equipment/aero-100-student-built-drone.md) references the build indirectly through its Flame Wheel alternative section.
