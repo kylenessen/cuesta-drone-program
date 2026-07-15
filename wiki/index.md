@@ -140,7 +140,7 @@ The program's fleet and support gear, secured, proposed, and researched.
 - [DJI Matrice 4E](equipment/dji-matrice-4e.md): the mapping aircraft, its mechanical shutter and RTK specs, and its software ecosystem for the mapping course.
 - [DJI Matrice 4T](equipment/dji-matrice-4t.md): the thermal and zoom inspection aircraft for the inspection course and its PG&E alignment.
 - [Training Fleet](equipment/training-fleet.md): Mini 3 and Air 3 trainers for AERO 100 and the logistics of running a six-drone lab.
-- [AERO 100 Student-Built Drone](equipment/aero-100-student-built-drone.md): the proposed build-your-own GPS quad pivot, its budget tiers and parts, kit-versus-scratch, the weight-class decision, and ownership models.
+- [AERO 100 Student-Built Drone](equipment/aero-100-student-built-drone.md): the proposed build-your-own GPS quad pivot, now specced as ArduPilot on FPV-class hardware with the printed Aether 4 as candidate airframe, with the reference bill of materials, crash economics, training progression, and the instructor prototype path.
 - [Emlid RTK Kit](equipment/emlid-rtk-kit.md): the Reach RS4 base and RX2 rover, correction workflows, and the Emlid-over-Trimble reasoning.
 - [Field Power and Charging](equipment/field-power-and-charging.md): the power station, solar, and parallel charging kit, with the memo's watt-hour math checked.
 - [NDAA-Compliant Platform Options](equipment/ndaa-compliant-platform-options.md): the researched mid-2026 non-Chinese platform landscape with honest fit assessments and a purchase tier.
@@ -171,3 +171,4 @@ The program's fleet and support gear, secured, proposed, and researched.
 - [How Pacific Gas and Electric Company Uses Unmanned Aircraft](sources/verticalmag-pge-uas-operations.md): the 2025 Vertical Mag feature on PG&E's UAS program, Flight Core, and field realities.
 - [NSSL UAS Standard Operating Procedure](sources/nssl-uas-sop.md): a complete public institutional drone SOP, the model for crew, weather, and safety procedures.
 - [NCAT TOP Level 2 Course Syllabus](sources/ncat-top-level-2-syllabus.md): a partner college's three credit syllabus for teaching Trusted Operator Level 2, evidence for the provider pathway.
+- [BM Aether 4 MakerWorld Listing](sources/makerworld-aether-4-frame.md): the printed-airframe candidate's model page, with specs, print guidance, license terms, and builder evidence.
