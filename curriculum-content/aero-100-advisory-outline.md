@@ -22,9 +22,9 @@ The lecture sequence covers the FAA knowledge areas so students can pass the Par
 
 ## Drone Fundamentals Through Building
 
-Across the semester, students build and fly a small GPS-capable quadcopter made from commodity parts. The design target mimics a commercial platform. The aircraft holds position on GPS, returns home on command, and flies basic waypoint missions, while it stays small and cheap to crash. This is not a hobbyist project. First-person-view racing and freestyle flying stay out of scope, because those skills rarely appear in commercial work.
+Across the semester, students build and fly a small GPS-capable quadcopter made from commodity parts. The design target mimics a commercial platform. The aircraft holds position on GPS, returns home on command, and flies basic waypoint missions, while it stays small and cheap to crash. This is not a hobbyist course, and first-person-view racing and freestyle flying stay out of scope, because those skills rarely appear in commercial work.
 
-Graduates will not build aircraft on the job. But a pilot who has built one can troubleshoot and reason about any platform an employer provides. The build is how the course teaches what a drone contains and how it fails. Concepts that would otherwise stay in lecture, like compass calibration, failsafe behavior, and battery discipline, become work students have done with their hands. The exact build format is still under development, including the parts list and whether students work alone or in pairs. We welcome the committee's input here.
+The build is how the course teaches what a drone contains and how it fails. Concepts that would otherwise stay in lecture, like compass calibration, failsafe behavior, and battery discipline, become work students have done with their hands. The exact build format is still under development, including the parts list and whether students work alone or in pairs. We welcome the committee's input here.
 
 - Anatomy of a multirotor: airframe, flight controller, electronic speed controllers, motors, propeller sizing, GPS and compass, and the radio receiver
 - Autopilot firmware and flight modes: position hold, altitude hold, return to home, waypoint missions, geofencing, and failsafes
@@ -51,3 +51,37 @@ The test demands real camera control, so students fly it on the program's camera
 ## Where This Leads
 
 The course closes with a sample of drone work in the field: mapping, utility inspection, agriculture, and public safety. Students see the products clients buy and the thermal inspection work that anchors regional drone employment. When time allows, we also fly the larger platforms from the later courses, so students have something concrete to look forward to. AERO 100 is the prerequisite for AERO 110 (Advanced Drone Mapping and Remote Sensing) and AERO 120 (Drone Infrastructure Inspection). A student who finishes AERO 100 arrives with the certificate, the flight record, and the mechanical understanding those courses assume.
+
+<!-- markco-comments
+{
+  "version": 2,
+  "comments": [
+    {
+      "id": "1c1cc78b-d71c-484d-8612-802cff54cc74",
+      "anchor": {
+        "text": "Night operations: the current night rules, anti-collision lighting, and twilight definitions",
+        "startLine": 47,
+        "startChar": 2,
+        "endLine": 47,
+        "endChar": 94
+      },
+      "content": "This point reads to me that we will be doing night operations as part of our flight competency. And I don't know if we can actually do that appropriately. I think this belongs more appropriately in the part 107 section.",
+      "author": "Kyle Nessen",
+      "createdAt": "2026-07-27T22:46:37.075Z"
+    },
+    {
+      "id": "16825e59-5cd6-4835-970c-cea93cd71d3b",
+      "anchor": {
+        "text": "Students see the products clients buy and the thermal inspection work that anchors regional drone employment.",
+        "startLine": 52,
+        "startChar": 121,
+        "endLine": 52,
+        "endChar": 230
+      },
+      "content": "Generalize this sentence so that it says students see how drums are used in commercial applications.",
+      "author": "Kyle Nessen",
+      "createdAt": "2026-07-27T22:47:06.310Z"
+    }
+  ]
+}
+-->
