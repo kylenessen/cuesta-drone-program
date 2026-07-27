@@ -1,4 +1,4 @@
-# AERO 120: Drone Utility and Infrastructure Inspection
+# AERO 120: Drone Infrastructure Inspection
 
 Draft course outline for advisory committee review
 Kyle Nessen, July 2026
