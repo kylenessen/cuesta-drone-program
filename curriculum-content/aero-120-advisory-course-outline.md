@@ -46,46 +46,12 @@ The course centers on electric utility assets. Students also practice workflows 
 ## Equipment
 
 - The DJI Matrice 4T, already in the program fleet: thermal and high-zoom payloads on one aircraft, consistent with utility practice
-- NDAA compliance and the Blue UAS list: why platform origin matters to utility and government clients
+- NDAA compliance and the Blue UAS list: why platform origin matters to utility and government clients. There is still time to add a compliant aircraft to the fleet if this work demands one, and we welcome your guidance here.
 
 ## Partnership
 
-We want to build this course with the people who do the work. PG&E operates one of the largest utility drone inspection programs in the world, and this course exists to feed that workforce. This outline is the first full draft of the course content, and your review of it is the step we ask for now. Beyond review, we welcome deeper involvement. Our hope is that Cuesta College can work closely with PG&E in developing their pilots.
+We want to build this course with the people who do the work. PG&E operates one of the largest utility drone inspection programs in the world, and this course exists to feed that workforce. This outline is the first full draft of the course content, and your review of it is the step we ask for now. Beyond review, we welcome deeper involvement. Our larger hope is that Cuesta can formalize utility drone training under the college, so internal programs gain a partner rather than a competitor. That only works if the people who run that training today help build this course.
 
 - Comments on this outline from PG&E and IBEW 1245, so the content matches what your pilots actually need to know
 - Instruction from the field: guest lectures are welcome, and Cuesta can potentially hire experienced inspection pilots as part-time faculty to teach the course
 - Credit for prior learning, so completed utility or union training can count toward the certificate and college coursework can shorten employer onboarding
-
-<!-- markco-comments
-{
-  "version": 2,
-  "comments": [
-    {
-      "id": "8f2f6e11-a35a-4bb6-8e90-09a52a386831",
-      "anchor": {
-        "text": "NDAA compliance and the Blue UAS list: why platform origin matters to utility and government clients",
-        "startLine": 48,
-        "startChar": 2,
-        "endLine": 48,
-        "endChar": 102
-      },
-      "content": "Indicate here that we could acquire or we there's still time to acquire an N D A A compliant drone for this type of work if it's highly valuable.",
-      "author": "Kyle Nessen",
-      "createdAt": "2026-07-27T22:50:02.343Z"
-    },
-    {
-      "id": "5d3784b5-cc0d-4f19-983d-cc65ed72044b",
-      "anchor": {
-        "text": "Our hope is that Cuesta College can work closely with PG&E in developing their pilots.",
-        "startLine": 52,
-        "startChar": 346,
-        "endLine": 52,
-        "endChar": 432
-      },
-      "content": "This sentence needs a little bit of work, but the general idea is that our hope is Questa College could take their internal training program and formalize it under our institution. We don't want to necessarily compete with any internal workflows but rather serve as some kind of productive outsourcing mechanism for them. With of course, like the people involved, the internal joint parking working very closely with us on this program development.",
-      "author": "Kyle Nessen",
-      "createdAt": "2026-07-27T22:52:19.252Z"
-    }
-  ]
-}
--->
