@@ -2,6 +2,12 @@
 
 Newest first. One entry per change set: what changed and why.
 
+## 2026-07-27 (build decided: AERO 100 centers on the student build)
+
+- Kyle met with Ron and they agreed the student-built drone is a central feature of AERO 100, so the "proposed pivot" framing is retired. Updated [AERO 100 Student-Built Drone](equipment/aero-100-student-built-drone.md), [Equipment Overview](equipment/equipment-overview.md), [Flame Wheel Budget Build](equipment/flame-wheel-budget-build.md), the [index](index.md) entry, and [NIST Open Test Lane](exams/nist-open-test-lane.md) to state the decided direction.
+- The advisory-facing statement of the course is now `curriculum-content/aero-100-advisory-outline.md`, the single authoritative outline. The superseded drafts (`course-outline-aero-100.md`, `advisory-committee-course-overview.md`, and `aero-100-content-ideas.md`) were deleted from curriculum-content; git history preserves them. Repointed [AERO 100 Course Outline](sources/aero-100-course-outline.md) at the preserved PDF and text extract instead of the deleted transcription.
+- Recorded rather than resolved: the parts list and per-student budget, individual versus pair builds, and whether the build carries its own camera. The scored NIST capstone runs on the program's camera-equipped aircraft, and the built aircraft flies the same lane.
+
 ## 2026-07-15 (Flame Wheel budget build: the $150 video path, researched and priced)
 
 - Added [Flame Wheel Budget Build](equipment/flame-wheel-budget-build.md) in response to Kyle's research question: watch Hoarder Sam's "$150 autonomous drone" video, see whether the number can be beaten with AliExpress sourcing, and assess the teaching value of the hacky airplane-parts approach. Preserved the video as a new source, [Hoarder Sam $150 Autonomous Drone Video](sources/hoarder-sam-150-autonomous-drone.md), with the creator's parts list, October 2025 AliExpress prices, and full transcript.
