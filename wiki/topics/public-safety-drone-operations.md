@@ -45,7 +45,7 @@ For curriculum purposes NFPA 2400 is the natural spine of a dedicated public saf
 [2] FAA, Public Safety Toolkit. https://www.faa.gov/uas/public_safety_gov/public_safety_toolkit
 [3] 14 CFR 91.137, Temporary flight restrictions in the vicinity of disaster/hazard areas. https://www.law.cornell.edu/cfr/text/14/91.137
 [4] UAV Coach, Drone as a First Responder: A Complete Guide. https://uavcoach.com/drone-as-first-responder/
-[5] Thermal inspection course curriculum, Unit 5: Public Safety Applications (curriculum-content/thermal-inspection-course-curriculum.typ in this repository).
+[5] Thermal inspection course curriculum, Unit 5: Public Safety Applications (retired draft, preserved in this repository's git history).
 [6] NFPA, NFPA 2400, Standard for Small Unmanned Aircraft Systems (sUAS) Used for Public Safety Operations, 2024 edition. https://www.nfpa.org/product/nfpa-2400-standard/p2400code
 [7] NFPA, Small Unmanned Aircraft Systems Fact Sheet (NFPA 2400). https://content.nfpa.org/-/media/project/storefront/catalog/files/code-or-topic-fact-sheets/2400factsheet.pdf
 [8] Fire Engineering, What Does NFPA's Drone Standard Mean for Your Fire Department? https://www.fireengineering.com/fire-apparatus/nfpa-drone-standard/

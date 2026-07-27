@@ -16,7 +16,7 @@ The program deliberately borrows existing courses from four other divisions rath
 |---|---|---|---|
 | AERO 100 | Basic UAV Operator | 3.0 | Approved |
 | AERO 110 | Drone Mapping and Photogrammetry | 3.0 | COR drafted |
-| AERO 120 | Thermal Imaging and Applied Inspection | 3.0 | COR drafted |
+| AERO 120 | Drone Infrastructure Inspection | 3.0 | COR drafted |
 | AERO 130 | Agricultural Spray Operations | 3.0 | Not started |
 | AERO 247 | Independent Studies: UAS | 0.5 to 2.0 | Proposed, uses the college's standard 047/147/247 template |
 
@@ -53,7 +53,7 @@ Considered and cut in this round: AGPS 230 Irrigation, AGPS 241 Soil Science, AR
 
 **UAS Mapping (9.0 units).** AERO 100, GEOG/GEOL 230, AERO 110. Targets the largest commercial drone employment sector. Graduates leave with the gateway course of Cuesta's existing GIS Certificate of Achievement already complete, a deliberate stacking pathway toward that credential.
 
-**UAS Inspection (6.0 units).** AERO 100, AERO 120. The fast track for the utility and inspection workforce, built around the PG&E and IBEW relationship. At six units it falls below the eight-unit threshold in the program approval form, which may simplify approval. It can grow to nine units later if the partnership produces a second course, such as thermography certification preparation.
+**UAS Inspection (6.0 units).** AERO 100, AERO 120. The fast track for the utility and inspection workforce, built around the PG&E and IBEW relationship. At six units it falls below the eight-unit threshold in the program approval form, which may simplify approval. It can grow to nine units later if the partnership produces a second course.
 
 **UAS Crop Monitoring (9.0 units).** AERO 100, AERO 110, AGPS 242. AERO 110 carries the multispectral imaging, vegetation index, and prescription map content, and AGPS 242 provides the plant science needed to interpret what the imagery shows. An earlier draft paired this track with the GIS courses instead, but reaching GEOL 234 requires GEOL 230 first, which pushed the certificate to 12 units of mostly GIS coursework, and AERO 110 already covers the large majority of the remote sensing content this track needs. Students who want the deeper GIS treatment can get it through the Certificate of Achievement pool or Cuesta's GIS certificate.
 

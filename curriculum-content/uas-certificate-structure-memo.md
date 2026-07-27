@@ -19,7 +19,7 @@ The program proposes three new full courses beyond the approved AERO 100, plus o
 | --- | --- | --- | --- |
 | AERO 100 | Basic UAV Operator | 3.0 | Approved |
 | AERO 110 | Drone Mapping and Photogrammetry | 3.0 | COR drafted |
-| AERO 120 | Thermal Imaging and Applied Inspection | 3.0 | COR drafted |
+| AERO 120 | Drone Infrastructure Inspection | 3.0 | COR drafted |
 | AERO 130 | Agricultural Spray Operations | 3.0 | Not started |
 | AERO 247 | Independent Studies: UAS | 0.5 to 2.0 | Proposed |
 
