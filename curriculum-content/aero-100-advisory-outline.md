@@ -3,7 +3,9 @@
 Course Outline for Advisory Committee Review
 Kyle Nessen, July 2026
 
-AERO 100 is the entry point to the UAS certificate program. It serves students who want to work with drones professionally, and everything in the course points at three outcomes. Students earn the FAA Remote Pilot Certificate when they pass the Part 107 knowledge test, which we schedule with them during the semester. Students learn how a drone works from the inside, because they build and fly their own small aircraft. Students also develop real flight competency. They show it on a standardized flight test at the end of the term, ideally on the aircraft they built.
+AERO 100 is the entry point to the UAS certificate program. The course is three units, has no prerequisites, and meets in person for lecture and lab. It serves students who want to work with drones professionally, and everything in the course points at three outcomes.
+
+Students earn the FAA Remote Pilot Certificate when they pass the Part 107 knowledge test, which we schedule with them during the semester. Students learn how a drone works from the inside, because they build and fly their own small aircraft. Students also develop real flight competency. They show it on a standardized flight test at the end of the term, ideally on the aircraft they built. The goal across all three is a safe, confident pilot who follows the best practices of commercial drone work.
 
 ## The Part 107 Remote Pilot Certificate
 
@@ -17,7 +19,7 @@ The lecture sequence covers the FAA knowledge areas so students can pass the Par
 - Night operations: the current night rules, anti-collision lighting, and twilight definitions
 - Aviation weather: METAR and TAF decoding, weather sources, and the effects of wind, density altitude, and fronts on a small aircraft
 - Aircraft loading and performance: weight and balance, center of gravity, and load factor
-- Human factors: aeronautical decision-making, hazardous attitudes, risk management, and pilot physiology
+- Human factors: aeronautical decision-making, crew resource management, hazardous attitudes, risk management, and pilot physiology
 - Emergency procedures: lost link, flyaways, GPS loss, and battery fires
 - A short preview of Part 108, the pending rule for flight beyond visual line of sight
 
