@@ -5,7 +5,7 @@ Kyle Nessen, July 2026
 
 AERO 100 is the entry point to the UAS certificate program. The course is three units, has no prerequisites, and meets in person for lecture and lab. It serves students who want to work with drones professionally, and everything in the course points at three outcomes.
 
-Students earn the FAA Remote Pilot Certificate when they pass the Part 107 knowledge test, which we schedule with them during the semester. Students learn the fundemantels of drones by building their own. Students also develop real flight competency. They show it on a standardized flight test at the end of the term, ideally on the aircraft they built. The goal across all three is a safe, confident pilot who follows the best practices of commercial drone work and can be productive immediately upon being hired.
+Students earn the FAA Remote Pilot Certificate when they pass the Part 107 knowledge test, which we schedule with them during the semester. Students learn the fundamentals of drones by building their own aircraft. Students also develop real flight competency. They show it on a standardized flight test at the end of the term, ideally on the aircraft they built. The goal across all three is a safe, confident pilot who follows commercial best practices and is productive from day one on the job.
 
 ## The Part 107 Remote Pilot Certificate
 
@@ -53,24 +53,3 @@ The test demands real camera control, so students fly it on the program's camera
 ## Where This Leads
 
 The course closes with a sample of drone work in the field: mapping, utility inspection, agriculture, and public safety. Students see how drones are used in commercial applications. When time allows, we also fly the larger platforms from the later courses, so students have something concrete to look forward to. AERO 100 is the prerequisite for AERO 110 (Advanced Drone Mapping and Remote Sensing) and AERO 120 (Drone Infrastructure Inspection). A student who finishes AERO 100 arrives with the certificate, the flight record, and the mechanical understanding those courses assume.
-
-<!-- markco-comments
-{
-  "version": 2,
-  "comments": [
-    {
-      "id": "528990f0-6cdb-4b0f-9c09-8566efbe5f0a",
-      "anchor": {
-        "text": "Students learn the fundemantels of drones by building their own",
-        "startLine": 7,
-        "startChar": 140,
-        "endLine": 7,
-        "endChar": 203
-      },
-      "content": "Clunky but closer into spirit to what I want to say.",
-      "author": "Kyle Nessen",
-      "createdAt": "2026-07-27T22:58:02.629Z"
-    }
-  ]
-}
--->
