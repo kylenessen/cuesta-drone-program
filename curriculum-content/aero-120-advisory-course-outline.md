@@ -53,30 +53,6 @@ The course centers on electric utility assets. Students also practice workflows 
 
 ## Partnership
 
-We want to build this course with close collaboration of this in the field. PG&E operates one of the largest utility drone inspection programs in the world, and this course exists to feed that workforce. This outline is the first full draft of the course content we anticipate is useful, but welcome extensive feedback from P&GE's expertise. Our larger hope is that Cuesta can formalize utility drone training under the college. Your program would set the standard, and the college would carry the work of teaching to it: instructors, facilities, curriculum, and assessment.
+We want to build this course in close collaboration with the people who do the work. PG&E operates one of the largest utility drone inspection programs in the world, and this course exists to feed that workforce. This outline is the first full draft of the course content, and we welcome extensive feedback from PG&E and IBEW Local 1245. Our larger hope is that Cuesta can formalize utility drone training under the college. Your program would set the standard, and the college would carry the work of teaching to it: instructors, facilities, curriculum, and assessment.
 
-- Comments on this outline from PG&E and IBEW 1245, so the content matches what your pilots actually need to know
-- Instruction from the field: guest lectures are welcome, and Cuesta can potentially hire experienced inspection pilots as part-time faculty to teach the course
-- Credit for prior learning, so completed utility or union training can count toward the certificate and college coursework can shorten employer onboarding
-- Training site access: campus buildings are our first inspection sites, and de-energized utility structures would let students train on real assets
-
-<!-- markco-comments
-{
-  "version": 2,
-  "comments": [
-    {
-      "id": "1e4e3e96-4704-4e1b-ae0b-92d2a3d77132",
-      "anchor": {
-        "text": "We want to build this course with close collaboration of this in the field. PG&E operates one of the largest utility drone inspection programs in the world, and this course exists to feed that workforce. This outline is the first full draft of the course content we anticipate is useful, but welcome extensive feedback from P&GE's expertise. Our larger hope is that Cuesta can formalize utility drone training under the college. Your program would set the standard, and the college would carry the work of teaching to it: instructors, facilities, curriculum, and assessment.\n\n- Comments on this outline from PG&E and IBEW 1245, so the content matches what your pilots actually need to know\n- Instruction from the field: guest lectures are welcome, and Cuesta can potentially hire experienced inspection pilots as part-time faculty to teach the course\n- Credit for prior learning, so completed utility or union training can count toward the certificate and college coursework can shorten employer onboarding\n- Training site access: campus buildings are our first inspection sites, and de-energized utility structures would let students train on real assets",
-        "startLine": 55,
-        "startChar": 0,
-        "endLine": 60,
-        "endChar": 148
-      },
-      "content": "These bullet points really need to be rolled up into a partnership paragraph. And I wonder if the bullet points are even needed. Maybe we just need to identify the union. Suggest that adjunct uh maybe just drop the adjunct thing and suggest that we could arrange the program so that things like credit for prior learning can count towards a certificate and is there the possibility of having training site access?",
-      "author": "Kyle Nessen",
-      "createdAt": "2026-07-27T23:33:06.374Z"
-    }
-  ]
-}
--->
+We can arrange the program so completed utility or union training earns credit for prior learning toward the certificate. We also ask about training site access: campus buildings are our first inspection sites, and de-energized utility structures would let students train on real assets.
