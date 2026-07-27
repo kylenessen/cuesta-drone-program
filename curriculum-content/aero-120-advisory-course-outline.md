@@ -5,6 +5,8 @@ Kyle Nessen, July 2026
 
 This course prepares drone pilots for utility and infrastructure inspection work. Students enter with the FAA Remote Pilot Certificate and demonstrated flight proficiency from AERO 100, the program's intro course. AERO 120 adds the skills the inspection industry requires: thermal imaging, precision flight near energized equipment, and clear reporting. The course teaches the full Level 1 thermography body of knowledge, so students finish prepared to earn that certification. Our goal is a graduate who is productive on an inspection job site from the first day. This outline is our best attempt to anticipate what the work requires, so please tell us where this outline can be improved.
 
+We propose the course as three units over one semester, with in-person lecture and lab. We will try to schedule class meetings outside standard work hours, so incumbent workers can attend.
+
 ## Thermal imaging and Level 1 thermography certification
 
 Thermal imaging is the technical core of the course. The content follows the Level 1 thermography body of knowledge in the industry qualification standards (ASNT SNT-TC-1A and CP-105). Students leave the semester ready to complete the certification.
@@ -41,6 +43,7 @@ The course centers on electric utility assets. Students also practice workflows 
 
 - Distribution and transmission assets: poles, towers, insulators, splices, transformers, and substation equipment, with the failure modes that appear in zoom and thermal imagery
 - Solar farm inspection as a complete workflow: irradiance and weather requirements, flight geometry, the thermal defect taxonomy, and the module-level anomaly map clients buy
+- Building envelope inspection: insulation voids, air leakage, and moisture intrusion, the remaining application family in the Level 1 body of knowledge
 - An overview of cell tower, wind turbine, and bridge inspection, and what each adds to the flight environment and the deliverable
 
 ## Equipment
@@ -55,3 +58,4 @@ We want to build this course with the people who do the work. PG&E operates one 
 - Comments on this outline from PG&E and IBEW 1245, so the content matches what your pilots actually need to know
 - Instruction from the field: guest lectures are welcome, and Cuesta can potentially hire experienced inspection pilots as part-time faculty to teach the course
 - Credit for prior learning, so completed utility or union training can count toward the certificate and college coursework can shorten employer onboarding
+- Training site access: campus buildings are our first inspection sites, and de-energized utility structures would let students train on real assets
