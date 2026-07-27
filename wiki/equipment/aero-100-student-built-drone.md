@@ -28,6 +28,10 @@ A conventional carbon fiber frame in the same class costs roughly $25 to $45 at 
 
 The prototype path changes one variable at a time. The instructor build starts on a carbon frame, where the vibration variable is smallest, and gets ArduPilot Loiter working with clean logs as the baseline. The same electronics then swap onto a printed Aether 4, an afternoon of work, and the two frames fly the same missions. Any difference in the vibration and tuning logs is then attributable to the frame alone, which is precisely the evidence the classroom-fleet decision needs and a defensible answer to the committee question of whether 3D-printed airframes are classroom-worthy.
 
+## The Flame Wheel budget alternative
+
+A second researched path, documented separately in [Flame Wheel Budget Build](flame-wheel-budget-build.md), reaches the same goal from the opposite end of the parts market. Adapted from a documented $150 build video, it pairs a DJI Flame Wheel clone frame (F330 or F450) with $5 airplane motors and speed controllers and an RC airplane flight controller whose servo headers accept them directly, and it runs the same ArduPilot-or-iNav firmware, GPS, and ExpressLRS link as the build below. It lands at roughly half this page's per-aircraft price, flies twice as long, and lifts real payload, at the cost of being a kilogram-class aircraft that is decisively over the 250 gram line and too large for indoor flying. Its distinct teaching claim is that the pre-integration hardware exposes what the integrated stack hides: hand-soldered power distribution, motor direction set by swapping phase wires, and speed controllers whose battery eliminator circuits must be understood before they can share a flight controller. The two paths are compared honestly on that page; the short version is that they answer different constraints and a cheap instructor prototype settles both.
+
 ## Reference bill of materials
 
 Prices are July 2026 retail, approximate, for one aircraft with no video system.
@@ -81,6 +85,7 @@ The near-term step is an instructor prototype over summer 2026, built on the car
 ## Related
 
 - [Flight Controller Firmware](../topics/flight-controller-firmware.md) for the iNav, ArduPilot, and PX4 choice this build rests on.
+- [Flame Wheel Budget Build](flame-wheel-budget-build.md) for the researched F330/F450 alternative at roughly half the price, with the exposed-wiring teaching case and the payload capstone.
 - [Training Fleet](training-fleet.md) for the currently planned consumer DJI aircraft this pivot would supplement or replace.
 - [Equipment Overview](equipment-overview.md) for how AERO 100 equipment fits the program budget.
 - [NIST Open Test Lane](../exams/nist-open-test-lane.md) for the weight-agnostic flight capstone this aircraft is built to pass.
