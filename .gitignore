@@ -16,3 +16,13 @@ basecamp.toml
 **/.obsidian/*.log
 
 /.obsidian/app.json
+
+# Google Docs review integration state and local config
+.gdocs/
+gdocs.toml
+
+# Compiled review documents
+build/
+
+# Python bytecode
+__pycache__/
