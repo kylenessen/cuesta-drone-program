@@ -3,51 +3,51 @@
 Course Outline for Advisory Committee Review
 Kyle Nessen, July 2026
 
-AERO 100 is the entry point to the UAS certificate program. It is built for students who want to work with drones professionally, and everything in the course points at three outcomes. Students earn the FAA Remote Pilot Certificate by passing the Part 107 knowledge test, which we schedule with them during the semester. Students learn how drones actually work by building and flying their own small aircraft, because assembling the flight controller, motors, and radio system teaches the fundamentals faster and more durably than lecture alone. And students build genuine flight competency, demonstrated on a standardized obstacle course flight test at the end of the term, ideally flown on the aircraft they built.
+AERO 100 is the entry point to the UAS certificate program. It serves students who want to work with drones professionally, and everything in the course points at three outcomes. Students earn the FAA Remote Pilot Certificate when they pass the Part 107 knowledge test, which we schedule with them during the semester. Students learn how a drone works from the inside, because they build and fly their own small aircraft. Students also develop real flight competency. They show it on a standardized flight test at the end of the term, ideally on the aircraft they built.
 
 ## The Part 107 Remote Pilot Certificate
 
-The lecture sequence covers the FAA knowledge areas so students can pass the Part 107 knowledge test. Students schedule the test during the term rather than leaving it as a loose end, and passing it may be built into the grade.
+The lecture sequence covers the FAA knowledge areas so students can pass the Part 107 knowledge test. Students schedule the test during the term, so the certificate does not remain a loose end after the course. A passed test may also count toward the grade.
 
-- The Part 107 rule itself: operating limits, remote pilot responsibilities, accident reporting, and the certificate application process
+- The Part 107 rule: operating limits, remote pilot responsibilities, accident reporting, and the certificate application process
 - Drone registration, Remote Identification, operations over people, and certificates of waiver
-- Airspace classification and reading sectional charts
+- Airspace classes and how to read a sectional chart
 - Airspace authorization in practice: LAANC, DroneZone, NOTAMs, and the preflight checking habit
-- Airport operations and the radio communications remote pilots monitor near airports
-- Aviation weather: METAR and TAF decoding, weather sources, and how wind, density altitude, and fronts affect a small aircraft
+- Airport operations and the radio calls remote pilots monitor near airports
+- Aviation weather: METAR and TAF decoding, weather sources, and the effects of wind, density altitude, and fronts on a small aircraft
 - Aircraft loading and performance: weight and balance, center of gravity, and load factor
 - Human factors: aeronautical decision-making, hazardous attitudes, risk management, and pilot physiology
 - Emergency procedures: lost link, flyaways, GPS loss, and battery fires
-- A brief look ahead at Part 108, the pending rule for flight beyond visual line of sight, so students see where the industry is heading
+- A short preview of Part 108, the pending rule for flight beyond visual line of sight
 
 ## Drone Fundamentals Through Building
 
-Students spend the semester building a small GPS-capable quadcopter from commodity components and flying it. The design target mimics a commercial platform: it holds position on GPS, returns home on command, and flies basic waypoint missions, while staying small and cheap to crash. This is deliberately not a hobbyist project. First-person-view racing and freestyle flying stay out of scope, since those skills rarely appear in commercial work.
+Across the semester, students build and fly a small GPS-capable quadcopter made from commodity parts. The design target mimics a commercial platform. The aircraft holds position on GPS, returns home on command, and flies basic waypoint missions, while it stays small and cheap to crash. This is not a hobbyist project. First-person-view racing and freestyle flying stay out of scope, because those skills rarely appear in commercial work.
 
-Graduates will not build aircraft on the job. But a pilot who has built one can troubleshoot and reason about any platform an employer provides. The build is how the course teaches what a drone is made of and how it fails. Concepts that would otherwise be lecture material, like compass calibration, failsafe behavior, and battery discipline, become things students have done with their hands. The exact build format, including the parts list and whether students work individually or in pairs, is still under development. We welcome the committee's input here.
+Graduates will not build aircraft on the job. But a pilot who has built one can troubleshoot and reason about any platform an employer provides. The build is how the course teaches what a drone contains and how it fails. Concepts that would otherwise stay in lecture, like compass calibration, failsafe behavior, and battery discipline, become work students have done with their hands. The exact build format is still under development, including the parts list and whether students work alone or in pairs. We welcome the committee's input here.
 
 - Anatomy of a multirotor: airframe, flight controller, electronic speed controllers, motors, propeller sizing, GPS and compass, and the radio receiver
-- Autopilot firmware and flight modes: position hold, altitude hold, return to home, waypoint missions, geofencing, and the failsafes that catch a bad day
-- The command and video radio links, what degrades them, and the lost-link behavior students must configure and trust
-- Battery fundamentals and safety: volts, amps, and watts, LiPo hazards, and the charging, storage, and transport discipline that prevents fires
-- Assembly and bench skills: soldering, wiring, firmware setup, calibration, and reading telemetry and flight logs
-- Troubleshooting as core curriculum: diagnosing why an aircraft will not arm, chasing a vibration problem, and repairing crash damage
+- Autopilot firmware and flight modes: position hold, altitude hold, return to home, waypoint missions, geofencing, and failsafes
+- The command and video radio links: what degrades them, and the lost-link behavior students must configure and trust
+- Battery fundamentals and safety: volts, amps, and watts, LiPo hazards, and the charge, storage, and transport discipline that prevents fires
+- Assembly and bench skills: soldering, wiring, firmware setup, calibration, and how to read telemetry and flight logs
+- Troubleshooting as core content: find why an aircraft will not arm, trace a vibration problem, and repair crash damage
 - Maintenance practice: preflight and postflight inspection, recordkeeping, and component replacement
-- Regulatory compliance as lived procedure: students register their aircraft and meet the Remote ID requirement on a drone they own the problem for
+- Regulatory compliance as lived procedure: students register their own aircraft and meet the Remote ID requirement themselves
 
 ## Flight Competency
 
-Flight time runs through the whole semester rather than waiting for the build to finish. Students start on simulators and a pre-built trainer aircraft in the first weeks, so stick time accumulates from day one. Their own aircraft joins the rotation mid-term. The capstone is the NIST Open Test Lane, a standardized flight test developed at the National Institute of Standards and Technology and used across public safety and industry. The pilot flies a course of bucket targets and must position and aim the camera precisely enough to capture legible images inside each one. The score comes from what the camera resolved rather than an instructor's opinion.
+Flight time runs through the whole semester and does not wait for the build to finish. Students start on simulators and a pre-built trainer aircraft in the first weeks, so stick time accumulates from day one. Their own aircraft joins the rotation mid-term. The capstone is the NIST Open Test Lane, a standardized flight test from the National Institute of Standards and Technology. Public safety agencies and industry use it widely. The pilot flies a lane of bucket targets and must position and aim the camera well enough to capture a legible image inside each one. The score comes from what the camera resolved, not from an instructor's opinion.
 
-Because the test demands real camera control, students fly it on the program's camera-equipped aircraft. The student-built aircraft flies the same course to prove the build, and whether it carries a camera of its own is an open design decision.
+The test demands real camera control, so students fly it on the program's camera-equipped aircraft. The student-built aircraft flies the same course to prove the build. Whether the build carries a camera of its own is an open design decision.
 
 - Early simulator work and first flights on trainer aircraft in GPS-assisted modes
-- A progression of flight modes that removes assistance step by step, from full GPS position hold down to attitude mode, where the aircraft self-levels but no longer holds position. This is the most manual mode a Mavic or an Inspired Flight aircraft offers, and the mode a commercial drone silently drops into when GPS fails near steel or energized infrastructure
-- Precision maneuvering drills: geometric patterns, positioning over targets, orbits, and camera pointing under a clock
-- Field discipline: checklists, go/no-go judgment, attention management, and operating in shared airspace
+- A step-by-step progression of flight modes, from full GPS position hold down to attitude mode, where the aircraft self-levels but does not hold position. This is the most manual mode a Mavic or an Inspired Flight aircraft offers. It is also the mode a commercial drone drops into when GPS fails near steel or energized infrastructure
+- Precision maneuvering drills: geometric patterns, positioning over targets, orbits, and camera pointing on a time limit
+- Field discipline: checklists, go/no-go judgment, attention management, and operations in shared airspace
 - Night operations: the current night rules, anti-collision lighting, and twilight definitions
 - The capstone flight assessment on the NIST Open Test Lane within a set time limit
 
 ## Where This Leads
 
-The course closes with a sampling of how drones are used in the field: drone mapping and the products clients buy, thermal imaging and the utility inspection industry that anchors regional drone employment, agricultural applications on the Central Coast, and public safety operations. Time permitting, this includes flight demonstrations of the larger platforms students will meet later in the program, so the preview gives them something to look forward to rather than another lecture. AERO 100 is the prerequisite for AERO 110 (Advanced Drone Mapping and Remote Sensing) and AERO 120 (Drone Infrastructure Inspection). A student who finishes it arrives with the certificate, the flight record, and the mechanical understanding those courses assume.
+The course closes with a sample of drone work in the field: mapping, utility inspection, agriculture, and public safety. Students see the products clients buy and the thermal inspection work that anchors regional drone employment. When time allows, we also fly the larger platforms from the later courses, so students have something concrete to look forward to. AERO 100 is the prerequisite for AERO 110 (Advanced Drone Mapping and Remote Sensing) and AERO 120 (Drone Infrastructure Inspection). A student who finishes AERO 100 arrives with the certificate, the flight record, and the mechanical understanding those courses assume.
