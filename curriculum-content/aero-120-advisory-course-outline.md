@@ -50,29 +50,8 @@ The course centers on electric utility assets. Students also practice workflows 
 
 ## Partnership
 
-We want to build this course with the people who do the work. PG&E operates one of the largest utility drone inspection programs in the world, and this course exists to feed that workforce. This outline is the first full draft of the course content, and your review of it is the step we ask for now. Beyond review, we welcome deeper involvement. Our larger hope is that Cuesta can formalize utility drone training under the college, so internal programs gain a partner and outsource some of the teaching environment complications.
+We want to build this course with the people who do the work. PG&E operates one of the largest utility drone inspection programs in the world, and this course exists to feed that workforce. This outline is the first full draft of the course content, and your review of it is the step we ask for now. Beyond review, we welcome deeper involvement. Our larger hope is that Cuesta can formalize utility drone training under the college. Your program would set the standard, and the college would carry the work of teaching to it: instructors, facilities, curriculum, and assessment.
 
 - Comments on this outline from PG&E and IBEW 1245, so the content matches what your pilots actually need to know
 - Instruction from the field: guest lectures are welcome, and Cuesta can potentially hire experienced inspection pilots as part-time faculty to teach the course
 - Credit for prior learning, so completed utility or union training can count toward the certificate and college coursework can shorten employer onboarding
-
-<!-- markco-comments
-{
-  "version": 2,
-  "comments": [
-    {
-      "id": "6d4c7e88-bddb-49b4-b06e-cfde627b85d8",
-      "anchor": {
-        "text": "Our larger hope is that Cuesta can formalize utility drone training under the college, so internal programs gain a partner and outsource some of the teaching environment complications.",
-        "startLine": 52,
-        "startChar": 346,
-        "endLine": 52,
-        "endChar": 530
-      },
-      "content": "This sentence is clunky, but it's closer in spirit to what I'm trying to say.",
-      "author": "Kyle Nessen",
-      "createdAt": "2026-07-27T22:56:33.710Z"
-    }
-  ]
-}
--->
