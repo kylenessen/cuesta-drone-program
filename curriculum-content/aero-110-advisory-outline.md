@@ -76,6 +76,8 @@ Students step into a commercial landscape with real economic and legal boundarie
 
 The course ends with an independent mapping project that mirrors a real job. Each student assesses a site, estimates the cost, surveys ground control, flies the mission, processes the data, validates accuracy, and delivers a professional documentation package.
 
+We also hope the course can grow into a mechanism for producing drone maps for organizations around the county, with the Morro Bay National Estuary Program as one example. Students would practice on real projects, and the work would benefit the groups who receive the maps. If the committee has ideas along these lines, this class could be the place to offer that service.
+
 The course content aligns with the body of knowledge tested by the ASPRS Certified UAS Technologist credential. ASPRS is the professional society that publishes the mapping industry's accuracy standards. The full credential requires three years of work experience, so it is a post-graduation pursuit rather than a course requirement.
 
 ## Equipment
