@@ -23,4 +23,4 @@ The email also noted that the committee has room for additional members. I asked
 
 ## Context
 
-The advisor roster spans the program's three target markets. Sully works in environmental consulting at Althouse and Meade, Sam works in public safety at the California Office of Emergency Services, and Madison flies for PG&E's utility inspection program. The DJI question raised in this email is now addressed in the course outlines through the NDAA compliance content and the equipment sections that invite committee guidance on adding a compliant aircraft.
+The advisor roster reflects the program's target markets. Sully works in environmental consulting at Althouse and Meade. Madison flies for PG&E's utility inspection program. Sam was with the California Office of Emergency Services when this email went out and has since moved to PG&E as well. The DJI question raised in this email is now addressed in the course outlines through the NDAA compliance content and the equipment sections that invite committee guidance on adding a compliant aircraft.
