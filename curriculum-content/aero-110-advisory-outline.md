@@ -25,7 +25,8 @@ This unit covers the physics and camera craft that produce mapping-grade images 
 A drone map can look correct but still sit meters away from its true position. Survey-grade positioning is what separates professional mapping from casual mapping, and it carries the largest share of hands-on field work in the course.
 
 - GNSS fundamentals, and why a standalone receiver produces a meter-level map
-- RTK positioning with base and rover: network corrections, fix versus float, and survey technique with pole and bipod
+- RTK and PPK positioning with base and rover: network corrections, fix versus float, and when to post-process instead of correcting live
+- Survey technique in the field: pole and bipod work, and efficient point collection
 - Coordinate systems, map projections, and vertical datums
 - Ground control points and checkpoints: target placement, network design, and field survey procedure
 - Accuracy validation: RMSE reporting against independent checkpoints under the ASPRS Positional Accuracy Standards
