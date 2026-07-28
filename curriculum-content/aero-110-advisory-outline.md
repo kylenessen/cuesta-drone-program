@@ -93,5 +93,3 @@ The course content aligns with the body of knowledge tested by the ASPRS Certifi
 Graduates leave with a portfolio of accuracy-validated deliverables and the judgment behind them. The employment paths include construction and survey firms, agricultural service providers, environmental consultancies, and public agencies.
 
 This course is deliberately not a GIS course. It teaches everything that leads up to the point of GIS analysis, and its product is clean, accurate rasters and point clouds ready for downstream use. We encourage students to round out their analytical skills in the college's GIS courses, where they learn to work with the products this course teaches them to make.
-
-We ask the committee to check this outline against the work you hire for. Which deliverables do your clients buy, which software should students touch first, and what makes an entry-level mapper productive in the first month?
