@@ -47,7 +47,7 @@ Students process their own imagery into the products, and they learn to judge th
 
 - Structure from motion concepts, taught so software settings become decisions instead of defaults
 - Orthomosaic generation: orthorectification, the common artifacts, and how to recognize and repair them
-- Elevation models: surface versus terrain models, contours, and stockpile volumetrics
+- Point clouds and elevation models: surface versus terrain models, contours, and stockpile volumetrics
 - Photogrammetry software: desktop processing in Agisoft Metashape, cloud processing in DroneDeploy, and open-source alternatives
 - Data management: project structure, archiving, flight logs, and delivering files in the formats clients use
 
@@ -88,4 +88,8 @@ The course content aligns with the body of knowledge tested by the ASPRS Certifi
 
 ## Where this leads
 
-Graduates leave with a portfolio of accuracy-validated deliverables and the judgment behind them. The employment paths include construction and survey firms, agricultural service providers, environmental consultancies, and public agencies. We ask the committee to check this outline against the work you hire for. Which deliverables do your clients buy, which software should students touch first, and what makes an entry-level mapper productive in the first month?
+Graduates leave with a portfolio of accuracy-validated deliverables and the judgment behind them. The employment paths include construction and survey firms, agricultural service providers, environmental consultancies, and public agencies.
+
+This course is deliberately not a GIS course. It teaches everything that leads up to the point of GIS analysis, and its product is clean, accurate rasters and point clouds ready for downstream use. We encourage students to round out their analytical skills in the college's GIS courses, where they learn to work with the products this course teaches them to make.
+
+We ask the committee to check this outline against the work you hire for. Which deliverables do your clients buy, which software should students touch first, and what makes an entry-level mapper productive in the first month?
