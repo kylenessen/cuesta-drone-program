@@ -7,7 +7,7 @@ This course prepares drone pilots for commercial mapping work. Students enter wi
 
 A good map depends on a chain of decisions that starts at the camera sensor and ends at the delivered file. This course teaches the whole process. Our goal is a graduate who can plan, fly, process, validate, and deliver a mapping project without supervision. This outline is our best attempt to anticipate what the work requires, so please tell us where it can be improved.
 
-We propose the course as three units over one semester, with in-person lecture and lab.
+We propose the course as three units over one semester, with in-person lecture and lab. AERO 100 is the prerequisite.
 
 ## Sensors and image quality
 
@@ -18,6 +18,7 @@ This unit covers the physics and camera craft that produce mapping-grade images 
 - Exposure in flight: shutter speed, aperture, and ISO, and the motion blur limit a moving aircraft imposes
 - Ground sample distance: the resolution formula that connects flight altitude to the detail a client needs
 - Lighting and sun angle: shadows, overcast, hotspots, and glint, and how to schedule flights around them
+- LiDAR concepts: how an active laser sensor differs from a camera, and where it takes over when photogrammetry reaches its limits
 
 ## Positioning and accuracy
 
@@ -48,7 +49,6 @@ Students process their own imagery into the products, and they learn to judge th
 - Elevation models: surface versus terrain models, contours, and stockpile volumetrics
 - Photogrammetry software: desktop processing in Agisoft Metashape, cloud processing in DroneDeploy, and open-source alternatives
 - Data management: project structure, archiving, flight logs, and delivering files in the formats clients use
-- LiDAR concepts: where active laser mapping takes over when photogrammetry reaches its limits
 
 ## Multispectral imaging and agriculture
 
@@ -83,54 +83,8 @@ The course content aligns with the body of knowledge tested by the ASPRS Certifi
 - Emlid Reach RS4 base station and RX2 rover for ground control and checkpoint surveys
 - A multispectral sensor and calibration panels for the agricultural unit
 - A computer lab with workstations capable of photogrammetry processing
+- NDAA compliance: there is still time to add a compliant aircraft to the fleet if this work demands one, and we welcome your guidance here
 
 ## Where this leads
 
 Graduates leave with a portfolio of accuracy-validated deliverables and the judgment behind them. The employment paths include construction and survey firms, agricultural service providers, environmental consultancies, and public agencies. We ask the committee to check this outline against the work you hire for. Which deliverables do your clients buy, which software should students touch first, and what makes an entry-level mapper productive in the first month?
-
-<!-- markco-comments
-{
-  "version": 2,
-  "comments": [
-    {
-      "id": "bbcc490b-9b85-4860-b474-d4047b3ed2b3",
-      "anchor": {
-        "text": "We propose the course as three units over one semester, with in-person lecture and lab.",
-        "startLine": 9,
-        "startChar": 0,
-        "endLine": 9,
-        "endChar": 87
-      },
-      "content": "Add intro course as prerequisite.",
-      "author": "Kyle Nessen",
-      "createdAt": "2026-07-28T00:03:43.293Z"
-    },
-    {
-      "id": "4ac38795-a66e-4989-b210-bd5ddcdda5de",
-      "anchor": {
-        "text": "LiDAR concepts: where active laser mapping takes over when photogrammetry reaches its limits",
-        "startLine": 50,
-        "startChar": 2,
-        "endLine": 50,
-        "endChar": 94
-      },
-      "content": "This feels misplaced. I think it would be better under sensor.",
-      "author": "Kyle Nessen",
-      "createdAt": "2026-07-28T00:07:35.993Z"
-    },
-    {
-      "id": "120847cb-2b90-49e9-925b-fae7fbf76bad",
-      "anchor": {
-        "text": "## Equipment",
-        "startLine": 79,
-        "startChar": 0,
-        "endLine": 79,
-        "endChar": 12
-      },
-      "content": "would need to add a line um about NDAA compliant drones and whether we should add them.",
-      "author": "Kyle Nessen",
-      "createdAt": "2026-07-28T00:09:44.985Z"
-    }
-  ]
-}
--->
