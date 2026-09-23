@@ -2,6 +2,10 @@
 
 Newest first. One entry per change set: what changed and why.
 
+## 2026-09-22 (safety management reference collection)
+
+Located the four references suggested during Kyle's conversation with an aviation safety professional. Added a current eCFR Part 5 text snapshot and the complete FAA AC 120-92D PDF and text extraction. Added ICAO Annex 19 and Doc 9859 source records with verified editions, official access routes, and explicit conversion limits. ICAO is the publisher, not a fifth reference. Annex 19's third edition becomes applicable November 26, 2026. The ICAO publications remain link and reading-note records pending user-provided copies for full-text conversion.
+
 ## 2026-07-27 (build decided: AERO 100 centers on the student build)
 
 - Kyle met with Ron and they agreed the student-built drone is a central feature of AERO 100, so the "proposed pivot" framing is retired. Updated [AERO 100 Student-Built Drone](equipment/aero-100-student-built-drone.md), [Equipment Overview](equipment/equipment-overview.md), [Flame Wheel Budget Build](equipment/flame-wheel-budget-build.md), the [index](index.md) entry, and [NIST Open Test Lane](exams/nist-open-test-lane.md) to state the decided direction.
