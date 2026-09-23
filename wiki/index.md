@@ -14,6 +14,7 @@ The knowledge base behind Cuesta College's drone program curriculum. It covers t
 
 ## Regulations
 
+- [Part 5 Safety Management Systems](regulations/part-5-safety-management-systems.md) explains applicability, the four SMS components, and the ICAO framework.
 - [Part 107](regulations/part-107.md): the small UAS rule itself, its structure, and accident reporting.
 - [Part 107 Operating Rules](regulations/part-107-operating-rules.md): remote PIC responsibility, VLOS, right of way, and the numeric limits.
 - [Remote Pilot Certificate](regulations/remote-pilot-certificate.md): eligibility, application paths, and the 24-month recency rule.
@@ -27,6 +28,7 @@ The knowledge base behind Cuesta College's drone program curriculum. It covers t
 
 ## Aeronautical Knowledge Topics
 
+- [Safety Management Systems for Drone Operations](topics/safety-management-systems.md) connects hazard reports, risk decisions, corrective actions, and evidence that controls work.
 - [Airspace Classification](topics/airspace-classification.md): classes A through G, special use, and other designated areas.
 - [Airspace Authorization](topics/airspace-authorization.md): LAANC in practice, grid ceilings, further coordination, DroneZone, and the day-of clearance workflow.
 - [Sectional Chart](topics/sectional-chart.md): reading the chart, the tested skill behind airspace questions.
@@ -59,6 +61,7 @@ Operational craft serving both courses.
 
 Runnable lab activity designs built on the topic pages, drafted for AERO 100 and adaptable beyond it.
 
+- [SMS Hazard Review and Change Management](activities/sms-hazard-review-and-change-management.md) practices a full safety management cycle with a firmware and mission change scenario.
 - [NIST Open Lane Practice Sessions](activities/nist-open-lane-practice.md): the recurring lane lab behind the flight capstone, from the $250 omni bucket build to scored Level 2 trials.
 - [Precision Maneuvering Drills](activities/precision-maneuvering-drills.md): hover holds, positioning, turns around a point, figure eights, and nose-in work as a runnable drill station.
 - [Dynamic Reaction Course](activities/dynamic-reaction-course.md): randomized light-pod targets under time pressure, the reaction training build with scoring and crew variations.
@@ -148,6 +151,7 @@ The program's fleet and support gear, secured, proposed, and researched.
 
 ## Analyses
 
+- [Applying Safety Management to the Drone Curriculum](analysis/sms-for-drone-curriculum.md) proposes a Part 5 crosswalk and recurring safety work for AERO 100, 110, and 120.
 - [Part 107 Coverage of the AERO 100 Outline](analysis/part-107-coverage-of-aero-100.md): gap analysis between the test and the approved course outline.
 - [ASPRS Recommended Reading List](analysis/asprs-recommended-reading-list.md): the nine exam preparation texts with current editions, availability, and per-text relevance for mining course ideas.
 - [PG&E Drone Program and Training Pipeline](analysis/pge-drone-program-and-training-pipeline.md): partnership intelligence on PG&E's pilot qualification ladder, the IBEW 1245 training model, and articulation precedent for the utility inspection course.
@@ -158,6 +162,10 @@ The program's fleet and support gear, secured, proposed, and researched.
 
 ## Sources
 
+- [14 CFR Part 5](sources/14-cfr-part-5.md) preserves the current eCFR regulation as plain text, checked September 22, 2026.
+- [AC 120-92D](sources/ac-120-92d.md) preserves the FAA's SMS implementation guidance as a PDF and complete plain-text extraction.
+- [ICAO Annex 19](sources/icao-annex-19.md) records official access routes and the third edition's November 2026 applicability date. Full-text conversion is pending a user-provided copy.
+- [ICAO Doc 9859](sources/icao-doc-9859.md) records the Safety Management Manual's verified fourth edition and suggested reading. Full-text conversion is pending a user-provided copy.
 - [FAA-S-ACS-10B](sources/faa-s-acs-10b.md): the Airman Certification Standards defining every tested knowledge element.
 - [AC 107-2A](sources/ac-107-2a.md): the FAA's comprehensive Part 107 compliance guidance.
 - [Remote Pilot Study Guide](sources/remote-pilot-study-guide.md): the FAA's official study text (FAA-G-8082-22).

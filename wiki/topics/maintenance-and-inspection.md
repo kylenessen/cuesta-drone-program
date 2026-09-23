@@ -18,6 +18,8 @@ The flight is not over when the aircraft lands. A postflight inspection closes t
 
 ## Related
 
+An [SMS](safety-management-systems.md) connects recurring discrepancies and configuration changes to documented corrective action and follow-up. The [change management lab](../activities/sms-hazard-review-and-change-management.md) applies this process to a firmware update before flight.
+
 - [Part 107 Operating Rules](../regulations/part-107-operating-rules.md) contains the underlying safe-condition and preflight requirements.
 - [Loading and Performance](loading-and-performance.md) covers verifying the aircraft against its load before flight.
 - [UAV Flight Operations](uav-flight-operations.md) covers the flight between the two inspections.

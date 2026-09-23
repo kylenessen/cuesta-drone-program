@@ -18,6 +18,8 @@ Falsification, reproduction, or alteration of certificates, records, or reports 
 
 ## Related
 
+[Part 5 Safety Management Systems](part-5-safety-management-systems.md) explains the organizational safety framework the program can teach alongside Part 107. Part 107 operations alone are not listed in Part 5's applicability provision. Voluntary SMS practice does not replace the operating rules.
+
 - [Part 107 Operating Rules](part-107-operating-rules.md) details the Subpart B flight rules students must memorize.
 - [Remote Pilot Certificate](remote-pilot-certificate.md) covers the Subpart C certification pathway.
 - [Aeronautical Publications and References](../topics/aeronautical-publications-and-references.md) places Part 107 among the CFR titles, advisory circulars, and other publications a remote pilot uses.

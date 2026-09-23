@@ -14,6 +14,8 @@ Crew Resource Management (CRM) applies team communication to the flight: the rem
 
 ## Related
 
+The [Safety Management Systems](safety-management-systems.md) topic extends the pilot's immediate decision into an organizational process for reporting hazards, assigning corrective action, and checking the result. The [hazard review lab](../activities/sms-hazard-review-and-change-management.md) practices that full cycle.
+
 - [Emergency Procedures](emergency-procedures.md) is ADM applied to contingencies.
 - [Weather Effects on Performance](weather-effects-on-performance.md) supplies the environmental half of the risk assessment.
 - [Preflight Inspection and Go/No-Go Briefing](../activities/preflight-and-go-no-go-briefing.md) grades the go/no-go decision as a lab exercise.

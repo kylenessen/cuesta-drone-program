@@ -2,6 +2,12 @@
 
 Newest first. One entry per change set: what changed and why.
 
+## 2026-09-22 (applying SMS to drone instruction)
+
+Added [Part 5 Safety Management Systems](regulations/part-5-safety-management-systems.md), [Safety Management Systems for Drone Operations](topics/safety-management-systems.md), a [curriculum crosswalk](analysis/sms-for-drone-curriculum.md), and a [hazard review and change management lab](activities/sms-hazard-review-and-change-management.md). The proposal connects the student build, mapping, and inspection courses through hazard identification, documented risk decisions, communication, and evidence that controls work. Linked the material from the index, Part 107, decision-making, and maintenance pages.
+
+Distinguished Part 5's certificate-based applicability from voluntary classroom practice. Preserved the instructor and college's actual authority rather than assigning regulatory roles to students. Marked the course integration, assessment, reporting process, and records as proposals. The authoritative course outlines were not amended. Full ICAO publication conversion remains pending user-provided copies. Verified the 25 Part 5 sections and 148 FAA circular text pages, then checked local links and source references.
+
 ## 2026-09-22 (safety management reference collection)
 
 Located the four references suggested during Kyle's conversation with an aviation safety professional. Added a current eCFR Part 5 text snapshot and the complete FAA AC 120-92D PDF and text extraction. Added ICAO Annex 19 and Doc 9859 source records with verified editions, official access routes, and explicit conversion limits. ICAO is the publisher, not a fifth reference. Annex 19's third edition becomes applicable November 26, 2026. The ICAO publications remain link and reading-note records pending user-provided copies for full-text conversion.
