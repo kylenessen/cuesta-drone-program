@@ -1,97 +1,67 @@
-#set document(title: "UAS Program Scope and Meeting Preparation", author: "Kyle Nessen")
+#set document(title: "UAS Program Discussion with Ron", author: "Kyle Nessen")
 #set page(paper: "us-letter", margin: (x: 0.8in, y: 0.7in), numbering: "1")
-#set text(font: "Arial", size: 10.5pt)
-#set par(leading: 0.62em, spacing: 0.85em)
+#set text(font: "Arial", size: 11pt)
+#set par(leading: 0.65em, spacing: 0.9em)
 #set heading(numbering: none)
 #show heading.where(level: 1): set text(size: 16pt)
-#show heading.where(level: 2): set text(size: 11.5pt)
-#show link: underline
+#show heading.where(level: 2): set text(size: 12pt)
 
-= UAS Program Scope and Meeting Preparation
-Kyle Nessen · September 28, 2026 · Discussion with Ron Overacker
+= UAS Program Discussion with Ron
+Kyle Nessen · September 28, 2026
 
-== The direction I want to bring to the meeting
+== What we need to do now
 
-I want the proposal to describe the program we actually intend to teach. AERO 100 remains the common foundation. Students then have focused opportunities to develop mapping, agricultural, and thermal imaging skills. The structure should let us add applications as demand and teaching capacity develop, while keeping the core grounded in durable skills. The immediate task is to agree on the courses for the notices of intent and make the Senate package consistent with that scope.
+Ron's message came after the Senate agenda document and provides the latest update on the immediate work. Following his conversation with Monica Fiscalini, he says we need notices of intent completed by October 1 for the courses we intend to offer. His message distinguishes those notices from the full curriculum work, which he places at November 1. The immediate task is to identify the intended courses and provide the information required for their notices.
 
-== AERO 100 remains the foundation
+Ron also wants to scope the program proposal so it reflects what we intend to do. He gives a tentative October 3 deadline for the Senate package and offers to integrate the changes himself. That is a related workstream. It does not make the October 1 notices a requirement to finish every course outline or resolve the full certificate structure now. The exact fields needed for the notices and the scope of the November submission still need confirmation with Ron.
 
-The introductory course prepares students for Part 107 certification, develops flight competency, and teaches aircraft fundamentals through a drone build. Safety should run through the entire course, including planning, hazard identification, go or no-go decisions, emergency procedures, and review of completed flights. My intent is to use Part 5 safety management principles as a teaching framework. That wording should not imply that the course establishes formal Part 5 compliance.
+== How my brainstorm fits
 
-Basic camera operation belongs here. Students should be able to control exposure, focus, and white balance and capture a clear image of the intended subject. I would assess those skills alongside flight proficiency, using the test lanes and a defined image quality rubric. The scope is competent image capture. Editing and a broader photography or film production curriculum can remain with those disciplines. AERO 100 provides the drone operating foundation for those students, while their existing courses develop the rest of the craft.
+My morning brainstorm is an independent account of how I currently envision the teaching program. It gives us material for discussing course intent. It is not a response to the Senate document or a proposal to reduce, replace, or reorganize the certificates of specialization.
+
+The course offerings and certificates are distinct layers. Certificates can combine drone courses with existing courses in other disciplines. They do not need to correspond one for one with the classes described in my brainstorm. Describing four areas of drone instruction does not imply four certificates, and describing image capture in AERO 100 does not imply removing a Videography certificate.
+
+== The purpose of our meeting
+
+I want to explain the courses I have in mind, hear how they fit with Ron's planning, and agree on which intended offerings belong in this round of notices. We should establish how much detail the notices require and who will prepare and submit them. Ron can then identify the corresponding changes he needs for the program proposal.
+
+Course titles and short descriptions are a useful starting point. Units, prerequisites, hours, detailed outcomes, and assessments can be developed on the curriculum timeline unless the notice specifically requires them sooner. The meeting does not need to become a complete redesign of the credential structure merely because we are discussing course content.
+
+== A useful way to open the conversation
+
+My understanding from your message is that October 1 is the deadline to declare our intent for the courses we plan to offer, with the full curriculum work following in November. I have a clearer picture of the teaching I want to build around the introductory course, mapping, agriculture, and thermal imaging. I would like to walk through that with you and identify what you need for the notices and the proposal update. The certificates can sit alongside that course plan and draw on other departments as appropriate.
+
+#text(size: 9pt)[
+*Timing note.* Ron's later message is the working update. His October 3 Senate date is tentative. Confirm it with him as an administrative detail. The older form's generic submission instructions do not establish that his later guidance is wrong.
+]
+
+#pagebreak()
+= My Current Vision for the Courses
+
+The program starts with a strong foundation in safe, legal, effective drone operation. Students can then develop more specialized skills through additional courses. The structure is modular, so we can respond to new applications while continuing to teach principles and skills that remain useful as equipment changes. These are working course concepts for discussion.
+
+== Basic UAV Operator
+
+AERO 100 remains the entry point. It prepares students for Part 107 certification, builds flight competency, and teaches drone fundamentals through a hands-on aircraft build. Safety should be part of how students work throughout the course. I want to draw on Part 5 safety management principles to develop habits of planning, identifying hazards, managing risk, and learning from each operation.
+
+The course also teaches competent aerial image capture. Students should understand exposure, focus, and white balance and be able to photograph the intended subject clearly. Those skills could be assessed alongside flight proficiency in the test lanes. My focus here is capturing a good image. Editing and deeper photographic or film production skills belong in the relevant disciplines. This makes the introductory course useful to photography and videography students as well as students continuing into other drone applications.
 
 == Advanced drone mapping
 
-Mapping remains a central advanced offering and the most developed new course in the repository. The existing AERO 110 draft provides a substantial starting point, covering mission planning, positioning and ground control, photogrammetric processing, accuracy assessment, and useful mapping deliverables. The current draft also includes multispectral imaging and agricultural remote sensing. We need to decide how much of that material stays here if agriculture becomes its own broader applications course.
+Advanced mapping is one of the main additional offerings. It develops the skills needed to plan a mapping project, collect suitable imagery, process the data, and assess the resulting products. Existing course development gives us substantial material to build on. The emphasis is a repeatable workflow and an understanding of what makes a mapping result useful and reliable.
 
 == Agricultural drone applications
 
-My current direction is a course that contributes to the larger precision agriculture effort. It would connect multispectral and red-edge imagery with crop assessment, introduce thermal applications for irrigation assessment, and address spraying applications. The emphasis is on using drone information and equipment in agricultural work. Pesticide applicator training is outside the scope I described this morning. We still need to decide whether spraying means an overview, demonstrations, or practical operating instruction, and what resources and approvals each choice would require.
+This course would contribute to the larger precision agriculture effort. I see three useful areas of emphasis. Multispectral and red-edge imagery can support crop assessment. Thermal imaging can support irrigation assessment. Spraying is another important agricultural drone application to address.
+
+The course should connect these capabilities to agricultural work and help students understand how they might use them in practice. My intent is not to teach pesticide applicator certification. The amount and form of spraying instruction can be developed with Ron and the agriculture faculty. The relationship with mapping content can also be worked out during course development.
 
 == Thermal imaging and drone applications
 
-I am considering a broader thermal applications course, with thermography principles as its technical core and examples from solar, buildings, infrastructure, public safety, search and rescue, and irrigation. The existing AERO 120 inspection outline offers material to build from, but it is much more focused on utilities. This broader direction needs additional practitioner input and a manageable set of assessed applications. Neither a Level 1 credential nor specialized job readiness should be promised before the training and assessment pathway is established.
+Thermography provides a technical foundation that can be applied to several kinds of drone work. Potential examples include solar panels, buildings and roofs, infrastructure, search and rescue, public safety, and irrigation. Students would learn the nuances of collecting and interpreting thermal imagery, with practical exercises across a manageable selection of applications.
 
-#pagebreak()
-= Decisions to Settle with Ron
+This concept needs more research and practitioner input. I see it as an applications course with a substantial thermography foundation, without committing it to one industry alone. Existing inspection material provides a starting point for development.
 
-== Choose the courses for this submission cycle
-
-Agree on a short list of courses for the October 1 notices of intent. For each one, settle a working title, purpose, proposed units, prerequisites or advisories, development lead, and intended first offering. Confirm which details the notice actually requires. AERO 100 is described as approved in both the attachment and prior planning. Confirm whether the new camera and safety emphasis fits its approved outline or requires a revision.
-
-The key scope choice is agriculture. The July plan placed multispectral content in mapping and proposed AERO 130 as Agricultural Spray Operations. Today's broader agriculture concept changes that division of work. We should choose where students learn data acquisition and processing, where they learn agricultural interpretation, and whether mapping is a prerequisite or an optional companion. Otherwise, the courses could duplicate substantial content or assume skills students have not yet learned.
-
-The thermal decision is similarly concrete. Do we retain the utility inspection course, broaden and rename it, or defer it while we gather stronger input? Course numbers beyond AERO 100 remain provisional in the July planning documents. A broader title should follow an agreed scope and outcomes.
-
-== Separate the course plan from the credential plan
-
-The attached Senate form names six Certificates of Specialization and one Certificate of Achievement. The July 13 working proposal names five specializations and records agreement to defer the Public Safety certificate in favor of possible later booster courses. The morning brainstorm describes courses, but does not settle the number or requirements of certificates.
-
-Decide which credentials remain in this package. AERO 100 can still support a Videography certificate with existing Art and Film courses. A broader agriculture course does not automatically settle whether Crop Monitoring and Spray Operations remain separate credentials. Check each retained award's requirements, units, staffing, and completion sequence. Confirm whether independent study and boosters remain in the plan. Ask the curriculum and financial aid offices to confirm requirements for any intended aid-eligible award.
-
-== Confirm deadlines before dividing the work
-
-#table(
-  columns: (1.0in, 1.35in, 1fr),
-  inset: 7pt,
-  stroke: 0.5pt + luma(75%),
-  align: left,
-  table.header([*Date*], [*Source*], [*What needs confirmation*]),
-  [September 29], [Senate attachment], [Planning and Budget review is scheduled. Record the actual outcome before describing endorsement as complete.],
-  [October 1], [Ron's message], [Notices of intent for the courses we intend to offer. Confirm the required fields and submission owner.],
-  [October 3], [Ron's tentative date], [Senate package deadline needs immediate confirmation. The form specifies 5 p.m. Thursday in the prior week. For an October 9 meeting, that implies October 1.],
-  [November 1], [Ron's message], [Appears to refer to full curriculum submissions. Confirm whether this includes courses, awards, or both, and the exact CurrIQunet deadline.],
-)
-
-Ron has offered to integrate proposal changes. A practical division is for me to supply agreed course scopes and curriculum changes, with Ron coordinating the package and confirming the submission requirements. We should leave with named owners and dates for each deliverable, including any follow-up with Monica Fiscalini.
-
-#pagebreak()
-= Aligning the Senate Package
-
-== Changes to make after the scope decisions
-
-Revise the agenda title, program description, equity narrative, and supporting proposal together. The six-certificate language appears in more than one place. A program-level agenda title can accommodate changes, but the endorsement request and supporting package must state an agreed scope.
-
-Review the partner-course paragraph against the retained certificates. Fire Technology and Criminal Justice should appear only if they have a defined role in this version. Keep the cross-enrollment rationale where actual course requirements support it. Describe dual enrollment relationships at their confirmed stage. Recheck the district equity figures and their source year before carrying them forward.
-
-Confirm staffing and funding against the revised course plan. The attachment describes an adjunct model and \$80,000 in Round 10 funding. Establish what remains available and whether the rollout is feasible. Changes in agriculture or inspection scope may affect equipment, facilities, instructor qualifications, and partner support.
-
-Distinguish Part 107 preparation, flight assessment using NIST methods, and instruction in safety management. Retain NFPA 2400 alignment only if the content supports it. The #link("https://www.faa.gov/newsroom/beyond-visual-line-sight-bvlos")[FAA BVLOS overview] describes Part 108 as proposed. Treat the brainstorm's account of company-held authority and nontransferable checkrides as an industry discussion point pending verification against the applicable rule and employer requirements.
-
-== Suggested language for discussing the revised scope
-
-The proposed UAS program builds on the approved AERO 100 Basic UAV Operator course. This foundation combines preparation for FAA Part 107 certification with aircraft fundamentals, practical flight proficiency, safety management practices, and competent aerial image capture. Focused advanced courses would extend these skills into drone mapping, agricultural applications, and thermal imaging. Course sequencing and certificate requirements will be finalized to match the offerings selected for development and the resources available to teach them.
-
-The program is designed to complement existing college disciplines. Students can develop drone operating skills at Cuesta and combine them with deeper study in fields such as geography, agriculture, photography, and film. The modular structure allows additional applications to be developed as employer needs, partnerships, and instructional capacity become established.
-
-This language is a starting point for the meeting. The submitted version should replace the remaining open choices with the scope Ron and I agree to advance.
-
-== Evidence and follow-up to bring into the revision
-
-Prepare an outreach record with each contact's correct name, organization, date, topic, and specific feedback. Several names in the transcript are unclear. Confirm them before using them in the proposal. Distinguish enthusiasm from a documented endorsement or commitment. The broader thermal course particularly needs practitioner input.
-
-#text(size: 8.5pt)[
-*Source notes.* Sources are the September 28 brainstorm, Ron's message, the ASC Agenda Item Proposal, the July 13 certificate drafts, the AERO 110 COR draft, and the AERO 100 and 120 advisory outlines. The separate New Program Proposal Form referenced in the Senate form was not supplied. Its current contents still need reconciliation.
-
-The Senate deadline calculation uses the supplied form's submission instructions. Cuesta's #link("https://www.cuesta.edu/about/college-resources/academicsenate/agendas-minutes.html")[published meeting calendar] lists October 9, but Ron should confirm the intended meeting and any agreed exception. Safety wording follows the distinction between teaching SMS principles and implementing an organizational SMS in #link("https://www.faa.gov/airports/resources/advisory_circulars/index.cfm/go/document.information/documentID/1042733")[FAA AC 120-92D]. Web references checked September 28, 2026.
+#text(size: 9pt)[
+*Basis for these notes.* The course vision comes from the morning brainstorm, read without speaker labels, with supporting detail from existing course development. The administrative summary comes from Ron's later message and Kyle's clarification. These notes do not establish approved course changes, certificate changes, or external certification outcomes. Part 108 and employer qualification practices remain topics for follow-up research rather than settled claims in this course summary.
 ]
