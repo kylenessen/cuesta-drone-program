@@ -90,8 +90,7 @@ for i,c in enumerate(courses):
     heading('Enrollment and department efficiency')
     body(c['efficiency'])
     heading('Resources and funding')
-    body(structure['resources_and_funding'] or '________________________________________________________________________')
-    body('________________________________________________________________________')
+    body(structure['resources_and_funding'])
 
 out = ROOT / 'output' / 'docx' / (STEM + '.docx')
 out.parent.mkdir(parents=True, exist_ok=True)
