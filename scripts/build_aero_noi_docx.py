@@ -3,7 +3,6 @@ import json
 from pathlib import Path
 from docx import Document
 from docx.shared import Inches, Pt, RGBColor
-from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -14,7 +13,6 @@ sec = doc.sections[0]
 sec.page_width, sec.page_height = Inches(8.5), Inches(11)
 sec.top_margin = sec.bottom_margin = Inches(.5)
 sec.left_margin = sec.right_margin = Inches(.6)
-sec.footer_distance = Inches(.22)
 for name in ['Normal', 'Title', 'Subtitle', 'Heading 1', 'Heading 2']:
     st = doc.styles[name]
     st.font.name = 'Arial'
@@ -32,18 +30,11 @@ h = doc.styles['Heading 1'].paragraph_format
 h.space_before = Pt(7)
 h.space_after = Pt(3)
 h.keep_with_next = True
-footer = sec.footer.paragraphs[0]
-footer.alignment = 2
-run = footer.add_run('AERO notice of intent  |  ')
-run.font.size = Pt(8)
-fld = OxmlElement('w:fldSimple')
-fld.set(qn('w:instr'), 'PAGE')
-footer._p.append(fld)
 doc.core_properties.title = 'AERO Notices of Intent'
 doc.core_properties.author = 'Kyle Nessen'
 doc.core_properties.subject = 'Course proposals for Ron Overacker review'
 typ = ['#set document(title: "AERO Notices of Intent", author: "Kyle Nessen")',
-       '#set page(paper: "us-letter", margin: (x: 0.6in, y: 0.5in), numbering: "1")',
+       '#set page(paper: "us-letter", margin: (x: 0.6in, y: 0.5in))',
        '#set text(font: "Arial", size: 10pt)', '#set par(leading: 0.3em, spacing: 0.35em)',
        '#set heading(numbering: none)', '#show heading.where(level: 1): set text(size: 15pt)',
        '#show heading.where(level: 2): set text(size: 10.5pt)']

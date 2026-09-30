@@ -1,5 +1,5 @@
 #set document(title: "AERO Notices of Intent", author: "Kyle Nessen")
-#set page(paper: "us-letter", margin: (x: 0.6in, y: 0.5in), numbering: "1")
+#set page(paper: "us-letter", margin: (x: 0.6in, y: 0.5in))
 #set text(font: "Arial", size: 10pt)
 #set par(leading: 0.3em, spacing: 0.35em)
 #set heading(numbering: none)
