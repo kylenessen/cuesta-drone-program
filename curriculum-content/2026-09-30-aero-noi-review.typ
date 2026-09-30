@@ -14,13 +14,13 @@
 
 *Course number* 151
 
-*Tentative course description* This one-unit lecture course develops students’ ability to navigate FAA regulatory processes and manage safety in professional drone operations beyond introductory Part 107 preparation. Students examine waivers, airspace authorizations, coordination with aviation authorities, and the supporting documentation needed to explain how a proposed operation can be conducted safely. Topics include operations beyond visual line of sight, Part 108 rulemaking, and other emerging regulatory frameworks, with attention to distinguishing proposed changes from requirements currently in effect. Safety management instruction addresses organizational responsibilities, hazard identification, risk assessment, reporting, and evaluation of whether safety measures are working. Through case studies and scenario exercises, students connect regulatory requirements with practical operating procedures and defensible safety decisions.
+*Tentative course description* This two-unit lecture and laboratory course develops students’ ability to navigate FAA regulatory processes and manage safety in professional drone operations beyond introductory Part 107 preparation. Students examine waivers, airspace authorizations, coordination with aviation authorities, and the supporting documentation needed to explain how a proposed operation can be conducted safely. Topics include operations beyond visual line of sight, Part 108 rulemaking, and other emerging regulatory frameworks, with attention to distinguishing proposed changes from requirements currently in effect. Safety management instruction addresses organizational responsibilities, hazard identification, risk assessment, reporting, and evaluation of whether safety measures are working. Through case studies and applied laboratory scenarios, students connect regulatory requirements with practical operating procedures and defensible safety decisions.
 
 == Credit and Hours
 
-*Variable hours* No. Minimum units 1.0. Lecture units 1.0. Lab units 0.
+*Variable hours* No. Minimum units 2.0. Lecture units 1.0. Lab units 1.0.
 
-*Lecture / lab / activity hours* 1 / 0 / 0 curriculum hours per week. Semester totals are 18 lecture, 0 lab, and 0 activity hours. Outside work is 36 hours. Total student hours are 54.
+*Lecture / lab / activity hours* 1 / 3 / 0 curriculum hours per week. Semester totals are 18 lecture, 54 lab, and 0 activity hours. Outside work is 36 hours. Total student hours are 108.
 
 == Course Content
 
@@ -46,9 +46,9 @@
 
 == Course Cap
 
-*Tentative course cap category* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_    Tentative course cap 25.
+*Tentative course cap category* 9 - Lab - Small (20-30). Tentative course cap 25.
 
-*Effect on department efficiency* A cap of 25 supports individual feedback on regulatory analysis and safety decisions. The smaller section size allows substantive case discussion and review of students' reasoning.
+*Effect on department efficiency* A cap of 25 supports individual feedback on regulatory analysis and safety decisions. The smaller section size allows substantive case discussion, supervised laboratory exercises, and review of students' reasoning.
 
 == Codes and Dates
 

@@ -64,7 +64,7 @@ for i,c in enumerate(courses):
         typ.append('#pagebreak()')
     n = c['number']
     independent = n == '147'
-    lecture = n == '151'
+    advanced_regulations = n == '151'
     doc.add_paragraph('AERO ' + n + ' Notice of Intent', 'Title')
     doc.add_paragraph(c['title'], 'Subtitle')
     typ += ['= AERO ' + n + ' Notice of Intent', '*' + c['title'] + '*\n']
@@ -76,9 +76,9 @@ for i,c in enumerate(courses):
     if independent:
         para('Variable hours', 'Yes. Minimum units 0.5. Maximum units 2.0. All units are lab.')
         para('Lecture / lab / activity hours', '0 / 1.5 to 6 / 0 curriculum hours per week. Semester totals are 0 lecture, 27 to 108 lab, and 0 activity hours. Outside work is 0 hours. Total student hours are 27 to 108.')
-    elif lecture:
-        para('Variable hours', 'No. Minimum units 1.0. Lecture units 1.0. Lab units 0.')
-        para('Lecture / lab / activity hours', '1 / 0 / 0 curriculum hours per week. Semester totals are 18 lecture, 0 lab, and 0 activity hours. Outside work is 36 hours. Total student hours are 54.')
+    elif advanced_regulations:
+        para('Variable hours', 'No. Minimum units 2.0. Lecture units 1.0. Lab units 1.0.')
+        para('Lecture / lab / activity hours', '1 / 3 / 0 curriculum hours per week. Semester totals are 18 lecture, 54 lab, and 0 activity hours. Outside work is 36 hours. Total student hours are 108.')
     else:
         para('Variable hours', 'No. Minimum units 3.0. Lecture units 2.0. Lab units 1.0.')
         para('Lecture / lab / activity hours', '2 / 3 / 0 curriculum hours per week. Semester totals are 36 lecture, 54 lab, and 0 activity hours. Outside work is 72 hours. Total student hours are 162.')
@@ -94,7 +94,7 @@ for i,c in enumerate(courses):
     para('Minimum qualification', 'Aeronautics. Condition ____________________')
     para('Department currently has faculty meeting minimum qualifications', '____________________')
     heading('Course Cap')
-    category = '9 - Lab - Small (20-30)' if n in ['161','162','163'] else '____________________'
+    category = '9 - Lab - Small (20-30)' if n in ['151','161','162','163'] else '____________________'
     para('Tentative course cap category', category + '. Tentative course cap 25.' if category[0]!='_' else category + '    Tentative course cap 25.')
     para('Effect on department efficiency', c['efficiency'])
     heading('Codes and Dates')
