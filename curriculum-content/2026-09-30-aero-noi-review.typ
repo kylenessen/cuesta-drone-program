@@ -1,190 +1,266 @@
 #set document(title: "AERO Notices of Intent", author: "Kyle Nessen")
-#set page(paper: "us-letter", margin: (x: 0.7in, y: 0.65in), numbering: "1")
-#set text(font: "Arial", size: 10.5pt)
-#set par(leading: 0.5em, spacing: 0.65em)
+#set page(paper: "us-letter", margin: (x: 0.6in, y: 0.5in), numbering: "1")
+#set text(font: "Arial", size: 10pt)
+#set par(leading: 0.3em, spacing: 0.35em)
 #set heading(numbering: none)
-#show heading.where(level: 1): set text(size: 17pt, fill: rgb("244a57"))
-#show heading.where(level: 2): set text(size: 11pt)
-#let field(name, body) = [
-  == #name
-  #body
-]
-
-= AERO Notices of Intent
-Review draft for Ron Overacker · September 30, 2026
-
-This draft covers AERO 151, 161, 162, and 163. It preserves the descriptions approved in the September 30 email exchange and adds proposed responses for the NOI fields. AERO 150 is excluded. AERO 100 remains unchanged and provides the reference for the three application courses. The proposed AERO 160 renumbering is excluded.
-
-The following pages contain draft language for review. The sections marked for confirmation are working notes, not completed form responses. Nothing in this document establishes a funding commitment, completed consultation, faculty assignment, transfer approval, or new prerequisite. No NOI has been launched.
-
-== Shared entries
-
-The subject is *AERO, Aeronautical and Aviation Technology*. Kyle Nessen is the originator. Ron Overacker is the co-contributor. Ron has been added with access to all six sections of the existing blank draft, record 9778. He should also be added to each subsequent NOI draft.
-
-The answer to whether these courses fit into existing degrees or certificates is *No*. New drone certificates are planned and will be proposed separately. Their names are not needed to answer the question about existing programs.
-
-The minimum qualification designation is *Aeronautics*, exactly as recorded for AERO 100. Its Condition field is blank. Retain that designation without adding degree, license, certification, or experience conditions. The separate question about whether the department currently has qualified faculty remains for Ron to confirm.
-
-== Units, hours, and enrollment
-
-#table(
-  columns: (1.55fr, 0.6fr, 1fr, 1fr, 1.05fr, 0.6fr),
-  inset: 6pt,
-  stroke: 0.4pt + rgb("cccccc"),
-  fill: (x, y) => if y == 0 { rgb("edf2f4") } else { none },
-  [*Course*], [*Units*], [*Lecture*], [*Lab*], [*Outside work*], [*Cap*],
-  [AERO 100 reference], [3], [36], [54], [72], [25],
-  [AERO 151], [1], [18], [0], [36], [25],
-  [AERO 161], [3], [36], [54], [72], [25],
-  [AERO 162], [3], [36], [54], [72], [25],
-  [AERO 163], [3], [36], [54], [72], [25],
-)
-
-Hours in this table are semester totals. Activity hours are zero. AERO 100 records 2 lecture and 3 lab hours per week, with an 18-week calculation. AERO 151's totals are derived from that same unit calculation. Cuesta's compressed-calendar FAQ explains that total instructional time is retained while weekly meeting time increases. Confirm whether the NOI's Min Lecture Hours and Min Lab Hour fields expect the curriculum equivalents or another entry convention. Do not replace semester totals with a simple 16-week reduction.
-
-AERO 100's cap category is *9 - Lab - Small (20-30)*. Use it as the proposed category for AERO 161, 162, and 163. AERO 151's proposed cap is also 25, but its lecture-only category needs confirmation. The efficiency responses on the following pages explain the instructional reasons for small groups. They do not estimate enrollment or departmental productivity.
-
-#pagebreak()
-= AERO 151
+#show heading.where(level: 1): set text(size: 15pt)
+#show heading.where(level: 2): set text(size: 10.5pt)
+= AERO 151 Notice of Intent
 *Advanced Drone Regulations and Safety Management*
 
-#field("Tentative course description", [
-This one-unit lecture course develops students’ ability to navigate FAA regulatory processes and manage safety in professional drone operations beyond introductory Part 107 preparation. Students examine waivers, airspace authorizations, coordination with aviation authorities, and the supporting documentation needed to explain how a proposed operation can be conducted safely. Topics include operations beyond visual line of sight, Part 108 rulemaking, and other emerging regulatory frameworks, with attention to distinguishing proposed changes from requirements currently in effect. Safety management instruction addresses organizational responsibilities, hazard identification, risk assessment, reporting, and evaluation of whether safety measures are working. Through case studies and scenario exercises, students connect regulatory requirements with practical operating procedures and defensible safety decisions.
-])
+== Basic Course Information
 
-#field("Course rationale", [
-This course extends the introductory regulatory and safety foundation in AERO 100 by developing students' ability to evaluate more complex operations and document sound operating decisions. Its focus is the practical work of researching applicable requirements, preparing supporting documentation, and developing safety procedures for an organization. The one-unit lecture format provides a focused course that can support multiple planned drone certificates and students developing professional responsibilities beyond basic flight operation. The certificates will be proposed separately.
-])
+*Subject* AERO, Aeronautical and Aviation Technology
 
-#field("Connection to the College Mission", [
-The course supports responsible leadership through evidence-based safety decisions and accountability. Students learn to explain operational choices and consider their effects on people, property, and the wider community.
-])
+*Course number* 151
 
-#field("Existing course overlap", [
-AERO 100 introduces regulations, risk management, and safe drone operation. AERO 151 develops those foundations through advanced regulatory processes, organizational safety practices, and supporting documentation. The course is intended to extend that foundation rather than repeat introductory certification preparation.
-])
+*Tentative course description* This one-unit lecture course develops students’ ability to navigate FAA regulatory processes and manage safety in professional drone operations beyond introductory Part 107 preparation. Students examine waivers, airspace authorizations, coordination with aviation authorities, and the supporting documentation needed to explain how a proposed operation can be conducted safely. Topics include operations beyond visual line of sight, Part 108 rulemaking, and other emerging regulatory frameworks, with attention to distinguishing proposed changes from requirements currently in effect. Safety management instruction addresses organizational responsibilities, hazard identification, risk assessment, reporting, and evaluation of whether safety measures are working. Through case studies and scenario exercises, students connect regulatory requirements with practical operating procedures and defensible safety decisions.
 
-#field("Department efficiency and proposed cap", [
-A cap of 25 supports substantive discussion and individual feedback on regulatory research, hazard analysis, and scenario-based operating decisions. Small-group review allows students to explain and revise the reasoning behind their proposals. The department should confirm the appropriate lecture category and assess the effect on scheduling and instructional efficiency.
-])
+== Credit and Hours
 
-== Entries and items for confirmation
+*Variable hours* No. Minimum units 1.0. Lecture units 1.0. Lab units 0.
 
-Propose 1 lecture unit, no lab or activity, and a cap of 25. The minimum qualification designation is *Aeronautics*, with no additional condition. Existing degree or certificate fit is *No*. Confirm the hour-entry convention, lecture cap category, faculty availability, and resources. Because the overlap question includes shared content as well as duplication, the draft recommendation is *Yes*, with the explanation above, subject to Ron's review. Transfer or articulation intent and any consultation with the Articulation Officer are not yet established.
+*Lecture / lab / activity hours* 1 / 0 / 0 curriculum hours per week. Semester totals are 18 lecture, 0 lab, and 0 activity hours. Outside work is 36 hours. Total student hours are 54.
+
+== Course Content
+
+*Fit within existing degrees or certificates* No. Planned certificates of specialization will be proposed separately.
+
+*Course rationale* Drone regulations continue to evolve, and some enterprise operations require FAA permissions or waivers beyond routine flight operations. Advanced pilots and drone program managers need the ability to evaluate these requirements and manage organizational safety. This course supports professionals responsible for complex operations, including utility work, through advanced regulatory practice and safety management aligned with FAA standards.
+
+*Transfer or articulation intent* No.
+
+*Connection to the College Mission* The course supports students' career goals by preparing them for greater responsibility in professional drone programs. It develops skills that can strengthen job performance, career advancement, and earning potential while supporting responsible operations.
+
+*Additional resources required* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Resources and funding* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Duplicate or overlap existing courses* Yes. AERO 100 introduces drone regulations and safety. AERO 151 extends that foundation to advanced permissions, waivers, and organizational safety management. Consultation with related disciplines has established support for the proposed scope.
+
+== Minimum Qualifications
+
+*Minimum qualification* Aeronautics. Condition \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Department currently has faculty meeting minimum qualifications* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+== Course Cap
+
+*Tentative course cap category* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_    Tentative course cap 25.
+
+*Effect on department efficiency* A cap of 25 supports individual feedback on regulatory analysis and safety decisions. The smaller section size allows substantive case discussion and review of students' reasoning.
+
+== Codes and Dates
+
+*Dean or director approval date* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Originator* Kyle Nessen. Co-contributor Ron Overacker.
 
 #pagebreak()
-= AERO 161
+= AERO 161 Notice of Intent
 *Drone Applications in Geospatial Technology*
 
-#field("Tentative course description", [
-This course develops the skills needed to collect and prepare reliable spatial data using drones for a broad range of professional applications. Students learn the complete orthomosaic production process, from selecting camera settings and designing flight missions to processing overlapping imagery into a georeferenced image of an area. Field exercises incorporate GNSS receivers, high-accuracy positioning, ground control, and independent checkpoints to establish and evaluate positional accuracy. Instruction also introduces other sensors and data products, allowing students to consider collection methods beyond conventional photography and photogrammetry. A culminating project integrates safe mission planning, field operations, processing, quality checks, and documentation to deliver usable datasets for GIS and other professional applications.
-])
+== Basic Course Information
 
-#field("Course rationale", [
-This course connects drone flight skills with the complete workflow required to produce usable spatial data. Students move from collecting images to designing and documenting missions, processing data, and evaluating the reliability of their results. The focus on aircraft operations and data production provides an applied complement to GIS and surveying instruction. It supports planned drone certificates and gives students a foundation for projects involving mapping, environmental observation, agriculture, and other spatial applications. The certificates will be proposed separately.
-])
+*Subject* AERO, Aeronautical and Aviation Technology
 
-#field("Connection to the College Mission", [
-The course connects technical learning with responsible stewardship. Students evaluate the quality and limitations of spatial data so that their work can support informed decisions about land, infrastructure, and community resources.
-])
+*Course number* 161
 
-#field("Existing course overlap", [
-Related content appears in GEOL 230, GEOL 233, GEOL 234, and ENGR 201, including spatial data, remote sensing, mapping, and measurement. AERO 161 emphasizes drone mission design, aircraft and sensor operation, image processing, and quality checks for the resulting datasets. Coordinate with the relevant faculty to confirm the boundaries between these courses and opportunities for complementary instruction.
-])
+*Tentative course description* This course develops the skills needed to collect and prepare reliable spatial data using drones for a broad range of professional applications. Students learn the complete orthomosaic production process, from selecting camera settings and designing flight missions to processing overlapping imagery into a georeferenced image of an area. Field exercises incorporate GNSS receivers, high-accuracy positioning, ground control, and independent checkpoints to establish and evaluate positional accuracy. Instruction also introduces other sensors and data products, allowing students to consider collection methods beyond conventional photography and photogrammetry. A culminating project integrates safe mission planning, field operations, processing, quality checks, and documentation to deliver usable datasets for GIS and other professional applications.
 
-#field("Department efficiency and proposed cap", [
-A cap of 25, matching AERO 100, supports supervised field exercises and individual assessment of flight planning, data collection, and processing results. Students can work in small crews while rotating through operational and technical roles. The department should confirm the staffing and equipment available for those rotations and assess the resulting scheduling and efficiency implications.
-])
+== Credit and Hours
 
-== Entries and items for confirmation
+*Variable hours* No. Minimum units 3.0. Lecture units 2.0. Lab units 1.0.
 
-Propose 3 units using AERO 100's lecture and lab structure, no activity hours, a cap of 25, and category *9 - Lab - Small (20-30)*. The minimum qualification designation is *Aeronautics*, with no additional condition. Existing degree or certificate fit is *No*. The draft overlap recommendation is *Yes*, with the explanation above. Faculty consultation is pending. Confirm the hour-entry convention, resources, faculty availability, transfer intent, and any required articulation consultation.
+*Lecture / lab / activity hours* 2 / 3 / 0 curriculum hours per week. Semester totals are 36 lecture, 54 lab, and 0 activity hours. Outside work is 72 hours. Total student hours are 162.
+
+== Course Content
+
+*Fit within existing degrees or certificates* No. Planned certificates of specialization will be proposed separately.
+
+*Course rationale* Employers need usable, reliable spatial data, and drone operators need more than flight skills to produce it. This course prepares students for mapping work in surveying, construction, environmental monitoring, and infrastructure management. It strengthens employment prospects and helps working professionals add drone data collection to their existing skills. The course will support proposed certificates of specialization.
+
+*Transfer or articulation intent* No.
+
+*Connection to the College Mission* The course supports student success and career goals through practical skills in producing reliable spatial data. These skills can improve employment opportunities, job performance, and access to more advanced technical work.
+
+*Additional resources required* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Resources and funding* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Duplicate or overlap existing courses* Yes. Related content appears in GEOL 230, GEOL 233, GEOL 234, and ENGR 201. GIS, engineering, and surveying faculty have been consulted and support the course as a distinct, complementary offering. Its emphasis is drone mission design, aircraft and sensor operation, and production of reliable aerial datasets.
+
+== Minimum Qualifications
+
+*Minimum qualification* Aeronautics. Condition \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Department currently has faculty meeting minimum qualifications* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+== Course Cap
+
+*Tentative course cap category* 9 - Lab - Small (20-30). Tentative course cap 25.
+
+*Effect on department efficiency* A cap of 25 matches AERO 100 and supports supervised fieldwork and individual assessment. Small crews allow students to rotate through flight, sensor, and data processing roles while receiving feedback.
+
+== Codes and Dates
+
+*Dean or director approval date* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Originator* Kyle Nessen. Co-contributor Ron Overacker.
 
 #pagebreak()
-= AERO 162
+= AERO 162 Notice of Intent
 *Drone Applications in Precision Agriculture*
 
-#field("Tentative course description", [
-This course introduces drone applications in precision agriculture, using information and technology to support crop management based on conditions at particular locations within a field. Students collect visible and multispectral imagery to document crop variability, support scouting, and identify areas that warrant closer field investigation. Thermal imaging exercises examine temperature patterns associated with crop water stress and irrigation performance, including the conditions that affect interpretation. Agricultural spraying instruction focuses on safely planning and executing drone missions that deliver chemicals to their intended treatment areas through appropriate flight paths, equipment settings, and coverage. The spraying component addresses drone operation and application placement rather than the pesticide applicator knowledge and licensing curriculum taught through specialized agricultural training.
-])
+== Basic Course Information
 
-#field("Course rationale", [
-This course brings agricultural imaging and aerial application into a coordinated course focused on drone operation. Students learn how mission planning, sensor selection, and aircraft operation affect the usefulness of information and the placement of an application. The course connects flight skills with practical agricultural tasks while preserving a clear boundary between operating the aircraft and the specialized agricultural training used to make treatment decisions. It will support planned drone certificates that may combine aviation coursework with study in agriculture. The certificates will be proposed separately.
-])
+*Subject* AERO, Aeronautical and Aviation Technology
 
-#field("Connection to the College Mission", [
-The course supports stewardship through careful observation and responsible use of agricultural technology. Students connect technical decisions with crop conditions, water management, and the effects of operations on surrounding areas.
-])
+*Course number* 162
 
-#field("Existing course overlap", [
-AGPS 230 addresses irrigation, AGPS 242 addresses plant science, and GEOL 234 addresses remote sensing. AERO 162 applies related concepts to drone imagery collection and aircraft operation. Its application component focuses on mission execution and placement. Consult agriculture and GIS faculty about shared content and the boundaries of crop interpretation and specialized applicator training.
-])
+*Tentative course description* This course introduces drone applications in precision agriculture, using information and technology to support crop management based on conditions at particular locations within a field. Students collect visible and multispectral imagery to document crop variability, support scouting, and identify areas that warrant closer field investigation. Thermal imaging exercises examine temperature patterns associated with crop water stress and irrigation performance, including the conditions that affect interpretation. Agricultural spraying instruction focuses on safely planning and executing drone missions that deliver chemicals to their intended treatment areas through appropriate flight paths, equipment settings, and coverage. The spraying component addresses drone operation and application placement rather than the pesticide applicator knowledge and licensing curriculum taught through specialized agricultural training.
 
-#field("Department efficiency and proposed cap", [
-A cap of 25, matching AERO 100, supports close supervision of agricultural flight exercises, crew coordination, and assessment of each student's operating decisions. Small crews allow students to rotate through aircraft, sensor, and field observation tasks. The department should confirm the equipment, locations, and staffing needed for these activities before determining their scheduling and efficiency effects.
-])
+== Credit and Hours
 
-== Entries and items for confirmation
+*Variable hours* No. Minimum units 3.0. Lecture units 2.0. Lab units 1.0.
 
-Propose 3 units using AERO 100's lecture and lab structure, no activity hours, a cap of 25, and category *9 - Lab - Small (20-30)*. The minimum qualification designation is *Aeronautics*, with no additional condition. Existing degree or certificate fit is *No*. The draft overlap recommendation is *Yes*, with the explanation above. Confirm resources and funding, the intended form of application exercises, faculty availability, the hour-entry convention, and any transfer or articulation plans.
+*Lecture / lab / activity hours* 2 / 3 / 0 curriculum hours per week. Semester totals are 36 lecture, 54 lab, and 0 activity hours. Outside work is 72 hours. Total student hours are 162.
+
+== Course Content
+
+*Fit within existing degrees or certificates* No. Planned certificates of specialization will be proposed separately.
+
+*Course rationale* Drones are an expanding tool in agriculture, creating opportunities for workers who can apply the technology effectively. This course helps students compete for agricultural jobs and helps working professionals add useful capabilities to their existing roles. Specialized drone skills can support advancement and earning potential in farm operations and agricultural services. The course will support proposed certificates of specialization.
+
+*Transfer or articulation intent* No.
+
+*Connection to the College Mission* The course supports students' employment and advancement goals through practical agricultural technology skills. It prepares students to improve their work, pursue new responsibilities, and contribute to the region's agricultural economy.
+
+*Additional resources required* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Resources and funding* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Duplicate or overlap existing courses* Yes. Related concepts appear in AGPS 230, AGPS 242, and GEOL 234. Consultation with related disciplines has established support for the course. Instruction focuses on drone sensing and application operations. Pesticide applicator knowledge and licensing instruction belong in agriculture and are outside this course's scope.
+
+== Minimum Qualifications
+
+*Minimum qualification* Aeronautics. Condition \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Department currently has faculty meeting minimum qualifications* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+== Course Cap
+
+*Tentative course cap category* 9 - Lab - Small (20-30). Tentative course cap 25.
+
+*Effect on department efficiency* A cap of 25 matches AERO 100 and supports supervised agricultural flight exercises. Small crews provide opportunities to practice aircraft operation, sensor use, and application placement with individual feedback.
+
+== Codes and Dates
+
+*Dean or director approval date* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Originator* Kyle Nessen. Co-contributor Ron Overacker.
 
 #pagebreak()
-= AERO 163
+= AERO 163 Notice of Intent
 *Drone Applications in Public Safety*
 
-#field("Tentative course description", [
-This course prepares students to support public safety missions with drones in search and rescue, fire response, law enforcement, and emergency management. Students develop skills in visible and thermal imaging to search for missing people, assess incident conditions, and document affected areas. Practical exercises include photogrammetric reconstruction of simulated collision and crime scenes, giving students experience capturing imagery and producing spatial records for investigation and documentation. Additional scenarios develop search planning, disaster assessment, and live aerial observation skills while emphasizing crew coordination, communication with incident command, and safe operation in changing environments. Students examine the legal and regulatory frameworks specific to public safety drone operations, including emergency airspace access, agency operating authority, privacy protections, and the handling of imagery and evidence.
-])
+== Basic Course Information
 
-#field("Course rationale", [
-This course applies drone flight and imaging skills to the coordination, documentation, and operating decisions required in public safety settings. Scenario exercises develop students' ability to collect useful information, communicate with a response team, and recognize the limits of the aircraft and its sensors. It provides a focused aviation component that can complement study or experience in public safety and support planned drone certificates. The certificates will be proposed separately. The course does not replace the professional preparation required for the underlying public safety roles.
-])
+*Subject* AERO, Aeronautical and Aviation Technology
 
-#field("Connection to the College Mission", [
-The course supports responsible community leadership through service-oriented technical education. Students practice teamwork, careful documentation, and consideration of privacy and public trust while learning to support emergency response.
-])
+*Course number* 163
 
-#field("Existing course overlap", [
-CJ 210 addresses investigation and evidence documentation, and CJ 213 addresses patrol technology, communication, and emergency response. AERO 163 focuses on aircraft operations and aerial data collection in simulated public safety missions. Consult criminal justice and public safety faculty to confirm boundaries and appropriate scenarios. Spatial reconstruction also provides a connection to GIS instruction.
-])
+*Tentative course description* This course prepares students to support public safety missions with drones in search and rescue, fire response, law enforcement, and emergency management. Students develop skills in visible and thermal imaging to search for missing people, assess incident conditions, and document affected areas. Practical exercises include photogrammetric reconstruction of simulated collision and crime scenes, giving students experience capturing imagery and producing spatial records for investigation and documentation. Additional scenarios develop search planning, disaster assessment, and live aerial observation skills while emphasizing crew coordination, communication with incident command, and safe operation in changing environments. Students examine the legal and regulatory frameworks specific to public safety drone operations, including emergency airspace access, agency operating authority, privacy protections, and the handling of imagery and evidence.
 
-#field("Department efficiency and proposed cap", [
-A cap of 25, matching AERO 100, supports supervised scenario exercises and individual assessment of piloting, imaging, communication, and crew coordination. Small crews allow students to rotate through operational roles while receiving feedback on their decisions. The department should confirm scenario staffing, equipment, and site availability before assessing scheduling and efficiency effects.
-])
+== Credit and Hours
 
-== Entries and items for confirmation
+*Variable hours* No. Minimum units 3.0. Lecture units 2.0. Lab units 1.0.
 
-Propose 3 units using AERO 100's lecture and lab structure, no activity hours, a cap of 25, and category *9 - Lab - Small (20-30)*. The minimum qualification designation is *Aeronautics*, with no additional condition. Existing degree or certificate fit is *No*. The draft overlap recommendation is *Yes*, with the explanation above. Ron approved the description for this stage and suggested later COR review with Frank. That review has not been represented as completed. Confirm resources, faculty availability, the hour-entry convention, and any transfer or articulation plans.
+*Lecture / lab / activity hours* 2 / 3 / 0 curriculum hours per week. Semester totals are 36 lecture, 54 lab, and 0 activity hours. Outside work is 72 hours. Total student hours are 162.
+
+== Course Content
+
+*Fit within existing degrees or certificates* No. Planned certificates of specialization will be proposed separately.
+
+*Course rationale* Public safety agencies increasingly use drones as a tool for response, assessment, and documentation. This course helps existing public safety professionals develop additional operational capabilities and helps students pursuing those careers build relevant technical skills. It supports improved job performance and opportunities for specialized assignments and advancement. The course will support proposed certificates of specialization and complement preparation for the underlying public safety roles.
+
+*Transfer or articulation intent* No.
+
+*Connection to the College Mission* The course advances students' career goals by developing technical skills relevant to public safety employment and professional growth. Students learn to improve operational work while serving community needs and maintaining public trust.
+
+*Additional resources required* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Resources and funding* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Duplicate or overlap existing courses* Yes. Related content appears in CJ 210 and CJ 213, with additional connections to GIS. Consultation with related disciplines has established support for the course. Its distinct focus is drone operation, aerial data collection, and crew coordination in public safety scenarios.
+
+== Minimum Qualifications
+
+*Minimum qualification* Aeronautics. Condition \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Department currently has faculty meeting minimum qualifications* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+== Course Cap
+
+*Tentative course cap category* 9 - Lab - Small (20-30). Tentative course cap 25.
+
+*Effect on department efficiency* A cap of 25 matches AERO 100 and supports supervised scenario exercises. Small crews allow individual assessment of flight, imaging, communication, and coordination skills while students rotate through operational roles.
+
+== Codes and Dates
+
+*Dean or director approval date* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Originator* Kyle Nessen. Co-contributor Ron Overacker.
 
 #pagebreak()
-= Questions for Ron
+= AERO 147 Notice of Intent
+*Independent Studies in Drone Technology*
 
-== Hours and the lecture cap category
+== Basic Course Information
 
-Can we retain AERO 100's 36 lecture and 54 lab semester hours for AERO 161, 162, and 163, and use 18 lecture hours for the one-unit AERO 151? What values should go into the NOI's hour fields under the compressed calendar? We propose a cap of 25 for all four courses. Which course cap category is appropriate for the lecture-only AERO 151?
+*Subject* AERO, Aeronautical and Aviation Technology
 
-== Resources and funding
+*Course number* 147 (proposed)
 
-Do the proposed courses require resources beyond what the department already has, and how would those additions be funded? Please confirm the Yes or No response for each course. Potential areas to review include aircraft and payloads, positioning equipment, processing software and computers, field locations, application training equipment, storage and maintenance, and supervision. These are review topics, not a purchasing request or a statement of unmet need. No resource response should be marked No merely because the budget information is not yet known.
+*Tentative course description* This variable-unit course provides prepared students an opportunity for in-depth study or an applied project in drone technology under the direction of an instructor. Students build on completed preparatory coursework to investigate a topic beyond the scope of regularly scheduled classes. Projects may involve drone operations, sensors, data collection and analysis, equipment evaluation, or development of operational methods. The student and instructor establish project objectives, required work, progress meetings, and evaluation methods through an independent study agreement. Students document their work and present a final product, report, or demonstration appropriate to the project and units earned.
 
-== Qualifications and available faculty
+== Credit and Hours
 
-We have retained *Aeronautics* exactly as in AERO 100 and left the qualification condition blank. Can the department answer Yes to the separate question about having faculty who meet that designation? We have not added qualification requirements based on the application area.
+*Variable hours* Yes. Minimum units 0.5. Maximum units 2.0. All units are lab.
 
-== Related courses and consultation
+*Lecture / lab / activity hours* 0 / 1.5 to 6 / 0 curriculum hours per week. Semester totals are 0 lecture, 27 to 108 lab, and 0 activity hours. Outside work is 0 hours. Total student hours are 27 to 108.
 
-The catalog shows shared subject matter with existing courses. Do the explanations in this draft appropriately describe the boundaries, and who should review them? No consultation is recorded as complete. Overlap does not by itself establish that a proposed course duplicates an existing one. Please also confirm the department's efficiency responses after reviewing resources and scheduling.
+== Course Content
 
-== Transfer intent and approval routing
+*Fit within existing degrees or certificates* No. No existing program is identified.
 
-Are any of these courses intended for transfer or articulation, and does that require a conversation with the Articulation Officer at the NOI stage? Who is the appropriate dean or director for this workflow, and what event should establish the approval date? Ron's September 30 approval of the descriptions is recorded, but it has not been entered as formal dean/director approval. The local meeting notes identify October 1 as the NOI deadline and November 1 for the later curriculum work. Confirm that timing without treating the generic one-month form instruction as a new obstacle.
+*Course rationale* Prepared students need opportunities to pursue substantial projects that extend beyond scheduled coursework. Independent study allows them to develop specialized skills, solve practical problems, and produce work that demonstrates their capabilities to employers. A flexible project format supports individual career interests and professional growth without replacing existing courses.
 
-== Basis for this draft
+*Transfer or articulation intent* No.
 
-The September 30 email exchange supplied by Kyle is the source for course titles and approved descriptions. Each description has five sentences. Earlier files with AERO 110, 120, 130, 150, or 160 concepts do not supersede this scope.
+*Connection to the College Mission* The course supports student success through individual learning goals and applied work connected to employment or advancement. Students develop initiative, technical judgment, and evidence of their skills for future professional opportunities.
 
-The #link("https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9436?entityType=Course&reportId=4")[active AERO 100 All Fields report], inspected September 30, supplies the qualification designation, hours, and cap. The #link("https://cuesta.curriqunet.com/Form/Course/Index/9778")[current NOI draft] supplies the field structure. These links may require Cuesta sign-in.
+*Additional resources required* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Mission responses are proposed applications of Cuesta's #link("https://www.cuesta.edu/about/president/missionstatement.html")[Mission, Vision, and Values], reviewed September 30. The calendar note is based on Cuesta's #link("https://www.cuesta.edu/about/college-resources/research/16-week-calendar/index.html")[16-week calendar FAQ]. Some FAQ wording describes the earlier proposal stage, so it is guidance about the conversion principle rather than confirmation of the current NOI entry convention.
+*Resources and funding* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-The overlap review uses the repository's structured extract of the 2026-2027 Cuesta Catalog, July 2026 Addendum, specifically AERO 100, GEOL 230/233/234, ENGR 201, AGPS 230/242, and CJ 210/213. These descriptions identify likely consultation topics. They do not establish current scheduling or approval by another department. Local paths are sources/cuesta-catalog-2026-2027/courses/ and communications/2026-09-28-ron-meeting-prep.typ.
+*Duplicate or overlap existing courses* Yes. Projects build on AERO coursework and may connect with related technical disciplines. The course extends learning through individual projects and does not replace existing offerings. Project scope will be coordinated with relevant faculty. Consultation on the broader drone curriculum has established support from related disciplines.
+
+== Minimum Qualifications
+
+*Minimum qualification* Aeronautics. Condition \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Department currently has faculty meeting minimum qualifications* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+== Course Cap
+
+*Tentative course cap category* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_    Tentative course cap 25.
+
+*Effect on department efficiency* A proposed cap of 25 retains the program's enrollment limit. Individual project agreements define the scope of work and instructor consultation needed for each student. Enrollment and project assignments must remain compatible with effective supervision.
+
+== Codes and Dates
+
+*Dean or director approval date* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Originator* Kyle Nessen. Co-contributor Ron Overacker.
+
