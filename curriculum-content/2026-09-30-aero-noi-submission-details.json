@@ -1,0 +1,44 @@
+{
+  "subject": "AERO, Aeronautical and Aviation Technology",
+  "originator": "Kyle Nessen",
+  "co_contributor": {
+    "name": "Ron Overacker",
+    "email": "ronnie_overacker@cuesta.edu",
+    "sections": "All six NOI sections"
+  },
+  "existing_blank_draft_url": "https://cuesta.curriqunet.com/Form/Course/Index/9778",
+  "existing_blank_draft_co_contributor_added": true,
+  "dean_or_director_approval_date": null,
+  "department_has_qualified_faculty": null,
+  "independent_study_number": "147 provisional. Neither AERO 147 nor AERO 247 was found in the course records checked. Final assignment remains unconfirmed.",
+  "hour_entry_convention": "Term totals retain the AERO 100 calculation. The NOI weekly field convention under the 16-week calendar remains unconfirmed.",
+  "curriculum_weekly_equivalents": {
+    "151": {
+      "lecture": 1,
+      "lab": 3,
+      "activity": 0
+    },
+    "161": {
+      "lecture": 2,
+      "lab": 3,
+      "activity": 0
+    },
+    "162": {
+      "lecture": 2,
+      "lab": 3,
+      "activity": 0
+    },
+    "163": {
+      "lecture": 2,
+      "lab": 3,
+      "activity": 0
+    },
+    "147": {
+      "lecture": 0,
+      "lab": "1.5 to 6",
+      "activity": 0
+    }
+  },
+  "submission_status": "Nothing launched or submitted. User has authorized document preparation and review only.",
+  "review_content_file": "2026-09-30-aero-noi-review.json"
+}

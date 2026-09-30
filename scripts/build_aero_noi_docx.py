@@ -1,4 +1,4 @@
-"""Build the five course NOI review forms from their shared content file."""
+"""Build five course content review pages from their shared content file."""
 import json
 from pathlib import Path
 from docx import Document
@@ -19,17 +19,17 @@ for name in ['Normal', 'Title', 'Subtitle', 'Heading 1', 'Heading 2']:
     st = doc.styles[name]
     st.font.name = 'Arial'
     st.font.color.rgb = RGBColor(0, 0, 0)
-    st.paragraph_format.space_after = Pt(3)
+    st.paragraph_format.space_after = Pt(5)
     st.paragraph_format.space_before = Pt(0)
     st.paragraph_format.line_spacing = 1
 normal = doc.styles['Normal']
-normal.font.size = Pt(10.5)
+normal.font.size = Pt(11)
 normal.paragraph_format.widow_control = True
 for name, size in [('Title', 15), ('Subtitle', 11), ('Heading 1', 10.5)]:
     doc.styles[name].font.size = Pt(size)
     doc.styles[name].font.bold = True
 h = doc.styles['Heading 1'].paragraph_format
-h.space_before = Pt(5)
+h.space_before = Pt(7)
 h.space_after = Pt(3)
 h.keep_with_next = True
 footer = sec.footer.paragraphs[0]
@@ -58,48 +58,40 @@ def heading(s):
     doc.add_paragraph(s, 'Heading 1')
     typ.append('== ' + s + '\n')
 
+def body(value):
+    doc.add_paragraph(value)
+    typ.append(value.replace('_', r'\_') + '\n')
+
 for i,c in enumerate(courses):
     if i:
         doc.add_page_break()
         typ.append('#pagebreak()')
     n = c['number']
     independent = n == '147'
-    advanced_regulations = n == '151'
-    doc.add_paragraph('AERO ' + n + ' Notice of Intent', 'Title')
+    structure = c['structure']
+    course_heading = 'AERO ' + n + (' Proposed' if independent else '')
+    doc.add_paragraph(course_heading, 'Title')
     doc.add_paragraph(c['title'], 'Subtitle')
-    typ += ['= AERO ' + n + ' Notice of Intent', '*' + c['title'] + '*\n']
-    heading('Basic Course Information')
-    para('Subject', 'AERO, Aeronautical and Aviation Technology')
-    para('Course number', n + (' (proposed)' if independent else ''))
-    para('Tentative course description', c['description'])
-    heading('Credit and Hours')
-    if independent:
-        para('Variable hours', 'Yes. Minimum units 0.5. Maximum units 2.0. All units are lab.')
-        para('Lecture / lab / activity hours', '0 / 1.5 to 6 / 0 curriculum hours per week. Semester totals are 0 lecture, 27 to 108 lab, and 0 activity hours. Outside work is 0 hours. Total student hours are 27 to 108.')
-    elif advanced_regulations:
-        para('Variable hours', 'No. Minimum units 2.0. Lecture units 1.0. Lab units 1.0.')
-        para('Lecture / lab / activity hours', '1 / 3 / 0 curriculum hours per week. Semester totals are 18 lecture, 54 lab, and 0 activity hours. Outside work is 36 hours. Total student hours are 108.')
-    else:
-        para('Variable hours', 'No. Minimum units 3.0. Lecture units 2.0. Lab units 1.0.')
-        para('Lecture / lab / activity hours', '2 / 3 / 0 curriculum hours per week. Semester totals are 36 lecture, 54 lab, and 0 activity hours. Outside work is 72 hours. Total student hours are 162.')
-    heading('Course Content')
-    para('Fit within existing degrees or certificates', 'No. ' + ('No existing program is identified.' if independent else 'Planned certificates of specialization will be proposed separately.'))
-    para('Course rationale', c['rationale'])
-    para('Transfer or articulation intent', 'No.')
-    para('Connection to the College Mission', c['mission'])
-    para('Additional resources required', '____________________')
-    para('Resources and funding', '________________________________________________________')
-    para('Duplicate or overlap existing courses', c['overlap'])
-    heading('Minimum Qualifications')
-    para('Minimum qualification', 'Aeronautics. Condition ____________________')
-    para('Department currently has faculty meeting minimum qualifications', '____________________')
-    heading('Course Cap')
-    category = '9 - Lab - Small (20-30)' if n in ['151','161','162','163'] else '____________________'
-    para('Tentative course cap category', category + '. Tentative course cap 25.' if category[0]!='_' else category + '    Tentative course cap 25.')
-    para('Effect on department efficiency', c['efficiency'])
-    heading('Codes and Dates')
-    para('Dean or director approval date', '____________________')
-    para('Originator', 'Kyle Nessen. Co-contributor Ron Overacker.')
+    typ += ['= ' + course_heading, '*' + c['title'] + '*\n']
+    units = '0.5 to 2 lab units' if independent else f"{structure['minimum_units']} units, {structure['lecture_units']} lecture and {structure['lab_units']} lab"
+    para('Course structure', units + f". Enrollment cap {structure['cap']}." + (' Small lab.' if structure['cap_category'] else ''))
+    para('Semester hours', f"{structure['lecture_hours_per_term']} lecture, {structure['lab_hours_per_term']} lab, {structure['outside_hours_per_term']} outside work, and 0 activity. {structure['total_student_hours']} total student hours.")
+    para('Minimum qualifications', 'Aeronautics')
+    heading('Course description')
+    body(c['description'])
+    heading('Course rationale')
+    body(c['rationale'])
+    heading('Connection to the College Mission')
+    body(c['mission'])
+    heading('Program fit')
+    body('The course does not fit within an existing degree or certificate. ' + ('' if independent else 'It will support proposed certificates of specialization. ') + 'Transfer or articulation is not proposed.')
+    heading('Related courses and consultation')
+    body(c['overlap'].removeprefix('Yes. '))
+    heading('Enrollment and department efficiency')
+    body(c['efficiency'])
+    heading('Resources and funding')
+    body(structure['resources_and_funding'] or '________________________________________________________________________')
+    body('________________________________________________________________________')
 
 out = ROOT / 'output' / 'docx' / (STEM + '.docx')
 out.parent.mkdir(parents=True, exist_ok=True)

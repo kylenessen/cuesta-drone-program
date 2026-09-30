@@ -6,7 +6,26 @@
     "rationale": "Drone regulations continue to evolve, and some enterprise operations require FAA permissions or waivers beyond routine flight operations. Advanced pilots and drone program managers need the ability to evaluate these requirements and manage organizational safety. This course supports professionals responsible for complex operations, including utility work, through advanced regulatory practice and safety management aligned with FAA standards.",
     "mission": "The course supports students' career goals by preparing them for greater responsibility in professional drone programs. It develops skills that can strengthen job performance, career advancement, and earning potential while supporting responsible operations.",
     "overlap": "Yes. AERO 100 introduces drone regulations and safety. AERO 151 extends that foundation to advanced permissions, waivers, and organizational safety management. Consultation with related disciplines has established support for the proposed scope.",
-    "efficiency": "A cap of 25 supports individual feedback on regulatory analysis and safety decisions. The smaller section size allows substantive case discussion, supervised laboratory exercises, and review of students' reasoning."
+    "efficiency": "A cap of 25 supports individual feedback on regulatory analysis and safety decisions. The smaller section size allows substantive case discussion, supervised laboratory exercises, and review of students' reasoning.",
+    "structure": {
+      "minimum_units": 2,
+      "maximum_units": 2,
+      "lecture_units": 1,
+      "lab_units": 1,
+      "lecture_hours_per_term": 18,
+      "lab_hours_per_term": 54,
+      "activity_hours_per_term": 0,
+      "outside_hours_per_term": 36,
+      "total_student_hours": 108,
+      "cap": 25,
+      "cap_category": "9 - Lab - Small (20-30)",
+      "minimum_qualification": "Aeronautics",
+      "qualification_condition": "",
+      "existing_program_fit": false,
+      "transfer_intent": false,
+      "additional_resources_required": null,
+      "resources_and_funding": ""
+    }
   },
   {
     "number": "161",
@@ -15,7 +34,26 @@
     "rationale": "Employers need usable, reliable spatial data, and drone operators need more than flight skills to produce it. This course prepares students for mapping work in surveying, construction, environmental monitoring, and infrastructure management. It strengthens employment prospects and helps working professionals add drone data collection to their existing skills. The course will support proposed certificates of specialization.",
     "mission": "The course supports student success and career goals through practical skills in producing reliable spatial data. These skills can improve employment opportunities, job performance, and access to more advanced technical work.",
     "overlap": "Yes. Related content appears in GEOL 230, GEOL 233, GEOL 234, and ENGR 201. GIS, engineering, and surveying faculty have been consulted and support the course as a distinct, complementary offering. Its emphasis is drone mission design, aircraft and sensor operation, and production of reliable aerial datasets.",
-    "efficiency": "A cap of 25 matches AERO 100 and supports supervised fieldwork and individual assessment. Small crews allow students to rotate through flight, sensor, and data processing roles while receiving feedback."
+    "efficiency": "A cap of 25 matches AERO 100 and supports supervised fieldwork and individual assessment. Small crews allow students to rotate through flight, sensor, and data processing roles while receiving feedback.",
+    "structure": {
+      "minimum_units": 3,
+      "maximum_units": 3,
+      "lecture_units": 2,
+      "lab_units": 1,
+      "lecture_hours_per_term": 36,
+      "lab_hours_per_term": 54,
+      "activity_hours_per_term": 0,
+      "outside_hours_per_term": 72,
+      "total_student_hours": 162,
+      "cap": 25,
+      "cap_category": "9 - Lab - Small (20-30)",
+      "minimum_qualification": "Aeronautics",
+      "qualification_condition": "",
+      "existing_program_fit": false,
+      "transfer_intent": false,
+      "additional_resources_required": null,
+      "resources_and_funding": ""
+    }
   },
   {
     "number": "162",
@@ -24,7 +62,26 @@
     "rationale": "Drones are an expanding tool in agriculture, creating opportunities for workers who can apply the technology effectively. This course helps students compete for agricultural jobs and helps working professionals add useful capabilities to their existing roles. Specialized drone skills can support advancement and earning potential in farm operations and agricultural services. The course will support proposed certificates of specialization.",
     "mission": "The course supports students' employment and advancement goals through practical agricultural technology skills. It prepares students to improve their work, pursue new responsibilities, and contribute to the region's agricultural economy.",
     "overlap": "Yes. Related concepts appear in AGPS 230, AGPS 242, and GEOL 234. Consultation with related disciplines has established support for the course. Instruction focuses on drone sensing and application operations. Pesticide applicator knowledge and licensing instruction belong in agriculture and are outside this course's scope.",
-    "efficiency": "A cap of 25 matches AERO 100 and supports supervised agricultural flight exercises. Small crews provide opportunities to practice aircraft operation, sensor use, and application placement with individual feedback."
+    "efficiency": "A cap of 25 matches AERO 100 and supports supervised agricultural flight exercises. Small crews provide opportunities to practice aircraft operation, sensor use, and application placement with individual feedback.",
+    "structure": {
+      "minimum_units": 3,
+      "maximum_units": 3,
+      "lecture_units": 2,
+      "lab_units": 1,
+      "lecture_hours_per_term": 36,
+      "lab_hours_per_term": 54,
+      "activity_hours_per_term": 0,
+      "outside_hours_per_term": 72,
+      "total_student_hours": 162,
+      "cap": 25,
+      "cap_category": "9 - Lab - Small (20-30)",
+      "minimum_qualification": "Aeronautics",
+      "qualification_condition": "",
+      "existing_program_fit": false,
+      "transfer_intent": false,
+      "additional_resources_required": null,
+      "resources_and_funding": ""
+    }
   },
   {
     "number": "163",
@@ -33,7 +90,26 @@
     "rationale": "Public safety agencies increasingly use drones as a tool for response, assessment, and documentation. This course helps existing public safety professionals develop additional operational capabilities and helps students pursuing those careers build relevant technical skills. It supports improved job performance and opportunities for specialized assignments and advancement. The course will support proposed certificates of specialization and complement preparation for the underlying public safety roles.",
     "mission": "The course advances students' career goals by developing technical skills relevant to public safety employment and professional growth. Students learn to improve operational work while serving community needs and maintaining public trust.",
     "overlap": "Yes. Related content appears in CJ 210 and CJ 213, with additional connections to GIS. Consultation with related disciplines has established support for the course. Its distinct focus is drone operation, aerial data collection, and crew coordination in public safety scenarios.",
-    "efficiency": "A cap of 25 matches AERO 100 and supports supervised scenario exercises. Small crews allow individual assessment of flight, imaging, communication, and coordination skills while students rotate through operational roles."
+    "efficiency": "A cap of 25 matches AERO 100 and supports supervised scenario exercises. Small crews allow individual assessment of flight, imaging, communication, and coordination skills while students rotate through operational roles.",
+    "structure": {
+      "minimum_units": 3,
+      "maximum_units": 3,
+      "lecture_units": 2,
+      "lab_units": 1,
+      "lecture_hours_per_term": 36,
+      "lab_hours_per_term": 54,
+      "activity_hours_per_term": 0,
+      "outside_hours_per_term": 72,
+      "total_student_hours": 162,
+      "cap": 25,
+      "cap_category": "9 - Lab - Small (20-30)",
+      "minimum_qualification": "Aeronautics",
+      "qualification_condition": "",
+      "existing_program_fit": false,
+      "transfer_intent": false,
+      "additional_resources_required": null,
+      "resources_and_funding": ""
+    }
   },
   {
     "number": "147",
@@ -42,6 +118,25 @@
     "rationale": "Prepared students need opportunities to pursue substantial projects that extend beyond scheduled coursework. Independent study allows them to develop specialized skills, solve practical problems, and produce work that demonstrates their capabilities to employers. A flexible project format supports individual career interests and professional growth without replacing existing courses.",
     "mission": "The course supports student success through individual learning goals and applied work connected to employment or advancement. Students develop initiative, technical judgment, and evidence of their skills for future professional opportunities.",
     "overlap": "Yes. Projects build on AERO coursework and may connect with related technical disciplines. The course extends learning through individual projects and does not replace existing offerings. Project scope will be coordinated with relevant faculty. Consultation on the broader drone curriculum has established support from related disciplines.",
-    "efficiency": "A proposed cap of 25 retains the program's enrollment limit. Individual project agreements define the scope of work and instructor consultation needed for each student. Enrollment and project assignments must remain compatible with effective supervision."
+    "efficiency": "A proposed cap of 25 retains the program's enrollment limit. Individual project agreements define the scope of work and instructor consultation needed for each student. Enrollment and project assignments must remain compatible with effective supervision.",
+    "structure": {
+      "minimum_units": 0.5,
+      "maximum_units": 2,
+      "lecture_units": 0,
+      "lab_units": "0.5 to 2",
+      "lecture_hours_per_term": 0,
+      "lab_hours_per_term": "27 to 108",
+      "activity_hours_per_term": 0,
+      "outside_hours_per_term": 0,
+      "total_student_hours": "27 to 108",
+      "cap": 25,
+      "cap_category": null,
+      "minimum_qualification": "Aeronautics",
+      "qualification_condition": "",
+      "existing_program_fit": false,
+      "transfer_intent": false,
+      "additional_resources_required": null,
+      "resources_and_funding": ""
+    }
   }
 ]
