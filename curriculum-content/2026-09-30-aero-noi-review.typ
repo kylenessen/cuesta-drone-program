@@ -40,7 +40,7 @@ A cap of 25 supports individual feedback on regulatory analysis and safety decis
 
 == Resources and funding
 
-
+TBD, Grants and SWP
 
 #pagebreak()
 = AERO 161
@@ -78,7 +78,7 @@ A cap of 25 matches AERO 100 and supports supervised fieldwork and individual as
 
 == Resources and funding
 
-
+TBD, Grants and SWP
 
 #pagebreak()
 = AERO 162
@@ -116,7 +116,7 @@ A cap of 25 matches AERO 100 and supports supervised agricultural flight exercis
 
 == Resources and funding
 
-
+TBD, Grants and SWP
 
 #pagebreak()
 = AERO 163
@@ -154,7 +154,7 @@ A cap of 25 matches AERO 100 and supports supervised scenario exercises. Small c
 
 == Resources and funding
 
-
+TBD, Grants and SWP
 
 #pagebreak()
 = AERO 147 Proposed
@@ -192,5 +192,5 @@ A proposed cap of 25 retains the program's enrollment limit. Individual project 
 
 == Resources and funding
 
-
+TBD, Grants and SWP
 

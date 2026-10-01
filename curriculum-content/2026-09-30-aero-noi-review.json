@@ -23,8 +23,8 @@
       "qualification_condition": "",
       "existing_program_fit": false,
       "transfer_intent": false,
-      "additional_resources_required": null,
-      "resources_and_funding": ""
+      "additional_resources_required": true,
+      "resources_and_funding": "TBD, Grants and SWP"
     }
   },
   {
@@ -51,8 +51,8 @@
       "qualification_condition": "",
       "existing_program_fit": false,
       "transfer_intent": false,
-      "additional_resources_required": null,
-      "resources_and_funding": ""
+      "additional_resources_required": true,
+      "resources_and_funding": "TBD, Grants and SWP"
     }
   },
   {
@@ -79,8 +79,8 @@
       "qualification_condition": "",
       "existing_program_fit": false,
       "transfer_intent": false,
-      "additional_resources_required": null,
-      "resources_and_funding": ""
+      "additional_resources_required": true,
+      "resources_and_funding": "TBD, Grants and SWP"
     }
   },
   {
@@ -107,8 +107,8 @@
       "qualification_condition": "",
       "existing_program_fit": false,
       "transfer_intent": false,
-      "additional_resources_required": null,
-      "resources_and_funding": ""
+      "additional_resources_required": true,
+      "resources_and_funding": "TBD, Grants and SWP"
     }
   },
   {
@@ -135,8 +135,8 @@
       "qualification_condition": "",
       "existing_program_fit": false,
       "transfer_intent": false,
-      "additional_resources_required": null,
-      "resources_and_funding": ""
+      "additional_resources_required": true,
+      "resources_and_funding": "TBD, Grants and SWP"
     }
   }
 ]

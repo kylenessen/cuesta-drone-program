@@ -39,6 +39,45 @@
       "activity": 0
     }
   },
-  "submission_status": "Nothing launched or submitted. User has authorized document preparation and review only.",
-  "review_content_file": "2026-09-30-aero-noi-review.json"
+  "submission_status": "All five NOIs saved and verified as drafts on September 30, 2026. Nothing launched or submitted. User will review in CurrIQunet.",
+  "review_content_file": "2026-09-30-aero-noi-review.json",
+  "drafts": [
+    {
+      "course": "AERO 151",
+      "url": "https://cuesta.curriqunet.com/Form/Course/Index/9778",
+      "status": "Draft",
+      "ron_has_all_six_sections": true
+    },
+    {
+      "course": "AERO 161",
+      "url": "https://cuesta.curriqunet.com/Form/Course/Index/9779",
+      "status": "Draft",
+      "ron_has_all_six_sections": true
+    },
+    {
+      "course": "AERO 162",
+      "url": "https://cuesta.curriqunet.com/Form/Course/Index/9780",
+      "status": "Draft",
+      "ron_has_all_six_sections": true
+    },
+    {
+      "course": "AERO 163",
+      "url": "https://cuesta.curriqunet.com/Form/Course/Index/9781",
+      "status": "Draft",
+      "ron_has_all_six_sections": true
+    },
+    {
+      "course": "AERO 147",
+      "url": "https://cuesta.curriqunet.com/Form/Course/Index/9782",
+      "status": "Draft",
+      "ron_has_all_six_sections": true
+    }
+  ],
+  "resources_and_funding": "TBD, Grants and SWP",
+  "resources_answer_source": "Ron approved all course content without edits and supplied this wording for every course, as relayed by Kyle on September 30, 2026. Additional resources is marked Yes so the funding explanation is included.",
+  "remaining_blank_fields": [
+    "Dean/Director Approval Date",
+    "Department currently has qualified faculty",
+    "AERO 147 course cap category"
+  ]
 }
