@@ -40,6 +40,22 @@ The October 27 [source and decision record](2026-10-27-aero-cor-draft-basis.json
 
 Later on October 27, Kyle created [AERO 161 new course proposal 9797](https://cuesta.curriqunet.com/Form/Course/Index/9797) by cloning the active NOI and authorized entry of the existing content. The instructional sections, AERO 100 prerequisite mapping, open textbook, planned instructor materials, and a Blended DE draft are now saved in that form. It remains Draft and has not been launched. The [entry and review record](2026-10-27-aero-161-cor-entry.json) documents the field mapping, preserved selections, verification, report limitations, and remaining decisions. Kyle subsequently confirmed the credit classification, approved all five implications responses, and requested much shorter, broader topic entries. Those revisions are saved in CurrIQunet. Ron will review the entire proposal before submission. Program mapping, library consultation, DE details, and IDEAA remain among the open items. The Page and PDF retain the earlier instructional draft and do not synchronize with CurrIQunet.
 
+## Remaining COR website drafts
+
+Kyle authorized cloning the remaining active NOIs, entering a best draft in each form, and giving Ron Overacker editing access. All five COR proposals now exist as unlaunched drafts. Ron was added with all available section editing permissions selected.
+
+| Course | New course proposal |
+|---|---|
+| AERO 151 | [9798](https://cuesta.curriqunet.com/Form/Course/Index/9798) |
+| AERO 161 | [9797](https://cuesta.curriqunet.com/Form/Course/Index/9797) |
+| AERO 162 | [9799](https://cuesta.curriqunet.com/Form/Course/Index/9799) |
+| AERO 163 | [9800](https://cuesta.curriqunet.com/Form/Course/Index/9800) |
+| AERO 147 | [9801](https://cuesta.curriqunet.com/Form/Course/Index/9801) |
+
+The [remaining course entry record](2026-10-27-remaining-cor-entry.json) contains concise instructional content, proposed administrative responses, record identifiers, verification results, and remaining review items. Descriptions, outcomes, objectives, topics, linked assignment examples, evaluation methods, materials and library narratives, course cap alignment, DE details, and supported IDEAA responses were entered for all four new drafts. AERO 162 and 163 also have the authorized AERO 100 prerequisite and three content-review mappings each. Transient server errors were resolved and entry resumed. The saved reports contain all drafted core text and retain the NOI units and hours. The editable forms confirm prerequisite links that the report omits. These are drafts for review and have not been launched.
+
+Kyle confirmed college-provided computers and software and required off-campus activities for AERO 161. Field Trips and required-activity notices were added to that draft. All five courses have a No materials-fee response. Required off-campus activities in AERO 162 and 163 are drafting assumptions for review. AERO 151's prerequisite remains open. Independent study preparation and its final administrative treatment also remain open. Program mapping, library availability, instructor-resource metadata, and local DE review require college follow-up. The submitted College Council packet and September NOI records remain unchanged.
+
 ## Earlier planning material
 
 The July [certificate structure draft](certificate-structure.md) and [certificate memo](uas-certificate-structure-memo.md), the April program response, and the AERO 110 and AERO 120 drafts preserve earlier planning. Their placeholder course numbers and certificate structures have been superseded where they differ from the submitted packet and the September NOI content. Do not use those earlier proposals as the current program specification.

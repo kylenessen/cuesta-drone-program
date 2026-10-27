@@ -17,21 +17,35 @@
     "common_course": "No",
     "course_type": "C - Credit - Not Degree Applicable. Kyle confirmed this as the intended selection. Ron will review the entire proposal before submission.",
     "grading": "Letter Grade or P/NP",
-    "hours_per_week": {"lecture": 2, "lab": 3},
-    "generated_term_totals": {"lecture": 36, "lab": 54, "outside_work": 72, "student_hours": 162, "units": 3},
+    "hours_per_week": {
+      "lecture": 2,
+      "lab": 3
+    },
+    "generated_term_totals": {
+      "lecture": 36,
+      "lab": 54,
+      "outside_work": 72,
+      "student_hours": 162,
+      "units": 3
+    },
     "minimum_qualification": "Aeronautics",
-    "instruction_methods": ["Lab", "Lecture", "Distance Education"],
+    "instruction_methods": [
+      "Lab",
+      "Lecture",
+      "Distance Education",
+      "Field Trips"
+    ],
     "course_cap": 25,
     "face_to_face_limit": 25,
     "distance_education_limit": 25,
     "cap_category": "9 - Lab - Small (20-30)",
-    "contributor": "Ron Overacker is listed. His specific permission settings were not independently verified."
+    "contributor": "Ron Overacker is listed. All 25 available section editing permissions selected and checked in the form."
   },
   "basic_information": {
     "abbreviated_title": "Drone Geospatial Applications",
     "rationale": "Prepares students to produce and document usable aerial datasets for mapping, environmental monitoring, construction, infrastructure, and related applications. Complements GIS instruction through an emphasis on data collection and product quality. Supports proposed certificates of specialization. Transfer or articulation is not proposed.",
-    "catalog_description": "Existing AERO 161 draft description entered unchanged.",
-    "schedule_description": "Develops skills in drone mission planning, aerial data collection, photogrammetric processing, and geospatial product evaluation. Includes field and computer laboratory projects.",
+    "catalog_description": "Develops skills in planning drone missions, collecting aerial data, and producing reliable geospatial products. Covers sensor and camera settings, mission design, GNSS positioning, ground control, photogrammetric processing, and accuracy evaluation. Students complete applied projects that integrate safe field operations, orthomosaic production, quality assessment, and documentation for GIS and other professional uses. Introduces additional sensors and data products. Required off-campus activities.",
+    "schedule_description": "Develops skills in drone mission planning, aerial data collection, photogrammetric processing, and geospatial product evaluation. Includes field and computer laboratory projects. Required off-campus activities.",
     "college_level_assignments": "Yes",
     "esl_basic_skills": "No",
     "distance_education": "Yes",
@@ -39,37 +53,193 @@
   },
   "implications": {
     "source": "Submitted October 27 College Council packet and the September AERO 161 NOI overlap statement. Kyle approved Yes for all five fields.",
-    "Budget": {"response": "Yes", "justification": "Instruction, equipment, software, and course development are included in the UAS program funding plan."},
-    "Facilities": {"response": "Yes", "justification": "Requires outdoor operating space, equipment storage, and computing access. No construction or rental costs are proposed."},
-    "Equipment": {"response": "Yes", "justification": "Uses program aircraft, positioning equipment, field supplies, and mapping software."},
-    "Staffing": {"response": "Yes", "justification": "Qualified adjunct instruction with aerospace program oversight. No new full-time position is proposed."},
-    "Similar Course": {"response": "Yes", "justification": "Complements GIS and related courses through drone operations and aerial data production."}
+    "Budget": {
+      "response": "Yes",
+      "justification": "Instruction, equipment, software, and course development are included in the UAS program funding plan."
+    },
+    "Facilities": {
+      "response": "Yes",
+      "justification": "Requires outdoor operating space, equipment storage, and computing access. No construction or rental costs are proposed."
+    },
+    "Equipment": {
+      "response": "Yes",
+      "justification": "Uses program aircraft, positioning equipment, field supplies, and mapping software."
+    },
+    "Staffing": {
+      "response": "Yes",
+      "justification": "Qualified adjunct instruction with aerospace program oversight. No new full-time position is proposed."
+    },
+    "Similar Course": {
+      "response": "Yes",
+      "justification": "Complements GIS and related courses through drone operations and aerial data production."
+    }
   },
   "instructional_mapping": {
-    "slo_records": [17225, 17224],
-    "objective_records_in_draft_order": [32281, 32280, 32279, 32278, 32277, 32276],
+    "slo_records": [
+      17225,
+      17224
+    ],
+    "objective_records_in_draft_order": [
+      32281,
+      32280,
+      32279,
+      32278,
+      32277,
+      32276
+    ],
     "objective_evaluation_methods": [
-      {"objective": 1, "methods": ["Written/Typed Homework", "Class Performance(s)", "Quizzes/Exams"]},
-      {"objective": 2, "methods": ["Written/Typed Homework", "Class Performance(s)"]},
-      {"objective": 3, "methods": ["Written/Typed Homework", "Field Work", "Lab Reports"]},
-      {"objective": 4, "methods": ["Field Work", "Class Performance(s)", "Lab Reports"]},
-      {"objective": 5, "methods": ["Class Performance(s)", "Performance Exams", "Lab Reports"]},
-      {"objective": 6, "methods": ["Term or Other Papers", "Class Performance(s)", "Lab Reports"]}
+      {
+        "objective": 1,
+        "methods": [
+          "Written/Typed Homework",
+          "Class Performance(s)",
+          "Quizzes/Exams"
+        ]
+      },
+      {
+        "objective": 2,
+        "methods": [
+          "Written/Typed Homework",
+          "Class Performance(s)"
+        ]
+      },
+      {
+        "objective": 3,
+        "methods": [
+          "Written/Typed Homework",
+          "Field Work",
+          "Lab Reports"
+        ]
+      },
+      {
+        "objective": 4,
+        "methods": [
+          "Field Work",
+          "Class Performance(s)",
+          "Lab Reports"
+        ]
+      },
+      {
+        "objective": 5,
+        "methods": [
+          "Class Performance(s)",
+          "Performance Exams",
+          "Lab Reports"
+        ]
+      },
+      {
+        "objective": 6,
+        "methods": [
+          "Term or Other Papers",
+          "Class Performance(s)",
+          "Lab Reports"
+        ]
+      }
     ],
     "topics": [
-      {"record": 32853, "text": "Sensor selection, camera settings, and image quality.", "objectives": [1, 2]},
-      {"record": 32852, "text": "Mission planning for project requirements and operating conditions.", "objectives": [1, 2]},
-      {"record": 32851, "text": "GNSS positioning, coordinate references, ground control, and independent checkpoints.", "objectives": [3, 4]},
-      {"record": 32850, "text": "Safe field operations, crew coordination, and data collection.", "objectives": [2, 3, 4]},
-      {"record": 32849, "text": "Photogrammetric processing, georeferencing, orthomosaic production, and related geospatial products.", "objectives": [5, 6]},
-      {"record": 32848, "text": "Data accuracy, limitations, documentation, and professional use.", "objectives": [3, 5, 6]},
-      {"record": 32847, "text": "Laboratory practice in mission planning, ground control, imagery collection, processing, and accuracy evaluation.", "objectives": [1, 2, 3, 4, 5, 6]}
+      {
+        "record": 32853,
+        "text": "Sensor selection, camera settings, and image quality.",
+        "objectives": [
+          1,
+          2
+        ]
+      },
+      {
+        "record": 32852,
+        "text": "Mission planning for project requirements and operating conditions.",
+        "objectives": [
+          1,
+          2
+        ]
+      },
+      {
+        "record": 32851,
+        "text": "GNSS positioning, coordinate references, ground control, and independent checkpoints.",
+        "objectives": [
+          3,
+          4
+        ]
+      },
+      {
+        "record": 32850,
+        "text": "Safe field operations, crew coordination, and data collection.",
+        "objectives": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "record": 32849,
+        "text": "Photogrammetric processing, georeferencing, orthomosaic production, and related geospatial products.",
+        "objectives": [
+          5,
+          6
+        ]
+      },
+      {
+        "record": 32848,
+        "text": "Data accuracy, limitations, documentation, and professional use.",
+        "objectives": [
+          3,
+          5,
+          6
+        ]
+      },
+      {
+        "record": 32847,
+        "text": "Laboratory practice in mission planning, ground control, imagery collection, processing, and accuracy evaluation.",
+        "objectives": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      }
     ],
     "assignments": [
-      {"record": 20235, "type": "Critical Thinking Assignments", "summary": "Mission and control plan", "objectives": [1, 2, 3]},
-      {"record": 20234, "type": "Critical Thinking Assignments", "summary": "Dataset quality evaluation", "objectives": [3, 5, 6]},
-      {"record": 20233, "type": "Independent Work", "summary": "Reading and individual mission readiness record. Includes the 72 total outside-work hours.", "objectives": [2, 3, 4]},
-      {"record": 20232, "type": "Independent Work", "summary": "Processed dataset, geospatial deliverable, and individual written report", "objectives": [5, 6]}
+      {
+        "record": 20235,
+        "type": "Critical Thinking Assignments",
+        "summary": "Mission and control plan",
+        "objectives": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "record": 20234,
+        "type": "Critical Thinking Assignments",
+        "summary": "Dataset quality evaluation",
+        "objectives": [
+          3,
+          5,
+          6
+        ]
+      },
+      {
+        "record": 20233,
+        "type": "Independent Work",
+        "summary": "Reading and individual mission readiness record. Includes the 72 total outside-work hours.",
+        "objectives": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "record": 20232,
+        "type": "Independent Work",
+        "summary": "Processed dataset, geospatial deliverable, and individual written report",
+        "objectives": [
+          5,
+          6
+        ]
+      }
     ],
     "evaluation_section": "Selected the seven evaluation methods used across the objectives, following the form instruction. Other remains unchecked.",
     "assessment_table": "The draft alignment table was translated into objective evaluation selections and topic and assignment links. No separate table was entered."
@@ -80,9 +250,39 @@
     "requisite_record": 5403,
     "additional_aero_prerequisite": "None",
     "content_reviews": [
-      {"record": 1408, "aero_161_objectives": [4], "aero_100_objective_records": [30193], "basis": "Flight proficiency"},
-      {"record": 1407, "aero_161_objectives": [2, 4], "aero_100_objective_records": [30194], "basis": "Regulations, operations, weather, airspace, and navigation"},
-      {"record": 1406, "aero_161_objectives": [2, 4], "aero_100_objective_records": [30196, 30198], "basis": "Aircraft performance and preflight inspection"}
+      {
+        "record": 1408,
+        "aero_161_objectives": [
+          4
+        ],
+        "aero_100_objective_records": [
+          30193
+        ],
+        "basis": "Flight proficiency"
+      },
+      {
+        "record": 1407,
+        "aero_161_objectives": [
+          2,
+          4
+        ],
+        "aero_100_objective_records": [
+          30194
+        ],
+        "basis": "Regulations, operations, weather, airspace, and navigation"
+      },
+      {
+        "record": 1406,
+        "aero_161_objectives": [
+          2,
+          4
+        ],
+        "aero_100_objective_records": [
+          30196,
+          30198
+        ],
+        "basis": "Aircraft performance and preflight inspection"
+      }
     ],
     "remaining": "Review local requisite scrutiny category and formal validation. These entries are proposed content-review evidence."
   },
@@ -93,22 +293,61 @@
     "url": "https://epodreczniki.open.agh.edu.pl/handbook/4795",
     "license": "CC BY-SA 4.0",
     "other_materials_record": 4188,
-    "other_materials": "An instructor-developed course materials document is planned as the primary learning resource. It will include explanations of photogrammetric principles, worked examples, laboratory procedures, project guidance, and selected readings. Materials will be reviewed for currency and provided as part of the course in accessible digital and printable formats, without a separate required textbook purchase. The document is in preparation. Its final title, version, publication date, and review access remain to be supplied.\n\nAdditional resources may include positioning and accuracy guidance, equipment and software documentation, and project datasets. Aircraft, GNSS equipment, and processing tools are selected to support course objectives."
+    "other_materials": "An instructor-developed course materials document is planned as the primary learning resource. It will include explanations of photogrammetric principles, worked examples, laboratory procedures, project guidance, and selected readings. Materials will be reviewed for currency and provided as part of the course in accessible digital and printable formats, without a separate required textbook purchase. The document is in preparation. Its final title, version, publication date, and review access remain to be supplied.\n\nAdditional resources may include positioning and accuracy guidance, equipment and software documentation, and project datasets. Aircraft, GNSS equipment, and processing tools are selected to support course objectives.",
+    "materials_fee": "No selected. User expects course materials included in the course cost."
   },
   "distance_education": {
     "modality": "Blended (BL)",
     "basis": "Up to 36 of 90 contact hours online, or 40 percent. The form defines Blended as less than 51 percent online. Lab remains in person.",
     "accessibility": "Instruction uses accessible digital and printable materials, captions or transcripts for instructional media, and text descriptions of visual information. Course pages, documents, and handouts are structured for assistive technology. Worked examples, guided practice, and feedback support varied levels of preparation. Students may explain their reasoning through written, oral, or visual formats as appropriate to the objective, while meeting the same technical and safety standards. In-person crew roles provide each student opportunities to practice and demonstrate required skills.",
     "regular_substantive_interaction": "The instructor initiates contact during each instructional week through course guidance, explanations and demonstrations, facilitated discussions, and feedback on student work. Online discussions and individual feedback address mission design, processing decisions, and interpretation of results. The instructor monitors participation and progress and contacts students who need additional support. Students have predictable opportunities to ask questions through the college learning management system and scheduled individual or group meetings. Response times, feedback timelines, and meeting arrangements are communicated in the syllabus. Crew planning and peer review support student-to-student interaction.",
-    "instruction_adaptations": "Up to 36 lecture hours may be delivered online through the college learning management system. The 54 laboratory hours remain in person. Online instruction uses accessible readings, recorded or live demonstrations, worked examples, guided exercises, and instructor-facilitated discussion. Students compare mission designs, interpret processing results, and explain technical choices. In-person laboratory and project work connect these principles through planning, field operations, processing, and delivery. The instructor-developed materials and open companion textbook support both delivery formats without a separate required textbook purchase. Computing and software access arrangements remain to be confirmed for the planned offering.",
+    "instruction_adaptations": "Up to 36 lecture hours may be delivered online through the college learning management system. The 54 laboratory hours remain in person. Online instruction uses accessible readings, recorded or live demonstrations, worked examples, guided exercises, and instructor-facilitated discussion. Students compare mission designs, interpret processing results, and explain technical choices. In-person laboratory and project work connect these principles through planning, field operations, processing, and delivery. The instructor-developed materials and open companion textbook support both delivery formats without a separate required textbook purchase. The college provides required computer and software access. Required off-campus laboratory activities remain in person.",
     "evaluation_adaptations": "Students submit mission plans, analyses, geospatial products, and written reports through the college learning management system. Discussions, presentations, quizzes, and instructor questioning provide additional evidence of understanding. In-person laboratory demonstrations and operational records assess individual field and processing competence. Criteria address safe operations, justified technical choices, reliable georeferencing, product quality, and clear communication. Individual evidence of competence is required within shared crew projects. The instructor reviews drafts, process records, and explanations alongside final products to evaluate authorship and academic honesty. This delivery plan does not require a separate remote proctoring service.",
-    "accessibility_selections": ["Accessible shell content", "Accessible PDFs", "Captioned videos", "PowerPoint transcripts", "Screen reader formatted handouts", "Image ALT tags and descriptions"],
-    "instructor_contact_selections": ["Discussion forums with instructor feedback", "Individual LMS messaging", "Announcements", "Feedback on student work", "Small virtual or face-to-face groups", "Office hours", "Facilitating student contact"],
-    "student_contact_selections": ["Discussion forums", "Messaging", "Small virtual or face-to-face groups"],
-    "assignment_adaptations": ["LMS formatting", "Uploaded assignments", "Discussion boards", "Web links", "Text reading", "Software presentations"],
-    "evaluation_selections": ["Uploaded or typed assignments", "Discussion boards", "Timed or password-protected testing", "Virtual asynchronous presentations", "Face-to-face demonstrations"],
-    "authentication_selections": ["College LMS", "Academic honesty examples", "Regular and substantive interaction", "Authentic assessment", "Multiple assessment strategies"],
-    "remaining": "Contact-frequency selections, plagiarism-evaluation subfields, computing and software access, and local DE review remain open. The accessibility selections describe intended design commitments, not completed audits."
+    "accessibility_selections": [
+      "Accessible shell content",
+      "Accessible PDFs",
+      "Captioned videos",
+      "PowerPoint transcripts",
+      "Screen reader formatted handouts",
+      "Image ALT tags and descriptions"
+    ],
+    "instructor_contact_selections": [
+      "Discussion forums with instructor feedback",
+      "Individual LMS messaging",
+      "Announcements",
+      "Feedback on student work",
+      "Small virtual or face-to-face groups",
+      "Office hours",
+      "Facilitating student contact"
+    ],
+    "student_contact_selections": [
+      "Discussion forums",
+      "Messaging",
+      "Small virtual or face-to-face groups"
+    ],
+    "assignment_adaptations": [
+      "LMS formatting",
+      "Uploaded assignments",
+      "Discussion boards",
+      "Web links",
+      "Text reading",
+      "Software presentations"
+    ],
+    "evaluation_selections": [
+      "Uploaded or typed assignments",
+      "Discussion boards",
+      "Timed or password-protected testing",
+      "Virtual asynchronous presentations",
+      "Face-to-face demonstrations"
+    ],
+    "authentication_selections": [
+      "College LMS",
+      "Academic honesty examples",
+      "Regular and substantive interaction",
+      "Authentic assessment",
+      "Multiple assessment strategies"
+    ],
+    "remaining": "Local DE review remains open. Contact frequencies and plagiarism-evaluation subfields were completed. College computing and software access is confirmed. Accessibility selections describe intended design commitments."
   },
   "library": "Students locate and evaluate technical references on photogrammetry, positioning, geospatial data quality, and professional applications. Library resources and research assistance support source evaluation, citation, and preparation of project analyses and written reports. Librarian consultation and confirmation of resource availability remain pending.",
   "remaining_review": [
@@ -117,10 +356,8 @@
     "Associate the intended program and map SLOs to the appropriate program or institutional outcomes.",
     "Review the AERO 100 requisite scrutiny category and local content validation.",
     "Complete library consultation and the resource availability response.",
-    "Supply actual instructor-resource metadata and review access when the document exists. Confirm printing and materials funding and the materials-fee response.",
-    "Review DE contact frequencies, plagiarism-evaluation subfields, software and computer access, and local DE approval requirements.",
-    "Review the IDEAA checklist against the planned course and materials.",
-    "Resolve whether planned off-campus activities require the Field Trips or Field Experience designation. Both remain unchecked."
+    "Supply actual instructor-resource metadata and review access when the document exists. Confirm printing and materials funding.",
+    "Review the completed DE and nine selected IDEAA responses before submission."
   ],
   "verification": {
     "method": "Inspected the generated All Fields report after entry and reopened relevant form sections to verify saved values.",
@@ -129,6 +366,13 @@
     "machine_validation": "The form displays Complete while remaining Draft. This is not a finding that all policy or review requirements are met.",
     "screenshot": "../output/screenshots/2026-10-27-aero-161-curriqunet-draft.jpg",
     "concise_revision": "Reopened the form after saving to verify the seven shortened topic entries and five Yes responses with their explanations. Topic objective links were retained. Separate headings were removed to eliminate the joined-heading capitalization artifact in collapsed rows.",
-    "topics_screenshot": "../output/screenshots/2026-10-27-aero-161-concise-topics.jpg"
+    "topics_screenshot": "../output/screenshots/2026-10-27-aero-161-concise-topics.jpg",
+    "latest_changes": "Saved report confirms required off-campus notices and college computer and software access. Completed weekly contact and plagiarism-evaluation subfields, nine supported IDEAA selections, and cap assignment and evaluation links. Ron has 25 of 25 available editing permissions.",
+    "collaborator_screenshot": "../output/screenshots/2026-10-27-cor-ron-collaborator.png"
+  },
+  "latest_user_decisions": {
+    "computing": "College-provided required computer and software access. Students need not provide their own.",
+    "off_campus": "Required. Added Field Trips and catalog and schedule notices.",
+    "collaborator": "Ron Overacker with all available section editing permissions."
   }
 }

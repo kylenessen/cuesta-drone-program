@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "status": "Working content for draft entry only. Not submitted.",
+  "status": "All four remaining COR proposals drafted in CurrIQunet. Saved instructional content verified in generated reports. Nothing launched or submitted. Remaining institutional review items are listed for each course.",
   "user_direction": "Draft all remaining September NOI courses in CurrIQunet and add Ron Overacker as an editing collaborator. Use broad, concise language. College-provided computing and required off-campus work are confirmed for AERO 161.",
   "draft_assumptions": [
     "College-provided required computing is carried into all course drafts.",
@@ -162,6 +162,65 @@
         "Equipment": "Uses college-provided computing, instructional materials, and program equipment as needed.",
         "Staffing": "Qualified adjunct instruction with aerospace program oversight. No new full-time position is proposed.",
         "Similar Course": "Extends the introductory regulations and safety content of AERO 100 to organizational operations."
+      },
+      "proposal_url": "https://cuesta.curriqunet.com/Form/Course/Index/9798",
+      "records": {
+        "course": 9798,
+        "slos": [
+          "17227",
+          "17226"
+        ],
+        "objectives": [
+          "32286",
+          "32285",
+          "32284",
+          "32283",
+          "32282"
+        ],
+        "topics": [
+          "32861",
+          "32860",
+          "32859",
+          "32858",
+          "32857",
+          "32856",
+          "32855"
+        ],
+        "assignments": [
+          "20239",
+          "20238",
+          "20237",
+          "20236"
+        ]
+      },
+      "entry_status": "Descriptions, implications, credit and hour settings, instruction methods, outcomes, objectives, linked topics and assignments, evaluation methods, cap alignment, library and materials narratives, DE, materials fee, and supported IDEAA selections entered. Remains Draft.",
+      "website_remaining": [
+        "Ron review of complete draft and administrative selections",
+        "Program association and outcome mapping",
+        "Library availability confirmation",
+        "Formal instructor-resource metadata and review access",
+        "Local DE review and approval",
+        "Prerequisite decision remains open at Kyle's direction"
+      ],
+      "distance_education_draft": {
+        "modality": "Blended (BL)",
+        "accessibility": "Course materials use accessible documents, captions or transcripts, image descriptions, and formats compatible with assistive technology. Students receive guided practice and feedback while meeting the same course standards.",
+        "interaction": "The instructor initiates weekly explanations, discussion, and feedback, monitors progress, and contacts students needing support. Weekly office hours and LMS communication provide opportunities for questions. Response times and contact arrangements are stated in the syllabus.",
+        "instruction": "Up to 18 lecture hours may be online through the college LMS. The 54 laboratory hours remain in person. Readings, demonstrations, discussions, and applied exercises support the same objectives in either format. The college provides required computer and software access.",
+        "evaluation": "Individual written work, discussions, products, and demonstrations assess course objectives. The instructor reviews progress, reasoning, and final work to verify learning and authorship. College LMS access, regular interaction, and varied assessments support academic honesty.",
+        "website_status": "Entered and checked in saved report."
+      },
+      "report_url": "https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9798?entityType=Course&reportId=4",
+      "administrative": {
+        "course_type": "C - Credit - Not Degree Applicable, following Kyle's confirmed AERO 161 template.",
+        "grading": "Letter Grade or P/NP",
+        "minimum_qualification": "Aeronautics",
+        "course_cap": 25,
+        "cap_category": "9 - Lab - Small (20-30), inherited from the cloned proposal and retained for review.",
+        "cap_alignment": "Linked an applied assignment with Class Performance(s) and Lab Reports.",
+        "materials_fee": "No",
+        "library_availability": "Unanswered pending confirmation.",
+        "ideaa": "Nine supported checklist responses selected. Other responses remain unchecked for review."
       }
     },
     {
@@ -360,7 +419,88 @@
         "Equipment": "Uses agricultural imaging and application equipment, field supplies, and processing software.",
         "Staffing": "Qualified adjunct instruction with aerospace program oversight. No new full-time position is proposed.",
         "Similar Course": "Complements agriculture and remote sensing courses through drone sensing and application operations."
-      }
+      },
+      "proposal_url": "https://cuesta.curriqunet.com/Form/Course/Index/9799",
+      "records": {
+        "course": 9799,
+        "slos": [
+          "17229",
+          "17228"
+        ],
+        "objectives": [
+          "32292",
+          "32291",
+          "32290",
+          "32289",
+          "32288",
+          "32287"
+        ],
+        "topics": [
+          "32868",
+          "32867",
+          "32866",
+          "32865",
+          "32864",
+          "32863",
+          "32862"
+        ],
+        "assignments": [
+          "20243",
+          "20242",
+          "20241",
+          "20240"
+        ],
+        "materials": "4190",
+        "requisite": "5404",
+        "reviews": [
+          "1409",
+          "1410",
+          "1412"
+        ]
+      },
+      "entry_status": "Descriptions, implications, credit and hour settings, instruction methods, outcomes, objectives, linked topics and assignments, evaluation methods, cap alignment, library and materials narratives, DE, materials fee, and supported IDEAA selections entered. Remains Draft.",
+      "website_remaining": [
+        "Ron review of complete draft and administrative selections",
+        "Program association and outcome mapping",
+        "Library availability confirmation",
+        "Formal instructor-resource metadata and review access",
+        "Local DE review and approval",
+        "Review prerequisite scrutiny category and local content validation",
+        "Review proposed required off-campus activities"
+      ],
+      "distance_education_draft": {
+        "modality": "Blended (BL)",
+        "accessibility": "Course materials use accessible documents, captions or transcripts, image descriptions, and formats compatible with assistive technology. Students receive guided practice and feedback while meeting the same course standards.",
+        "interaction": "The instructor initiates weekly explanations, discussion, and feedback, monitors progress, and contacts students needing support. Weekly office hours and LMS communication provide opportunities for questions. Response times and contact arrangements are stated in the syllabus.",
+        "instruction": "Up to 36 lecture hours may be online through the college LMS. The 54 laboratory hours remain in person. Readings, demonstrations, discussions, and applied exercises support the same objectives in either format. The college provides required computer and software access.",
+        "evaluation": "Individual written work, discussions, products, and demonstrations assess course objectives. The instructor reviews progress, reasoning, and final work to verify learning and authorship. College LMS access, regular interaction, and varied assessments support academic honesty.",
+        "website_status": "Entered and checked in saved report."
+      },
+      "report_url": "https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9799?entityType=Course&reportId=4",
+      "administrative": {
+        "course_type": "C - Credit - Not Degree Applicable, following Kyle's confirmed AERO 161 template.",
+        "grading": "Letter Grade or P/NP",
+        "minimum_qualification": "Aeronautics",
+        "course_cap": 25,
+        "cap_category": "9 - Lab - Small (20-30), inherited from the cloned proposal and retained for review.",
+        "cap_alignment": "Linked an applied assignment with Class Performance(s) and Lab Reports.",
+        "materials_fee": "No",
+        "library_availability": "Unanswered pending confirmation.",
+        "ideaa": "Nine supported checklist responses selected. Other responses remain unchecked for review."
+      },
+      "prerequisite_website_status": "AERO 100 active record 9436 selected as sole prerequisite. Three content-review records link source and target objectives.",
+      "prerequisite_source_objectives": [
+        [
+          30193
+        ],
+        [
+          30194
+        ],
+        [
+          30195,
+          30196
+        ]
+      ]
     },
     {
       "number": "163",
@@ -552,7 +692,87 @@
         "Equipment": "Uses program aircraft, imaging systems, field supplies, and processing software.",
         "Staffing": "Qualified adjunct instruction with aerospace program oversight. No new full-time position is proposed.",
         "Similar Course": "Complements criminal justice and emergency response instruction through drone mission support and documentation."
-      }
+      },
+      "proposal_url": "https://cuesta.curriqunet.com/Form/Course/Index/9800",
+      "records": {
+        "course": 9800,
+        "slos": [
+          "17231",
+          "17230"
+        ],
+        "objectives": [
+          "32298",
+          "32297",
+          "32296",
+          "32295",
+          "32294",
+          "32293"
+        ],
+        "topics": [
+          "32875",
+          "32874",
+          "32873",
+          "32872",
+          "32871",
+          "32870",
+          "32869"
+        ],
+        "assignments": [
+          "20247",
+          "20246",
+          "20245",
+          "20244"
+        ],
+        "materials": "4192",
+        "requisite": "5405",
+        "reviews": [
+          "1411",
+          "1413",
+          "1414"
+        ]
+      },
+      "entry_status": "Descriptions, implications, credit and hour settings, instruction methods, outcomes, objectives, linked topics and assignments, evaluation methods, cap alignment, library and materials narratives, DE, materials fee, and supported IDEAA selections entered. Remains Draft.",
+      "website_remaining": [
+        "Ron review of complete draft and administrative selections",
+        "Program association and outcome mapping",
+        "Library availability confirmation",
+        "Formal instructor-resource metadata and review access",
+        "Local DE review and approval",
+        "Review prerequisite scrutiny category and local content validation",
+        "Review proposed required off-campus activities"
+      ],
+      "distance_education_draft": {
+        "modality": "Blended (BL)",
+        "accessibility": "Course materials use accessible documents, captions or transcripts, image descriptions, and formats compatible with assistive technology. Students receive guided practice and feedback while meeting the same course standards.",
+        "interaction": "The instructor initiates weekly explanations, discussion, and feedback, monitors progress, and contacts students needing support. Weekly office hours and LMS communication provide opportunities for questions. Response times and contact arrangements are stated in the syllabus.",
+        "instruction": "Up to 36 lecture hours may be online through the college LMS. The 54 laboratory hours remain in person. Readings, demonstrations, discussions, and applied exercises support the same objectives in either format. The college provides required computer and software access.",
+        "evaluation": "Individual written work, discussions, products, and demonstrations assess course objectives. The instructor reviews progress, reasoning, and final work to verify learning and authorship. College LMS access, regular interaction, and varied assessments support academic honesty.",
+        "website_status": "Entered and checked in saved report."
+      },
+      "report_url": "https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9800?entityType=Course&reportId=4",
+      "administrative": {
+        "course_type": "C - Credit - Not Degree Applicable, following Kyle's confirmed AERO 161 template.",
+        "grading": "Letter Grade or P/NP",
+        "minimum_qualification": "Aeronautics",
+        "course_cap": 25,
+        "cap_category": "9 - Lab - Small (20-30), inherited from the cloned proposal and retained for review.",
+        "cap_alignment": "Linked an applied assignment with Class Performance(s) and Lab Reports.",
+        "materials_fee": "No",
+        "library_availability": "Unanswered pending confirmation.",
+        "ideaa": "Nine supported checklist responses selected. Other responses remain unchecked for review."
+      },
+      "prerequisite_website_status": "AERO 100 active record 9436 selected as sole prerequisite. Three content-review records link source and target objectives.",
+      "prerequisite_source_objectives": [
+        [
+          30193
+        ],
+        [
+          30194
+        ],
+        [
+          30195
+        ]
+      ]
     },
     {
       "number": "147",
@@ -688,7 +908,86 @@
         "Equipment": "Equipment, software, and materials are selected for the approved study from available program resources.",
         "Staffing": "Qualified adjunct instruction with aerospace program oversight. No new full-time position is proposed.",
         "Similar Course": "Follows the college independent study model while addressing drone technology beyond scheduled courses."
+      },
+      "proposal_url": "https://cuesta.curriqunet.com/Form/Course/Index/9801",
+      "records": {
+        "course": 9801,
+        "slos": [
+          "17233",
+          "17232"
+        ],
+        "objectives": [
+          "32303",
+          "32302",
+          "32301",
+          "32300",
+          "32299"
+        ],
+        "topics": [
+          "32880",
+          "32879",
+          "32878",
+          "32877",
+          "32876"
+        ],
+        "assignments": [
+          "20251",
+          "20250",
+          "20249",
+          "20248"
+        ],
+        "materials": "4191"
+      },
+      "entry_status": "Descriptions, implications, credit and hour settings, instruction methods, outcomes, objectives, linked topics and assignments, evaluation methods, cap alignment, library and materials narratives, DE, materials fee, and supported IDEAA selections entered. Remains Draft.",
+      "website_remaining": [
+        "Ron review of complete draft and administrative selections",
+        "Program association and outcome mapping",
+        "Library availability confirmation",
+        "Formal instructor-resource metadata and review access",
+        "Local DE review and approval",
+        "Review independent study number, preparation, cap category, enrollment arrangements, and suitable delivery modes"
+      ],
+      "distance_education_draft": {
+        "website_status": "Entered and checked in saved report.",
+        "instruction": "Delivery follows the approved study agreement. Research, analysis, and suitable technical work may occur online with regular instructor consultation. Physical operations requiring supervision remain in person. The college provides required computer and software access.",
+        "interaction": "The instructor initiates weekly explanations, consultation, and feedback, reviews progress, and contacts students needing support. Weekly LMS discussions connect students with peers to compare methods and review work. Office hours and LMS communication provide opportunities for individual questions.",
+        "evaluation": "Progress records, individual explanations, and final products or demonstrations document achievement of the agreed objectives. The instructor reviews the process and results to verify individual learning and authorship.",
+        "accessibility": "Course materials use accessible documents, captions or transcripts, image descriptions, and formats compatible with assistive technology. Students receive guided practice and feedback while meeting the same course standards.",
+        "modality": "Fully Online, Hybrid, and Blended selected for suitable projects. Physical operations requiring supervision remain in person. Final delivery arrangements require review."
+      },
+      "report_url": "https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9801?entityType=Course&reportId=4",
+      "administrative": {
+        "course_type": "C - Credit - Not Degree Applicable, following Kyle's confirmed AERO 161 template.",
+        "grading": "Letter Grade or P/NP",
+        "minimum_qualification": "Aeronautics",
+        "course_cap": 25,
+        "cap_category": "9 - Lab - Small (20-30), inherited from the cloned proposal and retained for review.",
+        "cap_alignment": "Linked an applied assignment with Class Performance(s) and Lab Reports.",
+        "materials_fee": "No",
+        "library_availability": "Unanswered pending confirmation.",
+        "ideaa": "Nine supported checklist responses selected. Other responses remain unchecked for review."
       }
     }
-  ]
+  ],
+  "collaborator": "Ron Overacker added to all five COR drafts with editing permission for every available section. Final checks showed 24 of 24 permissions for AERO 151 and 25 of 25 for AERO 161, 162, 163, and 147. No message sent.",
+  "entry_interruption": "Transient server errors interrupted entry. The queued alerts were cleared, the stalled duplicate tab was closed, and entry resumed. No user action was needed. Completed content was checked in generated reports afterward.",
+  "verification": {
+    "method": "Compared saved All Fields reports with the drafted descriptions, outcomes, objectives, topics, assignments, and materials. Reopened selected prerequisite controls after reloading to check source-objective links omitted from the report.",
+    "missing_core_text": {
+      "151": 0,
+      "162": 0,
+      "163": 0,
+      "147": 0
+    },
+    "units": {
+      "151": "2",
+      "161": "3",
+      "162": "3",
+      "163": "3",
+      "147": "0.5 to 2"
+    },
+    "de": "All four new reports show five weekly contact selections and No for materials fees.",
+    "report_limitations": "All Fields prints unused default guidance as well as entered responses. Assignment type labels are blank in its main assignment section but appear in ASSIST Preview. Some prerequisite source-objective selections are omitted in the report. Reopened controls confirm the selections are saved. ASSIST Preview may order objectives differently and lag the main evaluation section. Use the editable form for these selections.",
+    "screenshot": "../output/screenshots/2026-10-27-cor-ron-collaborator.png"
+  }
 }
