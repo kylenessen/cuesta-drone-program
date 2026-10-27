@@ -12,10 +12,10 @@
     "Active AERO 100 objectives in CurrIQunet record 9436",
     "Existing entries and controls in AERO 161 proposal 9797"
   ],
-  "scope": "Mapped existing instructional content into native fields. Added concise schedule, library, and distance education draft language. Preserved existing administrative selections and left unsupported decisions open. The Page and PDF were not changed.",
+  "scope": "Mapped existing instructional content into native fields. Added concise schedule, library, and distance education draft language. Subsequently shortened Topics and Scope and completed all five implications responses at Kyle's direction. Preserved existing administrative selections and left unsupported decisions open. The Page and PDF were not changed.",
   "preserved_entries": {
     "common_course": "No",
-    "course_type": "C - Credit - Not Degree Applicable. Requires review.",
+    "course_type": "C - Credit - Not Degree Applicable. Kyle confirmed this as the intended selection. Ron will review the entire proposal before submission.",
     "grading": "Letter Grade or P/NP",
     "hours_per_week": {"lecture": 2, "lab": 3},
     "generated_term_totals": {"lecture": 36, "lab": 54, "outside_work": 72, "student_hours": 162, "units": 3},
@@ -37,6 +37,14 @@
     "distance_education": "Yes",
     "correspondence_education": "No"
   },
+  "implications": {
+    "source": "Submitted October 27 College Council packet and the September AERO 161 NOI overlap statement. Kyle approved Yes for all five fields.",
+    "Budget": {"response": "Yes", "justification": "Instruction, equipment, software, and course development are included in the UAS program funding plan."},
+    "Facilities": {"response": "Yes", "justification": "Requires outdoor operating space, equipment storage, and computing access. No construction or rental costs are proposed."},
+    "Equipment": {"response": "Yes", "justification": "Uses program aircraft, positioning equipment, field supplies, and mapping software."},
+    "Staffing": {"response": "Yes", "justification": "Qualified adjunct instruction with aerospace program oversight. No new full-time position is proposed."},
+    "Similar Course": {"response": "Yes", "justification": "Complements GIS and related courses through drone operations and aerial data production."}
+  },
   "instructional_mapping": {
     "slo_records": [17225, 17224],
     "objective_records_in_draft_order": [32281, 32280, 32279, 32278, 32277, 32276],
@@ -49,13 +57,13 @@
       {"objective": 6, "methods": ["Term or Other Papers", "Class Performance(s)", "Lab Reports"]}
     ],
     "topics": [
-      {"record": 32853, "title": "Sensors and image quality", "objectives": [1, 2]},
-      {"record": 32852, "title": "Mission design", "objectives": [1, 2]},
-      {"record": 32851, "title": "Positioning and control", "objectives": [3, 4]},
-      {"record": 32850, "title": "Field operations", "objectives": [2, 3, 4]},
-      {"record": 32849, "title": "Processing and products", "objectives": [5, 6]},
-      {"record": 32848, "title": "Quality and professional use", "objectives": [3, 5, 6]},
-      {"record": 32847, "title": "Laboratory applications", "objectives": [1, 2, 3, 4, 5, 6]}
+      {"record": 32853, "text": "Sensor selection, camera settings, and image quality.", "objectives": [1, 2]},
+      {"record": 32852, "text": "Mission planning for project requirements and operating conditions.", "objectives": [1, 2]},
+      {"record": 32851, "text": "GNSS positioning, coordinate references, ground control, and independent checkpoints.", "objectives": [3, 4]},
+      {"record": 32850, "text": "Safe field operations, crew coordination, and data collection.", "objectives": [2, 3, 4]},
+      {"record": 32849, "text": "Photogrammetric processing, georeferencing, orthomosaic production, and related geospatial products.", "objectives": [5, 6]},
+      {"record": 32848, "text": "Data accuracy, limitations, documentation, and professional use.", "objectives": [3, 5, 6]},
+      {"record": 32847, "text": "Laboratory practice in mission planning, ground control, imagery collection, processing, and accuracy evaluation.", "objectives": [1, 2, 3, 4, 5, 6]}
     ],
     "assignments": [
       {"record": 20235, "type": "Critical Thinking Assignments", "summary": "Mission and control plan", "objectives": [1, 2, 3]},
@@ -104,9 +112,8 @@
   },
   "library": "Students locate and evaluate technical references on photogrammetry, positioning, geospatial data quality, and professional applications. Library resources and research assistance support source evaluation, citation, and preparation of project analyses and written reports. Librarian consultation and confirmation of resource availability remain pending.",
   "remaining_review": [
-    "Confirm credit and degree applicability. Preserve the user's existing C - Credit - Not Degree Applicable selection until reviewed.",
+    "Ron will review the complete draft before submission. Kyle confirmed the existing credit classification as intentional.",
     "Confirm the weekly hour convention while preserving 36 lecture hours, 54 lab hours, 72 outside hours, and 3 units.",
-    "Complete budget, facilities, equipment, staffing, and similar-course implications.",
     "Associate the intended program and map SLOs to the appropriate program or institutional outcomes.",
     "Review the AERO 100 requisite scrutiny category and local content validation.",
     "Complete library consultation and the resource availability response.",
@@ -120,6 +127,8 @@
     "confirmed": "Two SLOs, six objectives, seven topic entries, four assignments, evaluation selections, materials, AERO 100 prerequisite and content-review mappings, library draft, and DE narratives and selections are saved.",
     "report_limitations": "The All Fields report leaves assignment-type text blank and omits the third prerequisite review's selected source objectives. Reopened controls show two Critical Thinking and two Independent Work assignments and both aircraft-performance and preflight-inspection objectives checked in review 1406. Report preview evaluation text also differs from the main evaluation section. Use the editable form for review of these selections.",
     "machine_validation": "The form displays Complete while remaining Draft. This is not a finding that all policy or review requirements are met.",
-    "screenshot": "../output/screenshots/2026-10-27-aero-161-curriqunet-draft.jpg"
+    "screenshot": "../output/screenshots/2026-10-27-aero-161-curriqunet-draft.jpg",
+    "concise_revision": "Reopened the form after saving to verify the seven shortened topic entries and five Yes responses with their explanations. Topic objective links were retained. Separate headings were removed to eliminate the joined-heading capitalization artifact in collapsed rows.",
+    "topics_screenshot": "../output/screenshots/2026-10-27-aero-161-concise-topics.jpg"
   }
 }

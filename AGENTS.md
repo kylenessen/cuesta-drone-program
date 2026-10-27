@@ -21,4 +21,5 @@ Start with the [repository README](README.md), the [submitted College Council pa
 - Prefer narrative paragraphs over bulleted lists
 - Capture my intent and reasoning, but polish the language for professional sharing
 - Writing should be ready to send to colleagues, not raw transcription of my voice
+- Keep Course Outlines of Record high level, broadly written, and as brief as possible. Include necessary scope and requirements. Keep optional teaching specifications in separate planning notes.
 - Do not put Codex as co-author in commits or PRs
