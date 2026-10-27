@@ -62,6 +62,8 @@ The October 27 [independent study research memo](../output/pdf/2026-10-27-indepe
 
 The [structured evidence record](2026-10-27-independent-study-research.json) preserves source links, dates, verification methods, course fields, and limitations. The [Typst source](2026-10-27-independent-study-research.typ) produces the memo with `typst compile curriculum-content/2026-10-27-independent-study-research.typ output/pdf/2026-10-27-independent-study-research.pdf`. Existing proposal content and the submitted College Council packet were not changed by this research.
 
+Kyle subsequently selected ENGR 247 as the preferred model and asked to pursue transfer credit if defensible. The [follow-up direction and proposed text](2026-10-27-independent-study-direction.json) develops AERO 247 with CSU transferable elective credit as the recommended goal, subject to curriculum and articulation review. It includes a concise explanation for Ron and a current Cal Poly undergraduate aerospace research comparison. This supersedes the memo's earlier preference for retaining 147 as the development direction. No number or transfer designation has been changed in CurrIQunet.
+
 ## Earlier planning material
 
 The July [certificate structure draft](certificate-structure.md) and [certificate memo](uas-certificate-structure-memo.md), the April program response, and the AERO 110 and AERO 120 drafts preserve earlier planning. Their placeholder course numbers and certificate structures have been superseded where they differ from the submitted packet and the September NOI content. Do not use those earlier proposals as the current program specification.

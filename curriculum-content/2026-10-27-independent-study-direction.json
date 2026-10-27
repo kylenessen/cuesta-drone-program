@@ -1,0 +1,65 @@
+{
+  "title": "Engineering model and proposed transfer direction for drone independent study",
+  "date": "2026-10-27",
+  "status": "Local proposal for discussion. No CurrIQunet changes or messages sent.",
+  "prior_research": "2026-10-27-independent-study-research.json",
+  "user_direction": "Use ENGR 247 as the model. Pursue transfer-level credit if defensible. Give Ron a clear explanation of the educational purpose and reason for this approach without requiring Kyle to learn the administrative details.",
+  "recommendation": {
+    "working_number": "AERO 247, subject to availability and curriculum confirmation",
+    "title": "Independent Studies in Drone Technology",
+    "credit_goal": "Degree-applicable lower-division CSU transfer credit, initially as elective units",
+    "claim_limits": "This is a proposed designation. It does not establish UC transfer, general education credit, major applicability, or equivalency to a Cal Poly course.",
+    "relationship_to_previous_memo": "Replaces the earlier recommendation to retain 147 as the preferred development direction. The prior memo remains an unchanged record of the initial research.",
+    "model": "Use active ENGR 247 record 755 for the local independent study structure and request its cap of five. Retain 0.5 to 2 units, 27 to 108 lab hours, Letter Grade or P/NP, and the college agreement process. Cap/category treatment and paid supervision still require local confirmation.",
+    "preparation": "Use completed preparatory coursework relevant to the approved project, following ENGR. Resolve its formal requisite entry through curriculum review.",
+    "academic_emphasis": "Require application of concepts, evaluation of technical literature, justified methods, analysis of evidence, and written communication. Scale work to the approved units. Routine flight practice alone would not meet the proposed academic scope.",
+    "delivery": "Adapt ENGR's delivery framework to project needs. Online projects must achieve the outcomes remotely. Required in-person instruction uses an appropriate mixed or in-person arrangement. Consultation and feedback must work for a single student."
+  },
+  "proposed_core_text": {
+    "description": "Provides faculty-directed investigation of selected problems in drone technology beyond regularly scheduled coursework. Students apply relevant concepts, evaluate technical sources, analyze evidence, and communicate findings and limitations. A written agreement establishes project objectives, methods, workload, and evaluation.",
+    "rationale": "Provides prepared students with individually supervised opportunities to investigate drone technology questions beyond scheduled courses. Develops analytical reasoning, technical inquiry, and communication through applied projects. Follows Cuesta's Engineering independent study model and seeks lower-division CSU transfer credit.",
+    "outcomes": [
+      "Investigate a selected problem in drone technology using relevant concepts, technical sources, and appropriate methods.",
+      "Analyze evidence and communicate supported conclusions, limitations, and implications."
+    ],
+    "assignment_examples": [
+      "Evaluate technical literature relevant to the project and use it to justify an investigative approach.",
+      "Maintain a progress record documenting methods, evidence, technical decisions, and revisions.",
+      "Prepare a concise technical report explaining the question, methods, results, limitations, and conclusions. Include a product or demonstration when appropriate."
+    ],
+    "evaluation": "Evaluate the quality of the investigation, application of relevant concepts, analysis of evidence, and written explanation of results. Use the agreed objectives and progress record to assess individual learning.",
+    "planning_example": "Investigate how flight planning choices affect mapping accuracy. Compare relevant sources, analyze evidence, and explain the resulting limitations. This is an optional example for the rationale, not a required COR topic."
+  },
+  "draft_explanation_for_ron": "I propose using Engineering 247 as the model for drone independent study. It gives prepared students a supervised way to investigate questions beyond our scheduled courses, with a written agreement, regular faculty review, and a final technical report. Students would apply relevant concepts, evaluate sources, analyze evidence, and explain their conclusions. That academic work supports pursuing AERO 247 with CSU transferable elective credit. It would serve students continuing to a university as well as those building professional capabilities. Cal Poly's lower-division aerospace special problems course provides a useful comparison. We would ask curriculum and articulation staff to confirm the designation and the college's arrangements for supervision.",
+  "recommended_sequence": [
+    "Use the concise proposed text and ENGR comparison as the working basis for Ron's review.",
+    "Resolve the CSU transfer designation and proposed number with the articulation officer and curriculum specialist. Confirm how the revised direction relates to the existing NOI and unlaunched proposal.",
+    "Confirm the cap/category entry and faculty assignment with the local curriculum and instructional processes, then reconcile the working proposal fields before launch."
+  ],
+  "sources": [
+    {
+      "title": "Cuesta ENGR 247 active All Fields report",
+      "url": "https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/755?entityType=Course&reportId=4",
+      "basis": "Verified earlier on October 27 and recorded in the companion research. CSU transfer field, degree-applicable credit, cap five, variable units, preparatory coursework, and individual technical study provide the local model."
+    },
+    {
+      "title": "Cal Poly 2026-2028 catalog, Aerospace Engineering",
+      "url": "https://catalog.calpoly.edu/courses/aero/",
+      "verified_date": "2026-10-27",
+      "finding": "AERO 2200 Special Problems for Undergraduates is 1 to 3 units and describes individual investigation, research, studies, or surveys of selected problems. Formerly AERO 200. This supports a comparison of educational purpose, not a course equivalency claim."
+    },
+    {
+      "title": "Cal Poly semester course numbering",
+      "url": "https://semesters.calpoly.edu/conversion-materials/course-numbering",
+      "verified_date": "2026-10-27",
+      "finding": "2000-level courses are second-year courses. 2200 is the designated Special Problems for Undergraduates number."
+    },
+    {
+      "title": "CSU Guiding Notes for Cal-GETC Course Review, September 2025",
+      "url": "https://www.calstate.edu/csu-system/administration/academic-and-student-affairs/academic-programs-innovation-and-faculty-development/geac/Documents/GE-Reviewers-Guiding-Notes.pdf",
+      "verified_date": "2026-10-27",
+      "method_and_limit": "Official search-index excerpt read. Direct PDF retrieval returned 404. Used only for its general discussion of transfer-level indicators, not as proof of Cuesta approval or a local procedure.",
+      "finding": "Describes community college determinations of CSU transferability and indicators including intellectual content, reading and writing, substantial student-faculty interaction, and comparable university courses."
+    }
+  ]
+}
