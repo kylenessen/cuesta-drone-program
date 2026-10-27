@@ -17,7 +17,7 @@
     "Retain the September NOI scope. AERO 161 includes the orthomosaic workflow, GNSS, ground control, and independent accuracy checks. AERO 162 includes visible, multispectral, and thermal sensing and application placement. AERO 163 includes search, incident assessment, and photogrammetric scene documentation.",
     "Use water for AERO 162 application exercises, consistent with the submitted October packet. The older agricultural pesticide licensing course is contextual material, not the specification for AERO 162.",
     "Use the independent study agreement to define project-specific objectives, activities, reviews, resources, and evaluation. Do not make every independent study project a flight or mapping project.",
-    "The instructional resources paragraphs identify appropriate categories of materials. AERO 161 now specifies an instructor-developed primary resource. Published companion references remain recommendations pending selection. The other courses retain their initial materials placeholders."
+    "AERO 161 uses an instructor-developed primary resource and Krystian Pyka's Basics of Photogrammetry, published by Open AGH in 2026, as its selected companion reference. Neither requires a separate textbook purchase. The other courses retain their initial materials placeholders."
   ],
   "remaining_administrative_work": [
     "Verify the post-September NOI workflow status and any subsequent curriculum changes before entering CORs.",
@@ -41,10 +41,19 @@
     ],
     "remaining": [
       "The instructor-developed document is planned. It has not been authored or published. Record its actual title, author, version, date, and review access when available.",
-      "Kyle has not selected a published companion reference. The recommendations below are not adopted or required texts.",
       "Complete local prerequisite validation and CurrIQunet field selections, including objective evaluation selections, grading, discipline assignment, outcome mapping, modality, library and resource responses, and the weekly hour convention. The Page remains an instructional content draft.",
       "Confirm local acceptance of the representative materials package before submission. Seven years is Kyle's reference selection target. The older Cuesta form also asks for a rationale for textbooks over five years old."
     ],
+    "selected_companion": {
+      "author": "Krystian Pyka",
+      "title": "Basics of Photogrammetry",
+      "year": "2026",
+      "publisher": "AGH University of Krakow, Open AGH",
+      "url": "https://epodreczniki.open.agh.edu.pl/handbook/4795",
+      "license": "CC BY-SA 4.0",
+      "selection_date": "2026-10-27",
+      "role": "User-selected open companion reference to the planned instructor-developed primary resource. No separate textbook purchase. Formal CurrIQunet materials entry remains to be completed."
+    },
     "reference_recommendations": [
       {
         "author": "Krystian Pyka",
