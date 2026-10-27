@@ -4,10 +4,9 @@
   "user_direction": "Draft all remaining September NOI courses in CurrIQunet and add Ron Overacker as an editing collaborator. Use broad, concise language. College-provided computing and required off-campus work are confirmed for AERO 161.",
   "draft_assumptions": [
     "College-provided required computing is carried into all course drafts.",
-    "Required off-campus activities are proposed for AERO 162 and 163 based on their fieldwork. This is a drafting assumption for review.",
     "The three scheduled courses use Blended delivery with online lecture and in-person lab.",
     "Independent study delivery is project-dependent. Online work is limited to suitable study activities. Physical operations require in-person supervision.",
-    "AERO 151 prerequisite remains open. AERO 147 preparation, cap category, and course number remain for review."
+    "AERO 147 preparation, cap category, course number, and delivery arrangement remain for review."
   ],
   "courses": [
     {
@@ -155,7 +154,7 @@
       ],
       "library": "Students use regulatory and safety references to support analysis and written recommendations.",
       "field_trips": false,
-      "prerequisite_status": "Open at Kyle's direction. No prerequisite decision entered.",
+      "prerequisite_status": "No prerequisite. AERO 100 recommended as an advisory.",
       "implications": {
         "Budget": "Instruction and course resources are included in the UAS program funding plan.",
         "Facilities": "Uses college classroom and computing facilities.",
@@ -191,6 +190,12 @@
           "20238",
           "20237",
           "20236"
+        ],
+        "advisory": "5406",
+        "reviews": [
+          "1415",
+          "1416",
+          "1417"
         ]
       },
       "entry_status": "Descriptions, implications, credit and hour settings, instruction methods, outcomes, objectives, linked topics and assignments, evaluation methods, cap alignment, library and materials narratives, DE, materials fee, and supported IDEAA selections entered. Remains Draft.",
@@ -200,7 +205,7 @@
         "Library availability confirmation",
         "Formal instructor-resource metadata and review access",
         "Local DE review and approval",
-        "Prerequisite decision remains open at Kyle's direction"
+        "Review advisory content validation and recommended-preparation classification"
       ],
       "distance_education_draft": {
         "modality": "Blended (BL)",
@@ -221,7 +226,48 @@
         "materials_fee": "No",
         "library_availability": "Unanswered pending confirmation.",
         "ideaa": "Nine supported checklist responses selected. Other responses remain unchecked for review."
-      }
+      },
+      "advisory": "AERO 100 Basic UAV Operator",
+      "content_review": [
+        {
+          "preparation": "AERO 100 introduces regulations and operational procedures.",
+          "application": "This foundation supports regulatory interpretation and analysis of permissions.",
+          "objectives": [
+            1,
+            2
+          ]
+        },
+        {
+          "preparation": "AERO 100 develops judgment and human-factor risk mitigation.",
+          "application": "This foundation supports hazard assessment, procedures, and safety improvement.",
+          "objectives": [
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "preparation": "AERO 100 develops preflight inspection skills for identifying deficiencies.",
+          "application": "This foundation supports hazard recognition, procedures, and review of operational records.",
+          "objectives": [
+            3,
+            4,
+            5
+          ]
+        }
+      ],
+      "advisory_source_objectives": [
+        [
+          30194
+        ],
+        [
+          30195
+        ],
+        [
+          30198
+        ]
+      ],
+      "advisory_website_status": "AERO 100 active record 9436 entered as Advisory. Saved report confirms Prerequisites None and Advisories AERO 100. Three content-review mappings support the recommendation."
     },
     {
       "number": "162",
@@ -465,8 +511,7 @@
         "Library availability confirmation",
         "Formal instructor-resource metadata and review access",
         "Local DE review and approval",
-        "Review prerequisite scrutiny category and local content validation",
-        "Review proposed required off-campus activities"
+        "Review prerequisite scrutiny category and local content validation"
       ],
       "distance_education_draft": {
         "modality": "Blended (BL)",
@@ -500,7 +545,8 @@
           30195,
           30196
         ]
-      ]
+      ],
+      "field_trips_confirmation": "Kyle confirmed required off-campus activities during review."
     },
     {
       "number": "163",
@@ -738,8 +784,7 @@
         "Library availability confirmation",
         "Formal instructor-resource metadata and review access",
         "Local DE review and approval",
-        "Review prerequisite scrutiny category and local content validation",
-        "Review proposed required off-campus activities"
+        "Review prerequisite scrutiny category and local content validation"
       ],
       "distance_education_draft": {
         "modality": "Blended (BL)",
@@ -772,7 +817,8 @@
         [
           30195
         ]
-      ]
+      ],
+      "field_trips_confirmation": "Kyle confirmed required off-campus activities during review."
     },
     {
       "number": "147",
@@ -998,6 +1044,17 @@
       "content_review_check": "Each course has one prerequisite entry and three content-review entries for AERO 100. The three reviews map distinct foundational skills to new course objectives, consistent with the form instruction to identify at least three examples. These are not duplicate prerequisites.",
       "verification": "Saved All Fields reports confirm both revised assignments, removal of the hour-total sentence, and the revised AERO 162 catalog and schedule descriptions.",
       "screenshot": "../output/screenshots/2026-10-27-aero-162-spraying-description.png"
+    },
+    {
+      "date": "2026-10-27",
+      "direction": "Kyle confirmed AERO 100 as recommended preparation only for AERO 151 and required off-campus activities for AERO 162 and 163.",
+      "changes": "Entered AERO 100 as Advisory for AERO 151, with three supporting content-review mappings. No prerequisite was added. Existing required off-campus wording in AERO 162 and 163 retained and marked confirmed.",
+      "verification": "Saved report shows Prerequisites None, Corequisites None, and Advisories Advisory AERO 100.",
+      "screenshot": "../output/screenshots/2026-10-27-aero-151-advisory.png"
     }
-  ]
+  ],
+  "confirmed_decisions": {
+    "aero_151_preparation": "AERO 100 is recommended preparation only. Kyle explicitly does not want it to be a prerequisite.",
+    "off_campus": "Required in AERO 161, 162, and 163. Kyle confirmed 162 and 163 during review."
+  }
 }
