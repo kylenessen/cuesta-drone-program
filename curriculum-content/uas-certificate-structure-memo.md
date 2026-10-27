@@ -1,11 +1,13 @@
 # UAS Certificate Structure, Revised Proposal
 
+Historical planning memo. The [October 27, 2026 submitted College Council packet](../docs/program-approval/README.md) supersedes this memo for the current program structure and certificate requirements. See the [NOI source guide](README.md) for later course numbers and details.
+
 From: Kyle Nessen
 Date: July 13, 2026
 Status: Working proposal for discussion
 
-> [!note] Editing workflow
-> This file is the editable source of truth. The shared copy lives in Google Drive ("Cuesta - UAS drone program" folder) as ["UAS Certificate Structure - Revised Proposal (July 2026)"](https://docs.google.com/document/d/1R8rLyZAduiNqP8cLlLczxC4MzOcZtpvyqaxhM5ExXcI/edit), published July 13, 2026. After editing here, ask Claude to republish to Drive.
+> [!note] Historical shared copy
+> This file was the editable source for the July 2026 memo. Its shared copy lives in Google Drive ("Cuesta - UAS drone program" folder) as ["UAS Certificate Structure - Revised Proposal (July 2026)"](https://docs.google.com/document/d/1R8rLyZAduiNqP8cLlLczxC4MzOcZtpvyqaxhM5ExXcI/edit), published July 13, 2026. Use the submitted packet for the current program.
 
 ## Summary
 

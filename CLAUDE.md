@@ -4,6 +4,10 @@
 
 Curriculum development for Cuesta College's drone program.
 
+## Current Program Sources
+
+Start with the [repository README](README.md), the [submitted College Council packet record](docs/program-approval/README.md), and the [NOI source guide](curriculum-content/README.md). The October 27, 2026 submitted packet is a primary authority for the current program. Keep the submitted file unchanged. Earlier planning drafts may contain superseded course numbers and certificate structures.
+
 ## Key Contacts
 
 - **Ron**: Program Director for Aerospace Classes

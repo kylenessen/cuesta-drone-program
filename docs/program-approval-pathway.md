@@ -1,5 +1,7 @@
 # Program Approval Pathway
 
+Status update, October 27, 2026. Kyle confirmed submission of the [current College Council packet](program-approval/README.md). Use that packet for the program now under review. The planning timeline and rosters below preserve July 2026 context and are not a current status report. Final College Council approval has not yet been recorded in this repository.
+
 This page maps the governance route the drone program must travel to formal approval, along with who sits on each body. The target is a program launch by October 2026. The sequence below comes from Ron, and the membership rosters come from Cuesta's published governance documents as of July 2026.
 
 ## The Sequence

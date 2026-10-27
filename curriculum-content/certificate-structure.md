@@ -1,5 +1,7 @@
 # UAS Certificate Structure, Working Draft
 
+Historical planning draft. The [October 27, 2026 submitted College Council packet](../docs/program-approval/README.md) supersedes this document for the current program structure and certificate requirements. See the [NOI source guide](README.md) for later course numbers and details. The original discussion below is retained for context.
+
 **Status:** working draft for discussion, July 13, 2026. This supersedes the certificate structure in `research/certificate-specialization-proposal.typ` (March 2026) and revises the structure in Ron's draft program approval form. Course numbers for undeveloped courses remain placeholders.
 
 ## Overview
