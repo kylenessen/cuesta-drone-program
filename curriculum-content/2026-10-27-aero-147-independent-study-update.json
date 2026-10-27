@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-27",
+  "course": "AERO 147",
+  "title": "Independent Studies in Drone Technology",
+  "proposal_id": 9801,
+  "proposal_url": "https://cuesta.curriqunet.com/Form/Course/Index/9801",
+  "report_url": "https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9801?entityType=Course&reportId=4",
+  "status": "Saved and verified as an unlaunched draft.",
+  "user_direction": "Retain the agreed number 147 and abandon the transfer track. Use the Engineering independent study model without adding late-stage transfer development work.",
+  "supersedes": "The proposed AERO 247 and CSU transfer development direction in 2026-10-27-independent-study-direction.json.",
+  "changes": {
+    "rationale": "Allows prepared students to pursue technical questions or applied projects in drone technology beyond scheduled courses. Follows Cuesta's independent study model with agreed objectives, regular faculty consultation, and evaluation of individual work. Supports the proposed UAS program. Transfer or articulation is not proposed.",
+    "similar_course_justification": "Uses ENGR 247 as the model for individually directed technical study, adapted to drone technology. The proposed cap of five supports separate study agreements, weekly individual consultation, and evaluation of distinct projects. A cap variance is requested. AERO 147 remains nontransferable.",
+    "non_course_requirement": {
+      "record_id": 5407,
+      "text": "Completion of preparatory coursework in the technical field of study.",
+      "comment": "Preparation must be appropriate to the approved drone technology study or project.",
+      "entry": "Added under Requisites and Advisories as a Non Course Requirement. No specific AERO course prerequisite was added."
+    },
+    "progress_assignment": {
+      "record_id": 20249,
+      "text": "Maintain a record of activities and technical decisions. Review progress with the instructor weekly and plan the next stage of work.",
+      "objective_links": [3, 4]
+    },
+    "reading_and_analysis_assignment": {
+      "record_id": 20251,
+      "text": "Read selected technical references, compare methods or options for the project, and justify an approach using relevant evidence.",
+      "objective_links": [1, 2]
+    },
+    "cap": {
+      "course_cap": 5,
+      "face_to_face_limit": 5,
+      "de_limit": 5,
+      "category": "9 - Lab - Small (20-30), inherited and read-only in the Course Cap section",
+      "variance": "Variance needed for outside of the range selected. Prior within-range response cleared.",
+      "entry_location": "The course cap is editable in the Distance Education section and displays as read-only in Course Cap. Updating it to five also updated both modality limits.",
+      "approval_limit": "Proposed cap follows ENGR 247. Variance and final category treatment remain subject to local curriculum review. No cap approval is asserted."
+    },
+    "de_interaction": "The instructor initiates weekly consultation, explains relevant methods, and provides substantive feedback on progress and work products. The instructor monitors engagement and contacts students needing support. Meetings and feedback use the college LMS and appropriate synchronous or asynchronous communication. Peer discussion is included when other students are enrolled.",
+    "de_delivery": "Delivery follows the approved study agreement. Fully online projects achieve course outcomes through remotely accessible research, analysis, or technical work with regular instructor consultation. Projects requiring in-person instruction or supervised operations use Hybrid or Blended delivery according to the proportion of instructional hours online. The college provides required computer and software access.",
+    "de_peer_frequency": "Weekly when multiple students are enrolled. Individual sections use instructor consultation and feedback.",
+    "de_checkbox_changes": "Student-to-student forum frequency changed from Weekly to Other with the conditional frequency text. Cleared the unconditional student discussion-board activity and discussion-board assessment selections. Instructor discussion, announcements, feedback, and office-hour selections remain."
+  },
+  "preserved": {
+    "number": "147",
+    "transfer_intent": "No transfer or articulation proposed",
+    "course_type": "C - Credit - Not Degree Applicable, existing draft selection retained",
+    "units": "0.5 to 2",
+    "term_hours": "27 to 108 lab hours",
+    "grading": "Letter Grade or P/NP",
+    "repeatable": false,
+    "de_modes": ["Fully Online", "Hybrid", "Blended"],
+    "instructional_scope": "Existing concise descriptions, outcomes, objectives, topics, final product assignment, and evaluation framework retained. Transfer-focused draft text was not substituted.",
+    "other_records": "Other course proposals, the submitted College Council packet, and September NOI records unchanged."
+  },
+  "verification": [
+    "Read a fresh All Fields report after editing. Verified the number, nontransfer rationale, Engineering justification, preparation requirement, both assignment edits, cap and modality values, variance selection, and DE narrative and checkbox changes.",
+    "Transient server errors occurred during DE editing. Reloaded the form and verified persisted values in the separate report before completion.",
+    "The form visibly remains Draft. No launch, submission, or communication to college staff occurred.",
+    "ASSIST Preview still displays Prerequisites None because the preparation entry uses the separate Non Course Requirement type. The full report includes the actual requirement and comment."
+  ],
+  "college_review_items": [
+    "Approve the proposed cap variance or determine the appropriate independent study category treatment.",
+    "Confirm the formal display and administrative treatment of the non-course preparation requirement.",
+    "Review the retained credit classification. Degree applicability is distinct from transferability and remains an administrative review item.",
+    "Resolve faculty workload, assignment, and compensation through the college's instructional process.",
+    "Complete existing library, program mapping, and DE review items."
+  ]
+}
