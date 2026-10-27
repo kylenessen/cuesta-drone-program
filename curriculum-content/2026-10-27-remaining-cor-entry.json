@@ -1,0 +1,694 @@
+{
+  "date": "2026-10-27",
+  "status": "Working content for draft entry only. Not submitted.",
+  "user_direction": "Draft all remaining September NOI courses in CurrIQunet and add Ron Overacker as an editing collaborator. Use broad, concise language. College-provided computing and required off-campus work are confirmed for AERO 161.",
+  "draft_assumptions": [
+    "College-provided required computing is carried into all course drafts.",
+    "Required off-campus activities are proposed for AERO 162 and 163 based on their fieldwork. This is a drafting assumption for review.",
+    "The three scheduled courses use Blended delivery with online lecture and in-person lab.",
+    "Independent study delivery is project-dependent. Online work is limited to suitable study activities. Physical operations require in-person supervision.",
+    "AERO 151 prerequisite remains open. AERO 147 preparation, cap category, and course number remain for review."
+  ],
+  "courses": [
+    {
+      "number": "151",
+      "title": "Advanced Drone Regulations and Safety Management",
+      "units": "2",
+      "lecture_hours": "18",
+      "lab_hours": "54",
+      "outside_hours": "36",
+      "total_hours": "108",
+      "description": "Develops regulatory analysis and safety management skills for professional drone operations. Covers operating authority, airspace access, waivers, emerging frameworks, and operational documentation. Laboratory exercises address hazards, risk, procedures, and safety improvement.",
+      "rationale": "Prepares students for responsibilities in organizational drone programs that require regulatory analysis, documented safety decisions, and coordination beyond introductory pilot preparation. Supports the proposed UAS program. Transfer or articulation is not proposed.",
+      "outcomes": [
+        "Evaluate a proposed drone operation and prepare a reasoned recommendation addressing applicable requirements, operating permissions, and supporting documentation.",
+        "Apply a safety management process to an operational scenario and use evidence to recommend and evaluate improvements."
+      ],
+      "objectives": [
+        "Locate and interpret regulations and guidance relevant to a proposed operation, distinguishing current requirements from proposed changes.",
+        "Determine the permissions, coordination, and documentation appropriate to a proposed operation.",
+        "Identify hazards, assess operational risk, and justify measures to reduce risk.",
+        "Develop procedures that address responsibilities, communication, reporting, and emergency response within a drone program.",
+        "Evaluate operational records and safety information to identify needed changes and assess whether corrective actions are effective."
+      ],
+      "topics": [
+        {
+          "text": "Regulatory interpretation, operating authority, and emerging frameworks.",
+          "objectives": [
+            1
+          ]
+        },
+        {
+          "text": "Airspace access, waivers, coordination, and supporting documentation.",
+          "objectives": [
+            1,
+            2
+          ]
+        },
+        {
+          "text": "Safety policy, responsibilities, reporting, and communication.",
+          "objectives": [
+            3,
+            4
+          ]
+        },
+        {
+          "text": "Hazard identification, risk assessment, and mitigation.",
+          "objectives": [
+            3,
+            4
+          ]
+        },
+        {
+          "text": "Operating procedures, emergency planning, and operational decisions.",
+          "objectives": [
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "text": "Safety monitoring, corrective action, and improvement.",
+          "objectives": [
+            4,
+            5
+          ]
+        },
+        {
+          "text": "Laboratory analysis of regulatory and safety scenarios.",
+          "objectives": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ],
+      "lab": "Laboratory work applies regulatory analysis and safety management to operational cases. Students evaluate mission proposals, prepare supporting documentation, conduct risk and change reviews, practice briefings, and examine incident or performance information. Scenarios may evolve as students receive new information and revise their decisions. Laboratory assessment emphasizes reasoning, documentation, and the effectiveness of proposed actions.",
+      "instruction": "Lecture, discussion, case analysis, demonstrations, and supervised laboratory exercises. Individual and collaborative work develop students' ability to explain decisions and respond to operational changes.",
+      "assignments": [
+        {
+          "kind": "Critical thinking",
+          "text": "Evaluate a proposed operation, identify the applicable requirements and permissions, and justify whether and under what conditions it should proceed.",
+          "objectives": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "kind": "Critical thinking",
+          "text": "Analyze an incident, hazard report, or operational change. Recommend corrective actions and describe what evidence would demonstrate their effectiveness.",
+          "objectives": [
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "kind": "Independent work",
+          "text": "Read assigned references and prepare a regulatory analysis and supporting operational documentation for an assigned scenario, citing the sources used to support the recommendation. Reading, preparation, analysis, and writing total 36 outside-of-class hours per term.",
+          "objectives": [
+            1,
+            2,
+            4
+          ]
+        },
+        {
+          "kind": "Independent work",
+          "text": "Develop a safety procedure or review record and explain how responsibilities, risk controls, communication, and follow-up support its use.",
+          "objectives": [
+            3,
+            4,
+            5
+          ]
+        }
+      ],
+      "evaluation": "Written analyses and documentation, quizzes or examinations, presentations, and observed laboratory performance. Evaluation addresses the accuracy of regulatory interpretation, the quality of risk reasoning, the practicality of procedures, and the use of evidence to assess improvements. A justified decision to defer or decline an operation can demonstrate successful judgment.",
+      "materials": "Instructor-provided readings and technical resources support course objectives. Assigned readings may include current FAA regulations and guidance, safety management references, operational procedures, and case materials. Sources are selected for the operations being studied and identified by effective date where regulatory status matters. The college provides required computer and software access. No separate textbook purchase is proposed.",
+      "short_title": "Drone Regulations and Safety",
+      "schedule": "Develops regulatory analysis and safety management skills through applied drone operations scenarios.",
+      "evaluation_map": [
+        [
+          "Written/Typed Homework",
+          "Quizzes/Exams"
+        ],
+        [
+          "Written/Typed Homework",
+          "Class Performance(s)"
+        ],
+        [
+          "Written/Typed Homework",
+          "Class Performance(s)",
+          "Lab Reports"
+        ],
+        [
+          "Term or Other Papers",
+          "Class Performance(s)",
+          "Lab Reports"
+        ],
+        [
+          "Term or Other Papers",
+          "Lab Reports"
+        ]
+      ],
+      "library": "Students use regulatory and safety references to support analysis and written recommendations.",
+      "field_trips": false,
+      "prerequisite_status": "Open at Kyle's direction. No prerequisite decision entered.",
+      "implications": {
+        "Budget": "Instruction and course resources are included in the UAS program funding plan.",
+        "Facilities": "Uses college classroom and computing facilities.",
+        "Equipment": "Uses college-provided computing, instructional materials, and program equipment as needed.",
+        "Staffing": "Qualified adjunct instruction with aerospace program oversight. No new full-time position is proposed.",
+        "Similar Course": "Extends the introductory regulations and safety content of AERO 100 to organizational operations."
+      }
+    },
+    {
+      "number": "162",
+      "title": "Drone Applications in Precision Agriculture",
+      "units": "3",
+      "lecture_hours": "36",
+      "lab_hours": "54",
+      "outside_hours": "72",
+      "total_hours": "162",
+      "description": "Develops drone sensing and application skills for agriculture. Covers visible, multispectral, and thermal imaging, data interpretation, mission planning, and operating responsibilities. Laboratory exercises include agricultural imagery and water-based application missions. Required off-campus activities.",
+      "rationale": "Develops practical drone skills for agricultural employment and professional advancement. Connects aerial observations and application operations with field management while complementing specialized agriculture instruction. Supports the proposed UAS program. Transfer or articulation is not proposed.",
+      "outcomes": [
+        "Collect and interpret drone imagery to address an agricultural information need, explaining the limitations of the observations and the need for field verification.",
+        "Plan and conduct a supervised agricultural application exercise using water and evaluate the operation's safety and application placement."
+      ],
+      "objectives": [
+        "Select drone systems, sensors, and operating methods appropriate to an agricultural task.",
+        "Plan and collect visible, multispectral, and thermal imagery with attention to field conditions and data consistency.",
+        "Process and interpret agricultural imagery to identify spatial patterns and areas requiring further investigation.",
+        "Plan and conduct water-based application exercises using appropriate flight paths, equipment settings, and coverage checks.",
+        "Evaluate operational hazards, environmental conditions, and regulatory responsibilities relevant to agricultural drone work.",
+        "Communicate methods, findings, and limitations in a form useful to agricultural personnel."
+      ],
+      "topics": [
+        {
+          "text": "Agricultural information needs and drone capabilities.",
+          "objectives": [
+            1,
+            5
+          ]
+        },
+        {
+          "text": "Visible, multispectral, and thermal image collection.",
+          "objectives": [
+            1,
+            2
+          ]
+        },
+        {
+          "text": "Agricultural image processing, interpretation, and field verification.",
+          "objectives": [
+            2,
+            3,
+            6
+          ]
+        },
+        {
+          "text": "Application planning, placement, and coverage using water.",
+          "objectives": [
+            1,
+            4,
+            5
+          ]
+        },
+        {
+          "text": "Operational safety, environmental conditions, and regulatory responsibilities.",
+          "objectives": [
+            4,
+            5
+          ]
+        },
+        {
+          "text": "Data quality, documentation, and communication of findings.",
+          "objectives": [
+            3,
+            5,
+            6
+          ]
+        },
+        {
+          "text": "Laboratory practice in agricultural sensing and water-based applications.",
+          "objectives": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ],
+      "lab": "Students collect and interpret agricultural imagery, compare observations with field information, and conduct supervised water-based application exercises. Shared crew projects include individual assessment of operational roles, data interpretation, application planning, and evaluation of results. Spraying instruction addresses drone operation and placement. Pesticide applicator knowledge and licensing preparation remain outside this course's scope.",
+      "instruction": "Lecture, demonstrations, field and laboratory exercises, case discussion, guided data processing, and applied projects. Crop systems, sites, equipment, and scenarios may vary with instructional needs and available partnerships.",
+      "assignments": [
+        {
+          "kind": "Critical thinking",
+          "text": "Select an imaging approach for an agricultural question and justify the sensor, timing, collection plan, and field observations needed to interpret the results.",
+          "objectives": [
+            1,
+            2,
+            3,
+            5
+          ]
+        },
+        {
+          "kind": "Critical thinking",
+          "text": "Evaluate imagery or application results, distinguish supported findings from uncertainty, and recommend changes to collection or operating methods.",
+          "objectives": [
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "kind": "Independent work",
+          "text": "Read assigned references and interpret a collected or provided agricultural dataset and prepare a concise report identifying relevant patterns, limitations, and follow-up observations. Reading, preparation, analysis, and writing total 72 outside-of-class hours per term.",
+          "objectives": [
+            2,
+            3,
+            6
+          ]
+        },
+        {
+          "kind": "Independent work",
+          "text": "Prepare an individual application plan and written evaluation of a water-based exercise, addressing operating decisions and placement or coverage checks. Individual competence is assessed within shared crew projects.",
+          "objectives": [
+            1,
+            4,
+            5,
+            6
+          ]
+        }
+      ],
+      "evaluation": "Observed field and laboratory performance, data products, operational records, written analyses, reports, presentations, and quizzes or examinations. Criteria address safe operations, appropriate sensing and application methods, interpretation supported by evidence, and clear communication of limitations. Individual competence is assessed within crew projects.",
+      "materials": "Instructor-provided readings and technical resources support course objectives. Assigned readings may include agricultural remote sensing references, application equipment documentation, current operating guidance, and field datasets. Sensing and application equipment are selected for the course objectives. Application training uses water. The college provides required computer and software access. No separate textbook purchase is proposed.",
+      "prerequisite": "AERO 100 Basic UAV Operator",
+      "content_review": [
+        {
+          "preparation": "AERO 100 develops flight proficiency through the NIST open lane objective.",
+          "application": "Students apply aircraft control and safe intervention skills during sensing and application exercises.",
+          "objectives": [
+            2,
+            4
+          ]
+        },
+        {
+          "preparation": "AERO 100 develops knowledge of regulations, weather, airspace, navigation, and emergency procedures.",
+          "application": "Students use that foundation to plan agricultural operations and evaluate site and environmental conditions.",
+          "objectives": [
+            2,
+            4,
+            5
+          ]
+        },
+        {
+          "preparation": "AERO 100 develops aircraft performance assessment and risk-based decision making.",
+          "application": "Students consider payload, endurance, operating conditions, and crew responsibilities when selecting and conducting agricultural missions.",
+          "objectives": [
+            1,
+            4,
+            5
+          ]
+        }
+      ],
+      "short_title": "Drones in Precision Agriculture",
+      "schedule": "Develops drone sensing and water-based application skills for agriculture. Required off-campus activities.",
+      "evaluation_map": [
+        [
+          "Written/Typed Homework",
+          "Quizzes/Exams"
+        ],
+        [
+          "Field Work",
+          "Class Performance(s)",
+          "Lab Reports"
+        ],
+        [
+          "Written/Typed Homework",
+          "Performance Exams",
+          "Lab Reports"
+        ],
+        [
+          "Field Work",
+          "Class Performance(s)",
+          "Performance Exams"
+        ],
+        [
+          "Written/Typed Homework",
+          "Field Work",
+          "Quizzes/Exams"
+        ],
+        [
+          "Term or Other Papers",
+          "Class Performance(s)",
+          "Lab Reports"
+        ]
+      ],
+      "library": "Students use agricultural remote sensing and operational references to interpret results and prepare reports.",
+      "field_trips": true,
+      "prerequisite_status": "AERO 100 only.",
+      "implications": {
+        "Budget": "Instruction and course resources are included in the UAS program funding plan.",
+        "Facilities": "Requires outdoor training areas, equipment storage, and college computing access.",
+        "Equipment": "Uses agricultural imaging and application equipment, field supplies, and processing software.",
+        "Staffing": "Qualified adjunct instruction with aerospace program oversight. No new full-time position is proposed.",
+        "Similar Course": "Complements agriculture and remote sensing courses through drone sensing and application operations."
+      }
+    },
+    {
+      "number": "163",
+      "title": "Drone Applications in Public Safety",
+      "units": "3",
+      "lecture_hours": "36",
+      "lab_hours": "54",
+      "outside_hours": "72",
+      "total_hours": "162",
+      "description": "Develops drone operational skills for public safety. Covers search, incident assessment, visible and thermal imaging, and photogrammetric scene documentation. Laboratory scenarios emphasize safe coordination, operating authority, privacy, and information handling. Required off-campus activities.",
+      "rationale": "Prepares students and working public safety personnel to contribute drone skills to agency operations. Complements preparation for underlying public safety roles through applied aerial observation, documentation, and coordinated mission support. Supports the proposed UAS program. Transfer or articulation is not proposed.",
+      "outcomes": [
+        "Plan and conduct a simulated public safety drone mission that addresses incident objectives, operating constraints, crew responsibilities, and safe coordination.",
+        "Produce and communicate aerial observations or scene documentation suitable for a public safety purpose, with attention to reliability, limitations, privacy, and information handling."
+      ],
+      "objectives": [
+        "Evaluate the suitability of drone operations and sensor capabilities for a public safety mission.",
+        "Plan missions that address operating authority, airspace, incident coordination, hazards, and contingencies.",
+        "Perform assigned crew roles and communicate operational information during scenario exercises.",
+        "Use visible and thermal imaging to support search, incident assessment, and aerial observation.",
+        "Collect and process imagery to produce photogrammetric records of simulated collision, crime, or incident scenes.",
+        "Document and communicate findings while addressing data quality, privacy, evidence handling, and operational review."
+      ],
+      "topics": [
+        {
+          "text": "Public safety missions, sensor capabilities, and limitations.",
+          "objectives": [
+            1,
+            4
+          ]
+        },
+        {
+          "text": "Operating authority, airspace access, privacy, and information handling.",
+          "objectives": [
+            2,
+            6
+          ]
+        },
+        {
+          "text": "Mission planning, crew roles, safety, and incident coordination.",
+          "objectives": [
+            2,
+            3
+          ]
+        },
+        {
+          "text": "Visible and thermal imaging for search and incident assessment.",
+          "objectives": [
+            1,
+            3,
+            4,
+            6
+          ]
+        },
+        {
+          "text": "Photogrammetric documentation and quality assessment of simulated scenes.",
+          "objectives": [
+            5,
+            6
+          ]
+        },
+        {
+          "text": "Mission records, reporting, and operational review.",
+          "objectives": [
+            3,
+            6
+          ]
+        },
+        {
+          "text": "Laboratory scenarios in search, incident assessment, and scene documentation.",
+          "objectives": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ],
+      "lab": "Students conduct simulated search, incident assessment, and scene documentation missions using visible and thermal imaging and photogrammetry. Exercises develop planning, crew coordination, communication, and review of operational results. Students may share missions and datasets while demonstrating their own operational skills, analysis, and documentation.",
+      "instruction": "Lecture, demonstrations, case discussion, guided processing, field scenarios, and project work. Scenarios may emphasize different public safety applications while retaining search, incident assessment, and scene documentation skills.",
+      "assignments": [
+        {
+          "kind": "Critical thinking",
+          "text": "Develop a mission plan for a simulated incident, explaining sensor selection, authority and airspace considerations, crew roles, risks, and coordination needs.",
+          "objectives": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "kind": "Critical thinking",
+          "text": "Review aerial observations or a reconstructed scene. Evaluate the reliability of the findings, identify missing information, and explain appropriate limits on interpretation or use.",
+          "objectives": [
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "kind": "Independent work",
+          "text": "Read assigned references and prepare an individual mission plan or operational analysis for a public safety scenario. Reading, preparation, analysis, and writing total 72 outside-of-class hours per term.",
+          "objectives": [
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "kind": "Independent work",
+          "text": "Prepare a scene documentation product from collected or provided imagery, with methods, quality checks, and records supporting appropriate information handling. Individual competence is assessed within shared crew projects.",
+          "objectives": [
+            5,
+            6
+          ]
+        }
+      ],
+      "evaluation": "Observed scenario and crew performance, mission plans, imagery and scene products, written analyses, briefings, reports, and quizzes or examinations. Criteria address safe coordination, useful observations, defensible documentation, and appropriate handling of information. Individual competence is assessed within crew projects.",
+      "materials": "Instructor-provided readings and technical resources support course objectives. Assigned readings may include public safety drone guidance, applicable regulations, incident coordination references, equipment documentation, and case or scenario materials. Public safety standards can inform exercises without making completion of an external certification a course requirement. The college provides required computer and software access. No separate textbook purchase is proposed.",
+      "prerequisite": "AERO 100 Basic UAV Operator",
+      "content_review": [
+        {
+          "preparation": "AERO 100 develops flight proficiency through the NIST open lane objective.",
+          "application": "Students apply aircraft control and safe intervention skills while performing crew roles and collecting imagery in public safety scenarios.",
+          "objectives": [
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "preparation": "AERO 100 develops knowledge of regulations, weather, airspace, navigation, and emergency procedures.",
+          "application": "Students extend that knowledge to incident planning, airspace coordination, and operational contingencies.",
+          "objectives": [
+            2,
+            3
+          ]
+        },
+        {
+          "preparation": "AERO 100 develops judgment and risk mitigation based on human factors.",
+          "application": "Students manage crew workload, communication, and changing mission conditions while documenting operational decisions.",
+          "objectives": [
+            2,
+            3,
+            6
+          ]
+        }
+      ],
+      "short_title": "Drones in Public Safety",
+      "schedule": "Develops drone skills for public safety search, incident assessment, and scene documentation. Required off-campus activities.",
+      "evaluation_map": [
+        [
+          "Written/Typed Homework",
+          "Quizzes/Exams"
+        ],
+        [
+          "Written/Typed Homework",
+          "Field Work",
+          "Quizzes/Exams"
+        ],
+        [
+          "Field Work",
+          "Class Performance(s)",
+          "Performance Exams"
+        ],
+        [
+          "Field Work",
+          "Class Performance(s)",
+          "Lab Reports"
+        ],
+        [
+          "Performance Exams",
+          "Lab Reports"
+        ],
+        [
+          "Term or Other Papers",
+          "Class Performance(s)",
+          "Lab Reports"
+        ]
+      ],
+      "library": "Students use public safety, operational, and technical references to support mission analysis and reports.",
+      "field_trips": true,
+      "prerequisite_status": "AERO 100 only.",
+      "implications": {
+        "Budget": "Instruction and course resources are included in the UAS program funding plan.",
+        "Facilities": "Requires suitable scenario and flight areas, equipment storage, and college computing access.",
+        "Equipment": "Uses program aircraft, imaging systems, field supplies, and processing software.",
+        "Staffing": "Qualified adjunct instruction with aerospace program oversight. No new full-time position is proposed.",
+        "Similar Course": "Complements criminal justice and emergency response instruction through drone mission support and documentation."
+      }
+    },
+    {
+      "number": "147",
+      "title": "Independent Studies in Drone Technology",
+      "units": "0.5 to 2",
+      "lecture_hours": "0",
+      "lab_hours": "27 to 108",
+      "outside_hours": "0",
+      "total_hours": "27 to 108",
+      "description": "Provides instructor-directed study or applied projects in drone technology beyond regularly scheduled coursework. A written agreement establishes objectives, activities, workload, and evaluation. Students document and present their work.",
+      "rationale": "Allows prepared students to pursue specialized interests, technical problems, or applied projects that extend their learning and demonstrate professional capabilities. Supports the proposed UAS program. Transfer or articulation is not proposed.",
+      "outcomes": [
+        "Complete an instructor-approved study or project that demonstrates increased knowledge or skill in a selected area of drone technology.",
+        "Present and evaluate the work using evidence appropriate to the agreed objectives, methods, and scope."
+      ],
+      "objectives": [
+        "Define a study or project with objectives, activities, resources, and evaluation criteria appropriate to the units attempted.",
+        "Locate and evaluate information, tools, or methods relevant to the agreed work.",
+        "Carry out the agreed activities using appropriate technical, safety, and professional practices.",
+        "Document progress, evaluate results, and revise the approach in consultation with the instructor.",
+        "Communicate the completed work, its limitations, and the knowledge or skills developed."
+      ],
+      "topics": [
+        {
+          "text": "Project objectives, scope, resources, and evaluation criteria.",
+          "objectives": [
+            1
+          ]
+        },
+        {
+          "text": "Investigation and selection of relevant methods.",
+          "objectives": [
+            2,
+            3
+          ]
+        },
+        {
+          "text": "Project activities, professional practices, and progress review.",
+          "objectives": [
+            3,
+            4
+          ]
+        },
+        {
+          "text": "Evaluation, documentation, and presentation of results.",
+          "objectives": [
+            4,
+            5
+          ]
+        },
+        {
+          "text": "Directed study or laboratory work defined in the study agreement.",
+          "objectives": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ],
+      "lab": "Directed study or practicum activities are defined in the independent study agreement. Work may involve operations, sensors, data collection and analysis, equipment evaluation, technical research, or operational methods. The agreement identifies the work appropriate to the units attempted, instructor consultation, progress evidence, and the final demonstration of learning.",
+      "instruction": "Individual consultation, directed investigation, supervised practice or project work, and feedback on progress and results. The student and instructor establish written project objectives and review arrangements at the beginning of the study.",
+      "assignments": [
+        {
+          "kind": "Critical thinking",
+          "text": "Compare methods, information, or technical options for the selected project and justify an approach using relevant evidence.",
+          "objectives": [
+            1,
+            2
+          ]
+        },
+        {
+          "kind": "Critical thinking",
+          "text": "Evaluate a result, difficulty, or change encountered during the study and recommend an appropriate revision or explain a limitation.",
+          "objectives": [
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "kind": "Independent work",
+          "text": "Maintain a record of activities, technical decisions, and progress that supports review against the independent study agreement.",
+          "objectives": [
+            3,
+            4
+          ]
+        },
+        {
+          "kind": "Independent work",
+          "text": "Produce a final report, product, or demonstration and explain how it addresses the agreed objectives and shows increased knowledge or skill.",
+          "objectives": [
+            4,
+            5
+          ]
+        }
+      ],
+      "evaluation": "Evaluation follows the criteria established in the independent study agreement and may include progress records, technical products, written or oral reports, demonstrations, and performance assessment. Evidence should show the quality of the work, achievement of the agreed objectives, and the student's individual learning.",
+      "materials": "Instructor-provided readings and technical resources support course objectives. Readings, datasets, equipment, software, and other resources are selected by the student and instructor for their relevance to the agreed study. Materials may include technical references, research, regulations, and manufacturer documentation. The college provides required computer and software access. No separate textbook purchase is proposed.",
+      "preparation": "Completed preparatory coursework relevant to the proposed study. The student and instructor identify the knowledge and skills needed for the project when establishing the independent study agreement.",
+      "short_title": "Independent Studies in Drones",
+      "schedule": "Provides instructor-directed study or projects in drone technology through an individual study agreement.",
+      "evaluation_map": [
+        [
+          "Written/Typed Homework",
+          "Term or Other Papers"
+        ],
+        [
+          "Written/Typed Homework",
+          "Term or Other Papers"
+        ],
+        [
+          "Class Performance(s)",
+          "Performance Exams"
+        ],
+        [
+          "Written/Typed Homework",
+          "Lab Reports"
+        ],
+        [
+          "Term or Other Papers",
+          "Class Performance(s)",
+          "Performance Exams"
+        ]
+      ],
+      "library": "Students use technical and research references relevant to the approved study.",
+      "field_trips": false,
+      "prerequisite_status": "Relevant preparatory coursework and formal requisite wording remain for review.",
+      "implications": {
+        "Budget": "Instruction and course resources are included in the UAS program funding plan.",
+        "Facilities": "Facility access follows the approved study agreement and available college resources.",
+        "Equipment": "Equipment, software, and materials are selected for the approved study from available program resources.",
+        "Staffing": "Qualified adjunct instruction with aerospace program oversight. No new full-time position is proposed.",
+        "Similar Course": "Follows the college independent study model while addressing drone technology beyond scheduled courses."
+      }
+    }
+  ]
+}
