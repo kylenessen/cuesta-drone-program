@@ -231,7 +231,7 @@
       "lab_hours": "54",
       "outside_hours": "72",
       "total_hours": "162",
-      "description": "Develops drone sensing and application skills for agriculture. Covers visible, multispectral, and thermal imaging, data interpretation, mission planning, and operating responsibilities. Laboratory exercises include agricultural imagery and water-based application missions. Required off-campus activities.",
+      "description": "Develops drone sensing and spraying skills for agriculture. Covers visible, multispectral, and thermal imaging, data interpretation, mission planning, and operating responsibilities. Laboratory exercises include agricultural imaging and drone spraying using water. Required off-campus activities.",
       "rationale": "Develops practical drone skills for agricultural employment and professional advancement. Connects aerial observations and application operations with field management while complementing specialized agriculture instruction. Supports the proposed UAS program. Transfer or articulation is not proposed.",
       "outcomes": [
         "Collect and interpret drone imagery to address an agricultural information need, explaining the limitations of the observations and the need for field verification.",
@@ -328,7 +328,7 @@
         },
         {
           "kind": "Independent work",
-          "text": "Read assigned references and interpret a collected or provided agricultural dataset and prepare a concise report identifying relevant patterns, limitations, and follow-up observations. Reading, preparation, analysis, and writing total 72 outside-of-class hours per term.",
+          "text": "Read assigned references, interpret agricultural imagery, and report findings, limitations, and follow-up observations.",
           "objectives": [
             2,
             3,
@@ -378,7 +378,7 @@
         }
       ],
       "short_title": "Drones in Precision Agriculture",
-      "schedule": "Develops drone sensing and water-based application skills for agriculture. Required off-campus activities.",
+      "schedule": "Develops drone sensing and spraying skills for agriculture, with spray exercises using water. Required off-campus activities.",
       "evaluation_map": [
         [
           "Written/Typed Homework",
@@ -604,7 +604,7 @@
         },
         {
           "kind": "Independent work",
-          "text": "Read assigned references and prepare an individual mission plan or operational analysis for a public safety scenario. Reading, preparation, analysis, and writing total 72 outside-of-class hours per term.",
+          "text": "Read assigned references and prepare a mission plan or operational analysis for a public safety scenario.",
           "objectives": [
             2,
             3,
@@ -989,5 +989,15 @@
     "de": "All four new reports show five weekly contact selections and No for materials fees.",
     "report_limitations": "All Fields prints unused default guidance as well as entered responses. Assignment type labels are blank in its main assignment section but appear in ASSIST Preview. Some prerequisite source-objective selections are omitted in the report. Reopened controls confirm the selections are saved. ASSIST Preview may order objectives differently and lag the main evaluation section. Use the editable form for these selections.",
     "screenshot": "../output/screenshots/2026-10-27-cor-ron-collaborator.png"
-  }
+  },
+  "review_revisions": [
+    {
+      "date": "2026-10-27",
+      "direction": "Make spraying explicit in the AERO 162 catalog description. Keep assignment examples concise and omit total outside-work hours in AERO 162 and 163.",
+      "changes": "Updated AERO 162 catalog and schedule descriptions to name drone spraying using water. Shortened the reading and analysis assignment in AERO 162 and the reading and mission-planning assignment in AERO 163. Removed total term hours from these assignment examples. Credits and Hours entries remain unchanged.",
+      "content_review_check": "Each course has one prerequisite entry and three content-review entries for AERO 100. The three reviews map distinct foundational skills to new course objectives, consistent with the form instruction to identify at least three examples. These are not duplicate prerequisites.",
+      "verification": "Saved All Fields reports confirm both revised assignments, removal of the hour-total sentence, and the revised AERO 162 catalog and schedule descriptions.",
+      "screenshot": "../output/screenshots/2026-10-27-aero-162-spraying-description.png"
+    }
+  ]
 }
