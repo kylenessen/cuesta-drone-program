@@ -10,6 +10,8 @@ The five course Notices of Intent are documented in [2026-09-30-aero-noi-review.
 
 The last status recorded in those files is September 30, 2026. All five NOIs were saved and verified as drafts. They had not been launched or submitted at that point. This is a dated record of the course proposals, not a claim about their current approval status. Check CurrIQunet for later changes and approved Course Outlines of Record.
 
+A live CurrIQunet search on October 27 showed all five September NOIs as Active. The [AERO 161 approval history](https://cuesta.curriqunet.com/Approval/Course/History/9779) records launch on September 30, dean approval on October 6, and implementation on October 7. The curriculum specialist's implementation comment says the proposer may clone the NOI to create a new course proposal. The clone dialog offers New Course Proposal. No clone was created during this inspection. The September records remain unchanged as historical evidence.
+
 | Course | Title in the saved NOI | Units | Lecture hours per term | Lab hours per term | CurrIQunet record |
 |---|---|---|---|---|---|
 | AERO 151 | Advanced Drone Regulations and Safety Management | 2 | 18 | 54 | [9778](https://cuesta.curriqunet.com/Form/Course/Index/9778) |
@@ -33,6 +35,8 @@ AERO 161 has been revised against the 2026 Program and Course Approval Handbook 
 The [structured course content](2026-10-27-aero-cor-drafts.json) is the editable text source. The [Typst source](2026-10-27-aero-cor-drafts.typ) produces the review packet. The separate [source and decision record](2026-10-27-aero-cor-draft-basis.json) identifies the repository, Google Drive, and active Cuesta independent study references, along with administrative fields still needed before submission. The proposed independent study number and enrollment arrangements remain subject to confirmation. The submitted College Council packet and September NOI records are unchanged.
 
 Build the full review packet from the repository root with `typst compile curriculum-content/2026-10-27-aero-cor-drafts.typ output/pdf/2026-10-27-aero-cor-drafts.pdf`. For a single course, add `--input course=161`, substituting its number and using a separate output filename.
+
+The October 27 [source and decision record](2026-10-27-aero-cor-draft-basis.json) also maps the draft to fields inspected in the live [AERO 100 full course form](https://cuesta.curriqunet.com/Form/Course/Index/9436). The assessment-alignment table is a review aid. CurrIQunet uses evaluation checkboxes within each objective and objective links within topics and assignments. The Page's additional explanatory paragraphs do not all correspond to narrative entry fields. Confirm the new AERO 161 proposal's controls before entering its content.
 
 ## Earlier planning material
 

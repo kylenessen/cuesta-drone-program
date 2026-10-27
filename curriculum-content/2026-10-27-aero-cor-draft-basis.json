@@ -20,7 +20,7 @@
     "AERO 161 uses an instructor-developed primary resource and Krystian Pyka's Basics of Photogrammetry, published by Open AGH in 2026, as its selected companion reference. Neither requires a separate textbook purchase. The other courses retain their initial materials placeholders."
   ],
   "remaining_administrative_work": [
-    "Verify the post-September NOI workflow status and any subsequent curriculum changes before entering CORs.",
+    "The October 27 live search showed all five September NOIs as Active. AERO 161 history confirms dean approval October 6 and implementation October 7, with instructions to clone the NOI into a new course proposal. Check for an existing full course draft before cloning and review the other four approval histories before entry.",
     "Resolve AERO 151 preparation and any resulting formal requisite content review.",
     "Confirm the independent study course number, formal preparation wording, and the applicable content review procedure for project-specific preparation.",
     "Review AERO 147 enrollment and supervision with Ron and the curriculum office. The NOI proposes 25. The active ENGR 247 report has a cap and modality limits of 5. ATCH 147 shows modality limits of 1. These examples do not establish the required AERO limit.",
@@ -84,6 +84,57 @@
         "status": "Forthcoming. Publisher lists March 5, 2027. Not available as of October 27, 2026 and not a current adoption recommendation."
       }
     ]
+  },
+  "curriqunet_inspection": {
+    "date": "2026-10-27",
+    "scope": "Read-only inspection of the active AERO 161 NOI, approval history, clone dialog, and the active AERO 100 full New Course Proposal form. No new proposal was created. No course fields were changed or launched.",
+    "noi_url": "https://cuesta.curriqunet.com/Form/Course/Index/9779",
+    "history_url": "https://cuesta.curriqunet.com/Approval/Course/History/9779",
+    "full_form_example_url": "https://cuesta.curriqunet.com/Form/Course/Index/9436",
+    "noi_status": "Active. The NOI has six sections and does not expose objectives or assessment fields.",
+    "history": [
+      {"date": "2026-09-30", "action": "Launch", "actor": "Kyle Nessen"},
+      {"date": "2026-10-06", "action": "Approve", "role": "Dean", "actor": "Aubrey Priest"},
+      {"date": "2026-10-07", "action": "Implement", "role": "Curriculum Specialist", "actor": "Monica Fiscalini", "comment": "Dean has completed review and proposer may clone the NOI to create new course proposal."}
+    ],
+    "workflow": "Search Course Intents, locate the active AERO 161 NOI, choose Clone, then choose New Course Proposal. The dialog also offers New Special Topics Course. The inspected dialog was cancelled without creating a proposal. The general Create New Proposal button offered only NOI types.",
+    "observed_full_form_fields": [
+      {
+        "section": "Objectives",
+        "controls": "Individual Objective text field and Methods of Evaluation checkboxes for each objective, plus Other.",
+        "evaluation_options": ["Written/Typed Homework", "Term or Other Papers", "Field Work", "Class Performance(s)", "Group Work", "Internet Research", "Quizzes/Exams", "Essay Exams", "Performance Exams", "Lab Reports", "Reading Reports"],
+        "draft_mapping": "Enter each of the six AERO 161 objectives separately. Use the assessment-alignment prose as a review aid for choosing appropriate evaluation methods. There was no standalone assessment-alignment table or evidence-and-criteria text field in the inspected objective panel."
+      },
+      {
+        "section": "Methods of Evaluation",
+        "controls": "Evaluation Method checklist and Other. The AERO 100 record showed Field Work, Class Performance(s), Quizzes/Exams, Essay Exams, and Performance Exams.",
+        "guidance": "Please select all items listed except Other. Select Other only if needed.",
+        "draft_mapping": "Confirm the list exposed by the new AERO 161 proposal after its objective selections. Do not assume the Page's general evaluation paragraph has a matching narrative field."
+      },
+      {
+        "section": "Assignments",
+        "controls": "Individual Assignment Type selection, Assignment text area, and Course Objective checkboxes.",
+        "guidance": "Enter assignments individually. Include at least two Critical Thinking examples and at least two Independent Work examples.",
+        "draft_mapping": "The existing four examples and their objective references map directly. Preserve relevant evidence and quality expectations in the assignment descriptions."
+      },
+      {
+        "section": "Topics and Scope",
+        "controls": "Detailed Topical Outline with individual rich-text Topic entries and Objectives checkboxes.",
+        "draft_mapping": "Enter the broad topic areas separately and select their objectives. Laboratory content can be identified in topical entries, subject to confirming the new proposal's fields."
+      },
+      {
+        "section": "Methods of Instruction",
+        "controls": "Checkboxes for Lab, Lecture, Activity, Distance Education, Correspondence Education, Work Experience, Directed Study, Field Trips, and Field Experience.",
+        "draft_mapping": "Lecture and Lab follow the proposed hours. Other selections require course-specific decisions. The inspected section had no narrative field matching the Page's instruction or accessibility paragraphs."
+      },
+      {
+        "section": "Text, Reading, and Materials",
+        "controls": "Separate lists for Textbook, OER, Manual, Periodical, Software, and Other. An expanded textbook entry contained Author, Title, Edition, City, Publisher, and Year of Publication.",
+        "guidance": "Enter authors as Last name, First name. The form states a five-year currency expectation for transfer institutions and requests justification for older textbooks.",
+        "draft_mapping": "The selected 2026 Pyka text fits the visible currency guidance. OER is the likely category. Its specific entry fields were not exposed because the active AERO 100 OER list was empty and Add was disabled. Place the instructor document in the appropriate Manual or Other entry once its actual metadata and the new form's controls are available."
+      }
+    ],
+    "conclusion": "The assessment table is a drafting aid, not a literal CurrIQunet field. The full form represents alignment through objective evaluation choices and topic and assignment links. The Page is broader than a field-by-field entry sheet. Confirm the new AERO 161 form before final entry and distinguish review explanations from text destined for actual fields."
   },
   "sources": [
     {
