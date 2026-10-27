@@ -17,7 +17,7 @@
     "Retain the September NOI scope. AERO 161 includes the orthomosaic workflow, GNSS, ground control, and independent accuracy checks. AERO 162 includes visible, multispectral, and thermal sensing and application placement. AERO 163 includes search, incident assessment, and photogrammetric scene documentation.",
     "Use water for AERO 162 application exercises, consistent with the submitted October packet. The older agricultural pesticide licensing course is contextual material, not the specification for AERO 162.",
     "Use the independent study agreement to define project-specific objectives, activities, reviews, resources, and evaluation. Do not make every independent study project a flight or mapping project.",
-    "The instructional resources paragraphs identify appropriate categories of materials. They do not constitute final textbook selections or complete bibliographic entries."
+    "The instructional resources paragraphs identify appropriate categories of materials. AERO 161 now specifies an instructor-developed primary resource. Published companion references remain recommendations pending selection. The other courses retain their initial materials placeholders."
   ],
   "remaining_administrative_work": [
     "Verify the post-September NOI workflow status and any subsequent curriculum changes before entering CORs.",
@@ -28,7 +28,70 @@
     "Complete grading, modality and distance education fields, formal materials entries, resource and library responses, and other administrative fields before submission.",
     "The September source still records blanks for dean or director approval date, qualified faculty response, and the independent study cap category."
   ],
+  "aero_161_revision": {
+    "date": "2026-10-27",
+    "page_url": "https://chatgpt.com/space/page_cfa55df046e88191ade2f483dca41df9",
+    "user_direction": "Use an instructor-made course materials document that can be digital or printed and is included in the class cost. Recommend a recent photogrammetry reference without making it a required purchase. Proceed with the handbook-based content revisions.",
+    "completed": [
+      "Specify 2 lecture units and 1 lab unit while preserving the NOI term hours.",
+      "Describe reading, writing, and the 72 hours of outside work. Strengthen the two independent assignment examples.",
+      "Describe accessible materials, guided practice, equitable opportunities within crew roles, and appropriate ways to demonstrate reasoning.",
+      "Map each course objective to assessment evidence and criteria.",
+      "Specify the instructor-developed document as the primary resource, supplied in accessible digital and printable formats without a separate required textbook purchase."
+    ],
+    "remaining": [
+      "The instructor-developed document is planned. It has not been authored or published. Record its actual title, author, version, date, and review access when available.",
+      "Kyle has not selected a published companion reference. The recommendations below are not adopted or required texts.",
+      "Complete local prerequisite validation and CurrIQunet field selections, including objective evaluation selections, grading, discipline assignment, outcome mapping, modality, library and resource responses, and the weekly hour convention. The Page remains an instructional content draft.",
+      "Confirm local acceptance of the representative materials package before submission. Seven years is Kyle's reference selection target. The older Cuesta form also asks for a rationale for textbooks over five years old."
+    ],
+    "reference_recommendations": [
+      {
+        "author": "Krystian Pyka",
+        "title": "Basics of Photogrammetry",
+        "year": "2026",
+        "publisher": "AGH University of Krakow, Open AGH",
+        "url": "https://epodreczniki.open.agh.edu.pl/handbook/4795",
+        "license": "CC BY-SA 4.0",
+        "assessment": "Best match for an accessible companion to the instructor document. The English textbook covers aerial image capture, flight planning, control, calibration, orientation, SfM, orthophotos, and measurement accuracy. The publisher lists 2026 for publication and update and offers PDF and EPUB formats. Metadata and chapter outline were checked. Full pedagogical and accessibility review remains to be done."
+      },
+      {
+        "authors": "Thomas Luhmann, Stuart Robson, Stephen Kyle, and Jan Boehm",
+        "title": "Close-Range Photogrammetry and 3D Imaging",
+        "edition": "4th",
+        "year": "2023",
+        "publisher": "De Gruyter",
+        "isbn": "9783111029351",
+        "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783111029672/html",
+        "assessment": "A substantial technical reference covering mathematical foundations, imaging, analytical methods, digital image analysis, and measurement quality. Better suited to instructor reference or selected advanced readings than the primary reading for this applied course. Close-range emphasis is less directly aligned with aerial orthomosaics."
+      },
+      {
+        "author": "Bon A. DeWitt",
+        "title": "Elements of Photogrammetry With Applications in Drone Imagery",
+        "edition": "5th",
+        "publisher": "McGraw Hill",
+        "isbn": "9781266165474",
+        "url": "https://www.mheducation.com/highered/mhp/product/elements-photogrammetry-applications-drone-imagery-fifth-edition.html",
+        "status": "Forthcoming. Publisher lists March 5, 2027. Not available as of October 27, 2026 and not a current adoption recommendation."
+      }
+    ]
+  },
   "sources": [
+    {
+      "title": "2026 Program and Course Approval Handbook, 9th edition",
+      "url": "https://www.cccco.edu/-/media/CCCCO-Website/docs/2026programandcourseapprovalhandbook131a11y.pdf",
+      "use": "Pages 31 to 35 identify COR components, including component units, reading and writing, outside work, representative texts, and approaches that support accessibility and inclusion. Used for the AERO 161 revision, not as evidence of local approval."
+    },
+    {
+      "title": "ASCCC Course Outline of Record reference guide, 2017",
+      "url": "https://skylinecollege.edu/curriculumcommittee/assets/documents/ascccCOR.pdf",
+      "use": "Pages 4 to 5 and 28 to 34 explain alignment among objectives, instruction, assignments, evaluation, and materials. Used as writing guidance alongside the newer handbook."
+    },
+    {
+      "title": "ASCCC OERI guidance on articulation, curriculum, and open resources",
+      "url": "https://asccc-oeri.org/articulation-curriculum-and-open-educational-resources/",
+      "use": "Distinguishes named, stable, reviewable texts and assembled materials from a generic list of links. Supports considering an open reference alongside instructor materials. Does not establish Cuesta's acceptance of a particular package."
+    },
     {
       "title": "September NOI content and saved record",
       "paths": ["2026-09-30-aero-noi-review.json", "2026-09-30-aero-noi-submission-details.json"],

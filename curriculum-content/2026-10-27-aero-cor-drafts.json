@@ -47,6 +47,8 @@
       "number": "161",
       "title": "Drone Applications in Geospatial Technology",
       "units": "3",
+      "lecture_units": "2",
+      "lab_units": "1",
       "lecture_hours": "36",
       "lab_hours": "54",
       "outside_hours": "72",
@@ -74,15 +76,25 @@
         {"title": "Quality and professional use", "text": "Accuracy evaluation, independent checks, uncertainty, and fitness for purpose. Deliverable formats, technical reporting, project feasibility, and professional scope of practice.", "objectives": [3, 5, 6]}
       ],
       "lab": "Students plan and carry out mapping exercises, establish control and checkpoints, collect imagery, and process and evaluate geospatial products. A culminating project connects planning, fieldwork, processing, and delivery. Projects may use shared crew operations and datasets, with individual assessment of assigned operational responsibilities, technical work, and reasoning.",
-      "instruction": "Lecture, demonstrations, guided data processing, field exercises, discussion, and project work. Exercises may draw on varied landscapes and professional applications while retaining the complete orthomosaic workflow.",
+      "instruction": "Lecture and demonstrations introduce imaging, positioning, and processing principles. Guided exercises and discussion ask students to compare mission designs, interpret processing results, and explain technical choices. Field and project work connect these principles through the complete orthomosaic workflow, with instructor feedback on individual performance.",
+      "accessibility": "Instruction uses accessible digital and printable materials, captions or transcripts for instructional media, and text descriptions of visual information. Worked examples, guided practice, and feedback support varied levels of preparation. Crew roles provide each student opportunities to practice and demonstrate required skills. Students may explain their reasoning through written, oral, or visual formats as appropriate to the objective, while meeting the same technical and safety standards.",
+      "outside_work": "The course includes 72 hours of outside-of-class work per term. Students read course materials and selected technical references, prepare mission and control plans, organize and process datasets, evaluate results, and write project documentation. Reading tasks connect principles to project decisions. Written work explains methods, supports conclusions with evidence, cites sources, and identifies limitations.",
       "assignments": [
         {"kind": "Critical thinking", "text": "Develop a mission and control plan for a specified information need. Justify sensor, flight, and positioning choices in relation to site conditions and product requirements.", "objectives": [1, 2, 3]},
         {"kind": "Critical thinking", "text": "Evaluate a dataset using independent checks and inspection of processing results. Explain likely sources of error and recommend improvements or limits on use.", "objectives": [3, 5, 6]},
-        {"kind": "Independent work", "text": "Demonstrate assigned flight, positioning, or data collection responsibilities during a crew exercise and document the decisions and quality checks performed.", "objectives": [2, 3, 4]},
-        {"kind": "Independent work", "text": "Process a collected or provided dataset and prepare a geospatial deliverable with a concise account of methods, quality, and limitations.", "objectives": [5, 6]}
+        {"kind": "Independent work", "text": "Read selected course materials and technical references, then prepare an individual mission readiness record explaining assigned crew responsibilities, positioning needs, and field quality checks.", "objectives": [2, 3, 4]},
+        {"kind": "Independent work", "text": "Process a collected or provided dataset and prepare a geospatial deliverable with a concise written report of methods, quality, and limitations. Support the conclusions with processing results and independent checks.", "objectives": [5, 6]}
       ],
       "evaluation": "Observed field and processing performance, project deliverables, written analyses, reports, presentations, and quizzes or examinations. Criteria address safe operations, justified technical choices, reliable georeferencing, product quality, and clear communication. Individual evidence of competence is required within crew projects.",
-      "materials": "Assigned readings may include remote sensing and photogrammetry references, positioning and accuracy guidance, equipment and software documentation, and project datasets. Aircraft, GNSS equipment, and processing tools are selected to support course objectives.",
+      "evaluation_alignment": [
+        {"objectives": [1], "text": "Sensor and capture-setting analyses, quizzes, or demonstrations assess whether students justify choices using project needs and image quality principles."},
+        {"objectives": [2], "text": "Mission plans and briefings assess coverage, resolution, site conditions, and operational feasibility."},
+        {"objectives": [3], "text": "Control plans, positioning exercises, and accuracy analyses assess coordinate references, georeferencing, and the appropriate use of independent checkpoints."},
+        {"objectives": [4], "text": "Observed individual field performance and operational records assess safe crew responsibilities, data collection, and data organization."},
+        {"objectives": [5], "text": "Processing demonstrations and geospatial deliverables assess appropriate workflow choices and the production of usable orthomosaics and related products."},
+        {"objectives": [6], "text": "Written reports, presentations, and quality analyses assess interpretation of evidence, recognition of limitations, and communication for the intended user."}
+      ],
+      "materials": "An instructor-developed course materials document is the primary learning resource. It includes explanations of photogrammetric principles, worked examples, laboratory procedures, project guidance, and selected readings. Materials are reviewed for currency and provided as part of the course in accessible digital and printable formats, without a separate required textbook purchase. Supplemental resources may include photogrammetry references, positioning and accuracy guidance, equipment and software documentation, and project datasets. Aircraft, GNSS equipment, and processing tools are selected to support course objectives.",
       "prerequisite": "AERO 100 Basic UAV Operator",
       "content_review": [
         {"preparation": "AERO 100 develops flight proficiency through the NIST open lane objective.", "application": "Students apply aircraft control and safe intervention skills during geospatial missions.", "objectives": [4]},
