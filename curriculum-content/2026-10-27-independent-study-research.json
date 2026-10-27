@@ -1,0 +1,262 @@
+{
+  "title": "Cuesta independent study evidence for AERO 147",
+  "verified_date": "2026-10-27",
+  "timezone": "America/Los_Angeles",
+  "status": "Research for discussion with Kyle. No proposal changes or external communications.",
+  "provenance": "Independent study is Kyle's proposal. Ron was not previously aware of this option and is not the source of the researched rules.",
+  "repository_basis": [
+    "../README.md",
+    "../docs/program-approval/README.md",
+    "README.md",
+    "../docs/program-approval/2026-10-27-college-council-packet.docx",
+    "2026-10-27-remaining-cor-entry.json",
+    "2026-10-27-aero-cor-draft-basis.json"
+  ],
+  "sources": [
+    {
+      "id": "catalog_numbering",
+      "title": "2026-2027 catalog, Course Information",
+      "url": "https://cuesta.curriqunet.com/catalog/15/iq/32525",
+      "source_date": "Effective August 17, 2026",
+      "method": "Live catalog read in browser",
+      "finding": "000-099 is nondegree and nontransferable. 100-199 is normally degree applicable and nontransferable, with explicitly described exceptions. 200-299 is degree applicable and transferable. Independent study uses 047, 147, or 247 and extends the regular curriculum under a written contract."
+    },
+    {
+      "id": "catalog_eligibility",
+      "title": "2026-2027 catalog, Independent Study",
+      "url": "https://cuesta.curriqunet.com/catalog/15/iq/32508/32550",
+      "source_date": "Effective August 17, 2026",
+      "method": "Live catalog read in browser",
+      "finding": "Good standing, another concurrent class, and completed prerequisite and preparatory coursework are required. Maximum two credits for an independent study course per semester/session. Enrollment Services verifies eligibility before the student works with the academic division."
+    },
+    {
+      "id": "registration",
+      "title": "Registration Services independent study instructions",
+      "url": "https://www.cuesta.edu/student-support/student-resources/policies/arforms/indstudy.html",
+      "source_date": "Undated current webpage",
+      "method": "Live official webpage",
+      "finding": "Directs students to clear the agreement's records check with a Registration Center before contacting the division. Links the agreement below."
+    },
+    {
+      "id": "agreement",
+      "title": "Independent Study Agreement Form",
+      "url": "https://www.cuesta.edu/become-student/documents/admissions_records/ind_study.pdf",
+      "source_date": "Updated January 26, 2017. Still linked by current registration instructions.",
+      "method": "Downloaded PDF, both pages read, second page visually checked",
+      "sha256": "ff3c110577530b0e1d81abfe4bc580dde1150a8058daa3f49681c4b822520526",
+      "finding": "Specifies 0.5, 1, or 2 credits with 27, 54, or 108 lab hours. Requires records clearance, student-instructor agreement, dean approval and CRN assignment, then Registration Services enrollment. Identifies eligibility, repeat check, instructor responsibilities, project components, and enrollment deadlines. Its older subject list does not include proposed AERO 147."
+    },
+    {
+      "id": "bio",
+      "title": "BIO 247 active COR",
+      "url": "https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/8129?entityType=Course&reportId=441",
+      "detail_url": "https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/8129?entityType=Course&reportId=4",
+      "source_date": "Outline approval May 7, 2021. Effective Spring 2022.",
+      "method": "Live search returned one Active major modification and three Historical records. Read active outline and All Fields report.",
+      "finding": "Hypothesis-driven project, biological literature, data analysis, research paper, weekly progress notebook, and jointly selected resources. Selected DE modes are Blended and FOMA. Generic narrative also describes other modes and must not be treated as a selection."
+    },
+    {
+      "id": "bio_context",
+      "title": "Cuesta undergraduate research opportunities",
+      "url": "https://www.cuesta.edu/student-support/career-services/additional-resources/undergrad-research-opportunities.html",
+      "source_date": "Undated webpage with historical event content",
+      "method": "Live official webpage",
+      "finding": "Describes BIO 247 projects developed with biology faculty and participation approved in advance. Its old CurricUNET outline link did not load. Active record 8129 was found independently in the current system."
+    },
+    {
+      "id": "engr",
+      "title": "ENGR 247 active COR",
+      "url": "https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/755?entityType=Course&reportId=441",
+      "detail_url": "https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/755?entityType=Course&reportId=4",
+      "source_date": "Active on verification date. All Fields displays Spring 1990 effective term and no outline approval date.",
+      "method": "Live search confirmed record 755 Active. Read outline and All Fields.",
+      "finding": "Cap and both modality limits are five. Broad technical projects use agreed written objectives, weekly reporting and planning, and selected technical resources. Fully Online, Hybrid, and Blended are selected."
+    },
+    {
+      "id": "atch",
+      "title": "ATCH 147 active COR",
+      "url": "https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/159?entityType=Course&reportId=441",
+      "detail_url": "https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/159?entityType=Course&reportId=4",
+      "source_date": "Active on verification date. All Fields displays Spring 2024 effective term and no outline approval date.",
+      "method": "Live search confirmed record 159 Active with two Historical alternatives. Read outline and All Fields.",
+      "finding": "Both modality limits are one. Overall cap and category are blank. Hybrid, Blended, and FOMA are selected. Written objectives and weekly progress demonstrations support individual technical study."
+    },
+    {
+      "id": "aero",
+      "title": "AERO 147 draft 9801",
+      "url": "https://cuesta.curriqunet.com/Form/Course/Index/9801",
+      "detail_url": "https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/9801?entityType=Course&reportId=4",
+      "source_date": "Draft read October 27, 2026",
+      "method": "Read live form status, Course Cap controls, and saved All Fields report. No writes.",
+      "finding": "Draft remains unlaunched. C credit classification, cap 25, Lab Small category, no formal requisites, and three DE selections match the entry record. Repeatability is No."
+    },
+    {
+      "id": "caps",
+      "title": "AP 4023, Establishment and Modification of Course Caps",
+      "url": "https://www.cuesta.edu/about/documents/academic-senate-docs/senate_approved_documents/AP4023__Establishment_Modification_Course_Caps_Final_5_12_15.pdf",
+      "source_date": "May 12, 2015 version. Current course form points to this policy version on the old BoardDocs host.",
+      "method": "Read official college-hosted PDF",
+      "finding": "Separates course cap, modality limit, and section enrollment maximum. Appendix A lists Lab Small at 20 to 30. Standard categories exclude caps determined by regulatory agencies, safety, or district contracts. Variance and approval procedures apply when warranted. No dedicated independent study category appears."
+    },
+    {
+      "id": "contract",
+      "title": "CCFT collective bargaining agreement, 2025-2027, amended September 2026",
+      "url": "https://www.cuesta.edu/about/documents/hr_docs/ccft/2025-2027-Amended-ccft-collective-bargaining-agreement-Sept2026.pdf",
+      "landing_url": "https://www.cuesta.edu/about/human-resources/employee/cba-salary-schedules.html",
+      "source_date": "Revised September 2, 2026",
+      "method": "Followed current HR link. Read Article 5 and searched full extracted text for independent study and directed study.",
+      "sha256": "31ec5ffc28a29a89d42bff015da95bc7e1c9990d1ca083844c22d98f465871cb",
+      "finding": "Section 5.8 assigns load determination to the administrator and supplies general lecture/lab formulas. Sections 5.8.5 and 5.10 govern DE load, assignment and separate approval. No independent study pay or per-student load formula was located. This is not evidence of unpaid supervision."
+    },
+    {
+      "id": "de_policy",
+      "title": "AP 4105, Distance Education",
+      "url": "https://cuesta.community.diligentoneplatform.com/home/public/document/19284",
+      "download_url": "https://cuesta.community.diligentoneplatform.com/document/ceb382e3-a744-4c0b-95bf-5c7ae1755fae?modified=2026-02-12T09:24:00.117",
+      "source_date": "Revised May 13, 2022. Current faculty policy page links this document.",
+      "method": "Followed current faculty policy link, inspected rendered PDF iframe URL, downloaded and read PDF",
+      "sha256": "677d2aaa97ab1391776f089bbbbc16e77668fc35e404e006099685df922dfcd7",
+      "finding": "Separate approval for any DE instruction. Online is 100 percent DE. Hybrid is mixed delivery with at least 51 percent DE. Blended is mixed delivery below 51 percent DE. FOMA addresses emergency circumstances. Requires accessible materials, campus LMS, authentication, and regular substantive interaction, including among students where applicable."
+    },
+    {
+      "id": "rsi",
+      "title": "Cuesta Regular and Substantive Interaction Guidelines",
+      "url": "https://cuesta.instructure.com/courses/108/files/9933680?wrap=1",
+      "download_url": "https://cuesta.instructure.com/courses/108/files/9933680/download?download_frd=1",
+      "source_date": "Filename identifies Academic Senate approval October 24, 2025. Linked by current faculty policy page.",
+      "method": "Read public Canvas download, pages 1 to 3 and regulatory excerpts",
+      "sha256": "56c36a777ef478f6312701b0fe8032a5390556b464c0767c39afe2011edc5e6a",
+      "finding": "Requires predictable instructor-initiated academic engagement, monitoring and proactive follow-up, and at least two substantive interaction practices. Gives examples and guidance for evidence within the LMS."
+    },
+    {
+      "id": "pcah",
+      "title": "2026 Program and Course Approval Handbook, ninth edition",
+      "url": "https://www.cccco.edu/-/media/CCCCO-Website/docs/2026programandcourseapprovalhandbook131a11y.pdf",
+      "source_date": "2026, accessible version July 13, 2026",
+      "location": "Section II.2.5.6, printed page 51",
+      "method": "Read current official PDF",
+      "sha256": "c77fe078a7adb0758debb20b752f4ef439bb52beb2406efd27dbcea3763bd5fa",
+      "finding": "Independent study preserves academic standards and individual instructor interaction without requiring continuous immediate supervision. Distinct from ordinary homework in scheduled courses."
+    },
+    {
+      "id": "attendance",
+      "title": "2025 Student Attendance Accounting Manual",
+      "url": "https://www.cccco.edu/-/media/CCCCO-Website/docs/manuals-guides/2025studentattendanceaccountingmanual12a11y.pdf",
+      "source_date": "December 2025",
+      "location": "Introduction page vi and standardized attendance addendum",
+      "method": "Read transition guidance and independent study supervision provisions",
+      "sha256": "b8b7111b222df0af53ea3841ab1f9536ac502b3808e8a67760eaa2be873fe686",
+      "finding": "Standardized attendance accounting applies to districts by July 1, 2026. Older alternative attendance formulas in the manual are not automatically the current method. Confirm AERO section coding and reporting with Instruction and attendance accounting staff."
+    }
+  ],
+  "course_comparison": [
+    {
+      "course": "BIO 247",
+      "record": 8129,
+      "status": "Active",
+      "credit_type": "D - Credit - Degree Applicable",
+      "units": [0.5, 2],
+      "lab_hours_term": [27, 108],
+      "lab_hours_week_display": [1.5, 6],
+      "lecture_and_outside_hours": 0,
+      "hours_per_unit_divisor": 54,
+      "grading": "Letter Grade or P/NP",
+      "repeatable": false,
+      "prerequisite": "Completed preparatory coursework in the field of study",
+      "course_cap_display": 0,
+      "face_to_face_limit_display": 0,
+      "de_limit_display": 0,
+      "category_display": null,
+      "selected_de_modes": ["Blended", "Fully Online with Mutual Agreement"],
+      "transfer_caution": "Main COR transfer field and repository catalog extract list CSU. Older schedule-description text also says UC. Do not represent UC transfer as verified.",
+      "interpretation_limit": "Zero cap fields are an unresolved data condition, not proof that no students or unlimited students may enroll."
+    },
+    {
+      "course": "ENGR 247",
+      "record": 755,
+      "status": "Active",
+      "credit_type": "D - Credit - Degree Applicable",
+      "units": [0.5, 2],
+      "lab_hours_term": [27, 108],
+      "lab_hours_week_display": [1.5, 6],
+      "lecture_and_outside_hours": 0,
+      "hours_per_unit_divisor": 54,
+      "grading": "Letter Grade or P/NP",
+      "prerequisite": "Completed preparatory coursework in the technical field of study",
+      "course_cap_display": 5,
+      "face_to_face_limit_display": 5,
+      "de_limit_display": 5,
+      "category_display": null,
+      "selected_de_modes": ["Fully Online", "Hybrid", "Blended"],
+      "transfer_field": "CSU"
+    },
+    {
+      "course": "ATCH 147",
+      "record": 159,
+      "status": "Active",
+      "credit_type": "D - Credit - Degree Applicable",
+      "units": [0.5, 2],
+      "lab_hours_term": [27, 108],
+      "lab_hours_week_display": [1.5, 6],
+      "lecture_and_outside_hours": 0,
+      "hours_per_unit_divisor": 54,
+      "grading": "Letter Grade or P/NP",
+      "prerequisite": "Completed preparatory coursework in the technical field of study",
+      "course_cap_display": null,
+      "face_to_face_limit_display": 1,
+      "de_limit_display": 1,
+      "category_display": null,
+      "selected_de_modes": ["Hybrid", "Blended", "Fully Online with Mutual Agreement"],
+      "transfer_field": null
+    },
+    {
+      "course": "AERO 147",
+      "record": 9801,
+      "status": "Draft, not launched",
+      "credit_type": "C - Credit - Not Degree Applicable",
+      "units": [0.5, 2],
+      "lab_hours_term": [27, 108],
+      "lab_hours_week_display": [1.5, 6],
+      "lecture_and_outside_hours_report": 0,
+      "hours_per_unit_divisor": 54,
+      "grading": "Letter Grade or P/NP",
+      "repeatable": false,
+      "formal_requisites": false,
+      "course_cap_display": 25,
+      "face_to_face_limit_display": 25,
+      "de_limit_display": 25,
+      "category_display": "9 - Lab - Small (20-30)",
+      "selected_de_modes": ["Fully Online", "Hybrid", "Blended"],
+      "library_availability_confirmed": false,
+      "materials_fee": "No"
+    }
+  ],
+  "discussion_recommendations": {
+    "scope": "Retain the concise project scope, outcomes and evaluation framework. Put project methods, equipment and milestones in each agreement.",
+    "credit": "Recommend degree-applicable nontransferable credit with 147, subject to curriculum confirmation. Nontransferable does not mean nondegree. No change made.",
+    "units": "Retain 0.5 to 2 and 27 to 108. Use the agreement's 0.5, 1 and 2 options unless Registration confirms additional increments. Do not infer 1.5-unit eligibility.",
+    "hours": "The 54-hour divisor concerns student credit. Separate actual consultation and supervised operations from student work. Confirm weekly field entry and attendance reporting under the current calendar.",
+    "preparation": "Use project-relevant completed preparatory coursework as the model. Resolve formal requisite wording with curriculum staff. Do not add a universal AERO 100 prerequisite without Kyle's decision and a curricular basis.",
+    "cap": "Reopen 25 and Lab Small. Use ENGR's five as a discussion benchmark only. Confirm any independent study exception, variance, modality limits, and CRN grouping before choosing a final number.",
+    "delivery": "Justify modes through actual instructional plans. Fully online requires no required face-to-face operations. Choose Hybrid or Blended based on instructional proportions. Replace unconditional peer-discussion promises when a section could enroll one student.",
+    "resources": "Approve each project only after verifying qualified supervision, equipment, software, facilities, field access, accessibility, and any costs. Current generic program funding statements do not establish those arrangements."
+  },
+  "office_questions": [
+    {"office": "Curriculum specialist and articulation", "question": "Confirm 147, degree applicability, formal preparatory requisite treatment, and any intended certificate or transfer mapping."},
+    {"office": "Curriculum and Course Caps/Workload process", "question": "Determine the correct cap entry, category or exception, variance evidence, and modality limits for individually contracted study."},
+    {"office": "Academic dean, Instruction, HR and CCFT as appropriate", "question": "Confirm paid assignment, load formula, number of individual projects per instructor, consultation expectation and budget. Does a local independent study agreement or practice supplement the published CBA?"},
+    {"office": "Registration Services", "question": "Confirm current form workflow, unit increments, deadlines, CRN grouping, special-circumstances approval and repeat handling for the new AERO course."},
+    {"office": "Instruction and attendance accounting", "question": "Confirm 16-week scheduling fields, progress/hour verification and standardized attendance coding. Do not equate student lab hours with faculty paid contact hours."},
+    {"office": "DE review team", "question": "Confirm approved modes, the plan for one-student sections, instructor readiness and evidence of regular substantive interaction."},
+    {"office": "Program, library and relevant facilities staff", "question": "Verify resource access and project-specific supervised operations before approving an agreement."}
+  ],
+  "limitations": [
+    "No separate Cuesta independent study AP was located. The current catalog, registration instructions and linked agreement provide verified local requirements.",
+    "The agreement is still dated 2017. Its live linkage verifies present publication, not that every administrative detail has been refreshed for the 16-week calendar.",
+    "Comparator cap fields are not universal policy. Blank categories do not prove that new proposals can omit a category.",
+    "BIO's older narrative and schedule text contain inconsistencies with selected fields. Selection and transfer claims are deliberately qualified.",
+    "A later live catalog course search returned a server error. Course details were verified in active CORs. The local July 2026 catalog extract remains supplemental evidence.",
+    "No pay formula specific to independent study was located. No inference of unpaid work or ordinary lab loading is made.",
+    "No CurrIQunet edits, launches, messages, or changes to existing proposal files were made."
+  ]
+}
