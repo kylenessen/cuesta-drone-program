@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-27",
+  "purpose": "Source and decision record for the first instructional content drafts of the five September NOI courses.",
+  "scope": "Draft descriptions, rationales, outcomes, objectives, topical and laboratory content, instructional methods, assignment examples, evaluation, and instructional resources. Include confirmed preparation decisions and AERO 100 content review for the three applications courses. These are not complete CurrIQunet submissions.",
+  "user_direction": [
+    "Write concise, sensible, broadly framed content that preserves flexibility in teaching each course.",
+    "Use the user's notes and additional repository and Google Drive context. Take inspiration from AERO 100 and consult other independent study CORs.",
+    "Discuss missing substantive information before inserting it into the drafts.",
+    "AERO 161, AERO 162, and AERO 163 require AERO 100, with no additional AERO prerequisite.",
+    "AERO 151 laboratory work is mainly applied regulatory and safety exercises.",
+    "Assess students individually within shared crew projects in the three applications courses.",
+    "Leave the AERO 151 prerequisite open. Its draft deliberately omits a prerequisite entry rather than asserting that there is none."
+  ],
+  "drafting_choices": [
+    "Use two assessable outcomes per course and a short objective set, following the compact structure of AERO 100.",
+    "Keep aircraft models, software brands, named field sites, fixed project specifications, and external certification requirements out of the instructional commitments.",
+    "Retain the September NOI scope. AERO 161 includes the orthomosaic workflow, GNSS, ground control, and independent accuracy checks. AERO 162 includes visible, multispectral, and thermal sensing and application placement. AERO 163 includes search, incident assessment, and photogrammetric scene documentation.",
+    "Use water for AERO 162 application exercises, consistent with the submitted October packet. The older agricultural pesticide licensing course is contextual material, not the specification for AERO 162.",
+    "Use the independent study agreement to define project-specific objectives, activities, reviews, resources, and evaluation. Do not make every independent study project a flight or mapping project.",
+    "The instructional resources paragraphs identify appropriate categories of materials. They do not constitute final textbook selections or complete bibliographic entries."
+  ],
+  "remaining_administrative_work": [
+    "Verify the post-September NOI workflow status and any subsequent curriculum changes before entering CORs.",
+    "Resolve AERO 151 preparation and any resulting formal requisite content review.",
+    "Confirm the independent study course number, formal preparation wording, and the applicable content review procedure for project-specific preparation.",
+    "Review AERO 147 enrollment and supervision with Ron and the curriculum office. The NOI proposes 25. The active ENGR 247 report has a cap and modality limits of 5. ATCH 147 shows modality limits of 1. These examples do not establish the required AERO limit.",
+    "Confirm the weekly hour entry convention under the 16-week calendar. Drafts preserve the NOI term hours and units.",
+    "Complete grading, modality and distance education fields, formal materials entries, resource and library responses, and other administrative fields before submission.",
+    "The September source still records blanks for dean or director approval date, qualified faculty response, and the independent study cap category."
+  ],
+  "sources": [
+    {
+      "title": "September NOI content and saved record",
+      "paths": ["2026-09-30-aero-noi-review.json", "2026-09-30-aero-noi-submission-details.json"],
+      "use": "Primary source for proposed titles, scope, units, and term hours. Saved status predates the user's reported submission."
+    },
+    {
+      "title": "Submitted College Council packet",
+      "path": "../docs/program-approval/2026-10-27-college-council-packet.docx",
+      "use": "Current program context, course relationships, and water-only agricultural application labs. Preserved unchanged."
+    },
+    {
+      "title": "AERO 100 Basic UAV COR",
+      "url": "https://drive.google.com/file/d/1ta1QpJ9HhobjmmSwaIdiYrKfIN7QA3wb/view",
+      "use": "Drive export dated April 2, 2026 records outline approval December 5, 2025, effective Spring 2026. Used for compact outcomes, objectives, topic structure, assignments, and the three requisite alignments. The older local extraction is wiki/sources/aero-100-course-outline.txt."
+    },
+    {
+      "title": "AERO 110 Advanced Drone Mapping advisory outline",
+      "url": "https://docs.google.com/document/d/1jtQ0PG9pUXXj59Uaxcb2Moc84ckmZPz0IfS__qUvzto/edit",
+      "use": "Mapping workflow and professional deliverables. Retrieved text includes comments on high-accuracy positioning, oblique imagery, and three-dimensional reconstruction. Older numbering and agricultural scope are superseded by the September NOIs."
+    },
+    {
+      "title": "AERO 120 Drone Infrastructure Inspection advisory outline",
+      "url": "https://docs.google.com/document/d/1iMEBT5Su8DmjUmd1v0OeFWpvdpQA9eC3Wcvs1XKRgJ0/edit",
+      "use": "Background on imaging and operational practice. The former inspection course and Level 1 thermography certification commitment are not carried into the five current courses."
+    },
+    {
+      "title": "Agriculture certificate specialization proposal",
+      "url": "https://docs.google.com/document/d/1H1zHRDtzsWTf7EC0t2MtxLBe_pPlCQ1c/edit",
+      "use": "Earlier notes on agricultural information needs, interpreting imagery, and avoiding an additional mapping prerequisite. Earlier separate course and certificate structures are superseded."
+    },
+    {
+      "title": "Ag Spray Course",
+      "url": "https://docs.google.com/document/d/1udPbIKgsKmmv13gZjHMI9IZvk3neiHGx/edit",
+      "use": "Earlier agricultural course concept. Provides context on equipment calibration and application methods. Its pesticide licensing curriculum is outside the current AERO 162 scope."
+    },
+    {
+      "title": "NFPA 2400 public safety reference in Drive",
+      "url": "https://drive.google.com/file/d/1PsPAQrFyO4BHAGYR1BLMZFYIc-RHNYGK/view",
+      "use": "The retained file is the 2019 edition. Consulted for broad organizational deployment, pilot and observer roles, and maintenance themes. No claim of current edition compliance or external certification is made."
+    },
+    {
+      "title": "User notes and local teaching context",
+      "paths": ["../wiki/sources/drone-course-content-brainstorm.txt", "../wiki/analysis/sms-for-drone-curriculum.md", "nep-collaboration-lab.md", "../wiki/topics/public-safety-drone-operations.md", "../wiki/topics/agricultural-drone-applications.md"],
+      "use": "Underlying principles, useful project work, individual responsibility in crews, risk reasoning, and communicating the limits of observations. Earlier course names and unverified technical or regulatory claims are not treated as current curriculum authority."
+    },
+    {
+      "title": "ENGR 247 Independent Studies in Engineering",
+      "url": "https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/755?entityType=Course&reportId=441",
+      "use": "Read from the active course result on October 27, 2026. Uses 0.5 to 2 units, 27 to 108 lab hours, relevant preparatory coursework, written student-instructor objectives, progress reporting, and selected technical resources. Cap and modality limits are 5."
+    },
+    {
+      "title": "ATCH 147 Independent Studies in Automotive Technology",
+      "url": "https://cuesta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/159?entityType=Course&reportId=441",
+      "use": "Read from the active course result on October 27, 2026. Uses 0.5 to 2 units, 27 to 108 lab hours, relevant preparatory coursework, and project-specific written objectives. Modality limits are 1."
+    }
+  ]
+}
