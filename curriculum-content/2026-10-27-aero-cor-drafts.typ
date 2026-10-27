@@ -30,7 +30,11 @@
   parbreak()
   text(size: 9pt, fill: rgb("555555"))[Course outline content draft. October 27, 2026.]
   parbreak()
-  [#course.units units. #course.lecture_hours lecture hours, #course.lab_hours lab hours, and #course.outside_hours outside hours per term. #course.total_hours total student hours.]
+  if "lecture_units" in course and "lab_units" in course {
+    [#course.units units, comprising #course.lecture_units lecture units and #course.lab_units lab unit. #course.lecture_hours lecture hours, #course.lab_hours lab hours, and #course.outside_hours outside hours per term. #course.total_hours total student hours.]
+  } else {
+    [#course.units units. #course.lecture_hours lecture hours, #course.lab_hours lab hours, and #course.outside_hours outside hours per term. #course.total_hours total student hours.]
+  }
   if "prerequisite" in course {
     parbreak()
     [#strong[Prerequisite] #course.prerequisite.]
@@ -56,6 +60,14 @@
   course.lab
   heading(level: 2)[Methods of instruction]
   course.instruction
+  if "accessibility" in course {
+    heading(level: 2)[Accessible and inclusive instruction]
+    course.accessibility
+  }
+  if "outside_work" in course {
+    heading(level: 2)[Reading, writing, and outside work]
+    course.outside_work
+  }
   heading(level: 2)[Assignment examples]
   for (assignment_index, assignment) in course.assignments.enumerate() {
     block(breakable: false)[
@@ -63,8 +75,20 @@
       #assignment.text #alignments(assignment.objectives)
     ]
   }
+  if "evaluation_alignment" in course {
+    pagebreak()
+    text(size: 13pt, weight: "bold")[AERO #course.number]
+    parbreak()
+    text(size: 9pt, fill: rgb("555555"))[#course.title. Course outline content draft.]
+  }
   heading(level: 2)[Methods of evaluation]
   course.evaluation
+  if "evaluation_alignment" in course {
+    heading(level: 2)[Assessment alignment]
+    for assessment in course.evaluation_alignment {
+      block(breakable: false)[#assessment.text #alignments(assessment.objectives)]
+    }
+  }
   heading(level: 2)[Instructional resources]
   course.materials
   if "content_review" in course {
