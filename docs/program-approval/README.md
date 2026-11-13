@@ -18,4 +18,6 @@ Keep this file unchanged. If a later revision is submitted or approved, preserve
 
 ## Related records
 
+The [November 13 program NOI update record](2026-11-13-program-noi-updates.md) documents saved curriculum corrections, Kyle's Agriculture elective decision, contributor access, and remaining unit and access questions. These are draft changes and do not alter the submitted packet.
+
 The [NOI source guide](../../curriculum-content/README.md) identifies the saved course content and direct CurrIQunet links. The [program approval pathway](../program-approval-pathway.md) preserves the July 2026 planning context and governance sequence. Its original dates and rosters are historical.
